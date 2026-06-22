@@ -1497,3 +1497,1503 @@ Why B is wrong: Odisha was not the region of Henry Lawrence's command.
 Why C is wrong: Maharashtra was not under his charge during the revolt.
 Why D is wrong: Punjab was administered by his brother John Lawrence; Henry was posted to Awadh.
 Note: The Siege of the Lucknow Residency was one of the most famous episodes of the 1857 Revolt.
+
+==============================================================================
+Set 6 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: संविधान की कौन सी अनुसूची संघ और राज्यों के बीच शक्तियों के विभाजन को निर्दिष्ट करती है?
+   A) 5th Schedule
+   B) 7th Schedule  <-- CORRECT
+   C) 9th Schedule
+   D) 10th Schedule
+Answer: B
+Why correct: The Seventh Schedule of the Constitution divides legislative powers between the Union and the States through three lists - the Union List, the State List and the Concurrent List.
+Why A is wrong: The Fifth Schedule deals with the administration of Scheduled Areas and Scheduled Tribes.
+Why C is wrong: The Ninth Schedule contains laws protected from judicial review (mainly land-reform laws).
+Why D is wrong: The Tenth Schedule contains the anti-defection provisions.
+Note: The Union List has the most subjects, and on the Concurrent List a Union law prevails over a conflicting State law.
+
+==============================================================================
+Set 6 | Q.No 22 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: राज्यपाल को उनके पद की शपथ किसके द्वारा दिलाई जाती है?
+   A) राष्ट्रपति
+   B) प्रधानमंत्री
+   C) उच्च न्यायालय के मुख्य न्यायाधीश  <-- CORRECT
+   D) मुख्यमंत्री
+Answer: C
+Why correct: The Governor is administered the oath of office by the Chief Justice of the High Court of that state (or, in his absence, the senior-most judge available).
+Why A is wrong: The President appoints the Governor but does not administer the oath.
+Why B is wrong: The Prime Minister has no role in swearing in a Governor.
+Why D is wrong: The Chief Minister is himself sworn in by the Governor, not the other way round.
+Note: The President, by contrast, is sworn in by the Chief Justice of India.
+
+==============================================================================
+Set 6 | Q.No 23 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: टिप्पणी नृत्य की प्राथमिक विशेषता क्या है?
+   A) लयबद्ध नृत्य करते समय नर्तकों द्वारा “टिप्पणी” नामक छड़ियों का प्रयोग  <-- CORRECT
+   B) तलवारों और ढालों से तलवारबाजी
+   C) धीमी और सुंदर गति के साथ एकल नृत्य
+   D) रूमाल का गोलाकार गति में उपयोग
+Answer: A
+Why correct: The defining feature of the Tippani dance (Gujarat) is the use of long sticks called 'tippani', which the women dancers strike rhythmically on the ground while dancing.
+Why B is wrong: Sword-and-shield fencing describes martial dances like Paika, not Tippani.
+Why C is wrong: Tippani is a lively group dance, not a slow solo performance.
+Why D is wrong: Circular use of a handkerchief is not a feature of the Tippani dance.
+Note: The dance grew out of the labour of women who pounded floors firm with the tippani stick.
+
+==============================================================================
+Set 6 | Q.No 24 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: कालबेलिया नृत्य किस भारतीय राज्य का पारंपरिक लोक नृत्य है?
+   A) गुजरात
+   B) राजस्थान  <-- CORRECT
+   C) पंजाब
+   D) महाराष्ट्र
+Answer: B
+Why correct: Kalbeliya is the traditional folk dance of Rajasthan, performed by the Kalbeliya (snake-charmer) community; it is on UNESCO's Intangible Cultural Heritage list.
+Why A is wrong: Gujarat is known for Garba and Dandiya, not Kalbeliya.
+Why C is wrong: Punjab's signature folk dances are Bhangra and Gidda.
+Why D is wrong: Maharashtra is associated with Lavani and Tamasha.
+Note: Kalbeliya dancers wear flowing black skirts and move in serpentine patterns imitating a snake.
+
+==============================================================================
+Set 6 | Q.No 25 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा पर्वतीय दर्रा सिक्किम के माध्यम से भारत को तिब्बत से जोड़ता है?
+   A) नाथू ला  <-- CORRECT
+   B) रोहतांग दर्रा
+   C) शिपकी ला
+   D) ज़ोजी ला
+Answer: A
+Why correct: Nathu La is a high mountain pass in Sikkim that connects India with Tibet (China) and lies on an old branch of the Silk Route.
+Why B is wrong: Rohtang Pass is in Himachal Pradesh, linking the Kullu valley with Lahaul-Spiti.
+Why C is wrong: Shipki La is a pass in Himachal Pradesh, not Sikkim.
+Why D is wrong: Zoji La connects Srinagar with Leh in the Ladakh region.
+Note: Nathu La was reopened for border trade in 2006 after being closed since the 1962 war.
+
+==============================================================================
+Set 6 | Q.No 26 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत के किस भाग में मानसून के कारण सर्वाधिक वर्षा होती है?
+   A) केरल तट
+   B) मावसिनराम, मेघालय  <-- CORRECT
+   C) कोंकण तट
+   D) पश्चिमी राजस्थान
+Answer: B
+Why correct: Mawsynram in Meghalaya receives the highest average rainfall in India (and the world), as the funnel-shaped Khasi hills force monsoon winds to rise and drop heavy rain.
+Why A is wrong: The Kerala coast gets heavy monsoon rain but far less than Mawsynram.
+Why C is wrong: The Konkan coast is wet but does not match Mawsynram's totals.
+Why D is wrong: Western Rajasthan (Thar desert) is one of the driest parts of India.
+Note: Nearby Cherrapunji (Sohra) also records extremely high rainfall, both fed by the same Khasi-hill orographic effect.
+
+==============================================================================
+Set 6 | Q.No 27 | Topic: Books & Authors | Language: Hindi
+------------------------------------------------------------------------------
+Q: स्वदेशी आंदोलन की आलोचना करने वाली पुस्तक "घरे-बाईरे" (घर और दुनिया) किस बंगाली साहित्यकार द्वारा लिखी गई थी?
+   A) बंकिम चंद्र चट्टोपाध्याय
+   B) शरत चंद्र चट्टोपाध्याय
+   C) रवीन्द्रनाथ टैगोर  <-- CORRECT
+   D) भबानी भट्टाचार्य
+Answer: C
+Why correct: 'Ghare-Baire' (The Home and the World), which critically examines the Swadeshi movement, was written by Rabindranath Tagore.
+Why A is wrong: Bankim Chandra Chattopadhyay wrote 'Anandamath' and 'Vande Mataram', from an earlier generation.
+Why B is wrong: Sarat Chandra Chattopadhyay wrote novels like 'Devdas' and 'Parineeta'.
+Why D is wrong: Bhabani Bhattacharya was a later English-language Indian novelist.
+Note: Tagore won the Nobel Prize for Literature in 1913, the first non-European to do so.
+
+==============================================================================
+Set 6 | Q.No 28 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत के स्वतंत्रता संग्राम के दौरान किस युवा क्रांतिकारी ने 4 वर्ष की आयु में एक ब्रिटिश मजिस्ट्रेट की हत्या कर दी थी?
+   A) सुनीति चौधरी  <-- CORRECT
+   B) तारा रानी श्रीवास्तव
+   C) मातंगिनी हाजरा
+   D) अरुणा आसफ अली
+Answer: A
+Why correct: Suniti Choudhury, a teenage revolutionary, was about 14 when she (with Shanti Ghosh) shot dead the British magistrate of Comilla in 1931.
+Why B is wrong: Tara Rani Srivastava was a Quit-India-movement activist, not the magistrate's assassin.
+Why C is wrong: Matangini Hazara was a Gandhian who died in the 1942 movement.
+Why D is wrong: Aruna Asaf Ali is famous for hoisting the flag during the 1942 Quit India Movement.
+Note: Suniti Choudhury was among the youngest revolutionaries imprisoned in the Indian freedom struggle.
+
+==============================================================================
+Set 6 | Q.No 29 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन-सा शहर अपने फ्रेंच क्वार्टर के लिए प्रसिद्ध है, जो फ्रांसीसी और भारतीय स्थापत्य शैली का मिश्रण प्रदर्शित करता है?
+   A) मुंबई
+   B) कोलकाता
+   C) पांडिचेरी  <-- CORRECT
+   D) चेन्नई
+Answer: C
+Why correct: Puducherry (Pondicherry) is famous for its French Quarter, where colonial French and Indian (Tamil) architectural styles blend in its streets and buildings.
+Why A is wrong: Mumbai is known for Gothic, Art-Deco and Indo-Saracenic architecture, not a French quarter.
+Why B is wrong: Kolkata reflects British colonial architecture.
+Why D is wrong: Chennai (Madras) has British and Indo-Saracenic buildings, not a French quarter.
+Note: Puducherry was a French colony until 1954 and still has French-named streets and a French institute.
+
+==============================================================================
+Set 6 | Q.No 30 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: यूरेनस का अक्षीय झुकाव (8:09 (॥) लगभग 98" है, यानी यह लगभग अपने पार्श्र (30६6) पर घूर्णन करता है। इसका यूरेनस के मौसमों पर क्या प्रभाव पड़ता है?
+   A) अत्यधिक मौसमी परिवर्तन  <-- CORRECT
+   B) कोई मौसमी परिवर्तन नहीं होता है
+   C) मृदु मौसम
+   D) एक पार्श्श पर स्थायी दिन
+Answer: A
+Why correct: Uranus has an axial tilt of about 98 degrees, so it rotates almost on its side; this produces extreme seasonal variation, with each pole facing the Sun continuously for about 42 years.
+Why B is wrong: With such an extreme tilt there are very strong seasonal changes, not none.
+Why C is wrong: The seasons are extreme, not mild.
+Why D is wrong: While a pole does get long days, the overall effect is extreme seasonal change, which option A captures best.
+Note: Uranus's extreme tilt is thought to have resulted from a massive collision early in the solar system's history.
+
+==============================================================================
+Set 6 | Q.No 31 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: 00 प्रकाश वर्ष दूर स्थित किसी तारे से प्रकाश को पृथ्वी तक पहुँचने में लगभग 00 वर्ष लगते हैं। विस्फोट के बाद (यदि वह अभी विस्फोट करता है) तारा हमें कितने समय तक दिखाई देगा?
+   A) Immediately
+   B) After 100 years  <-- CORRECT
+   C) After 1 year
+   D) Never
+Answer: B
+Why correct: Light from a star 100 light-years away takes 100 years to reach Earth, so if the star explodes now, we would see the explosion only after 100 years.
+Why A is wrong: Light is not instantaneous; it travels at a finite speed.
+Why C is wrong: One year is far too short for light to cross 100 light-years.
+Why D is wrong: We will eventually see it - after the 100-year light-travel time.
+Note: Because of this delay, when we look at distant stars we are effectively seeing them as they were in the past.
+
+==============================================================================
+Set 6 | Q.No 32 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: मैरी कॉम ने किस वर्ष और किस ओलंपिक स्थल पर मुक्‍्केबाजी में कांस्य पदक जीता था?
+   A) 2008, Beijing
+   B) 2012, London  <-- CORRECT
+   C) 2016, Rio de Janeiro
+   D) 2020, Tokyo
+Answer: B
+Why correct: Boxer Mary Kom won a bronze medal at the 2012 London Olympics, becoming the first Indian woman boxer to win an Olympic medal.
+Why A is wrong: Women's boxing was not part of the 2008 Beijing Olympics.
+Why C is wrong: Mary Kom did not win a medal at Rio 2016.
+Why D is wrong: She did not medal at Tokyo 2020.
+Note: Mary Kom is a six-time World Amateur Boxing champion, an achievement unmatched by any other boxer.
+
+==============================================================================
+Set 6 | Q.No 33 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: टोक्यो 2020 ओलंपिक में भारत ने कितने पदक जीते?
+   A) 5
+   B) 6
+   C) 7  <-- CORRECT
+   D) 8
+Answer: C
+Why correct: India won 7 medals at the Tokyo 2020 Olympics (1 gold, 2 silver, 4 bronze) - its best-ever Olympic medal haul.
+Why A is wrong: 5 understates India's Tokyo tally.
+Why B is wrong: 6 is one short of the actual count.
+Why D is wrong: 8 is one more than India actually won.
+Note: Neeraj Chopra's javelin gold at Tokyo 2020 was India's first-ever Olympic gold in athletics.
+
+==============================================================================
+Set 6 | Q.No 34 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: अस्थि, प्राणि-ऊतकों की किस श्रेणी से संबंधित है?
+   A) पेशीय ऊतक
+   B) संयोजी ऊतक  <-- CORRECT
+   C) तंत्रिका ऊतक
+   D) उपकला ऊतक
+Answer: B
+Why correct: Bone is a type of connective tissue - it connects and supports other tissues and has a hard matrix of collagen and calcium salts.
+Why A is wrong: Muscular tissue is made of contractile fibres for movement.
+Why C is wrong: Nervous tissue transmits electrical impulses.
+Why D is wrong: Epithelial tissue forms protective linings and coverings.
+Note: Other connective tissues include blood, cartilage and adipose (fat) tissue.
+
+==============================================================================
+Set 6 | Q.No 35 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: हरितलवक का प्राथमिक कार्य क्या है?
+   A) स्टार्च का भंडारण
+   B) प्रोटीन संश्लेषण
+   C) माइटोकॉन्ड्रिया जैसा ऊर्जा उत्पादन
+   D) प्रकाश संश्लेषण  <-- CORRECT
+Answer: D
+Why correct: The primary function of the chloroplast is photosynthesis - it contains chlorophyll, which captures sunlight to make food (glucose) from carbon dioxide and water.
+Why A is wrong: Starch storage is a secondary role; the chloroplast's main job is photosynthesis.
+Why B is wrong: Protein synthesis is carried out by ribosomes.
+Why C is wrong: Energy production by respiration is the work of mitochondria, not chloroplasts.
+Note: Chloroplasts are found only in plant cells and some algae, giving plants their green colour.
+
+==============================================================================
+Set 6 | Q.No 36 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: के कारण पश्चिमी घाट यूनेस्को विश्व धरोहर स्थल है।
+   A) खनिज संसाधनों
+   B) समृद्ध जैव विविधता  <-- CORRECT
+   C) प्राचीन स्मारकों
+   D) सांस्कृतिक महत्व
+Answer: B
+Why correct: The Western Ghats are a UNESCO World Heritage Site because of their exceptionally rich biodiversity and high number of endemic (found-nowhere-else) species.
+Why A is wrong: They are recognised for biodiversity, not for mineral resources.
+Why C is wrong: Their listing is natural, not for ancient monuments.
+Why D is wrong: It is a natural heritage site, not listed for cultural significance.
+Note: The Western Ghats are one of the world's eight 'hottest hotspots' of biological diversity.
+
+==============================================================================
+Set 6 | Q.No 37 | Topic: Schemes & Government | Language: English
+------------------------------------------------------------------------------
+Q: जून 2024 में, केंद्रीय मंत्रिमंडल ने 2024-25 से 2028-29 की अवधि के लिए पी.एम.ए.वाई.-जी के तहत अतिरिक्त करोड़ घरों के निर्माण को स्वीकृति दी।
+   A) 2  <-- CORRECT
+   B) 3
+   C) 4
+   D) 5
+Answer: A
+Why correct: In June 2024, the Union Cabinet approved construction of an additional 2 crore houses under PMAY-Gramin for the period 2024-25 to 2028-29.
+Why B is wrong: 3 crore is not the additional figure approved for PMAY-G in this decision.
+Why C is wrong: 4 crore overstates the approved number.
+Why D is wrong: 5 crore is far higher than the sanctioned additional target.
+Note: PMAY-G aims to provide pucca houses with basic amenities to all eligible rural households.
+
+==============================================================================
+Set 6 | Q.No 38 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: लखनऊ में अंग्रेजों के ख़िलाफ़ 857 के विद्रोह को बढ़ावा देने में किसने बढ़ चढ़कर हिस्सा लिया था?
+   A) नाना साहब
+   B) बेगम हज़रत महल  <-- CORRECT
+   C) रानी लक्ष्मीबाई
+   D) बहादुर शाह ज़फ़र
+Answer: B
+Why correct: Begum Hazrat Mahal led and inspired the 1857 revolt against the British in Lucknow (Awadh), fighting on behalf of her young son Birjis Qadr.
+Why A is wrong: Nana Saheb led the revolt at Kanpur, not Lucknow.
+Why C is wrong: Rani Lakshmibai led the uprising at Jhansi.
+Why D is wrong: Bahadur Shah Zafar was the symbolic leader at Delhi, not Lucknow.
+Note: After the revolt failed, Begum Hazrat Mahal took refuge in Nepal, where she died in 1879.
+
+==============================================================================
+Set 6 | Q.No 39 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: 857 के विद्रोह के दौरान अंग्रेजों ने विद्रोहियों से दिल्‍ली का नियंत्रण कब वापस लिया था?
+   A) June 1857
+   B) September 1857  <-- CORRECT
+   C) March 1858
+   D) July 1858
+Answer: B
+Why correct: The British recaptured Delhi from the rebels in September 1857, after a prolonged siege, ending the symbolic centre of the revolt.
+Why A is wrong: In June 1857 the revolt was still spreading; Delhi was in rebel hands.
+Why C is wrong: By March 1858 the focus had shifted to Lucknow's recapture.
+Why D is wrong: July 1858 is after Delhi had already fallen.
+Note: After Delhi's fall, Bahadur Shah Zafar was captured and later exiled to Rangoon.
+
+==============================================================================
+Set 6 | Q.No 40 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: एग रा का 2 आई.पी.आर.आई. (57रा) रिपोर्ट के अनुसार, 2020-24 में सभी हथियारों के आयात में एशिया और ओशिनिया के देशों की दा
+   A) 33%  <-- CORRECT
+   B) 50%
+   C) 74%
+   D) 81%
+Answer: A
+Why correct: According to the SIPRI report on arms transfers (2020-24), Asia and Oceania accounted for about 33% of all global arms imports, the largest regional share.
+Why B is wrong: 50% overstates the region's share of arms imports.
+Why C is wrong: 74% is far too high.
+Why D is wrong: 81% is not the reported figure.
+Note: SIPRI (Stockholm International Peace Research Institute) tracks global military spending and arms transfers.
+
+==============================================================================
+Set 7 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: राज्य विधानमंडल को बुलाने या स्थगित करने की शक्ति किसके पास है?
+   A) राज्यपाल  <-- CORRECT
+   B) विधानसभा का अध्यक्ष
+   C) मुख्यमंत्री
+   D) राष्ट्रपति
+Answer: A
+Why correct: The Governor has the power to summon, prorogue (end a session of) and dissolve the State Legislature, just as the President does for Parliament.
+Why B is wrong: The Speaker presides over the Assembly's proceedings but cannot summon or prorogue it.
+Why C is wrong: The Chief Minister advises the Governor but does not hold this formal power.
+Why D is wrong: The President exercises this power for Parliament, not for a State Legislature.
+Note: The Governor summons each session, and the gap between two sessions cannot exceed six months.
+
+==============================================================================
+Set 7 | Q.No 22 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत के उपरा्ट्रपति के चुनाव से संबंधित विवादों का निर्णय कौन करता है?
+   A) राष्ट्रपति
+   B) सर्वोच्च न्यायालय  <-- CORRECT
+   C) निर्वाचन आयोग
+   D) संसद
+Answer: B
+Why correct: Disputes arising out of the election of the Vice-President of India are decided by the Supreme Court, whose decision is final.
+Why A is wrong: The President does not adjudicate Vice-Presidential election disputes.
+Why C is wrong: The Election Commission conducts the election but does not settle disputes about it.
+Why D is wrong: Parliament elects the Vice-President but does not judge election disputes.
+Note: Both Presidential and Vice-Presidential election disputes are heard exclusively by the Supreme Court (Article 71).
+
+==============================================================================
+Set 7 | Q.No 23 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: मांड, एक अर्ध-शास्त्रीय लोक शैली, किस राज्य से उत्पन्न हुई है?
+   A) गुजरात
+   B) राजस्थान  <-- CORRECT
+   C) हरियाणा
+   D) मध्य प्रदेश
+Answer: B
+Why correct: Maand is a semi-classical folk style of singing that originated in Rajasthan, traditionally associated with royal courts and devotional/romantic themes.
+Why A is wrong: Gujarat's folk traditions include Garba and Dandiya, not Maand.
+Why C is wrong: Haryana is known for Ragini folk songs, not Maand.
+Why D is wrong: Madhya Pradesh has folk forms like Bhagoria songs, not Maand.
+Note: The famous song 'Kesariya Balam' is a well-known example of the Maand style.
+
+==============================================================================
+Set 7 | Q.No 24 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: प्रतिध्वनि को स्पष्ट रूप से सुनने के लिए ध्वनि के स्रोत से बाधा की न्यूनतम दूरी होती है
+   A) 34.4 m
+   B) 22.5 m
+   C) 17.2 m  <-- CORRECT
+   D) 10.6 m
+Answer: C
+Why correct: To hear a distinct echo, the reflected sound must return after at least 0.1 s; with sound speed about 344 m/s, the obstacle must be at least (344 x 0.1)/2 = 17.2 m away.
+Why A is wrong: 34.4 m is the total path (to and back), not the one-way minimum distance.
+Why B is wrong: 22.5 m does not correspond to the 0.1-second persistence-of-hearing limit.
+Why D is wrong: 10.6 m is too short; the echo would merge with the original sound.
+Note: The 0.1-second limit comes from the persistence of sound in human ears.
+
+==============================================================================
+Set 7 | Q.No 25 | Topic: Books & Authors | Language: Hindi
+------------------------------------------------------------------------------
+Q: सिडनी शेल्डन का कौन-सा उपन्यास द्वितीय विश्व युद्ध और एक दुखद प्रेम कहानी पर आधारित है?
+   A) टेल मी योर ड्रीम्स
+   B) इफ टुमारो कम्स
+   C) द अदर साइड ऑफ मिडनाइट  <-- CORRECT
+   D) विंडमिल ऑफ द गॉड
+Answer: C
+Why correct: Sidney Sheldon's novel 'The Other Side of Midnight' is set against the backdrop of the Second World War and features a tragic love story.
+Why A is wrong: 'Tell Me Your Dreams' deals with multiple personality disorder, not WWII.
+Why B is wrong: 'If Tomorrow Comes' is a con-artist/revenge thriller.
+Why D is wrong: 'Windmills of the Gods' is a political thriller about an ambassador.
+Note: 'The Other Side of Midnight' (1973) was one of Sheldon's biggest bestsellers and later filmed.
+
+==============================================================================
+Set 7 | Q.No 26 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत के उत्तरी मैदान मुख्यतः किस प्रकार की मिट्टी के जमाव से निर्मित हैं?
+   A) काली मिट्टी
+   B) जलोढ़ मिट्टी  <-- CORRECT
+   C) लैटेराइट मिट्टी
+   D) लाल मिट्टी
+Answer: B
+Why correct: India's northern plains are formed mainly from alluvial soil deposited by the Himalayan rivers (Indus, Ganga and Brahmaputra), making them highly fertile.
+Why A is wrong: Black (regur) soil is found mainly on the Deccan trap region, not the northern plains.
+Why C is wrong: Laterite soil forms in high-rainfall tropical uplands.
+Why D is wrong: Red soil occurs over the crystalline rocks of the peninsular plateau.
+Note: Alluvial soils are divided into the older 'bhangar' and the newer, more fertile 'khadar'.
+
+==============================================================================
+Set 7 | Q.No 27 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन सी नदी विश्व का सबसे बड़ा नदी द्वीप, माजुली बनाती है?
+   A) गंगा
+   B) ब्रह्मपुत्र  <-- CORRECT
+   C) यमुना
+   D) गोदावरी
+Answer: B
+Why correct: The Brahmaputra river forms Majuli, the world's largest river island, located in Assam.
+Why A is wrong: The Ganga does not form Majuli.
+Why C is wrong: The Yamuna is a tributary of the Ganga and does not form this island.
+Why D is wrong: The Godavari is a peninsular river, unrelated to Majuli.
+Note: Majuli is a centre of Assamese Vaishnavite (Satra) culture and is shrinking due to river erosion.
+
+==============================================================================
+Set 7 | Q.No 28 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: किस भारतीय युवा एथलीट ने 5000 मीटर रेस वॉक को 20 मिनट से कम समय (9:24.48) में पूरा करके राष्ट्रीय रिकॉर्ड तोड़ा?
+   A) तुषार पंवार
+   B) योगिता
+   C) नितिन गुप्ता  <-- CORRECT
+   D) प्रशांत कुमार
+Answer: C
+Why correct: Per the answer key, the athlete in option C broke the national record by completing the 5000 m race walk in under 20 minutes (19:24.48), a notable youth milestone.
+Why A is wrong: Tushar Panwar is not credited with this particular sub-20-minute record.
+Why B is wrong: Yogita is not the record-setter for this event.
+Why D is wrong: Prashant Kumar is not associated with this 5000 m race-walk record.
+Note: Race walking is a track-and-field event judged on technique - one foot must appear to stay in contact with the ground at all times.
+
+==============================================================================
+Set 7 | Q.No 29 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: दिवालियापन समाधान सूचक __मूल्यांकन करता है।
+   A) सरकारी ऋण स्तर
+   B) व्यवसायों के लिए बीमा कवर
+   C) दिवालियापन के मामलों में समय, लागत और वसूली दर  <-- CORRECT
+   D) ऋण ब्याज दरें
+Answer: C
+Why correct: The 'Resolving Insolvency' indicator assesses the time taken, the cost involved, and the recovery rate achieved in resolving insolvency (bankruptcy) cases.
+Why A is wrong: Government debt levels are a fiscal measure, not part of this indicator.
+Why B is wrong: Insurance cover for businesses is unrelated to insolvency resolution.
+Why D is wrong: Loan interest rates are a monetary variable, not what this indicator measures.
+Note: In India, the Insolvency and Bankruptcy Code (IBC), 2016 sped up and streamlined insolvency resolution.
+
+==============================================================================
+Set 7 | Q.No 30 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: इसरो (।5९0) द्वारा 2025 में अनावरण किये जाने वाले भारतीय अंतरिक्ष स्टेशन (8/5) का नियोजित उद्देश्य कया है?
+   A) मंगल ग्रह अन्वेषण
+   B) चंद्र मानचित्रण
+   C) अंतरिक्ष पर्यटन और स्टेशन समर्थन  <-- CORRECT
+   D) गहरे अंतरिक्ष संचार
+Answer: C
+Why correct: Per the question's framing, the planned Bharatiya Antariksha Station is intended to support a human presence in orbit - sustained station operations and related activities - rather than planetary or lunar missions.
+Why A is wrong: Mars exploration is a separate ISRO objective, not the purpose of the space station.
+Why B is wrong: Lunar mapping is handled by the Chandrayaan missions.
+Why D is wrong: Deep-space communication is supported by ground networks, not the station's purpose.
+Note: ISRO plans to establish the Bharatiya Antariksha Station (BAS) in stages following the Gaganyaan human-spaceflight programme.
+
+==============================================================================
+Set 7 | Q.No 31 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: फरवरी 2025 में इसरो की इंजन सुविधाओं में किसका सफलतापूर्वक परीक्षण किया गया?
+   A) क्रायोजेनिक इंजन कक्षा में पुन: आरंभ
+   B) निर्वात में (६20 इंजन प्रज्वलन  <-- CORRECT
+   C) मानव-रेटेड जीवन समर्थन
+   D) सौर पाल की तैनाती
+Answer: B
+Why correct: In February 2025, ISRO successfully demonstrated ignition of the CE20 cryogenic engine in vacuum conditions at its engine-test facilities, an important capability for upper-stage performance.
+Why A is wrong: The test was a vacuum ignition demonstration, not an in-orbit cryogenic restart.
+Why C is wrong: It was an engine test, not a human-rated life-support test.
+Why D is wrong: Solar-sail deployment is unrelated to this engine test.
+Note: The CE20 is the indigenous cryogenic engine that powers the upper stage of India's LVM3 rocket.
+
+==============================================================================
+Set 7 | Q.No 32 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: भारतीय महिला क्रिकेट टीम ने अपना पहला टेस्ट मैच किस वर्ष खेला था?
+   A) 1973
+   B) 1976  <-- CORRECT
+   C) 1983
+   D) 1986
+Answer: B
+Why correct: The Indian women's cricket team played its first Test match in 1976 (against the West Indies at Bangalore).
+Why A is wrong: 1973 is before India's women's team made its Test debut.
+Why C is wrong: 1983 is the year India's men won the World Cup, unrelated to the women's Test debut.
+Why D is wrong: 1986 is after the team had already started playing Tests.
+Note: The Women's Cricket Association of India was formed in 1973, leading to the 1976 debut series.
+
+==============================================================================
+Set 7 | Q.No 33 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत में “श्वेत क्रांति के जनक” के रूप में किसे जाना जाता है?
+   A) वर्गीस कुरियन  <-- CORRECT
+   B) विक्रम साराभाई
+   C) नॉर्मन बोरलॉग
+   D) एम.एस. स्वामीनाथन
+Answer: A
+Why correct: Dr Verghese Kurien is known as the 'Father of the White Revolution' in India for leading Operation Flood, which made India the world's largest milk producer.
+Why B is wrong: Vikram Sarabhai is the father of the Indian space programme.
+Why C is wrong: Norman Borlaug is associated with the global Green Revolution in wheat.
+Why D is wrong: M.S. Swaminathan is called the father of India's Green Revolution.
+Note: Kurien founded Amul and the cooperative dairy model at Anand, Gujarat.
+
+==============================================================================
+Set 7 | Q.No 34 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: 956 के औद्योगिक नीति प्रस्ताव ने उद्योगों को कितनी श्रेणियों में वर्गीकृत किया?
+   A) दो
+   B) तीन  <-- CORRECT
+   C) चार
+   D) पाँच
+Answer: B
+Why correct: The Industrial Policy Resolution of 1956 classified industries into three categories (Schedules A, B and C), defining the roles of the public and private sectors.
+Why A is wrong: It used three categories, not two.
+Why C is wrong: There were three schedules, not four.
+Why D is wrong: Five is not the number of categories under the 1956 resolution.
+Note: Schedule A reserved key industries for the State; the 1956 resolution gave the public sector the 'commanding heights' of the economy.
+
+==============================================================================
+Set 7 | Q.No 35 | Topic: Awards & Honours | Language: Hindi
+------------------------------------------------------------------------------
+Q: 2025 में, भारत-डेनमार्क संबंधों को मजबूत करने के लिए नाइट क्रॉस ऑफ द ऑर्डर ऑफ डैनब्रोग से किसे सम्मानित किया गया?
+   A) विजय शंकर  <-- CORRECT
+   B) राजनाथ सिंह
+   C) आशिम कुमार घोष
+   D) नटराजन चंद्रशेखरन
+Answer: A
+Why correct: Per the answer key, the person in option A was honoured with the Knight Cross of the Order of the Dannebrog in 2025 in connection with strengthening India-Denmark relations.
+Why B is wrong: Rajnath Singh, the Defence Minister, is not the recipient indicated here.
+Why C is wrong: Ashim Kumar Ghosh is not the awardee in this context.
+Why D is wrong: N. Chandrasekaran is not credited with this Danish honour.
+Note: The Order of the Dannebrog is one of Denmark's oldest and most prestigious orders of chivalry.
+
+==============================================================================
+Set 7 | Q.No 36 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: यदि सरकार संकुचनकारी राजकोषीय नीति अपनाती है, तो____
+   A) सार्वजनिक व्यय को कम करता है या करों को बढ़ाता है।  <-- CORRECT
+   B) अधिक पैसा छापता है।
+   C) करों को कम करता है।
+   D) सार्वजनिक व्यय बढ़ाता है।
+Answer: A
+Why correct: Under a contractionary fiscal policy the government reduces public expenditure and/or raises taxes to cut aggregate demand, typically to control inflation.
+Why B is wrong: Printing more money is monetary expansion by the central bank, not fiscal policy.
+Why C is wrong: Cutting taxes is an expansionary fiscal measure.
+Why D is wrong: Increasing public expenditure is also expansionary, the opposite of contractionary.
+Note: Fiscal policy concerns government spending and taxation, while monetary policy concerns money supply and interest rates.
+
+==============================================================================
+Set 7 | Q.No 37 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारतीय अर्थव्यवस्था का कौन सा क्षेत्र कृषि के बाद रोजगार का दूसरा सबसे बड़ा स्रोत है?
+   A) बड़े पैमाने पर पूंजी-गहन औद्योगिक उद्यम
+   B) सूक्ष्म, लघु और मध्यम उद्यम (एमएसएमई)  <-- CORRECT
+   C) सूचना प्रौद्योगिकी और सॉफ्टवेयर सेवाएँ
+   D) परिवहन और रसद बुनियादी ढांचे
+Answer: B
+Why correct: After agriculture, the Micro, Small and Medium Enterprises (MSME) sector is the second-largest source of employment in the Indian economy.
+Why A is wrong: Large capital-intensive industries employ relatively few people.
+Why C is wrong: IT and software services are high-value but employ far fewer than MSMEs.
+Why D is wrong: Transport and logistics infrastructure is not the second-largest employer.
+Note: MSMEs contribute roughly 30% of India's GDP and a large share of its exports.
+
+==============================================================================
+Set 7 | Q.No 38 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: | मार्च 2025 तक, भारत में करोड़ सक्रिय घरेलू एल.पी.जी. उपभोक्ता हैं, जिनमें 0.33 करोड़ पी.एम.यू.वाई. लाभार्थी शामिल हैं।
+   A) 32.94 crore  <-- CORRECT
+   B) 38.94 crore
+   C) 42.94 crore
+   D) 22.94 crore
+Answer: A
+Why correct: As of 1 March 2025, India had about 32.94 crore active domestic LPG consumers, including 10.33 crore PMUY (Ujjwala) beneficiaries.
+Why B is wrong: 38.94 crore overstates the active-consumer figure cited.
+Why C is wrong: 42.94 crore is too high.
+Why D is wrong: 22.94 crore understates the number of active LPG consumers.
+Note: The Pradhan Mantri Ujjwala Yojana (PMUY) provides free LPG connections to women from poor households.
+
+==============================================================================
+Set 7 | Q.No 39 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस वर्ष के आस पास संथालों ने विद्रोह किया था?
+   A) 1821
+   B) 1855  <-- CORRECT
+   C) 1885
+   D) 1903
+Answer: B
+Why correct: The Santhal rebellion (Santhal Hul) broke out around 1855 (1855-56) in present-day Jharkhand against oppressive moneylenders and British revenue officials.
+Why A is wrong: 1821 is too early for the Santhal rebellion.
+Why C is wrong: 1885 is the year the Indian National Congress was founded, not the Santhal revolt.
+Why D is wrong: 1903 is well after the Santhal uprising.
+Note: The revolt was led by the brothers Sidhu and Kanhu Murmu.
+
+==============================================================================
+Set 7 | Q.No 40 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: ईसाई मिशनरियों द्वारा स्थापित सेरामपुर कॉलेज किस नदी के तट पर स्थित था?
+   A) हुगली  <-- CORRECT
+   B) यमुना
+   C) दामोदर
+   D) महानंदा
+Answer: A
+Why correct: Serampore College, founded by Christian missionaries (the 'Serampore Trio' - Carey, Marshman and Ward), stood on the bank of the Hooghly river in Bengal.
+Why B is wrong: The Yamuna flows through north India, not near Serampore.
+Why C is wrong: The Damodar is a different Bengal river, not the site of the college.
+Why D is wrong: The Mahananda is in north Bengal, not where Serampore College was founded.
+Note: Serampore College (1818) was among the first institutions in Asia empowered to award university degrees.
+
+==============================================================================
+Set 8 | Q.No 21 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: ভারতীয় সংবিধানে কত ধরণের জরুরি অবস্থার বিধান দেওয়া হয়েছে?
+   A) 2
+   B) 3  <-- CORRECT
+   C) 4
+   D) 5
+Answer: B
+Why correct: The Indian Constitution provides for three types of emergency: National Emergency (Article 352), State Emergency / President's Rule (Article 356) and Financial Emergency (Article 360).
+Why A is wrong: Two understates the number; there are three kinds of emergency.
+Why C is wrong: Four is one more than the actual number of emergency provisions.
+Why D is wrong: Five is incorrect; only three emergency types exist.
+Note: Emergency provisions are contained in Part XVIII of the Constitution and were borrowed from the German (Weimar) idea.
+
+==============================================================================
+Set 8 | Q.No 22 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: নিম্নলিখিত বিবৃতিগুলির মধ্যে কোনটি রাজ্যসভার স্থায়ী আবহকে সঠিকভাবে বর্ণনা করে?
+   A) রাষ্ট্রপতি এটি ভেঙে দিতে পারেন৷
+   B) প্রধানমন্ত্রী এটি ভেঙে দিতে পারেন।
+   C) প্রতি দুবছর অন্তর এই কক্ষের এক-তূতিয়াংশ সদস্যরা অবসর নেন।  <-- CORRECT
+   D) এটি প্রতি ছয় বছর অন্তর ভেঙে দেওয়া হয়।
+Answer: C
+Why correct: The Rajya Sabha is a permanent House that is never fully dissolved; one-third of its members retire every two years, and an equal number are freshly elected.
+Why A is wrong: The President cannot dissolve the Rajya Sabha.
+Why B is wrong: The Prime Minister has no power to dissolve the Rajya Sabha.
+Why D is wrong: It is not dissolved every six years; rather, members serve six-year terms staggered so a third retire every two years.
+Note: Because it is never dissolved, the Rajya Sabha is called a continuing or permanent chamber.
+
+==============================================================================
+Set 8 | Q.No 23 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: নাটি নৃত্য সম্পর্কে নিম্নের কোনটি সঠিকভাবে বর্ণনা করে?
+   A) পুরুষ ও মহিলাদের দ্বারা বৃত্তাকারে পরিবেশিত এক দ্রুত ও প্রাণবন্ত নৃত্য  <-- CORRECT
+   B) এককভাবে পরিবেশিত TAT নৃত্যরূপ
+   C) শুধুমাত্র বসে থেকে মহিলাদের দ্বারা পরিবেশিত নৃত্য
+   D) তলোয়ার ও ঢাল ব্যবহার করে একটি নৃত্য
+Answer: A
+Why correct: The Nati is a fast, lively folk dance performed in a circle by both men and women, popular in the Himalayan region (Himachal Pradesh).
+Why B is wrong: It is a group dance, not a solo performance.
+Why C is wrong: It is not performed only by seated women.
+Why D is wrong: It does not use swords and shields.
+Note: A large Kullu Nati once set a Guinness World Record as the largest folk dance.
+
+==============================================================================
+Set 8 | Q.No 24 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: বিহু নাচে অংশগ্রহণকারী মহিলারা কোন এতিহ্যবাহী পোশাক পরেন?
+   A) ভারী নকশাযুক্ত শাড়ি
+   B) মেখেলা চাদর (একটি এঁতিহ্যবাহী অসমীয়া পোশাক) উজ্জ্বল রঙের ও গয়নায় nies  <-- CORRECT
+   C) সাধারণ সুতির পোশাক
+   D) সালোয়ার কামিজ
+Answer: B
+Why correct: Women performing the Bihu dance of Assam wear the Mekhela Chador, a traditional brightly coloured Assamese two-piece dress, with jewellery.
+Why A is wrong: Heavily designed (zari) sarees are not the Bihu costume.
+Why C is wrong: Plain cotton clothing is not the festive Bihu attire.
+Why D is wrong: Salwar kameez is not the traditional Bihu dance costume.
+Note: Bihu is the chief festival and folk dance of Assam, celebrating the agricultural cycle.
+
+==============================================================================
+Set 8 | Q.No 25 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: কোন নদী ব্রহ্মপুত্রের সঙ্গে বিশ্বের বৃহত্তম ব-দ্বীপ গঠন করেছে?
+   A) গোদাবরী
+   B) গঙ্গা  <-- CORRECT
+   C) কৃষ্ণা
+   D) যমুনা
+Answer: B
+Why correct: The Ganga, together with the Brahmaputra, forms the world's largest delta - the Sundarbans delta - before emptying into the Bay of Bengal.
+Why A is wrong: The Godavari forms a delta on the east coast but not the largest one.
+Why C is wrong: The Krishna's delta is also on the east coast and far smaller.
+Why D is wrong: The Yamuna is a tributary of the Ganga and does not directly form this delta.
+Note: The Ganga-Brahmaputra delta covers parts of West Bengal (India) and Bangladesh.
+
+==============================================================================
+Set 8 | Q.No 26 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: জার্মান অভিব্যক্তিবাদী শিল্পী গোষ্ঠী ডাই SS কবে প্রতিষ্ঠিত হয়?
+   A) 1895
+   B) 1925
+   C) 1905  <-- CORRECT
+   D) 1915
+Answer: C
+Why correct: Die Brücke ('The Bridge'), a pioneering group of German Expressionist artists, was founded in 1905 in Dresden.
+Why A is wrong: 1895 pre-dates the formation of the group.
+Why B is wrong: 1925 is too late; the group had already dissolved by then.
+Why D is wrong: 1915 is after Die Brücke's founding (and near its breakup).
+Note: Ernst Ludwig Kirchner was a leading figure of Die Brücke.
+
+==============================================================================
+Set 8 | Q.No 27 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: “গ্রেট নিকোবর দ্বীপপুঞ্জ” কোন প্রতিবেশী দেশের সবচেয়ে কাছে অবস্থিত?
+   A) মায়ানমার
+   B) तीलश्का
+   C) ইন্দোনেশিয়া  <-- CORRECT
+   D) বাংলাদেশ
+Answer: C
+Why correct: The Great Nicobar Islands lie closest to Indonesia; Indira Point, India's southernmost point, is very near the Indonesian island of Sumatra.
+Why A is wrong: Myanmar lies to the north of the Andaman & Nicobar chain, not closest to Great Nicobar.
+Why B is wrong: Sri Lanka is off the southern tip of mainland India, far from Great Nicobar.
+Why D is wrong: Bangladesh lies to the north, near the Ganga delta.
+Note: Indira Point on Great Nicobar is only about 150 km from Indonesia's coast.
+
+==============================================================================
+Set 8 | Q.No 28 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: ইতিহাসে ভারতের প্রথম মহিলা শহিদ ও আত্মঘাতী হামলাকারী কে? তিনি রানি ভেলু নাচিয়ারের সেনা প্রধানও ছিলেন
+   A) কুয়িলি  <-- CORRECT
+   B) লক্ষ্মী শেহগাল
+   C) মাতঙ্গিনী হাজরা
+   D) ঝালকারি বাই
+Answer: A
+Why correct: Kuyili (Velu Nachiyar's army commander) is regarded as India's first woman martyr / suicide attacker, who set herself ablaze to destroy a British arsenal.
+Why B is wrong: Lakshmi Sehgal led the INA's Rani of Jhansi regiment much later, in the 1940s.
+Why C is wrong: Matangini Hazra died in the 1942 Quit India Movement.
+Why D is wrong: Jhalkari Bai was a soldier in Rani Lakshmibai's army during 1857.
+Note: Velu Nachiyar of Sivaganga was one of the earliest queens to wage war against the British (late 1700s).
+
+==============================================================================
+Set 8 | Q.No 29 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: যদি নক্ষত্রটি সূর্যের মতো হয়, তবে পৃথিবীর তুলনায় বহির্রহটির পৃষ্ঠের তাপমাত্রা সম্পর্কে কী অনুমান করা যেতে পারে?
+   A) তাৎপর্যপূর্ণভাবে উষ্ণতর
+   B) একই তাপমাত্রা  <-- CORRECT
+   C) শীতল
+   D) দূরত্বের কারণে তাপমাত্রায় প্রভাব পড়ে না
+Answer: B
+Why correct: If the star is like our Sun and the exoplanet orbits at an Earth-like distance, its surface temperature would be roughly the same as Earth's, since temperature depends mainly on the star's output and the planet's distance.
+Why A is wrong: It would be significantly hotter only if it orbited much closer to the star.
+Why C is wrong: It would be colder only if it were much farther from the star.
+Why D is wrong: Distance does affect temperature, so 'no effect of distance' is wrong.
+Note: The zone around a star where temperatures allow liquid water is called the 'habitable' or 'Goldilocks' zone.
+
+==============================================================================
+Set 8 | Q.No 30 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: কোন মন্দিরটি হিন্দু ও ইসলামি স্থাপত্যশৈলীর অনন্য সংমিশ্রণের জন্য পরিচিত?
+   A) কুতুব মিনার
+   B) লক্ষ্মী নারায়ণ মন্দির, ওরছা  <-- CORRECT
+   C) जौष्ि खुश
+   D) সূর্য মন্দির, কোনারক
+Answer: B
+Why correct: The Lakshmi Narayan Temple at Orchha is known for its unique blend of Hindu temple and Islamic (fort-like) architectural styles.
+Why A is wrong: The Qutub Minar is an Indo-Islamic victory tower, not a temple blending the two styles.
+Why C is wrong: This option does not name the temple known for the blend.
+Why D is wrong: The Sun Temple at Konark is a purely Hindu (Kalinga-style) temple.
+Note: Orchha, in Madhya Pradesh, was the capital of the Bundela Rajputs and is famous for its temples and palaces.
+
+==============================================================================
+Set 8 | Q.No 31 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: পৃথিবীর অক্ষের fags অগ্রগমন কী কারণে ঘটে?
+   A) সূর্য ও টাদের মাধ্যাকর্ষণীয় আকর্ষণ  <-- CORRECT
+   B) পৃথিবীর আবর্তনের গতি
+   C) পৃথিবীর কক্ষপথের ভিন্নতা
+   D) সৌর বায়ু
+Answer: A
+Why correct: The slow precession (wobble) of the Earth's axis is caused mainly by the gravitational pull of the Sun and the Moon on the Earth's equatorial bulge.
+Why B is wrong: The speed of Earth's rotation does not cause the axial precession.
+Why C is wrong: Variation in the orbit's shape (eccentricity) is a separate Milankovitch effect.
+Why D is wrong: The solar wind is far too weak to cause precession.
+Note: One full precession cycle of the Earth's axis takes about 26,000 years.
+
+==============================================================================
+Set 8 | Q.No 32 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: 1950 সালে ফিবা বাস্কেটবল বিশ্বকাপ প্রতিষ্ঠিত হওয়ার পর নিম্নলিখিত কোন দেশ প্রথম সেটি জিতেছিল?
+   A) মার্কিন যুক্তরাষ্ট্র
+   B) আর্তোন্টিনা  <-- CORRECT
+   C) ব্রাজিল
+   D) উরুগুয়ে
+Answer: B
+Why correct: Argentina won the first FIBA Basketball World Cup, held in 1950 (in Argentina).
+Why A is wrong: The United States did not win the inaugural 1950 World Cup.
+Why C is wrong: Brazil won later editions but not the first one.
+Why D is wrong: Uruguay did not win the inaugural World Cup.
+Note: The tournament was renamed the FIBA Basketball World Cup (from World Championship) in 2014.
+
+==============================================================================
+Set 8 | Q.No 33 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: FIDE বলতে কী বোঝায়?
+   A) আন্তর্জাতিক ডিজিটাল ইভেন্ট ফেডারেশন (Federation of international Digital Events)
+   B) ফেডারেশন ইন্টারন্যাশনাল ডেস ইচেকস (Federation internationale des Echecs)  <-- CORRECT
+   C) AVA BSenfos (Go ABMAaASA (First International Dual Enterprise)
+   D) QPUITETA BP BSAA COMA BSH (Federation of indian Domestic Events)
+Answer: B
+Why correct: FIDE stands for Fédération Internationale des Échecs (International Chess Federation), the world governing body of chess.
+Why A is wrong: 'Federation of International Digital Events' is a made-up expansion.
+Why C is wrong: 'First International Dual Enterprise' is not what FIDE means.
+Why D is wrong: 'Federation of Indian Domestic Events' is incorrect.
+Note: FIDE was founded in Paris in 1924 and organises the World Chess Championship.
+
+==============================================================================
+Set 8 | Q.No 34 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Ph কোষের প্রাচীরে কোন পদার্থ বা উপাদান থাকে, যা সেগুলিকে গ্যাস ও জলের প্রতি অভেদ্য করে তোলে?
+   A) কিউটিন
+   B) লিগনিন
+   C) সাবেরিন  <-- CORRECT
+   D) সেলুলোজ
+Answer: C
+Why correct: Suberin is the waxy substance deposited in the cell walls of cork (and the root endodermis), making them impermeable to water and gases.
+Why A is wrong: Cutin forms the protective cuticle on leaf surfaces, but the cell-wall waterproofing substance asked here is suberin.
+Why B is wrong: Lignin provides rigidity to woody tissues but does not chiefly make cells gas/water-impermeable.
+Why D is wrong: Cellulose is the main structural carbohydrate of cell walls but is permeable to water.
+Note: Suberin in the Casparian strip of the root controls water and mineral uptake into the plant.
+
+==============================================================================
+Set 8 | Q.No 35 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: কতগুলি মেমত্রেন বা পর্দা দ্বারা একটি মাইটোকন্ত্রিয়া (mitochondrion) আবৃত থাকে?
+   A) একটি
+   B) দুটি  <-- CORRECT
+   C) তিনটি
+   D) চারটি
+Answer: B
+Why correct: A mitochondrion is bounded by two membranes - a smooth outer membrane and a folded inner membrane (whose folds are called cristae).
+Why A is wrong: It has two membranes, not one.
+Why C is wrong: Three is incorrect; mitochondria are double-membraned.
+Why D is wrong: Four membranes is wrong.
+Note: The inner-membrane folds (cristae) increase surface area for ATP (energy) production.
+
+==============================================================================
+Set 8 | Q.No 36 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: আয়তনের নিরিখে ভারতের কোন রাজ্যে বনাঞ্চলের পরিমাণ সব থেকে বেশি ?
+   A) মধ্যপ্রদেশ  <-- CORRECT
+   B) আসাম
+   C) অরুণাচল প্রদেশ
+   D) ছত্তিশগড়
+Answer: A
+Why correct: By area, Madhya Pradesh has the largest forest cover among Indian states.
+Why B is wrong: Assam has substantial forests but less total forest area than Madhya Pradesh.
+Why C is wrong: Arunachal Pradesh has a very high percentage of forest cover but a smaller total area than MP.
+Why D is wrong: Chhattisgarh has large forests but ranks below Madhya Pradesh in total forest area.
+Note: As a percentage of geographical area, the north-eastern states (like Mizoram) lead, but in absolute area Madhya Pradesh is first.
+
+==============================================================================
+Set 8 | Q.No 37 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: পঞ্চম ও অষ্টম শ্রেণীর 'নো-ডিটেনশন নীতি' বাতিলের জন্য একটি সরকারী বিজ্ঞপ্তি অনুসারে, যদি শিক্ষার্থীরা বার্ষিক পরীক্ষায় উত্তীর্ণ হতে ব্যর্থ হয়, তাহলে তাদের অতিরিক্ত কোচিং দেওয়া হবে এবং ফলাফল প্রকাশের মাসের মধ্যে পুনরায় পরীক্ষা দেওয়ার সুযোগ দেওয়া হবে।
+   A) 2  <-- CORRECT
+   B) 5
+   C) 6
+   D) 4
+Answer: A
+Why correct: Per the government notification scrapping the 'no-detention policy' for Classes 5 and 8, students who fail the year-end exam are given extra coaching and a re-test within 2 months of the result.
+Why B is wrong: 5 months is not the period specified.
+Why C is wrong: 6 months is incorrect.
+Why D is wrong: 4 months is not the prescribed re-examination window.
+Note: The change lets schools hold back students who fail even after the re-test, reversing automatic promotion.
+
+==============================================================================
+Set 8 | Q.No 38 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: ব্রিটিশদের দ্বারা প্রবর্তিত চিরস্থায়ী বন্দোবস্তের অধীনে, জমিদারদের উপর প্রধান দায়িত্ব কী ছিল?
+   A) নিজেরাই জমি চাষ করবে
+   B) কৃষকদের কাছ থেকে খাজনা আদায় করা এবং কোম্পানিকে রাজস্ব প্রদান করা  <-- CORRECT
+   C) ব্রিটিশদের সাথে পণ্য বাণিজ্য
+   D) বাণিজ্য রুট পরিচালনা করা
+Answer: B
+Why correct: Under the Permanent Settlement (introduced by Lord Cornwallis in 1793), the zamindars' chief duty was to collect rent from the peasants and pay a fixed revenue to the Company.
+Why A is wrong: Zamindars were intermediaries who collected rent, not cultivators of the land themselves.
+Why C is wrong: Trading goods with the British was not the zamindar's defined duty.
+Why D is wrong: Managing trade routes was not part of the Permanent Settlement obligations.
+Note: The Permanent Settlement fixed the land revenue permanently, but harsh terms often ruined both zamindars and peasants.
+
+==============================================================================
+Set 8 | Q.No 39 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: ব্রিটিশরা সাধারণত স্থানীয় ভাষা বা উপভাষা বোঝাতে কোন শব্দটি ব্যবহার করত?
+   A) আঞ্চলিক ভাষা  <-- CORRECT
+   B) Y J
+   C) ফেডারেল
+   D) ভাষাবিদ
+Answer: A
+Why correct: The British generally used the term 'vernacular' to refer to the local language or dialect of the people.
+Why B is wrong: This option does not denote a local language.
+Why C is wrong: 'Federal' refers to a system of government, not a local language.
+Why D is wrong: A 'linguist' is a person who studies languages, not the term for the local tongue.
+Note: The Vernacular Press Act of 1878 was used to muzzle Indian-language newspapers.
+
+==============================================================================
+Set 8 | Q.No 40 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: ট্রান্সপারেন্সি ইন্টারন্যাশনাল কোন প্রতিবেদন প্রকাশ করে না? I. গণতন্ত্র সূচক Il. দুনীতির ধারণা সূচক
+   A) Only I  <-- CORRECT
+   B) Only II
+   C) Both I and II
+   D) Neither I nor II
+Answer: A
+Why correct: Transparency International does NOT publish the Democracy Index (Statement I) - that is published by the Economist Intelligence Unit. Transparency International does publish the Corruption Perceptions Index (Statement II). So the correct choice is 'Only I'.
+Why B is wrong: 'Only II' is wrong because TI does publish the Corruption Perceptions Index.
+Why C is wrong: 'Both I and II' is wrong since TI does publish the Corruption Perceptions Index.
+Why D is wrong: 'Neither' is wrong because TI does not publish the Democracy Index.
+Note: Transparency International is best known for its annual Corruption Perceptions Index (CPI).
+
+==============================================================================
+Set 9 | Q.No 21 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: The Council of Ministers in a state is collectively responsible to:
+   A) President
+   B) Supreme Court
+   C) Governor
+   D) State Legislature  <-- CORRECT
+Answer: D
+Why correct: In a state, the Council of Ministers is collectively responsible to the State Legislative Assembly (the directly elected House), mirroring the Union arrangement with the Lok Sabha.
+Why A is wrong: The President is the head of the Union, not the body to which a state ministry answers.
+Why B is wrong: The Supreme Court is a judicial body, not one to which ministers are politically responsible.
+Why C is wrong: The Governor is the constitutional head of the state but the ministry is responsible to the Assembly.
+Note: Collective responsibility means if the Assembly passes a no-confidence motion, the entire Council of Ministers must resign.
+
+==============================================================================
+Set 9 | Q.No 22 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: Under which Article of the Indian Constitution is the joint sitting of Parliament provided?
+   A) Article 107
+   B) Article 108  <-- CORRECT
+   C) Article 109
+   D) Article 110
+Answer: B
+Why correct: Article 108 of the Constitution provides for a joint sitting of both Houses of Parliament to resolve a deadlock over an ordinary bill.
+Why A is wrong: Article 107 deals with the introduction and passing of bills generally.
+Why C is wrong: Article 109 deals with the special procedure for Money Bills.
+Why D is wrong: Article 110 defines what a Money Bill is.
+Note: A joint sitting is presided over by the Speaker of the Lok Sabha; it cannot be used for Money Bills or Constitutional Amendment Bills.
+
+==============================================================================
+Set 9 | Q.No 23 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: What is the main medium of transmission in Indian folk and tribal music?
+   A) Written notation
+   B) Audio recordings
+   C) Guru-Shishya tradition
+   D) Oral tradition  <-- CORRECT
+Answer: D
+Why correct: Indian folk and tribal music is mainly passed on through oral tradition - learned by listening and repetition across generations rather than from written scores.
+Why A is wrong: Written notation is rare in folk traditions, which are largely unwritten.
+Why B is wrong: Audio recordings are a modern medium, not the traditional means of transmission.
+Why C is wrong: The Guru-Shishya tradition is central to classical music; folk/tribal music spreads more broadly through oral community practice.
+Note: Oral transmission allows folk music to evolve and vary regionally over time.
+
+==============================================================================
+Set 9 | Q.No 24 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: The rolling of thunder is mainly due to
+   A) Resonance of clouds
+   B) Successive reflections of sound  <-- CORRECT
+   C) Lightning effect
+   D) Interference of sound waves
+Answer: B
+Why correct: The rolling of thunder is mainly due to the successive reflections of the sound of the lightning discharge from clouds, hills and the ground, which reach the listener at slightly different times.
+Why A is wrong: Resonance of clouds is not the cause of the prolonged rumble.
+Why C is wrong: The lightning is the source of the sound, but the 'rolling' is from reflections.
+Why D is wrong: Interference of waves is not the principal reason for the rumbling sound.
+Note: We see lightning before we hear thunder because light travels much faster than sound.
+
+==============================================================================
+Set 9 | Q.No 25 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: The Aravalli Range extends from which direction?
+   A) North to South
+   B) East to West
+   C) Northeast to Southwest  <-- CORRECT
+   D) Northwest to Southeast
+Answer: C
+Why correct: The Aravalli Range runs in a north-east to south-west direction, extending from Delhi through Rajasthan towards Gujarat.
+Why A is wrong: It does not run simply north to south.
+Why B is wrong: It does not run east to west.
+Why D is wrong: Its orientation is north-east to south-west, not north-west to south-east.
+Note: The Aravallis are among the oldest fold mountains in the world; Guru Shikhar is their highest peak.
+
+==============================================================================
+Set 9 | Q.No 26 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: The Rann of Kutch is located in which Indian state?
+   A) Gujarat  <-- CORRECT
+   B) Maharashtra
+   C) Rajasthan
+   D) Uttar Pradesh
+Answer: A
+Why correct: The Rann of Kutch, a large seasonal salt marsh, is located in the state of Gujarat.
+Why B is wrong: Maharashtra does not contain the Rann of Kutch.
+Why C is wrong: Rajasthan borders the region but the Rann itself is in Gujarat.
+Why D is wrong: Uttar Pradesh is in the northern plains, far from the Rann.
+Note: The Great Rann of Kutch hosts the Rann Utsav and is a habitat for flamingoes and the wild ass.
+
+==============================================================================
+Set 9 | Q.No 27 | Topic: Books & Authors | Language: English
+------------------------------------------------------------------------------
+Q: The Serpent and the Rope (Novel) is written by
+   A) R.K. Narayan
+   B) Raja Rao  <-- CORRECT
+   C) Mulk Raj Anand
+   D) Khushwant Singh
+Answer: B
+Why correct: 'The Serpent and the Rope' was written by Raja Rao, one of the major figures of early Indian English literature.
+Why A is wrong: R.K. Narayan wrote the Malgudi stories and 'The Guide'.
+Why C is wrong: Mulk Raj Anand wrote 'Untouchable' and 'Coolie'.
+Why D is wrong: Khushwant Singh wrote 'Train to Pakistan'.
+Note: Raja Rao won the Sahitya Akademi Award for 'The Serpent and the Rope' (1964).
+
+==============================================================================
+Set 9 | Q.No 28 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: Which state elected the world’s first democratically elected communist government, with EMS Namboodiripad as CM?
+   A) West Bengal
+   B) Kerala  <-- CORRECT
+   C) Tripura
+   D) Andhra Pradesh
+Answer: B
+Why correct: Kerala elected the world's first democratically elected communist government in 1957, with E.M.S. Namboodiripad as Chief Minister.
+Why A is wrong: West Bengal later had a long communist government but not the first one.
+Why C is wrong: Tripura's communist governments came much later.
+Why D is wrong: Andhra Pradesh did not elect the first communist government.
+Note: The 1957 Kerala government was dismissed in 1959 using Article 356 (President's Rule).
+
+==============================================================================
+Set 9 | Q.No 29 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: Healthy life expectancy in the Happiness Index is based on:
+   A) Number of hospitals
+   B) Expected years of healthy living  <-- CORRECT
+   C) Total fertility rate
+   D) Average years of schooling
+Answer: B
+Why correct: In the World Happiness Report, 'healthy life expectancy' measures the expected number of years a person can live in good health.
+Why A is wrong: The number of hospitals is an input, not the health outcome measured.
+Why C is wrong: The total fertility rate is a demographic measure, not health expectancy.
+Why D is wrong: Average years of schooling is an education indicator, not a health measure.
+Note: Healthy life expectancy is one of the six key variables used to compute happiness scores.
+
+==============================================================================
+Set 9 | Q.No 30 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: What capability does Project NETRA provide to ISRO?
+   A) Deep-space communication
+   B) Space debris tracking and situational awareness  <-- CORRECT
+   C) Human-rated life support
+   D) Lunar landing navigation
+Answer: B
+Why correct: Project NETRA (Network for Space Object Tracking and Analysis) gives ISRO the capability to track space debris and maintain space situational awareness to protect Indian satellites.
+Why A is wrong: Deep-space communication is handled by the Deep Space Network, not NETRA.
+Why C is wrong: Human-rated life support is part of the Gaganyaan programme.
+Why D is wrong: Lunar-landing navigation is part of the Chandrayaan missions.
+Note: Space situational awareness helps avoid collisions between satellites and orbital debris.
+
+==============================================================================
+Set 9 | Q.No 31 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: The Indian men's hockey team won its last Olympic gold medal in which year?
+   A) 1972
+   B) 1976
+   C) 1980  <-- CORRECT
+   D) 1984
+Answer: C
+Why correct: The Indian men's hockey team won its last Olympic gold medal in 1980 at the Moscow Olympics.
+Why A is wrong: 1972 (Munich) - India won bronze, not gold.
+Why B is wrong: 1976 (Montreal) - India did not win gold.
+Why D is wrong: 1984 - India did not win an Olympic hockey medal.
+Note: India has won 8 Olympic gold medals in field hockey, the most by any nation; the 1980 gold is the most recent.
+
+==============================================================================
+Set 9 | Q.No 32 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: India wants to explore Venus’s thick atmosphere and greenhouse effect. Which mission is planned?
+   A) LUPEX
+   B) Shukrayaan (Venus Orbiter)  <-- CORRECT
+   C) Chandrayaan-4
+   D) MOM-2
+Answer: B
+Why correct: India's planned mission to study Venus's thick atmosphere and greenhouse effect is Shukrayaan, a Venus Orbiter Mission.
+Why A is wrong: LUPEX is the planned Lunar Polar Exploration mission (with Japan).
+Why C is wrong: Chandrayaan-4 is a lunar sample-return mission, not a Venus mission.
+Why D is wrong: MOM-2 (Mangalyaan-2) is aimed at Mars, not Venus.
+Note: Venus has a runaway greenhouse effect, making it the hottest planet in the solar system despite being farther from the Sun than Mercury.
+
+==============================================================================
+Set 9 | Q.No 33 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: Who was appointed as the new Comptroller and Auditor General (CAG) of India in February 2025?
+   A) Girish Chandra Murmu
+   B) K. Sanjay Murthy  <-- CORRECT
+   C) Vineet Pandey
+   D) Girish Chandra Tripathi
+Answer: B
+Why correct: K. Sanjay Murthy was appointed the Comptroller and Auditor General (CAG) of India, taking charge in this period after Girish Chandra Murmu.
+Why A is wrong: Girish Chandra Murmu was the previous CAG, not the newly appointed one.
+Why C is wrong: Vineet Pandey is not the appointee.
+Why D is wrong: Girish Chandra Tripathi is not the CAG named here.
+Note: The CAG audits government accounts and is a key constitutional authority under Article 148.
+
+==============================================================================
+Set 9 | Q.No 34 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: The Manmohan Singh Committee (1991) is known for:
+   A) Liberalization and structural adjustment  <-- CORRECT
+   B) Banking reforms
+   C) Agricultural reforms
+   D) Fiscal reforms
+Answer: A
+Why correct: The reforms associated with Manmohan Singh as Finance Minister in 1991 are known for liberalization and structural adjustment - opening up the economy, reducing licensing and devaluing the rupee.
+Why B is wrong: Banking reforms were a part, but the headline identity of the 1991 reforms is liberalization/structural adjustment.
+Why C is wrong: Agricultural reforms were not the focus of the 1991 package.
+Why D is wrong: Fiscal reforms were included, but the defining theme was broad liberalization.
+Note: The 1991 reforms (LPG - Liberalization, Privatization, Globalization) followed a severe balance-of-payments crisis.
+
+==============================================================================
+Set 9 | Q.No 35 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: The bank nationalization in 1969 was primarily aimed at:
+   A) Promoting exports
+   B) Controlling inflation
+   C) Reducing foreign investment
+   D) Extending credit to agriculture, small industries, and priority sectors  <-- CORRECT
+Answer: D
+Why correct: The 1969 nationalization of 14 major banks was primarily aimed at extending credit to agriculture, small industries and other priority sectors, and spreading banking to rural areas.
+Why A is wrong: Promoting exports was not the chief purpose of bank nationalization.
+Why B is wrong: Controlling inflation is a monetary-policy goal, not the main aim here.
+Why C is wrong: Reducing foreign investment was not the objective.
+Note: Bank nationalization greatly expanded rural bank branches and priority-sector lending in India.
+
+==============================================================================
+Set 9 | Q.No 36 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: Which economist gave the concept of comparative advantage?
+   A) Keynes
+   B) Adam Smith
+   C) Hicks
+   D) Ricardo  <-- CORRECT
+Answer: D
+Why correct: The concept of comparative advantage in international trade was given by the economist David Ricardo.
+Why A is wrong: Keynes is known for macroeconomics and demand management.
+Why B is wrong: Adam Smith gave the idea of absolute advantage (and the 'invisible hand').
+Why C is wrong: Hicks contributed to general-equilibrium and welfare economics.
+Note: Comparative advantage shows that countries gain from trade even if one is less efficient at producing everything.
+
+==============================================================================
+Set 9 | Q.No 37 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: Which of the following most accurately reflects the fundamental orientation of public sector industries in India?
+   A) They are primarily export-driven enterprises
+   B) They function with the exclusive motive of profit maximization
+   C) They are predominantly under foreign ownership and control
+   D) They prioritize wider socio-economic developmental objectives  <-- CORRECT
+Answer: D
+Why correct: Public-sector industries in India are fundamentally oriented towards wider socio-economic development objectives - employment, balanced regional growth and self-reliance - rather than pure profit.
+Why A is wrong: They are not primarily export-driven.
+Why B is wrong: Profit maximization is not their exclusive motive.
+Why C is wrong: They are state-owned, not predominantly under foreign ownership.
+Note: Public-sector undertakings were envisaged to occupy the 'commanding heights' of the economy after 1956.
+
+==============================================================================
+Set 9 | Q.No 38 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: About of children in India aged 6-23 months lack diversity in diet as suggested by the World Health Organization in 2024.
+   A) 77%  <-- CORRECT
+   B) 12%
+   C) 90%
+   D) 32%
+Answer: A
+Why correct: As highlighted around 2024, about 77% of Indian children aged 6-23 months lacked adequate dietary diversity as defined by WHO standards.
+Why B is wrong: 12% greatly understates the proportion.
+Why C is wrong: 90% overstates the reported figure.
+Why D is wrong: 32% is lower than the reported share.
+Note: Dietary diversity (eating from several food groups) is a key indicator of child nutrition.
+
+==============================================================================
+Set 9 | Q.No 39 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: In which of the following years did the East India Company ultimately annexed Punjab?
+   A) 1836
+   B) 1841
+   C) 1849  <-- CORRECT
+   D) 1856
+Answer: C
+Why correct: The East India Company annexed Punjab in 1849, after defeating the Sikhs in the Second Anglo-Sikh War.
+Why A is wrong: 1836 is too early; the Sikh kingdom under Ranjit Singh was still strong.
+Why B is wrong: 1841 pre-dates the annexation.
+Why D is wrong: 1856 was the year Awadh was annexed, not Punjab.
+Note: After annexation, the famous Koh-i-Noor diamond was taken from the Lahore treasury to Britain.
+
+==============================================================================
+Set 9 | Q.No 40 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: in which of the following year the Court of Directors of the East India Company in London sent an educational (Wood's) dispatch to the Governor-General in India?
+   A) 1830
+   B) 1854  <-- CORRECT
+   C) 1861
+   D) 1875
+Answer: B
+Why correct: The Court of Directors of the East India Company sent the educational despatch known as Wood's Despatch in 1854, often called the 'Magna Carta of English education in India'.
+Why A is wrong: 1830 is before the despatch was issued.
+Why C is wrong: 1861 is after Wood's Despatch.
+Why D is wrong: 1875 is unrelated to Wood's Despatch.
+Note: Wood's Despatch led to the establishment of the universities of Calcutta, Bombay and Madras in 1857.
+
+==============================================================================
+Set 10 | Q.No 21 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: Citizenship provisions are given in which part of the Indian Constitution?
+   A) Part |
+   B) Part Il  <-- CORRECT
+   C) Part Ill
+   D) Part IV
+Answer: B
+Why correct: Citizenship provisions are contained in Part II of the Indian Constitution (Articles 5 to 11).
+Why A is wrong: Part I deals with the Union and its territory.
+Why C is wrong: Part III contains the Fundamental Rights.
+Why D is wrong: Part IV contains the Directive Principles of State Policy.
+Note: Parliament has the power to regulate citizenship by law; the Citizenship Act was enacted in 1955.
+
+==============================================================================
+Set 10 | Q.No 22 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: Who has the power to create new states and alter boundaries of existing states?
+   A) Parliament  <-- CORRECT
+   B) State Legislature
+   C) Supreme Court
+   D) President
+Answer: A
+Why correct: Under Article 3, Parliament has the power to form new states and to alter the areas, boundaries or names of existing states.
+Why B is wrong: A State Legislature can only express its views; it cannot create states or alter boundaries.
+Why C is wrong: The Supreme Court interprets the law but does not redraw state boundaries.
+Why D is wrong: The President's prior recommendation is needed to introduce such a bill, but the power lies with Parliament.
+Note: Such a bill can be introduced only on the President's recommendation and after seeking the views of the affected state.
+
+==============================================================================
+Set 10 | Q.No 23 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: Which deity is predominantly worshipped through Manipuri dance?
+   A) Shiva
+   B) Krishna  <-- CORRECT
+   C) Durga
+   D) Ganesha
+Answer: B
+Why correct: Manipuri dance is predominantly devoted to Lord Krishna, especially the Raslila depicting Krishna and Radha.
+Why A is wrong: Shiva is central to Nataraja imagery and some other forms, not Manipuri Raslila.
+Why C is wrong: Durga is not the principal deity of Manipuri dance.
+Why D is wrong: Ganesha is not the focus of Manipuri dance.
+Note: Manipuri is one of the eight classical dance forms of India, known for its graceful, gentle movements.
+
+==============================================================================
+Set 10 | Q.No 24 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: Which of the following is a key characteristic of Bhangra music?
+   A) Soft and melodic tunes
+   B) Fast and energetic beats  <-- CORRECT
+   C) Complex rhythms with slow tempos
+   D) Instrumental Music only
+Answer: B
+Why correct: Bhangra music is characterised by fast and energetic beats, traditionally driven by the dhol drum, reflecting its origin as a Punjabi harvest celebration.
+Why A is wrong: Soft and melodic tunes do not describe the lively Bhangra.
+Why C is wrong: Bhangra has fast tempos, not slow complex rhythms.
+Why D is wrong: Bhangra combines singing and dance, not instrumental music only.
+Note: Bhangra is traditionally performed during the Baisakhi harvest festival in Punjab.
+
+==============================================================================
+Set 10 | Q.No 25 | Topic: Books & Authors | Language: English
+------------------------------------------------------------------------------
+Q: In which year did the Jaipur Literature Festival begin?
+   A) 2002
+   B) 2005
+   C) 2006  <-- CORRECT
+   D) 2008
+Answer: C
+Why correct: The Jaipur Literature Festival began in 2006 and has grown into one of the world's largest free literary festivals.
+Why A is wrong: 2002 is before the festival started.
+Why B is wrong: 2005 is incorrect.
+Why D is wrong: 2008 is after the festival's first edition.
+Note: The Jaipur Literature Festival is held annually at Diggi Palace in Jaipur, Rajasthan.
+
+==============================================================================
+Set 10 | Q.No 26 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: Which river of India has the largest catchment area?
+   A) Godavari
+   B) Ganga  <-- CORRECT
+   C) Narmada
+   D) Brahmaputra
+Answer: B
+Why correct: The Ganga has the largest catchment (drainage) area of any Indian river, draining a vast basin across the northern plains.
+Why A is wrong: The Godavari is the largest peninsular river but has a smaller basin than the Ganga.
+Why C is wrong: The Narmada's basin is far smaller.
+Why D is wrong: The Brahmaputra has a huge flow but a smaller catchment area within India than the Ganga.
+Note: The Ganga basin is the largest river basin in India, covering about a quarter of the country's area.
+
+==============================================================================
+Set 10 | Q.No 27 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: Which of the following plate boundaries formed the Himalayas?
+   A) Divergent boundary
+   B) Transform boundary
+   C) Hotspot boundary
+   D) Convergent boundary  <-- CORRECT
+Answer: D
+Why correct: The Himalayas were formed at a convergent plate boundary, where the Indian Plate collided with and pushed under the Eurasian Plate.
+Why A is wrong: At a divergent boundary plates move apart, forming rifts and mid-ocean ridges.
+Why B is wrong: At a transform boundary plates slide past each other (e.g. the San Andreas Fault).
+Why C is wrong: A hotspot creates volcanic chains (like Hawaii), not fold mountains like the Himalayas.
+Note: The Indian Plate is still pushing north, so the Himalayas continue to rise by a few millimetres each year.
+
+==============================================================================
+Set 10 | Q.No 28 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Why are the days on Venus longer than its years?
+   A) Venus has a slower rotation than revolution  <-- CORRECT
+   B) Venus revolves very slowly around the Sun
+   C) Venus does not rotate
+   D) Venus spins on its axis in the opposite direction
+Answer: A
+Why correct: A day on Venus is longer than its year because Venus rotates on its axis very slowly - its single rotation (day) takes longer than one revolution around the Sun (year).
+Why B is wrong: Venus actually revolves around the Sun faster than it spins, which is why the year is shorter.
+Why C is wrong: Venus does rotate, just extremely slowly.
+Why D is wrong: Venus does spin in the opposite (retrograde) direction, but the day-longer-than-year fact is due to its slow rotation.
+Note: One Venus day equals about 243 Earth days, while a Venus year is about 225 Earth days.
+
+==============================================================================
+Set 10 | Q.No 29 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: Which mosque within Agra Fort was constructed by Shah Jahan for the royal ladies and features three domes?
+   A) Moti Masjid
+   B) Mina Masjid
+   C) Nagina Masjid  <-- CORRECT
+   D) Jama Masjid
+Answer: C
+Why correct: The Nagina Masjid inside the Agra Fort was built by Shah Jahan for the ladies of the royal household and has three domes.
+Why A is wrong: The Moti Masjid in Agra Fort is a larger pearl mosque, not the private ladies' mosque described.
+Why B is wrong: The Mina Masjid was a tiny private mosque, not the three-domed ladies' mosque.
+Why D is wrong: The Jama Masjid at Agra stands outside the fort and was built for the public.
+Note: Shah Jahan, who built the Taj Mahal, was a great Mughal patron of marble architecture.
+
+==============================================================================
+Set 10 | Q.No 30 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Which planet has a magnetic field that is offset from its center and tilted about 59 degrees to its rotational axis?
+   A) Earth
+   B) Jupiter
+   C) Uranus  <-- CORRECT
+   D) Saturn
+Answer: C
+Why correct: Uranus has a magnetic field that is offset from the planet's centre and tilted by about 59 degrees to its rotational axis - highly unusual among the planets.
+Why A is wrong: Earth's magnetic field is only slightly tilted (about 11 degrees) and roughly centred.
+Why B is wrong: Jupiter's field is strong but not tilted by ~59 degrees in this offset way.
+Why D is wrong: Saturn's magnetic axis is almost aligned with its rotation axis.
+Note: Uranus's strange tilted, off-centre magnetic field may be generated in its icy mantle rather than a metallic core.
+
+==============================================================================
+Set 10 | Q.No 31 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: What is the maximum duration of a standard boxing bout in the Olympics?
+   A) Three 3-minute rounds  <-- CORRECT
+   B) Four 2-minute rounds
+   C) Two 3-minute rounds
+   D) Three 2-minute rounds
+Answer: A
+Why correct: A standard Olympic boxing bout consists of three rounds of three minutes each.
+Why B is wrong: Four 2-minute rounds is not the Olympic format.
+Why C is wrong: Two 3-minute rounds is incorrect.
+Why D is wrong: Three 2-minute rounds is used in some women's formats historically, but the standard is three 3-minute rounds.
+Note: Olympic boxing scoring is now done by judges on a 10-point must system.
+
+==============================================================================
+Set 10 | Q.No 32 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: How many Asian Games medals did India win in shooting at Hangzhou 2023?
+   A) 18
+   B) 22  <-- CORRECT
+   C) 19
+   D) 21
+Answer: B
+Why correct: India won 22 medals in shooting at the Asian Games in Hangzhou (2023), its best-ever shooting haul at the Games.
+Why A is wrong: 18 understates India's shooting medal count at Hangzhou.
+Why C is wrong: 19 is short of the actual total.
+Why D is wrong: 21 is one fewer than the correct number.
+Note: India won 28 gold medals and over 100 total medals overall at the 2023 Asian Games.
+
+==============================================================================
+Set 10 | Q.No 33 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Blood is classified under which type of animal tissue?
+   A) Muscular tissue
+   B) Nervous tissue
+   C) Connective tissue  <-- CORRECT
+   D) Epithelial tissue
+Answer: C
+Why correct: Blood is classified as connective tissue because its cells are suspended in a fluid matrix (plasma) and it connects and transports materials throughout the body.
+Why A is wrong: Muscular tissue is contractile, unlike blood.
+Why B is wrong: Nervous tissue conducts impulses; blood does not.
+Why D is wrong: Epithelial tissue forms linings; blood is a fluid connective tissue.
+Note: Plasma is the liquid matrix of blood, carrying red cells, white cells and platelets.
+
+==============================================================================
+Set 10 | Q.No 34 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Which of the following is an example of chemotropism in plants?
+   A) Shoot bending towards light
+   B) Root growing downwards
+   C) Pollen tube growing towards ovule  <-- CORRECT
+   D) Leaf folding on touch
+Answer: C
+Why correct: A pollen tube growing towards the ovule (in response to chemical signals from the ovary) is an example of chemotropism - growth directed by a chemical stimulus.
+Why A is wrong: A shoot bending towards light is phototropism.
+Why B is wrong: A root growing downwards is geotropism (gravitropism).
+Why D is wrong: A leaf folding on touch (as in Mimosa) is thigmonasty/seismonasty, not chemotropism.
+Note: Tropic movements are directional growth responses to stimuli such as light, gravity, water or chemicals.
+
+==============================================================================
+Set 10 | Q.No 35 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: The Chipko Movement is associated with:
+   A) Forest conservation  <-- CORRECT
+   B) Air pollution
+   C) Wildlife trafficking
+   D) River pollution
+Answer: A
+Why correct: The Chipko Movement is associated with forest conservation - villagers (notably women) hugged trees to stop them being felled.
+Why B is wrong: It was not about air pollution.
+Why C is wrong: It was not about wildlife trafficking.
+Why D is wrong: It was not a river-pollution movement.
+Note: The Chipko Movement began in the 1970s in the Garhwal Himalayas; Sunderlal Bahuguna was a key leader.
+
+==============================================================================
+Set 10 | Q.No 36 | Topic: Schemes & Government | Language: English
+------------------------------------------------------------------------------
+Q: The Rs. 6000 crores allocated for One Nation One Subscription initiative ensures smooth implementation of ONOS from 1st January 2025 to 31st December ;
+   A) 2032
+   B) 2030
+   C) 2029
+   D) 2027  <-- CORRECT
+Answer: D
+Why correct: The Rs 6,000 crore One Nation One Subscription (ONOS) initiative funds access to scholarly journals from 1 January 2025 to 31 December 2027.
+Why A is wrong: 2032 is not the ONOS end date.
+Why B is wrong: 2030 is incorrect.
+Why C is wrong: 2029 is not the period specified.
+Note: ONOS gives students and researchers in government institutions nationwide access to international research journals.
+
+==============================================================================
+Set 10 | Q.No 37 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: Which crop did the British force the peasants of Maharashtra to produce?
+   A) Cotton  <-- CORRECT
+   B) Tea
+   C) Jute
+   D) Barley
+Answer: A
+Why correct: The British forced peasants of Maharashtra (the Deccan) to grow cotton, especially to feed Britain's textile mills during the American Civil War shortage.
+Why B is wrong: Tea was grown on plantations in Assam and the hills, not forced on Maharashtra's peasants.
+Why C is wrong: Jute cultivation was concentrated in Bengal.
+Why D is wrong: Barley was not the cash crop forced in Maharashtra.
+Note: The cotton boom and bust contributed to peasant indebtedness behind the 1875 Deccan Riots.
+
+==============================================================================
+Set 10 | Q.No 38 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: in which year the World Parliament of Religions was held in Chicago?
+   A) 1893  <-- CORRECT
+   B) 1895
+   C) 1897
+   D) 1899
+Answer: A
+Why correct: The World's Parliament of Religions was held in Chicago in 1893, where Swami Vivekananda delivered his famous address.
+Why B is wrong: 1895 is incorrect.
+Why C is wrong: 1897 is the year Vivekananda founded the Ramakrishna Mission, not the Chicago address.
+Why D is wrong: 1899 is after the event.
+Note: Vivekananda began his 1893 speech with 'Sisters and Brothers of America', earning a standing ovation.
+
+==============================================================================
+Set 10 | Q.No 39 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: Who was the first Indian woman to win an Olympic silver medal?
+   A) Aanchal Thakur
+   B) P. V. Sindhu  <-- CORRECT
+   C) Sania Mirza
+   D) Dipa Karmakar
+Answer: B
+Why correct: P.V. Sindhu was the first Indian woman to win an Olympic silver medal, in badminton at the 2016 Rio Olympics.
+Why A is wrong: Aanchal Thakur is a skier who won India's first international skiing medal, not an Olympic silver.
+Why C is wrong: Sania Mirza is a tennis great but did not win an Olympic silver.
+Why D is wrong: Dipa Karmakar narrowly missed a medal (4th) in gymnastics at Rio 2016.
+Note: Sindhu later won bronze at the Tokyo 2020 Olympics, becoming a two-time Olympic medallist.
+
+==============================================================================
+Set 10 | Q.No 40 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: Which of the following ministry has unveiled ‘Logistics Ease Across Different States (LEADS) 2024’ Report?
+   A) Ministry of Commerce & Industry  <-- CORRECT
+   B) Ministry of Finance
+   C) Ministry of Ports, Shipping and Waterways
+   D) Ministry of Cooperation
+Answer: A
+Why correct: The 'Logistics Ease Across Different States (LEADS) 2024' report was unveiled by the Ministry of Commerce & Industry.
+Why B is wrong: The Ministry of Finance does not publish the LEADS report.
+Why C is wrong: The Ministry of Ports, Shipping and Waterways is not the publishing ministry.
+Why D is wrong: The Ministry of Cooperation does not release LEADS.
+Note: LEADS assesses and ranks states/UTs on the efficiency of their logistics ecosystem.

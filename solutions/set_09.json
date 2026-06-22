@@ -1,0 +1,202 @@
+{
+  "21": {
+    "topic": "Polity & Constitution", "answer": "D",
+    "correct": "In a state, the Council of Ministers is collectively responsible to the State Legislative Assembly (the directly elected House), mirroring the Union arrangement with the Lok Sabha.",
+    "wrong": {
+      "A": "The President is the head of the Union, not the body to which a state ministry answers.",
+      "B": "The Supreme Court is a judicial body, not one to which ministers are politically responsible.",
+      "C": "The Governor is the constitutional head of the state but the ministry is responsible to the Assembly."
+    },
+    "fact": "Collective responsibility means if the Assembly passes a no-confidence motion, the entire Council of Ministers must resign."
+  },
+  "22": {
+    "topic": "Polity & Constitution", "answer": "B",
+    "correct": "Article 108 of the Constitution provides for a joint sitting of both Houses of Parliament to resolve a deadlock over an ordinary bill.",
+    "wrong": {
+      "A": "Article 107 deals with the introduction and passing of bills generally.",
+      "C": "Article 109 deals with the special procedure for Money Bills.",
+      "D": "Article 110 defines what a Money Bill is."
+    },
+    "fact": "A joint sitting is presided over by the Speaker of the Lok Sabha; it cannot be used for Money Bills or Constitutional Amendment Bills."
+  },
+  "23": {
+    "topic": "Art & Culture", "answer": "D",
+    "correct": "Indian folk and tribal music is mainly passed on through oral tradition - learned by listening and repetition across generations rather than from written scores.",
+    "wrong": {
+      "A": "Written notation is rare in folk traditions, which are largely unwritten.",
+      "B": "Audio recordings are a modern medium, not the traditional means of transmission.",
+      "C": "The Guru-Shishya tradition is central to classical music; folk/tribal music spreads more broadly through oral community practice."
+    },
+    "fact": "Oral transmission allows folk music to evolve and vary regionally over time."
+  },
+  "24": {
+    "topic": "Science & Technology", "answer": "B",
+    "correct": "The rolling of thunder is mainly due to the successive reflections of the sound of the lightning discharge from clouds, hills and the ground, which reach the listener at slightly different times.",
+    "wrong": {
+      "A": "Resonance of clouds is not the cause of the prolonged rumble.",
+      "C": "The lightning is the source of the sound, but the 'rolling' is from reflections.",
+      "D": "Interference of waves is not the principal reason for the rumbling sound."
+    },
+    "fact": "We see lightning before we hear thunder because light travels much faster than sound."
+  },
+  "25": {
+    "topic": "Geography", "answer": "C",
+    "correct": "The Aravalli Range runs in a north-east to south-west direction, extending from Delhi through Rajasthan towards Gujarat.",
+    "wrong": {
+      "A": "It does not run simply north to south.",
+      "B": "It does not run east to west.",
+      "D": "Its orientation is north-east to south-west, not north-west to south-east."
+    },
+    "fact": "The Aravallis are among the oldest fold mountains in the world; Guru Shikhar is their highest peak."
+  },
+  "26": {
+    "topic": "Geography", "answer": "A",
+    "correct": "The Rann of Kutch, a large seasonal salt marsh, is located in the state of Gujarat.",
+    "wrong": {
+      "B": "Maharashtra does not contain the Rann of Kutch.",
+      "C": "Rajasthan borders the region but the Rann itself is in Gujarat.",
+      "D": "Uttar Pradesh is in the northern plains, far from the Rann."
+    },
+    "fact": "The Great Rann of Kutch hosts the Rann Utsav and is a habitat for flamingoes and the wild ass."
+  },
+  "27": {
+    "topic": "Books & Authors", "answer": "B",
+    "correct": "'The Serpent and the Rope' was written by Raja Rao, one of the major figures of early Indian English literature.",
+    "wrong": {
+      "A": "R.K. Narayan wrote the Malgudi stories and 'The Guide'.",
+      "C": "Mulk Raj Anand wrote 'Untouchable' and 'Coolie'.",
+      "D": "Khushwant Singh wrote 'Train to Pakistan'."
+    },
+    "fact": "Raja Rao won the Sahitya Akademi Award for 'The Serpent and the Rope' (1964)."
+  },
+  "28": {
+    "topic": "Polity & Constitution", "answer": "B",
+    "correct": "Kerala elected the world's first democratically elected communist government in 1957, with E.M.S. Namboodiripad as Chief Minister.",
+    "wrong": {
+      "A": "West Bengal later had a long communist government but not the first one.",
+      "C": "Tripura's communist governments came much later.",
+      "D": "Andhra Pradesh did not elect the first communist government."
+    },
+    "fact": "The 1957 Kerala government was dismissed in 1959 using Article 356 (President's Rule)."
+  },
+  "29": {
+    "topic": "Economy", "answer": "B",
+    "correct": "In the World Happiness Report, 'healthy life expectancy' measures the expected number of years a person can live in good health.",
+    "wrong": {
+      "A": "The number of hospitals is an input, not the health outcome measured.",
+      "C": "The total fertility rate is a demographic measure, not health expectancy.",
+      "D": "Average years of schooling is an education indicator, not a health measure."
+    },
+    "fact": "Healthy life expectancy is one of the six key variables used to compute happiness scores."
+  },
+  "30": {
+    "topic": "Science & Technology", "answer": "B",
+    "correct": "Project NETRA (Network for Space Object Tracking and Analysis) gives ISRO the capability to track space debris and maintain space situational awareness to protect Indian satellites.",
+    "wrong": {
+      "A": "Deep-space communication is handled by the Deep Space Network, not NETRA.",
+      "C": "Human-rated life support is part of the Gaganyaan programme.",
+      "D": "Lunar-landing navigation is part of the Chandrayaan missions."
+    },
+    "fact": "Space situational awareness helps avoid collisions between satellites and orbital debris."
+  },
+  "31": {
+    "topic": "Sports", "answer": "C",
+    "correct": "The Indian men's hockey team won its last Olympic gold medal in 1980 at the Moscow Olympics.",
+    "wrong": {
+      "A": "1972 (Munich) - India won bronze, not gold.",
+      "B": "1976 (Montreal) - India did not win gold.",
+      "D": "1984 - India did not win an Olympic hockey medal."
+    },
+    "fact": "India has won 8 Olympic gold medals in field hockey, the most by any nation; the 1980 gold is the most recent."
+  },
+  "32": {
+    "topic": "Science & Technology", "answer": "B",
+    "correct": "India's planned mission to study Venus's thick atmosphere and greenhouse effect is Shukrayaan, a Venus Orbiter Mission.",
+    "wrong": {
+      "A": "LUPEX is the planned Lunar Polar Exploration mission (with Japan).",
+      "C": "Chandrayaan-4 is a lunar sample-return mission, not a Venus mission.",
+      "D": "MOM-2 (Mangalyaan-2) is aimed at Mars, not Venus."
+    },
+    "fact": "Venus has a runaway greenhouse effect, making it the hottest planet in the solar system despite being farther from the Sun than Mercury."
+  },
+  "33": {
+    "topic": "Current Affairs", "answer": "B",
+    "correct": "K. Sanjay Murthy was appointed the Comptroller and Auditor General (CAG) of India, taking charge in this period after Girish Chandra Murmu.",
+    "wrong": {
+      "A": "Girish Chandra Murmu was the previous CAG, not the newly appointed one.",
+      "C": "Vineet Pandey is not the appointee.",
+      "D": "Girish Chandra Tripathi is not the CAG named here."
+    },
+    "fact": "The CAG audits government accounts and is a key constitutional authority under Article 148."
+  },
+  "34": {
+    "topic": "Economy", "answer": "A",
+    "correct": "The reforms associated with Manmohan Singh as Finance Minister in 1991 are known for liberalization and structural adjustment - opening up the economy, reducing licensing and devaluing the rupee.",
+    "wrong": {
+      "B": "Banking reforms were a part, but the headline identity of the 1991 reforms is liberalization/structural adjustment.",
+      "C": "Agricultural reforms were not the focus of the 1991 package.",
+      "D": "Fiscal reforms were included, but the defining theme was broad liberalization."
+    },
+    "fact": "The 1991 reforms (LPG - Liberalization, Privatization, Globalization) followed a severe balance-of-payments crisis."
+  },
+  "35": {
+    "topic": "Economy", "answer": "D",
+    "correct": "The 1969 nationalization of 14 major banks was primarily aimed at extending credit to agriculture, small industries and other priority sectors, and spreading banking to rural areas.",
+    "wrong": {
+      "A": "Promoting exports was not the chief purpose of bank nationalization.",
+      "B": "Controlling inflation is a monetary-policy goal, not the main aim here.",
+      "C": "Reducing foreign investment was not the objective."
+    },
+    "fact": "Bank nationalization greatly expanded rural bank branches and priority-sector lending in India."
+  },
+  "36": {
+    "topic": "Economy", "answer": "D",
+    "correct": "The concept of comparative advantage in international trade was given by the economist David Ricardo.",
+    "wrong": {
+      "A": "Keynes is known for macroeconomics and demand management.",
+      "B": "Adam Smith gave the idea of absolute advantage (and the 'invisible hand').",
+      "C": "Hicks contributed to general-equilibrium and welfare economics."
+    },
+    "fact": "Comparative advantage shows that countries gain from trade even if one is less efficient at producing everything."
+  },
+  "37": {
+    "topic": "Economy", "answer": "D",
+    "correct": "Public-sector industries in India are fundamentally oriented towards wider socio-economic development objectives - employment, balanced regional growth and self-reliance - rather than pure profit.",
+    "wrong": {
+      "A": "They are not primarily export-driven.",
+      "B": "Profit maximization is not their exclusive motive.",
+      "C": "They are state-owned, not predominantly under foreign ownership."
+    },
+    "fact": "Public-sector undertakings were envisaged to occupy the 'commanding heights' of the economy after 1956."
+  },
+  "38": {
+    "topic": "Current Affairs", "answer": "A",
+    "correct": "As highlighted around 2024, about 77% of Indian children aged 6-23 months lacked adequate dietary diversity as defined by WHO standards.",
+    "wrong": {
+      "B": "12% greatly understates the proportion.",
+      "C": "90% overstates the reported figure.",
+      "D": "32% is lower than the reported share."
+    },
+    "fact": "Dietary diversity (eating from several food groups) is a key indicator of child nutrition."
+  },
+  "39": {
+    "topic": "History", "answer": "C",
+    "correct": "The East India Company annexed Punjab in 1849, after defeating the Sikhs in the Second Anglo-Sikh War.",
+    "wrong": {
+      "A": "1836 is too early; the Sikh kingdom under Ranjit Singh was still strong.",
+      "B": "1841 pre-dates the annexation.",
+      "D": "1856 was the year Awadh was annexed, not Punjab."
+    },
+    "fact": "After annexation, the famous Koh-i-Noor diamond was taken from the Lahore treasury to Britain."
+  },
+  "40": {
+    "topic": "History", "answer": "B",
+    "correct": "The Court of Directors of the East India Company sent the educational despatch known as Wood's Despatch in 1854, often called the 'Magna Carta of English education in India'.",
+    "wrong": {
+      "A": "1830 is before the despatch was issued.",
+      "C": "1861 is after Wood's Despatch.",
+      "D": "1875 is unrelated to Wood's Despatch."
+    },
+    "fact": "Wood's Despatch led to the establishment of the universities of Calcutta, Bombay and Madras in 1857."
+  }
+}

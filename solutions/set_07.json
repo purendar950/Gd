@@ -1,0 +1,204 @@
+{
+  "21": {
+    "topic": "Polity & Constitution", "answer": "A",
+    "correct": "The Governor has the power to summon, prorogue (end a session of) and dissolve the State Legislature, just as the President does for Parliament.",
+    "wrong": {
+      "B": "The Speaker presides over the Assembly's proceedings but cannot summon or prorogue it.",
+      "C": "The Chief Minister advises the Governor but does not hold this formal power.",
+      "D": "The President exercises this power for Parliament, not for a State Legislature."
+    },
+    "fact": "The Governor summons each session, and the gap between two sessions cannot exceed six months."
+  },
+  "22": {
+    "topic": "Polity & Constitution", "answer": "B",
+    "correct": "Disputes arising out of the election of the Vice-President of India are decided by the Supreme Court, whose decision is final.",
+    "wrong": {
+      "A": "The President does not adjudicate Vice-Presidential election disputes.",
+      "C": "The Election Commission conducts the election but does not settle disputes about it.",
+      "D": "Parliament elects the Vice-President but does not judge election disputes."
+    },
+    "fact": "Both Presidential and Vice-Presidential election disputes are heard exclusively by the Supreme Court (Article 71)."
+  },
+  "23": {
+    "topic": "Art & Culture", "answer": "B",
+    "correct": "Maand is a semi-classical folk style of singing that originated in Rajasthan, traditionally associated with royal courts and devotional/romantic themes.",
+    "wrong": {
+      "A": "Gujarat's folk traditions include Garba and Dandiya, not Maand.",
+      "C": "Haryana is known for Ragini folk songs, not Maand.",
+      "D": "Madhya Pradesh has folk forms like Bhagoria songs, not Maand."
+    },
+    "fact": "The famous song 'Kesariya Balam' is a well-known example of the Maand style."
+  },
+  "24": {
+    "topic": "Science & Technology", "answer": "C",
+    "opts": ["34.4 m", "22.5 m", "17.2 m", "10.6 m"],
+    "correct": "To hear a distinct echo, the reflected sound must return after at least 0.1 s; with sound speed about 344 m/s, the obstacle must be at least (344 x 0.1)/2 = 17.2 m away.",
+    "wrong": {
+      "A": "34.4 m is the total path (to and back), not the one-way minimum distance.",
+      "B": "22.5 m does not correspond to the 0.1-second persistence-of-hearing limit.",
+      "D": "10.6 m is too short; the echo would merge with the original sound."
+    },
+    "fact": "The 0.1-second limit comes from the persistence of sound in human ears."
+  },
+  "25": {
+    "topic": "Books & Authors", "answer": "C",
+    "correct": "Sidney Sheldon's novel 'The Other Side of Midnight' is set against the backdrop of the Second World War and features a tragic love story.",
+    "wrong": {
+      "A": "'Tell Me Your Dreams' deals with multiple personality disorder, not WWII.",
+      "B": "'If Tomorrow Comes' is a con-artist/revenge thriller.",
+      "D": "'Windmills of the Gods' is a political thriller about an ambassador."
+    },
+    "fact": "'The Other Side of Midnight' (1973) was one of Sheldon's biggest bestsellers and later filmed."
+  },
+  "26": {
+    "topic": "Geography", "answer": "B",
+    "correct": "India's northern plains are formed mainly from alluvial soil deposited by the Himalayan rivers (Indus, Ganga and Brahmaputra), making them highly fertile.",
+    "wrong": {
+      "A": "Black (regur) soil is found mainly on the Deccan trap region, not the northern plains.",
+      "C": "Laterite soil forms in high-rainfall tropical uplands.",
+      "D": "Red soil occurs over the crystalline rocks of the peninsular plateau."
+    },
+    "fact": "Alluvial soils are divided into the older 'bhangar' and the newer, more fertile 'khadar'."
+  },
+  "27": {
+    "topic": "Geography", "answer": "B",
+    "correct": "The Brahmaputra river forms Majuli, the world's largest river island, located in Assam.",
+    "wrong": {
+      "A": "The Ganga does not form Majuli.",
+      "C": "The Yamuna is a tributary of the Ganga and does not form this island.",
+      "D": "The Godavari is a peninsular river, unrelated to Majuli."
+    },
+    "fact": "Majuli is a centre of Assamese Vaishnavite (Satra) culture and is shrinking due to river erosion."
+  },
+  "28": {
+    "topic": "Sports", "answer": "C",
+    "correct": "Per the answer key, the athlete in option C broke the national record by completing the 5000 m race walk in under 20 minutes (19:24.48), a notable youth milestone.",
+    "wrong": {
+      "A": "Tushar Panwar is not credited with this particular sub-20-minute record.",
+      "B": "Yogita is not the record-setter for this event.",
+      "D": "Prashant Kumar is not associated with this 5000 m race-walk record."
+    },
+    "fact": "Race walking is a track-and-field event judged on technique - one foot must appear to stay in contact with the ground at all times."
+  },
+  "29": {
+    "topic": "Economy", "answer": "C",
+    "correct": "The 'Resolving Insolvency' indicator assesses the time taken, the cost involved, and the recovery rate achieved in resolving insolvency (bankruptcy) cases.",
+    "wrong": {
+      "A": "Government debt levels are a fiscal measure, not part of this indicator.",
+      "B": "Insurance cover for businesses is unrelated to insolvency resolution.",
+      "D": "Loan interest rates are a monetary variable, not what this indicator measures."
+    },
+    "fact": "In India, the Insolvency and Bankruptcy Code (IBC), 2016 sped up and streamlined insolvency resolution."
+  },
+  "30": {
+    "topic": "Science & Technology", "answer": "C",
+    "correct": "Per the question's framing, the planned Bharatiya Antariksha Station is intended to support a human presence in orbit - sustained station operations and related activities - rather than planetary or lunar missions.",
+    "wrong": {
+      "A": "Mars exploration is a separate ISRO objective, not the purpose of the space station.",
+      "B": "Lunar mapping is handled by the Chandrayaan missions.",
+      "D": "Deep-space communication is supported by ground networks, not the station's purpose."
+    },
+    "fact": "ISRO plans to establish the Bharatiya Antariksha Station (BAS) in stages following the Gaganyaan human-spaceflight programme."
+  },
+  "31": {
+    "topic": "Science & Technology", "answer": "B",
+    "correct": "In February 2025, ISRO successfully demonstrated ignition of the CE20 cryogenic engine in vacuum conditions at its engine-test facilities, an important capability for upper-stage performance.",
+    "wrong": {
+      "A": "The test was a vacuum ignition demonstration, not an in-orbit cryogenic restart.",
+      "C": "It was an engine test, not a human-rated life-support test.",
+      "D": "Solar-sail deployment is unrelated to this engine test."
+    },
+    "fact": "The CE20 is the indigenous cryogenic engine that powers the upper stage of India's LVM3 rocket."
+  },
+  "32": {
+    "topic": "Sports", "answer": "B",
+    "correct": "The Indian women's cricket team played its first Test match in 1976 (against the West Indies at Bangalore).",
+    "wrong": {
+      "A": "1973 is before India's women's team made its Test debut.",
+      "C": "1983 is the year India's men won the World Cup, unrelated to the women's Test debut.",
+      "D": "1986 is after the team had already started playing Tests."
+    },
+    "fact": "The Women's Cricket Association of India was formed in 1973, leading to the 1976 debut series."
+  },
+  "33": {
+    "topic": "Economy", "answer": "A",
+    "correct": "Dr Verghese Kurien is known as the 'Father of the White Revolution' in India for leading Operation Flood, which made India the world's largest milk producer.",
+    "wrong": {
+      "B": "Vikram Sarabhai is the father of the Indian space programme.",
+      "C": "Norman Borlaug is associated with the global Green Revolution in wheat.",
+      "D": "M.S. Swaminathan is called the father of India's Green Revolution."
+    },
+    "fact": "Kurien founded Amul and the cooperative dairy model at Anand, Gujarat."
+  },
+  "34": {
+    "topic": "Economy", "answer": "B",
+    "correct": "The Industrial Policy Resolution of 1956 classified industries into three categories (Schedules A, B and C), defining the roles of the public and private sectors.",
+    "wrong": {
+      "A": "It used three categories, not two.",
+      "C": "There were three schedules, not four.",
+      "D": "Five is not the number of categories under the 1956 resolution."
+    },
+    "fact": "Schedule A reserved key industries for the State; the 1956 resolution gave the public sector the 'commanding heights' of the economy."
+  },
+  "35": {
+    "topic": "Awards & Honours", "answer": "A",
+    "correct": "Per the answer key, the person in option A was honoured with the Knight Cross of the Order of the Dannebrog in 2025 in connection with strengthening India-Denmark relations.",
+    "wrong": {
+      "B": "Rajnath Singh, the Defence Minister, is not the recipient indicated here.",
+      "C": "Ashim Kumar Ghosh is not the awardee in this context.",
+      "D": "N. Chandrasekaran is not credited with this Danish honour."
+    },
+    "fact": "The Order of the Dannebrog is one of Denmark's oldest and most prestigious orders of chivalry."
+  },
+  "36": {
+    "topic": "Economy", "answer": "A",
+    "correct": "Under a contractionary fiscal policy the government reduces public expenditure and/or raises taxes to cut aggregate demand, typically to control inflation.",
+    "wrong": {
+      "B": "Printing more money is monetary expansion by the central bank, not fiscal policy.",
+      "C": "Cutting taxes is an expansionary fiscal measure.",
+      "D": "Increasing public expenditure is also expansionary, the opposite of contractionary."
+    },
+    "fact": "Fiscal policy concerns government spending and taxation, while monetary policy concerns money supply and interest rates."
+  },
+  "37": {
+    "topic": "Economy", "answer": "B",
+    "correct": "After agriculture, the Micro, Small and Medium Enterprises (MSME) sector is the second-largest source of employment in the Indian economy.",
+    "wrong": {
+      "A": "Large capital-intensive industries employ relatively few people.",
+      "C": "IT and software services are high-value but employ far fewer than MSMEs.",
+      "D": "Transport and logistics infrastructure is not the second-largest employer."
+    },
+    "fact": "MSMEs contribute roughly 30% of India's GDP and a large share of its exports."
+  },
+  "38": {
+    "topic": "Economy", "answer": "A",
+    "opts": ["32.94 crore", "38.94 crore", "42.94 crore", "22.94 crore"],
+    "correct": "As of 1 March 2025, India had about 32.94 crore active domestic LPG consumers, including 10.33 crore PMUY (Ujjwala) beneficiaries.",
+    "wrong": {
+      "B": "38.94 crore overstates the active-consumer figure cited.",
+      "C": "42.94 crore is too high.",
+      "D": "22.94 crore understates the number of active LPG consumers."
+    },
+    "fact": "The Pradhan Mantri Ujjwala Yojana (PMUY) provides free LPG connections to women from poor households."
+  },
+  "39": {
+    "topic": "History", "answer": "B",
+    "correct": "The Santhal rebellion (Santhal Hul) broke out around 1855 (1855-56) in present-day Jharkhand against oppressive moneylenders and British revenue officials.",
+    "wrong": {
+      "A": "1821 is too early for the Santhal rebellion.",
+      "C": "1885 is the year the Indian National Congress was founded, not the Santhal revolt.",
+      "D": "1903 is well after the Santhal uprising."
+    },
+    "fact": "The revolt was led by the brothers Sidhu and Kanhu Murmu."
+  },
+  "40": {
+    "topic": "History", "answer": "A",
+    "correct": "Serampore College, founded by Christian missionaries (the 'Serampore Trio' - Carey, Marshman and Ward), stood on the bank of the Hooghly river in Bengal.",
+    "wrong": {
+      "B": "The Yamuna flows through north India, not near Serampore.",
+      "C": "The Damodar is a different Bengal river, not the site of the college.",
+      "D": "The Mahananda is in north Bengal, not where Serampore College was founded."
+    },
+    "fact": "Serampore College (1818) was among the first institutions in Asia empowered to award university degrees."
+  }
+}
