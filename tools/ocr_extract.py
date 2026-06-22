@@ -60,10 +60,15 @@ def ocr_image(doc, obj, psm, cache):
     im = ImageOps.autocontrast(im)
     eng_t, eng_c = _ocr_data(im, psm, 'eng')
     hin_t, hin_c = _ocr_data(im, psm, 'hin')
-    if hin_c > eng_c:
-        res = (hin_t, 'hin', round(hin_c, 1))
-    else:
-        res = (eng_t, 'eng', round(eng_c, 1))
+    cands = [(eng_t, 'eng', eng_c), (hin_t, 'hin', hin_c)]
+    # If both English and Hindi are weak, the script may be a regional language
+    # (e.g. Bengali); try Bengali and keep it if it scores clearly higher.
+    if max(eng_c, hin_c) < 60:
+        for extra in ('ben', 'ori'):
+            xt, xc = _ocr_data(im, psm, extra)
+            cands.append((xt, extra, xc))
+    best = max(cands, key=lambda x: x[2])
+    res = (best[0], best[1], round(best[2], 1))
     cache[obj] = res
     return res
 
@@ -127,7 +132,8 @@ def main():
                     hl_tag = tagm
             langs = [lg for _, lg, _ in stem_parts] + \
                 [lg for _, lg, _ in diag_parts] + opt_langs
-            lang = 'hin' if langs.count('hin') > langs.count('eng') else 'eng'
+            langs = [lg for lg in langs if lg]
+            lang = max(set(langs), key=langs.count) if langs else 'eng'
             confs = [cf for _, _, cf in stem_parts] + \
                 [cf for _, _, cf in diag_parts] + opt_confs
             min_conf = round(min(confs), 1) if confs else 0.0
