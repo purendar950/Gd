@@ -1,0 +1,202 @@
+{
+  "21": {
+    "topic": "Polity & Constitution", "answer": "B",
+    "correct": "Citizenship provisions are contained in Part II of the Indian Constitution (Articles 5 to 11).",
+    "wrong": {
+      "A": "Part I deals with the Union and its territory.",
+      "C": "Part III contains the Fundamental Rights.",
+      "D": "Part IV contains the Directive Principles of State Policy."
+    },
+    "fact": "Parliament has the power to regulate citizenship by law; the Citizenship Act was enacted in 1955."
+  },
+  "22": {
+    "topic": "Polity & Constitution", "answer": "A",
+    "correct": "Under Article 3, Parliament has the power to form new states and to alter the areas, boundaries or names of existing states.",
+    "wrong": {
+      "B": "A State Legislature can only express its views; it cannot create states or alter boundaries.",
+      "C": "The Supreme Court interprets the law but does not redraw state boundaries.",
+      "D": "The President's prior recommendation is needed to introduce such a bill, but the power lies with Parliament."
+    },
+    "fact": "Such a bill can be introduced only on the President's recommendation and after seeking the views of the affected state."
+  },
+  "23": {
+    "topic": "Art & Culture", "answer": "B",
+    "correct": "Manipuri dance is predominantly devoted to Lord Krishna, especially the Raslila depicting Krishna and Radha.",
+    "wrong": {
+      "A": "Shiva is central to Nataraja imagery and some other forms, not Manipuri Raslila.",
+      "C": "Durga is not the principal deity of Manipuri dance.",
+      "D": "Ganesha is not the focus of Manipuri dance."
+    },
+    "fact": "Manipuri is one of the eight classical dance forms of India, known for its graceful, gentle movements."
+  },
+  "24": {
+    "topic": "Art & Culture", "answer": "B",
+    "correct": "Bhangra music is characterised by fast and energetic beats, traditionally driven by the dhol drum, reflecting its origin as a Punjabi harvest celebration.",
+    "wrong": {
+      "A": "Soft and melodic tunes do not describe the lively Bhangra.",
+      "C": "Bhangra has fast tempos, not slow complex rhythms.",
+      "D": "Bhangra combines singing and dance, not instrumental music only."
+    },
+    "fact": "Bhangra is traditionally performed during the Baisakhi harvest festival in Punjab."
+  },
+  "25": {
+    "topic": "Books & Authors", "answer": "C",
+    "correct": "The Jaipur Literature Festival began in 2006 and has grown into one of the world's largest free literary festivals.",
+    "wrong": {
+      "A": "2002 is before the festival started.",
+      "B": "2005 is incorrect.",
+      "D": "2008 is after the festival's first edition."
+    },
+    "fact": "The Jaipur Literature Festival is held annually at Diggi Palace in Jaipur, Rajasthan."
+  },
+  "26": {
+    "topic": "Geography", "answer": "B",
+    "correct": "The Ganga has the largest catchment (drainage) area of any Indian river, draining a vast basin across the northern plains.",
+    "wrong": {
+      "A": "The Godavari is the largest peninsular river but has a smaller basin than the Ganga.",
+      "C": "The Narmada's basin is far smaller.",
+      "D": "The Brahmaputra has a huge flow but a smaller catchment area within India than the Ganga."
+    },
+    "fact": "The Ganga basin is the largest river basin in India, covering about a quarter of the country's area."
+  },
+  "27": {
+    "topic": "Geography", "answer": "D",
+    "correct": "The Himalayas were formed at a convergent plate boundary, where the Indian Plate collided with and pushed under the Eurasian Plate.",
+    "wrong": {
+      "A": "At a divergent boundary plates move apart, forming rifts and mid-ocean ridges.",
+      "B": "At a transform boundary plates slide past each other (e.g. the San Andreas Fault).",
+      "C": "A hotspot creates volcanic chains (like Hawaii), not fold mountains like the Himalayas."
+    },
+    "fact": "The Indian Plate is still pushing north, so the Himalayas continue to rise by a few millimetres each year."
+  },
+  "28": {
+    "topic": "Science & Technology", "answer": "A",
+    "correct": "A day on Venus is longer than its year because Venus rotates on its axis very slowly - its single rotation (day) takes longer than one revolution around the Sun (year).",
+    "wrong": {
+      "B": "Venus actually revolves around the Sun faster than it spins, which is why the year is shorter.",
+      "C": "Venus does rotate, just extremely slowly.",
+      "D": "Venus does spin in the opposite (retrograde) direction, but the day-longer-than-year fact is due to its slow rotation."
+    },
+    "fact": "One Venus day equals about 243 Earth days, while a Venus year is about 225 Earth days."
+  },
+  "29": {
+    "topic": "History", "answer": "C",
+    "correct": "The Nagina Masjid inside the Agra Fort was built by Shah Jahan for the ladies of the royal household and has three domes.",
+    "wrong": {
+      "A": "The Moti Masjid in Agra Fort is a larger pearl mosque, not the private ladies' mosque described.",
+      "B": "The Mina Masjid was a tiny private mosque, not the three-domed ladies' mosque.",
+      "D": "The Jama Masjid at Agra stands outside the fort and was built for the public."
+    },
+    "fact": "Shah Jahan, who built the Taj Mahal, was a great Mughal patron of marble architecture."
+  },
+  "30": {
+    "topic": "Science & Technology", "answer": "C",
+    "correct": "Uranus has a magnetic field that is offset from the planet's centre and tilted by about 59 degrees to its rotational axis - highly unusual among the planets.",
+    "wrong": {
+      "A": "Earth's magnetic field is only slightly tilted (about 11 degrees) and roughly centred.",
+      "B": "Jupiter's field is strong but not tilted by ~59 degrees in this offset way.",
+      "D": "Saturn's magnetic axis is almost aligned with its rotation axis."
+    },
+    "fact": "Uranus's strange tilted, off-centre magnetic field may be generated in its icy mantle rather than a metallic core."
+  },
+  "31": {
+    "topic": "Sports", "answer": "A",
+    "correct": "A standard Olympic boxing bout consists of three rounds of three minutes each.",
+    "wrong": {
+      "B": "Four 2-minute rounds is not the Olympic format.",
+      "C": "Two 3-minute rounds is incorrect.",
+      "D": "Three 2-minute rounds is used in some women's formats historically, but the standard is three 3-minute rounds."
+    },
+    "fact": "Olympic boxing scoring is now done by judges on a 10-point must system."
+  },
+  "32": {
+    "topic": "Sports", "answer": "B",
+    "correct": "India won 22 medals in shooting at the Asian Games in Hangzhou (2023), its best-ever shooting haul at the Games.",
+    "wrong": {
+      "A": "18 understates India's shooting medal count at Hangzhou.",
+      "C": "19 is short of the actual total.",
+      "D": "21 is one fewer than the correct number."
+    },
+    "fact": "India won 28 gold medals and over 100 total medals overall at the 2023 Asian Games."
+  },
+  "33": {
+    "topic": "Science & Technology", "answer": "C",
+    "correct": "Blood is classified as connective tissue because its cells are suspended in a fluid matrix (plasma) and it connects and transports materials throughout the body.",
+    "wrong": {
+      "A": "Muscular tissue is contractile, unlike blood.",
+      "B": "Nervous tissue conducts impulses; blood does not.",
+      "D": "Epithelial tissue forms linings; blood is a fluid connective tissue."
+    },
+    "fact": "Plasma is the liquid matrix of blood, carrying red cells, white cells and platelets."
+  },
+  "34": {
+    "topic": "Science & Technology", "answer": "C",
+    "correct": "A pollen tube growing towards the ovule (in response to chemical signals from the ovary) is an example of chemotropism - growth directed by a chemical stimulus.",
+    "wrong": {
+      "A": "A shoot bending towards light is phototropism.",
+      "B": "A root growing downwards is geotropism (gravitropism).",
+      "D": "A leaf folding on touch (as in Mimosa) is thigmonasty/seismonasty, not chemotropism."
+    },
+    "fact": "Tropic movements are directional growth responses to stimuli such as light, gravity, water or chemicals."
+  },
+  "35": {
+    "topic": "Geography", "answer": "A",
+    "correct": "The Chipko Movement is associated with forest conservation - villagers (notably women) hugged trees to stop them being felled.",
+    "wrong": {
+      "B": "It was not about air pollution.",
+      "C": "It was not about wildlife trafficking.",
+      "D": "It was not a river-pollution movement."
+    },
+    "fact": "The Chipko Movement began in the 1970s in the Garhwal Himalayas; Sunderlal Bahuguna was a key leader."
+  },
+  "36": {
+    "topic": "Schemes & Government", "answer": "D",
+    "correct": "The Rs 6,000 crore One Nation One Subscription (ONOS) initiative funds access to scholarly journals from 1 January 2025 to 31 December 2027.",
+    "wrong": {
+      "A": "2032 is not the ONOS end date.",
+      "B": "2030 is incorrect.",
+      "C": "2029 is not the period specified."
+    },
+    "fact": "ONOS gives students and researchers in government institutions nationwide access to international research journals."
+  },
+  "37": {
+    "topic": "History", "answer": "A",
+    "correct": "The British forced peasants of Maharashtra (the Deccan) to grow cotton, especially to feed Britain's textile mills during the American Civil War shortage.",
+    "wrong": {
+      "B": "Tea was grown on plantations in Assam and the hills, not forced on Maharashtra's peasants.",
+      "C": "Jute cultivation was concentrated in Bengal.",
+      "D": "Barley was not the cash crop forced in Maharashtra."
+    },
+    "fact": "The cotton boom and bust contributed to peasant indebtedness behind the 1875 Deccan Riots."
+  },
+  "38": {
+    "topic": "History", "answer": "A",
+    "correct": "The World's Parliament of Religions was held in Chicago in 1893, where Swami Vivekananda delivered his famous address.",
+    "wrong": {
+      "B": "1895 is incorrect.",
+      "C": "1897 is the year Vivekananda founded the Ramakrishna Mission, not the Chicago address.",
+      "D": "1899 is after the event."
+    },
+    "fact": "Vivekananda began his 1893 speech with 'Sisters and Brothers of America', earning a standing ovation."
+  },
+  "39": {
+    "topic": "Sports", "answer": "B",
+    "correct": "P.V. Sindhu was the first Indian woman to win an Olympic silver medal, in badminton at the 2016 Rio Olympics.",
+    "wrong": {
+      "A": "Aanchal Thakur is a skier who won India's first international skiing medal, not an Olympic silver.",
+      "C": "Sania Mirza is a tennis great but did not win an Olympic silver.",
+      "D": "Dipa Karmakar narrowly missed a medal (4th) in gymnastics at Rio 2016."
+    },
+    "fact": "Sindhu later won bronze at the Tokyo 2020 Olympics, becoming a two-time Olympic medallist."
+  },
+  "40": {
+    "topic": "Current Affairs", "answer": "A",
+    "correct": "The 'Logistics Ease Across Different States (LEADS) 2024' report was unveiled by the Ministry of Commerce & Industry.",
+    "wrong": {
+      "B": "The Ministry of Finance does not publish the LEADS report.",
+      "C": "The Ministry of Ports, Shipping and Waterways is not the publishing ministry.",
+      "D": "The Ministry of Cooperation does not release LEADS."
+    },
+    "fact": "LEADS assesses and ranks states/UTs on the efficiency of their logistics ecosystem."
+  }
+}
