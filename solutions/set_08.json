@@ -1,0 +1,203 @@
+{
+  "21": {
+    "topic": "Polity & Constitution", "answer": "B",
+    "correct": "The Indian Constitution provides for three types of emergency: National Emergency (Article 352), State Emergency / President's Rule (Article 356) and Financial Emergency (Article 360).",
+    "wrong": {
+      "A": "Two understates the number; there are three kinds of emergency.",
+      "C": "Four is one more than the actual number of emergency provisions.",
+      "D": "Five is incorrect; only three emergency types exist."
+    },
+    "fact": "Emergency provisions are contained in Part XVIII of the Constitution and were borrowed from the German (Weimar) idea."
+  },
+  "22": {
+    "topic": "Polity & Constitution", "answer": "C",
+    "correct": "The Rajya Sabha is a permanent House that is never fully dissolved; one-third of its members retire every two years, and an equal number are freshly elected.",
+    "wrong": {
+      "A": "The President cannot dissolve the Rajya Sabha.",
+      "B": "The Prime Minister has no power to dissolve the Rajya Sabha.",
+      "D": "It is not dissolved every six years; rather, members serve six-year terms staggered so a third retire every two years."
+    },
+    "fact": "Because it is never dissolved, the Rajya Sabha is called a continuing or permanent chamber."
+  },
+  "23": {
+    "topic": "Art & Culture", "answer": "A",
+    "correct": "The Nati is a fast, lively folk dance performed in a circle by both men and women, popular in the Himalayan region (Himachal Pradesh).",
+    "wrong": {
+      "B": "It is a group dance, not a solo performance.",
+      "C": "It is not performed only by seated women.",
+      "D": "It does not use swords and shields."
+    },
+    "fact": "A large Kullu Nati once set a Guinness World Record as the largest folk dance."
+  },
+  "24": {
+    "topic": "Art & Culture", "answer": "B",
+    "correct": "Women performing the Bihu dance of Assam wear the Mekhela Chador, a traditional brightly coloured Assamese two-piece dress, with jewellery.",
+    "wrong": {
+      "A": "Heavily designed (zari) sarees are not the Bihu costume.",
+      "C": "Plain cotton clothing is not the festive Bihu attire.",
+      "D": "Salwar kameez is not the traditional Bihu dance costume."
+    },
+    "fact": "Bihu is the chief festival and folk dance of Assam, celebrating the agricultural cycle."
+  },
+  "25": {
+    "topic": "Geography", "answer": "B",
+    "correct": "The Ganga, together with the Brahmaputra, forms the world's largest delta - the Sundarbans delta - before emptying into the Bay of Bengal.",
+    "wrong": {
+      "A": "The Godavari forms a delta on the east coast but not the largest one.",
+      "C": "The Krishna's delta is also on the east coast and far smaller.",
+      "D": "The Yamuna is a tributary of the Ganga and does not directly form this delta."
+    },
+    "fact": "The Ganga-Brahmaputra delta covers parts of West Bengal (India) and Bangladesh."
+  },
+  "26": {
+    "topic": "Art & Culture", "answer": "C",
+    "correct": "Die Brücke ('The Bridge'), a pioneering group of German Expressionist artists, was founded in 1905 in Dresden.",
+    "wrong": {
+      "A": "1895 pre-dates the formation of the group.",
+      "B": "1925 is too late; the group had already dissolved by then.",
+      "D": "1915 is after Die Brücke's founding (and near its breakup)."
+    },
+    "fact": "Ernst Ludwig Kirchner was a leading figure of Die Brücke."
+  },
+  "27": {
+    "topic": "Geography", "answer": "C",
+    "correct": "The Great Nicobar Islands lie closest to Indonesia; Indira Point, India's southernmost point, is very near the Indonesian island of Sumatra.",
+    "wrong": {
+      "A": "Myanmar lies to the north of the Andaman & Nicobar chain, not closest to Great Nicobar.",
+      "B": "Sri Lanka is off the southern tip of mainland India, far from Great Nicobar.",
+      "D": "Bangladesh lies to the north, near the Ganga delta."
+    },
+    "fact": "Indira Point on Great Nicobar is only about 150 km from Indonesia's coast."
+  },
+  "28": {
+    "topic": "History", "answer": "A",
+    "correct": "Kuyili (Velu Nachiyar's army commander) is regarded as India's first woman martyr / suicide attacker, who set herself ablaze to destroy a British arsenal.",
+    "wrong": {
+      "B": "Lakshmi Sehgal led the INA's Rani of Jhansi regiment much later, in the 1940s.",
+      "C": "Matangini Hazra died in the 1942 Quit India Movement.",
+      "D": "Jhalkari Bai was a soldier in Rani Lakshmibai's army during 1857."
+    },
+    "fact": "Velu Nachiyar of Sivaganga was one of the earliest queens to wage war against the British (late 1700s)."
+  },
+  "29": {
+    "topic": "Science & Technology", "answer": "B",
+    "correct": "If the star is like our Sun and the exoplanet orbits at an Earth-like distance, its surface temperature would be roughly the same as Earth's, since temperature depends mainly on the star's output and the planet's distance.",
+    "wrong": {
+      "A": "It would be significantly hotter only if it orbited much closer to the star.",
+      "C": "It would be colder only if it were much farther from the star.",
+      "D": "Distance does affect temperature, so 'no effect of distance' is wrong."
+    },
+    "fact": "The zone around a star where temperatures allow liquid water is called the 'habitable' or 'Goldilocks' zone."
+  },
+  "30": {
+    "topic": "Art & Culture", "answer": "B",
+    "correct": "The Lakshmi Narayan Temple at Orchha is known for its unique blend of Hindu temple and Islamic (fort-like) architectural styles.",
+    "wrong": {
+      "A": "The Qutub Minar is an Indo-Islamic victory tower, not a temple blending the two styles.",
+      "C": "This option does not name the temple known for the blend.",
+      "D": "The Sun Temple at Konark is a purely Hindu (Kalinga-style) temple."
+    },
+    "fact": "Orchha, in Madhya Pradesh, was the capital of the Bundela Rajputs and is famous for its temples and palaces."
+  },
+  "31": {
+    "topic": "Science & Technology", "answer": "A",
+    "correct": "The slow precession (wobble) of the Earth's axis is caused mainly by the gravitational pull of the Sun and the Moon on the Earth's equatorial bulge.",
+    "wrong": {
+      "B": "The speed of Earth's rotation does not cause the axial precession.",
+      "C": "Variation in the orbit's shape (eccentricity) is a separate Milankovitch effect.",
+      "D": "The solar wind is far too weak to cause precession."
+    },
+    "fact": "One full precession cycle of the Earth's axis takes about 26,000 years."
+  },
+  "32": {
+    "topic": "Sports", "answer": "B",
+    "correct": "Argentina won the first FIBA Basketball World Cup, held in 1950 (in Argentina).",
+    "wrong": {
+      "A": "The United States did not win the inaugural 1950 World Cup.",
+      "C": "Brazil won later editions but not the first one.",
+      "D": "Uruguay did not win the inaugural World Cup."
+    },
+    "fact": "The tournament was renamed the FIBA Basketball World Cup (from World Championship) in 2014."
+  },
+  "33": {
+    "topic": "Sports", "answer": "B",
+    "correct": "FIDE stands for Fédération Internationale des Échecs (International Chess Federation), the world governing body of chess.",
+    "wrong": {
+      "A": "'Federation of International Digital Events' is a made-up expansion.",
+      "C": "'First International Dual Enterprise' is not what FIDE means.",
+      "D": "'Federation of Indian Domestic Events' is incorrect."
+    },
+    "fact": "FIDE was founded in Paris in 1924 and organises the World Chess Championship."
+  },
+  "34": {
+    "topic": "Science & Technology", "answer": "C",
+    "correct": "Suberin is the waxy substance deposited in the cell walls of cork (and the root endodermis), making them impermeable to water and gases.",
+    "wrong": {
+      "A": "Cutin forms the protective cuticle on leaf surfaces, but the cell-wall waterproofing substance asked here is suberin.",
+      "B": "Lignin provides rigidity to woody tissues but does not chiefly make cells gas/water-impermeable.",
+      "D": "Cellulose is the main structural carbohydrate of cell walls but is permeable to water."
+    },
+    "fact": "Suberin in the Casparian strip of the root controls water and mineral uptake into the plant."
+  },
+  "35": {
+    "topic": "Science & Technology", "answer": "B",
+    "correct": "A mitochondrion is bounded by two membranes - a smooth outer membrane and a folded inner membrane (whose folds are called cristae).",
+    "wrong": {
+      "A": "It has two membranes, not one.",
+      "C": "Three is incorrect; mitochondria are double-membraned.",
+      "D": "Four membranes is wrong."
+    },
+    "fact": "The inner-membrane folds (cristae) increase surface area for ATP (energy) production."
+  },
+  "36": {
+    "topic": "Geography", "answer": "A",
+    "correct": "By area, Madhya Pradesh has the largest forest cover among Indian states.",
+    "wrong": {
+      "B": "Assam has substantial forests but less total forest area than Madhya Pradesh.",
+      "C": "Arunachal Pradesh has a very high percentage of forest cover but a smaller total area than MP.",
+      "D": "Chhattisgarh has large forests but ranks below Madhya Pradesh in total forest area."
+    },
+    "fact": "As a percentage of geographical area, the north-eastern states (like Mizoram) lead, but in absolute area Madhya Pradesh is first."
+  },
+  "37": {
+    "topic": "Current Affairs", "answer": "A",
+    "correct": "Per the government notification scrapping the 'no-detention policy' for Classes 5 and 8, students who fail the year-end exam are given extra coaching and a re-test within 2 months of the result.",
+    "wrong": {
+      "B": "5 months is not the period specified.",
+      "C": "6 months is incorrect.",
+      "D": "4 months is not the prescribed re-examination window."
+    },
+    "fact": "The change lets schools hold back students who fail even after the re-test, reversing automatic promotion."
+  },
+  "38": {
+    "topic": "History", "answer": "B",
+    "correct": "Under the Permanent Settlement (introduced by Lord Cornwallis in 1793), the zamindars' chief duty was to collect rent from the peasants and pay a fixed revenue to the Company.",
+    "wrong": {
+      "A": "Zamindars were intermediaries who collected rent, not cultivators of the land themselves.",
+      "C": "Trading goods with the British was not the zamindar's defined duty.",
+      "D": "Managing trade routes was not part of the Permanent Settlement obligations."
+    },
+    "fact": "The Permanent Settlement fixed the land revenue permanently, but harsh terms often ruined both zamindars and peasants."
+  },
+  "39": {
+    "topic": "History", "answer": "A",
+    "correct": "The British generally used the term 'vernacular' to refer to the local language or dialect of the people.",
+    "wrong": {
+      "B": "This option does not denote a local language.",
+      "C": "'Federal' refers to a system of government, not a local language.",
+      "D": "A 'linguist' is a person who studies languages, not the term for the local tongue."
+    },
+    "fact": "The Vernacular Press Act of 1878 was used to muzzle Indian-language newspapers."
+  },
+  "40": {
+    "topic": "Current Affairs", "answer": "A",
+    "opts": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+    "correct": "Transparency International does NOT publish the Democracy Index (Statement I) - that is published by the Economist Intelligence Unit. Transparency International does publish the Corruption Perceptions Index (Statement II). So the correct choice is 'Only I'.",
+    "wrong": {
+      "B": "'Only II' is wrong because TI does publish the Corruption Perceptions Index.",
+      "C": "'Both I and II' is wrong since TI does publish the Corruption Perceptions Index.",
+      "D": "'Neither' is wrong because TI does not publish the Democracy Index."
+    },
+    "fact": "Transparency International is best known for its annual Corruption Perceptions Index (CPI)."
+  }
+}
