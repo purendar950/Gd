@@ -1,0 +1,206 @@
+{
+  "21": {
+    "topic": "Polity & Constitution", "answer": "B",
+    "opts": ["5th Schedule", "7th Schedule", "9th Schedule", "10th Schedule"],
+    "correct": "The Seventh Schedule of the Constitution divides legislative powers between the Union and the States through three lists - the Union List, the State List and the Concurrent List.",
+    "wrong": {
+      "A": "The Fifth Schedule deals with the administration of Scheduled Areas and Scheduled Tribes.",
+      "C": "The Ninth Schedule contains laws protected from judicial review (mainly land-reform laws).",
+      "D": "The Tenth Schedule contains the anti-defection provisions."
+    },
+    "fact": "The Union List has the most subjects, and on the Concurrent List a Union law prevails over a conflicting State law."
+  },
+  "22": {
+    "topic": "Polity & Constitution", "answer": "C",
+    "correct": "The Governor is administered the oath of office by the Chief Justice of the High Court of that state (or, in his absence, the senior-most judge available).",
+    "wrong": {
+      "A": "The President appoints the Governor but does not administer the oath.",
+      "B": "The Prime Minister has no role in swearing in a Governor.",
+      "D": "The Chief Minister is himself sworn in by the Governor, not the other way round."
+    },
+    "fact": "The President, by contrast, is sworn in by the Chief Justice of India."
+  },
+  "23": {
+    "topic": "Art & Culture", "answer": "A",
+    "correct": "The defining feature of the Tippani dance (Gujarat) is the use of long sticks called 'tippani', which the women dancers strike rhythmically on the ground while dancing.",
+    "wrong": {
+      "B": "Sword-and-shield fencing describes martial dances like Paika, not Tippani.",
+      "C": "Tippani is a lively group dance, not a slow solo performance.",
+      "D": "Circular use of a handkerchief is not a feature of the Tippani dance."
+    },
+    "fact": "The dance grew out of the labour of women who pounded floors firm with the tippani stick."
+  },
+  "24": {
+    "topic": "Art & Culture", "answer": "B",
+    "correct": "Kalbeliya is the traditional folk dance of Rajasthan, performed by the Kalbeliya (snake-charmer) community; it is on UNESCO's Intangible Cultural Heritage list.",
+    "wrong": {
+      "A": "Gujarat is known for Garba and Dandiya, not Kalbeliya.",
+      "C": "Punjab's signature folk dances are Bhangra and Gidda.",
+      "D": "Maharashtra is associated with Lavani and Tamasha."
+    },
+    "fact": "Kalbeliya dancers wear flowing black skirts and move in serpentine patterns imitating a snake."
+  },
+  "25": {
+    "topic": "Geography", "answer": "A",
+    "correct": "Nathu La is a high mountain pass in Sikkim that connects India with Tibet (China) and lies on an old branch of the Silk Route.",
+    "wrong": {
+      "B": "Rohtang Pass is in Himachal Pradesh, linking the Kullu valley with Lahaul-Spiti.",
+      "C": "Shipki La is a pass in Himachal Pradesh, not Sikkim.",
+      "D": "Zoji La connects Srinagar with Leh in the Ladakh region."
+    },
+    "fact": "Nathu La was reopened for border trade in 2006 after being closed since the 1962 war."
+  },
+  "26": {
+    "topic": "Geography", "answer": "B",
+    "correct": "Mawsynram in Meghalaya receives the highest average rainfall in India (and the world), as the funnel-shaped Khasi hills force monsoon winds to rise and drop heavy rain.",
+    "wrong": {
+      "A": "The Kerala coast gets heavy monsoon rain but far less than Mawsynram.",
+      "C": "The Konkan coast is wet but does not match Mawsynram's totals.",
+      "D": "Western Rajasthan (Thar desert) is one of the driest parts of India."
+    },
+    "fact": "Nearby Cherrapunji (Sohra) also records extremely high rainfall, both fed by the same Khasi-hill orographic effect."
+  },
+  "27": {
+    "topic": "Books & Authors", "answer": "C",
+    "correct": "'Ghare-Baire' (The Home and the World), which critically examines the Swadeshi movement, was written by Rabindranath Tagore.",
+    "wrong": {
+      "A": "Bankim Chandra Chattopadhyay wrote 'Anandamath' and 'Vande Mataram', from an earlier generation.",
+      "B": "Sarat Chandra Chattopadhyay wrote novels like 'Devdas' and 'Parineeta'.",
+      "D": "Bhabani Bhattacharya was a later English-language Indian novelist."
+    },
+    "fact": "Tagore won the Nobel Prize for Literature in 1913, the first non-European to do so."
+  },
+  "28": {
+    "topic": "History", "answer": "A",
+    "correct": "Suniti Choudhury, a teenage revolutionary, was about 14 when she (with Shanti Ghosh) shot dead the British magistrate of Comilla in 1931.",
+    "wrong": {
+      "B": "Tara Rani Srivastava was a Quit-India-movement activist, not the magistrate's assassin.",
+      "C": "Matangini Hazara was a Gandhian who died in the 1942 movement.",
+      "D": "Aruna Asaf Ali is famous for hoisting the flag during the 1942 Quit India Movement."
+    },
+    "fact": "Suniti Choudhury was among the youngest revolutionaries imprisoned in the Indian freedom struggle."
+  },
+  "29": {
+    "topic": "Art & Culture", "answer": "C",
+    "correct": "Puducherry (Pondicherry) is famous for its French Quarter, where colonial French and Indian (Tamil) architectural styles blend in its streets and buildings.",
+    "wrong": {
+      "A": "Mumbai is known for Gothic, Art-Deco and Indo-Saracenic architecture, not a French quarter.",
+      "B": "Kolkata reflects British colonial architecture.",
+      "D": "Chennai (Madras) has British and Indo-Saracenic buildings, not a French quarter."
+    },
+    "fact": "Puducherry was a French colony until 1954 and still has French-named streets and a French institute."
+  },
+  "30": {
+    "topic": "Science & Technology", "answer": "A",
+    "correct": "Uranus has an axial tilt of about 98 degrees, so it rotates almost on its side; this produces extreme seasonal variation, with each pole facing the Sun continuously for about 42 years.",
+    "wrong": {
+      "B": "With such an extreme tilt there are very strong seasonal changes, not none.",
+      "C": "The seasons are extreme, not mild.",
+      "D": "While a pole does get long days, the overall effect is extreme seasonal change, which option A captures best."
+    },
+    "fact": "Uranus's extreme tilt is thought to have resulted from a massive collision early in the solar system's history."
+  },
+  "31": {
+    "topic": "Science & Technology", "answer": "B",
+    "opts": ["Immediately", "After 100 years", "After 1 year", "Never"],
+    "correct": "Light from a star 100 light-years away takes 100 years to reach Earth, so if the star explodes now, we would see the explosion only after 100 years.",
+    "wrong": {
+      "A": "Light is not instantaneous; it travels at a finite speed.",
+      "C": "One year is far too short for light to cross 100 light-years.",
+      "D": "We will eventually see it - after the 100-year light-travel time."
+    },
+    "fact": "Because of this delay, when we look at distant stars we are effectively seeing them as they were in the past."
+  },
+  "32": {
+    "topic": "Sports", "answer": "B",
+    "opts": ["2008, Beijing", "2012, London", "2016, Rio de Janeiro", "2020, Tokyo"],
+    "correct": "Boxer Mary Kom won a bronze medal at the 2012 London Olympics, becoming the first Indian woman boxer to win an Olympic medal.",
+    "wrong": {
+      "A": "Women's boxing was not part of the 2008 Beijing Olympics.",
+      "C": "Mary Kom did not win a medal at Rio 2016.",
+      "D": "She did not medal at Tokyo 2020."
+    },
+    "fact": "Mary Kom is a six-time World Amateur Boxing champion, an achievement unmatched by any other boxer."
+  },
+  "33": {
+    "topic": "Sports", "answer": "C",
+    "correct": "India won 7 medals at the Tokyo 2020 Olympics (1 gold, 2 silver, 4 bronze) - its best-ever Olympic medal haul.",
+    "wrong": {
+      "A": "5 understates India's Tokyo tally.",
+      "B": "6 is one short of the actual count.",
+      "D": "8 is one more than India actually won."
+    },
+    "fact": "Neeraj Chopra's javelin gold at Tokyo 2020 was India's first-ever Olympic gold in athletics."
+  },
+  "34": {
+    "topic": "Science & Technology", "answer": "B",
+    "correct": "Bone is a type of connective tissue - it connects and supports other tissues and has a hard matrix of collagen and calcium salts.",
+    "wrong": {
+      "A": "Muscular tissue is made of contractile fibres for movement.",
+      "C": "Nervous tissue transmits electrical impulses.",
+      "D": "Epithelial tissue forms protective linings and coverings."
+    },
+    "fact": "Other connective tissues include blood, cartilage and adipose (fat) tissue."
+  },
+  "35": {
+    "topic": "Science & Technology", "answer": "D",
+    "correct": "The primary function of the chloroplast is photosynthesis - it contains chlorophyll, which captures sunlight to make food (glucose) from carbon dioxide and water.",
+    "wrong": {
+      "A": "Starch storage is a secondary role; the chloroplast's main job is photosynthesis.",
+      "B": "Protein synthesis is carried out by ribosomes.",
+      "C": "Energy production by respiration is the work of mitochondria, not chloroplasts."
+    },
+    "fact": "Chloroplasts are found only in plant cells and some algae, giving plants their green colour."
+  },
+  "36": {
+    "topic": "Geography", "answer": "B",
+    "correct": "The Western Ghats are a UNESCO World Heritage Site because of their exceptionally rich biodiversity and high number of endemic (found-nowhere-else) species.",
+    "wrong": {
+      "A": "They are recognised for biodiversity, not for mineral resources.",
+      "C": "Their listing is natural, not for ancient monuments.",
+      "D": "It is a natural heritage site, not listed for cultural significance."
+    },
+    "fact": "The Western Ghats are one of the world's eight 'hottest hotspots' of biological diversity."
+  },
+  "37": {
+    "topic": "Schemes & Government", "answer": "A",
+    "correct": "In June 2024, the Union Cabinet approved construction of an additional 2 crore houses under PMAY-Gramin for the period 2024-25 to 2028-29.",
+    "wrong": {
+      "B": "3 crore is not the additional figure approved for PMAY-G in this decision.",
+      "C": "4 crore overstates the approved number.",
+      "D": "5 crore is far higher than the sanctioned additional target."
+    },
+    "fact": "PMAY-G aims to provide pucca houses with basic amenities to all eligible rural households."
+  },
+  "38": {
+    "topic": "History", "answer": "B",
+    "correct": "Begum Hazrat Mahal led and inspired the 1857 revolt against the British in Lucknow (Awadh), fighting on behalf of her young son Birjis Qadr.",
+    "wrong": {
+      "A": "Nana Saheb led the revolt at Kanpur, not Lucknow.",
+      "C": "Rani Lakshmibai led the uprising at Jhansi.",
+      "D": "Bahadur Shah Zafar was the symbolic leader at Delhi, not Lucknow."
+    },
+    "fact": "After the revolt failed, Begum Hazrat Mahal took refuge in Nepal, where she died in 1879."
+  },
+  "39": {
+    "topic": "History", "answer": "B",
+    "opts": ["June 1857", "September 1857", "March 1858", "July 1858"],
+    "correct": "The British recaptured Delhi from the rebels in September 1857, after a prolonged siege, ending the symbolic centre of the revolt.",
+    "wrong": {
+      "A": "In June 1857 the revolt was still spreading; Delhi was in rebel hands.",
+      "C": "By March 1858 the focus had shifted to Lucknow's recapture.",
+      "D": "July 1858 is after Delhi had already fallen."
+    },
+    "fact": "After Delhi's fall, Bahadur Shah Zafar was captured and later exiled to Rangoon."
+  },
+  "40": {
+    "topic": "Current Affairs", "answer": "A",
+    "correct": "According to the SIPRI report on arms transfers (2020-24), Asia and Oceania accounted for about 33% of all global arms imports, the largest regional share.",
+    "wrong": {
+      "B": "50% overstates the region's share of arms imports.",
+      "C": "74% is far too high.",
+      "D": "81% is not the reported figure."
+    },
+    "fact": "SIPRI (Stockholm International Peace Research Institute) tracks global military spending and arms transfers."
+  }
+}
