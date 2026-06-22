@@ -13497,3 +13497,1503 @@ Why A is wrong: UNESCO did not publish it.
 Why B is wrong: The IMF did not publish it.
 Why D is wrong: The World Bank did not publish it.
 Note: The WTO regularly publishes forecasts and statistics on world merchandise and services trade.
+
+==============================================================================
+Set 46 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: सर्वोच्च न्यायालय के न्यायाधीश को हटाने की प्रक्रिया को किस नाम से जाना जाता है?
+   A) प्रत्याह्ला (रिकॉल)
+   B) न्यायिक समीक्षा
+   C) महाभियोग  <-- CORRECT
+   D) राष्ट्रपति द्वारा बर्खास्तगी
+Answer: C
+Why correct: The process to remove a judge of the Supreme Court is known as impeachment (removal by Parliament on grounds of proven misbehaviour or incapacity).
+Why A is wrong: 'Recall' is not the constitutional process for judges.
+Why B is wrong: Judicial review is the courts' power to examine laws, not a removal process.
+Why D is wrong: The President cannot dismiss a judge at will.
+Note: A judge can be removed only by a special-majority address of both Houses of Parliament (Article 124).
+
+==============================================================================
+Set 46 | Q.No 22 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: किस समिति ने मौलिक कर्तव्यों की सिफारिश की थी?
+   A) स्वर्ण सिंह समिति  <-- CORRECT
+   B) राजमन्नार समिति
+   C) सरकारिया समिति
+   D) बलवंत राय मेहता समिति
+Answer: A
+Why correct: The Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties in the Constitution.
+Why B is wrong: The Rajamannar Committee dealt with Centre-State relations (Tamil Nadu).
+Why C is wrong: The Sarkaria Commission examined Centre-State relations.
+Why D is wrong: The Balwant Rai Mehta Committee recommended Panchayati Raj.
+Note: Fundamental Duties were added by the 42nd Amendment (1976) as Article 51A.
+
+==============================================================================
+Set 46 | Q.No 23 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: राष्ट्रपति और उपराष्ट्रपति दोनों पदों पर रिक्ति की स्थिति में, राष्ट्रपति के रूप में कौन कार्य करता है?
+   A) किसी राज्य के राज्यपाल
+   B) भारत के मुख्य न्यायाधीश  <-- CORRECT
+   C) महान्यायवादी
+   D) प्रधानमंत्री
+Answer: B
+Why correct: If both the offices of President and Vice-President are vacant, the Chief Justice of India acts as the President.
+Why A is wrong: A state Governor does not act as President.
+Why C is wrong: The Attorney General does not act as President.
+Why D is wrong: The Prime Minister does not act as President.
+Note: This was the situation when CJI M. Hidayatullah acted as President in 1969.
+
+==============================================================================
+Set 46 | Q.No 24 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: राग तरंगिनी ग्रंथ के लेखक कौन हैं?
+   A) Pt. Ahobala
+   B) Pt. Sharngadeva
+   C) Pt. Lochana  <-- CORRECT
+   D) Pt. Bhatkhande
+Answer: C
+Why correct: The text 'Raga Tarangini' was written by Pandit Lochana (Locana Kavi).
+Why A is wrong: Pt. Ahobala wrote the 'Sangita Parijata'.
+Why B is wrong: Sharngadeva wrote the 'Sangita Ratnakara'.
+Why D is wrong: Pt. Bhatkhande was a modern musicologist who systematised Hindustani thaats.
+Note: Raga Tarangini is valued for recording many ragas still in use today.
+
+==============================================================================
+Set 46 | Q.No 25 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सी घटना गुरुत्वाकर्षण के सार्वभौमिक नियम द्वारा समझाई गई है?
+   A) सूर्य में नाभिकीय संलयन
+   B) चंद्रमा और सूर्य के कारण ज्वार-भाटा  <-- CORRECT
+   C) ध्रुवों के बीच चुंबकीय आकर्षण
+   D) नाभिक के चारों ओर इलेक्ट्रॉनों की गति
+Answer: B
+Why correct: The rise and fall of ocean tides is explained by the universal law of gravitation - the gravitational pull of the Moon and the Sun on the oceans.
+Why A is wrong: Nuclear fusion in the Sun is a nuclear process, not gravitational.
+Why C is wrong: Magnetic attraction between poles is magnetism, not gravity.
+Why D is wrong: Electron motion around the nucleus is governed by electromagnetic forces.
+Note: The Moon's gravity is the main cause of tides, with the Sun contributing too.
+
+==============================================================================
+Set 46 | Q.No 26 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: किसी वस्तु का द्रव्यमान क्या मापता है?
+   A) इसका वजन
+   B) इसकी जड़ता  <-- CORRECT
+   C) इसका आयतन
+   D) इसका घनत्व
+Answer: B
+Why correct: The mass of an object measures its inertia - its resistance to a change in its state of motion.
+Why A is wrong: Weight is the force of gravity on the object, not the same as mass.
+Why C is wrong: Volume is the space it occupies.
+Why D is wrong: Density is mass per unit volume.
+Note: Mass is constant everywhere, while weight changes with gravity.
+
+==============================================================================
+Set 46 | Q.No 27 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: उत्तरी गोलार्ध में सबसे बड़ा दिन कब होता है?
+   A) वसंत विषुव
+   B) शरद विषुव
+   C) दक्षिण अयनांत
+   D) उत्तर अयनांत  <-- CORRECT
+Answer: D
+Why correct: The longest day in the Northern Hemisphere occurs at the summer solstice (around 21 June), when the Sun is overhead at the Tropic of Cancer.
+Why A is wrong: The spring equinox has equal day and night.
+Why B is wrong: The autumn equinox has equal day and night.
+Why C is wrong: The winter (southern) solstice gives the shortest day in the north.
+Note: At the June solstice the North Pole is tilted most towards the Sun.
+
+==============================================================================
+Set 46 | Q.No 28 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: किस देश ने चांद के दूसरे हिस्से पर पहला रोवर उतारा?
+   A) यू एस ए
+   B) चीन  <-- CORRECT
+   C) भारत
+   D) रूस
+Answer: B
+Why correct: China was the first country to land a rover on the far side of the Moon (Chang'e-4, 2019).
+Why A is wrong: The USA has landed on the near side, not the first far-side rover.
+Why C is wrong: India's Chandrayaan-3 landed near the south pole (near side region), not the first far side.
+Why D is wrong: Russia did not achieve the first far-side rover landing.
+Note: The far side of the Moon always faces away from Earth, requiring a relay satellite for communication.
+
+==============================================================================
+Set 46 | Q.No 29 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत का पहला व्यक्तिगत ओलंपिक स्वर्ण पदक विजेता कौन है?
+   A) Vijay Kumar
+   B) Abhinav Bindra  <-- CORRECT
+   C) Leander Paes
+   D) Sushil Kumar
+Answer: B
+Why correct: Abhinav Bindra won India's first individual Olympic gold medal (10 m air rifle) at Beijing 2008.
+Why A is wrong: Vijay Kumar won a silver (2012), not the first individual gold.
+Why C is wrong: Leander Paes won a bronze (1996).
+Why D is wrong: Sushil Kumar won wrestling medals but not the first individual gold.
+Note: Bindra's 2008 gold was India's first individual Olympic gold of any kind.
+
+==============================================================================
+Set 46 | Q.No 30 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: 99 से पहले किस क्षेत्र को लाइसेंसिंग, कोटा और मूल्य नियंत्रण के माध्यम से भारी विनियमन का सामना करना पड़ा था?
+   A) कृषि
+   B) उपभोक्ता और लघु उद्योग
+   C) भारी उद्योग  <-- CORRECT
+   D) केवल बैंकिंग
+Answer: C
+Why correct: Before 1991, heavy industry faced heavy regulation through licensing, quotas and price controls (the 'Licence Raj').
+Why A is wrong: Agriculture was less affected by industrial licensing.
+Why B is wrong: Consumer/small industry was regulated but heavy industry bore the brunt.
+Why D is wrong: It was not limited to banking.
+Note: The 1991 reforms abolished industrial licensing for most industries.
+
+==============================================================================
+Set 46 | Q.No 31 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: 720 क्रिकेट में पावरप्ले के बाद 30 गज के घेरे के बाहर कितने फील्डर को अनुमति दी जाती है?
+   A) 4
+   B) 5  <-- CORRECT
+   C) 3
+   D) 6
+Answer: B
+Why correct: In T20 cricket, after the powerplay, a maximum of 5 fielders are allowed outside the 30-yard circle.
+Why A is wrong: 4 is not the post-powerplay limit.
+Why C is wrong: 3 is incorrect.
+Why D is wrong: 6 is too many.
+Note: During the T20 powerplay (first 6 overs), only 2 fielders are allowed outside the circle.
+
+==============================================================================
+Set 46 | Q.No 32 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: पर्यावरण अध्ययन हेतु सेटेलाइट रिमोट सेंसिंग के प्रबंधन के लिए निम्न में से कौन-सी भारतीय एजेंसी उत्तरदायी है?
+   A) एफएसआई - भारतीय वन सर्वेक्षण
+   B) सीपीसीबी - केंद्रीय प्रदूषण नियंत्रण बोर्ड
+   C) इसरो - भारतीय अंतरिक्ष अनुसंधान संगठन  <-- CORRECT
+   D) एमओईएफसीसी - पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय
+Answer: C
+Why correct: ISRO (Indian Space Research Organisation) is responsible for managing satellite remote sensing for environmental studies.
+Why A is wrong: The FSI does forest surveys but does not manage satellites.
+Why B is wrong: The CPCB monitors pollution, not satellites.
+Why D is wrong: The MoEFCC is a ministry, not the satellite-operating agency.
+Note: ISRO's remote-sensing satellites support agriculture, forestry, water and disaster management.
+
+==============================================================================
+Set 46 | Q.No 33 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: डेक्नन एयरवेज का राष्ट्रीयकरण किस वर्ष में किया गया था?
+   A) 1949
+   B) 1951
+   C) 1955
+   D) 1953  <-- CORRECT
+Answer: D
+Why correct: Deccan Airways (along with other private airlines) was nationalised in 1953 under the Air Corporations Act.
+Why A is wrong: 1949 is incorrect.
+Why B is wrong: 1951 is incorrect.
+Why C is wrong: 1955 is incorrect.
+Note: The 1953 nationalisation created Indian Airlines (domestic) and Air India (international).
+
+==============================================================================
+Set 46 | Q.No 34 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: करतारपुर किस नदी के पास स्थित है?
+   A) गंगा
+   B) रावी  <-- CORRECT
+   C) यमुना
+   D) सतलज
+Answer: B
+Why correct: Kartarpur (the Sikh shrine) is located near the Ravi river (in Pakistan, close to the Indian border).
+Why A is wrong: It is not near the Ganga.
+Why C is wrong: It is not near the Yamuna.
+Why D is wrong: It is not near the Sutlej.
+Note: The Kartarpur Corridor connects the shrine to Indian pilgrims across the border.
+
+==============================================================================
+Set 46 | Q.No 35 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: दिसंबर 2024 में आईसीएआर-सेंट्रल इंस्टीट्यूट ऑफ फ्रेशवाटर एक्वाकल्चर (सी.आई.एफ.ए.) द्वारा कौन सा ऐप विकसित किया गया है?
+   A) मत्स्य मित्र
+   B) जल संवर्धन
+   C) रंगीन मछली  <-- CORRECT
+   D) एक्वा सुरक्षा
+Answer: C
+Why correct: In December 2024, ICAR-CIFA developed the 'Rangeen Machhli' (ornamental fish) app.
+Why A is wrong: 'Matsya Mitra' is not the app developed here.
+Why B is wrong: 'Jal Samvardhan' is not the app.
+Why D is wrong: 'Aqua Suraksha' is not the app.
+Note: CIFA (Bhubaneswar) is the Central Institute of Freshwater Aquaculture.
+
+==============================================================================
+Set 46 | Q.No 36 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा दी गई जानकारी के अनुसार सही है? की “यह एक दिन में दो बार नियम से महासागरीय जल का उठना एवं गिरना है। इसका कारण सूर्य एवं चंद्रमा द्वारा पृथ्वी की सतह पर लगाया गया शक्तिशाली गुरुत्वाकर्षण बल है।"
+   A) सुनामी
+   B) चक्रवात
+   C) ज्वार-भाटा  <-- CORRECT
+   D) पश्चिमी विक्षोभ
+Answer: C
+Why correct: The phenomenon described - the regular twice-daily rise and fall of ocean water due to the gravitational pull of the Sun and Moon - is the tide (jwar-bhata).
+Why A is wrong: A tsunami is a giant wave caused by undersea earthquakes.
+Why B is wrong: A cyclone is a storm system.
+Why D is wrong: A western disturbance is a weather system bringing winter rain to north India.
+Note: High and low tides generally occur twice each day at most coasts.
+
+==============================================================================
+Set 46 | Q.No 37 | Topic: Static GK | Language: Hindi
+------------------------------------------------------------------------------
+Q: जनगणना के संदर्भ में निम्नलिखित में से कौन सा कथन सही है? ।. भारत में पहली आधुनिक जनसंख्या जनगणना 865 और 872 के बीच आयोजित की गई थी। |. भारत में अगली जनगणना 2028 तक की जाएगी।
+   A) Only I  <-- CORRECT
+   B) Only II
+   C) Both I and II
+   D) Neither I nor II
+Answer: A
+Why correct: Only statement I is correct - India's first modern census was conducted between 1865 and 1872; statement II about the next census timing is not accurate as stated, so 'Only I'.
+Why B is wrong: 'Only II' is wrong since statement I is correct.
+Why C is wrong: 'Both' is wrong because II is not correct as stated.
+Why D is wrong: 'Neither' is wrong because I is correct.
+Note: The first synchronous (simultaneous) census of India was held in 1881.
+
+==============================================================================
+Set 46 | Q.No 38 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: 'बयालता' निम्नलिखित में से किस भारतीय राज्य का लोक नृत्य है?
+   A) बिहार
+   B) छत्तीसगढ़
+   C) कर्नाटक  <-- CORRECT
+   D) हरियाणा
+Answer: C
+Why correct: 'Bayalata' is a folk theatre/dance form of Karnataka.
+Why A is wrong: It is not from Bihar.
+Why B is wrong: It is not from Chhattisgarh.
+Why D is wrong: It is not from Haryana.
+Note: Bayalata ('open-air play') is an umbrella term for Karnataka's rural theatre traditions.
+
+==============================================================================
+Set 46 | Q.No 39 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा ओडिशा के कालाहांडी जिले की जनजातियों का सबसे लोकप्रिय पारंपरिक नृत्य है?
+   A) घुमुरा  <-- CORRECT
+   B) किकली
+   C) é
+   D) सिंघी चाम
+Answer: A
+Why correct: 'Ghumura' is the most popular traditional dance of the tribes of the Kalahandi district of Odisha.
+Why B is wrong: 'Kikli' is a Punjabi children's dance.
+Why C is wrong: This option does not name the Kalahandi dance.
+Why D is wrong: Singhi Chham is a Sikkim masked dance.
+Note: The Ghumura dance uses a distinctive drum tied to the dancer's body.
+
+==============================================================================
+Set 46 | Q.No 40 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस वर्ष में मिल्खा सिंह ने एशियाई खेलों में स्वर्ण पदक जीता था?
+   A) 1951
+   B) 1954
+   C) 1958  <-- CORRECT
+   D) 1970
+Answer: C
+Why correct: Milkha Singh won gold at the Asian Games in 1958 (and again later); 1958 was a landmark year for him, including Commonwealth gold.
+Why A is wrong: 1951 is incorrect.
+Why B is wrong: 1954 is incorrect.
+Why D is wrong: 1970 is incorrect.
+Note: Milkha Singh, the 'Flying Sikh', narrowly missed a medal at the 1960 Rome Olympics.
+
+==============================================================================
+Set 47 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: संविधान की कौन सी अनुसूची में राज्यों और केंद्र शासित प्रदेशों के नाम शामिल हैं?
+   A) पहली  <-- CORRECT
+   B) दूसरी
+   C) तीसरी
+   D) चौथी
+Answer: A
+Why correct: The First Schedule of the Constitution lists the names of the States and Union Territories and their territories.
+Why B is wrong: The Second Schedule deals with salaries/emoluments of key officials.
+Why C is wrong: The Third Schedule contains forms of oaths and affirmations.
+Why D is wrong: The Fourth Schedule allocates Rajya Sabha seats to states/UTs.
+Note: The First Schedule has been amended several times as new states were created.
+
+==============================================================================
+Set 47 | Q.No 22 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: संविधान का कौन सा भाग राजभाषा से संबंधित है?
+   A) Part XV
+   B) Part XVI
+   C) Part XVII  <-- CORRECT
+   D) Part XVIII
+Answer: C
+Why correct: Part XVII of the Constitution deals with the Official Language.
+Why A is wrong: Part XV deals with elections.
+Why B is wrong: Part XVI deals with special provisions for certain classes.
+Why D is wrong: Part XVIII deals with emergency provisions.
+Note: Articles 343-351 (Part XVII) cover the official languages of the Union and the states.
+
+==============================================================================
+Set 47 | Q.No 23 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: नाटी नृत्य किस भारतीय राज्य का पारंपरिक लोक नृत्य है?
+   A) महाराष्ट्र
+   B) हिमाचल प्रदेश  <-- CORRECT
+   C) पश्चिम बंगाल
+   D) राजस्थान
+Answer: B
+Why correct: Naati (Nati) is the traditional folk dance of Himachal Pradesh.
+Why A is wrong: Maharashtra is known for Lavani.
+Why C is wrong: West Bengal has Gaudiya and other forms.
+Why D is wrong: Rajasthan is known for Ghoomar and Kalbeliya.
+Note: A mass Kullu Nati once entered the Guinness World Records as the largest folk dance.
+
+==============================================================================
+Set 47 | Q.No 24 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: पृथ्वी और चंद्रमा दोनों पर कौन सा भौतिक गुण समान रहता है?
+   A) वज़न
+   B) द्रव्यमान  <-- CORRECT
+   C) गुरुत्वीय त्वरण
+   D) दबाव
+Answer: B
+Why correct: Mass remains the same on both the Earth and the Moon, as it is the amount of matter in an object.
+Why A is wrong: Weight changes (it is less on the Moon).
+Why C is wrong: Gravitational acceleration is different on the Moon.
+Why D is wrong: Pressure can differ depending on conditions.
+Note: Weight = mass x gravity; gravity on the Moon is about one-sixth of Earth's.
+
+==============================================================================
+Set 47 | Q.No 25 | Topic: Books & Authors | Language: Hindi
+------------------------------------------------------------------------------
+Q: “लिरिकल बैलाड्स” के प्रकाशन में विलियम वर्ड्सवर्थ के सहयोगी कौन थे?
+   A) पर्सी बिशे शेली
+   B) सैमुअल टेलर कोलरिज  <-- CORRECT
+   C) लॉर्ड बायरन
+   D) रॉबर्ट साउथी
+Answer: B
+Why correct: William Wordsworth's collaborator in publishing 'Lyrical Ballads' (1798) was Samuel Taylor Coleridge.
+Why A is wrong: Percy Bysshe Shelley was a later Romantic poet.
+Why C is wrong: Lord Byron was another Romantic poet, not the collaborator.
+Why D is wrong: Robert Southey was a contemporary but not the co-author.
+Note: 'Lyrical Ballads' is considered the starting point of the English Romantic movement.
+
+==============================================================================
+Set 47 | Q.No 26 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: जब पृथ्वी, सूर्य के प्रकाश को चंद्रमा तक पहुंचने से रोकती है, तब चंद्र ग्रहण होता है। यदि पृथ्वी अपने वर्तमान आकार से दोगुनी होती, तो चंद्र ग्रहण में क्या बदलाव होता?
+   A) ग्रहण अधिक समय तक रहेगा  <-- CORRECT
+   B) ग्रहण छोटा हो जाएगा
+   C) ग्रहण की अवधि में कोई परिवर्तन नहीं होगा
+   D) ग्रहण की आवृत्ति कम हो जाएगी
+Answer: A
+Why correct: If the Earth were twice its size, its larger shadow would make a lunar eclipse last longer.
+Why B is wrong: The eclipse would not become shorter with a larger shadow.
+Why C is wrong: There would be a change, not 'no change'.
+Why D is wrong: The duration, not just the frequency, is what is mainly affected.
+Note: A lunar eclipse occurs when the Earth's shadow falls on the Moon.
+
+==============================================================================
+Set 47 | Q.No 27 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: वर्तमान ओलंपिक ध्वज पहली बार किस ओलंपिक खेलों में फहराया गया था?
+   A) 1920 Summer Olympics  <-- CORRECT
+   B) 1924 Summer Olympics
+   C) 1920 Winter Olympics
+   D) 1924 Winter Olympics
+Answer: A
+Why correct: The current Olympic flag (with five rings) was first flown at the 1920 Summer Olympics in Antwerp.
+Why B is wrong: 1924 Summer Olympics is after its first flying.
+Why C is wrong: The 1920 Winter Olympics did not exist (Winter Games began in 1924).
+Why D is wrong: The 1924 Winter Olympics is not when it was first flown.
+Note: The five interlocking rings represent the five inhabited continents.
+
+==============================================================================
+Set 47 | Q.No 28 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन सी प्रवृत्ति दर्शाती है कि 99 के सुधारों से भारत के बाह्य क्षेत्र की स्थिरता में सुधार हुआ?
+   A) 99 के बाद विदेशी मुद्रा भंडार में लगातार गिरावट
+   B) 990 के दशक में विदेशी ऋण दोगुना हो गया
+   C) समय के साथ विदेशी मुद्रा भंडार में मजबूत वृद्धि  <-- CORRECT
+   D) विदेशी निवेश प्रवाह में गिरावट
+Answer: C
+Why correct: The strong, steady rise in India's foreign-exchange reserves over time shows that the 1991 reforms improved external-sector stability.
+Why A is wrong: Reserves rose, they did not continuously fall, after 1991.
+Why B is wrong: The aim was to reduce vulnerability, and reserves grew.
+Why D is wrong: Foreign investment inflows increased, not declined.
+Note: In 1991 India's reserves had fallen to just a few weeks of imports, prompting the reforms.
+
+==============================================================================
+Set 47 | Q.No 29 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन-सा हार्मोन पादप वृद्धि को रोकता है और जो पत्तियों के मुरझाने का कारण बन सकता है?
+   A) साइटोकाइनिन
+   B) जिबरेलिन
+   C) एब्सिसिक अम्ल  <-- CORRECT
+   D) ऑक्सिन
+Answer: C
+Why correct: Abscisic acid is the plant hormone that inhibits growth and can cause wilting (it also promotes dormancy and stomatal closure).
+Why A is wrong: Cytokinin promotes cell division.
+Why B is wrong: Gibberellin promotes stem elongation.
+Why D is wrong: Auxin promotes growth (cell elongation).
+Note: Abscisic acid is often called the 'stress hormone' of plants.
+
+==============================================================================
+Set 47 | Q.No 30 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: अंतर्राष्ट्रीय हॉकी में "फोर-क्वार्टर" फॉर्मेट कब शुरू किया गया था?
+   A) 2012
+   B) 2013
+   C) 2014  <-- CORRECT
+   D) 2015
+Answer: C
+Why correct: The 'four-quarter' format in international hockey was introduced in 2014.
+Why A is wrong: 2012 is incorrect.
+Why B is wrong: 2013 is incorrect.
+Why D is wrong: 2015 is incorrect.
+Note: Field hockey switched from two 35-minute halves to four 15-minute quarters.
+
+==============================================================================
+Set 47 | Q.No 31 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन-सा अनुक्रम ट्रायथलॉन स्पर्धाओं को सही ढंग से दर्शाता है?
+   A) स्विम, साइकिल, रन  <-- CORRECT
+   B) रन, स्विम, साइकिल
+   C) साइकिल, स्विम, रन
+   D) स्विम, रन, साइकिल
+Answer: A
+Why correct: A triathlon is contested in the sequence: swim, then cycle (bike), then run.
+Why B is wrong: It does not start with running.
+Why C is wrong: It does not start with cycling.
+Why D is wrong: Running comes last, not before cycling.
+Note: The triathlon became an Olympic sport at the Sydney 2000 Games.
+
+==============================================================================
+Set 47 | Q.No 32 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: !५88/२0 (राष्ट्रीय कृषि और ग्रामीण विकास बैंक) की स्थापना कब हुई थी?
+   A) 1969
+   B) 1972
+   C) 1982  <-- CORRECT
+   D) 1990
+Answer: C
+Why correct: NABARD (National Bank for Agriculture and Rural Development) was established in 1982.
+Why A is wrong: 1969 was the year of bank nationalization.
+Why B is wrong: 1972 is incorrect.
+Why D is wrong: 1990 is incorrect.
+Note: NABARD is the apex development bank for agriculture and the rural economy.
+
+==============================================================================
+Set 47 | Q.No 33 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: 'जीवन प्रमाण' पहल निम्न में किससे संबंधित है?
+   A) ग्रामीण विद्युतीकरण का विस्तार
+   B) युवाओं के लिए कौशल विकास प्रशिक्षण प्रदान करना
+   C) किसानों को बीमा प्रदान करना
+   D) पेंशनधारकों के लिए डिजिटल जीवन प्रमाणपत्र जारी करना  <-- CORRECT
+Answer: D
+Why correct: The 'Jeevan Pramaan' initiative relates to issuing digital life certificates for pensioners.
+Why A is wrong: It is not about rural electrification.
+Why B is wrong: It is not a skill-development scheme.
+Why C is wrong: It is not a farmer-insurance scheme.
+Note: Jeevan Pramaan uses biometric (Aadhaar) authentication so pensioners need not appear in person.
+
+==============================================================================
+Set 47 | Q.No 34 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: हाल ही में कौन सा देश भारत का सबसे बड़ा व्यापारिक साझेदार रहा है?
+   A) संयुक्त राज्य अमेरिका
+   B) जनवादी गणराज्य चीन  <-- CORRECT
+   C) संयुक्त अरब अमीरात
+   D) जापान
+Answer: B
+Why correct: In recent years, the People's Republic of China has been India's largest trading partner (by total trade).
+Why A is wrong: The USA is among the top partners but China has often led in total trade.
+Why C is wrong: The UAE is a major partner but not the largest overall.
+Why D is wrong: Japan is a significant partner but not the largest.
+Note: India runs a large trade deficit with China, importing far more than it exports.
+
+==============================================================================
+Set 47 | Q.No 35 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: जुलाई 2025 में समाचारों में देखा गया डी.ए.जे.जी.यू.ए.अभियान निम्नलिखित में से किससे संबंधित है?
+   A) जनजातीय कल्याण  <-- CORRECT
+   B) स्वच्छ भारत
+   C) ओ.बी.सी. छात्रवृत्ति
+   D) खाद्य सुदृढ़ीकरण (फूड फोर्टिफिकेशन)
+Answer: A
+Why correct: The DAJGUA (Dharti Aaba Janjatiya Gram Utkarsh Abhiyan) campaign, seen in news in July 2025, relates to tribal welfare.
+Why B is wrong: It is not the Swachh Bharat campaign.
+Why C is wrong: It is not an OBC scholarship scheme.
+Why D is wrong: It is not a food-fortification programme.
+Note: DAJGUA aims to saturate tribal villages with basic services and infrastructure.
+
+==============================================================================
+Set 47 | Q.No 36 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: चन्द्रगुप्त प्रथम से विवाहित लिच्छवि राजकुमारी का नाम क्या था?
+   A) कदम्बदेवी
+   B) नयनिका
+   C) कुमारदेवी  <-- CORRECT
+   D) प्रभावती
+Answer: C
+Why correct: The Lichchhavi princess married to Chandragupta I was named Kumaradevi.
+Why A is wrong: Kadambadevi is not the correct name.
+Why B is wrong: Nayanika was a Satavahana queen.
+Why D is wrong: Prabhavati was a Gupta princess married to a Vakataka king.
+Note: The Gupta-Lichchhavi alliance strengthened Chandragupta I's position; coins commemorate this marriage.
+
+==============================================================================
+Set 47 | Q.No 37 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: भारतीय नागरिक सुरक्षा संहिता, 2023 (बी.एन.एस.एस.) की किस धारा में प्ली बार्गेनिंग को समयबद्ध कर दिया गया है?
+   A) 290  <-- CORRECT
+   B) 558
+   C) 258
+   D) 330
+Answer: A
+Why correct: Section 290 of the BNSS, 2023 makes plea bargaining time-bound (e.g. application within 30 days of charges).
+Why B is wrong: 558 is not the relevant section.
+Why C is wrong: 258 is not the section.
+Why D is wrong: 330 is not the section.
+Note: Plea bargaining allows a negotiated settlement for certain less-serious offences.
+
+==============================================================================
+Set 47 | Q.No 38 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: स्वाभिमान आंदोलन किसने शुरू किया था?
+   A) ई.वी. रामास्वामी नायकर  <-- CORRECT
+   B) घसीदास
+   C) श्री नारायण गुरु
+   D) ज्योतिराव फुले
+Answer: A
+Why correct: The Self-Respect Movement (Swabhiman/Self-Respect) was started by E.V. Ramaswamy Naicker (Periyar).
+Why B is wrong: Ghasidas founded the Satnami movement.
+Why C is wrong: Sri Narayana Guru led reform in Kerala.
+Why D is wrong: Jyotirao Phule led the Satyashodhak Samaj in Maharashtra.
+Note: Periyar's movement opposed caste discrimination and Brahminical dominance in Tamil Nadu.
+
+==============================================================================
+Set 47 | Q.No 39 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: "कृषि व्यवसाय के अवसर एवं चुनौतियों में महिलाएं" रिपोर्ट के अनुसार, 2025 में भारत के कृषि कार्यबल का कितना प्रतिशत महिलाओं द्वारा गठित किया जाएगा?
+   A) 64.4%  <-- CORRECT
+   B) 51.4%
+   C) 45.4%
+   D) 54.4%
+Answer: A
+Why correct: As per the cited report, women constitute about 64.4% of India's agricultural workforce.
+Why B is wrong: 51.4% understates the figure.
+Why C is wrong: 45.4% is incorrect.
+Why D is wrong: 54.4% is not the figure.
+Note: Women play a major role in Indian agriculture, especially in sowing, weeding and harvesting.
+
+==============================================================================
+Set 47 | Q.No 40 | Topic: Static GK | Language: English
+------------------------------------------------------------------------------
+Q: टाइम्स हायर एजुकेशन (टी.एच.ई.) एशिया रैंकिंग 2025 में अन्ना विधविद्यालय का रैंक क्या है?
+   A) 111  <-- CORRECT
+   B) 91
+   C) 77
+   D) 124
+Answer: A
+Why correct: Anna University was ranked around 111 in the Times Higher Education (THE) Asia University Rankings 2025.
+Why B is wrong: 91 is not its rank.
+Why C is wrong: 77 is incorrect.
+Why D is wrong: 124 is not the rank.
+Note: Anna University, in Chennai, is a leading technical university in India.
+
+==============================================================================
+Set 48 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: 42वें संवैधानिक संशोधन निम्नलिखित में किस नाम से जाना जाता है?
+   A) लघु संविधान  <-- CORRECT
+   B) संघीय संशोधन
+   C) पंचायती राज संशोधन
+   D) मौलिक अधिकार संशोधन
+Answer: A
+Why correct: The 42nd Constitutional Amendment (1976) is known as the 'Mini Constitution' because of its very wide-ranging changes.
+Why B is wrong: It is not called the 'Federal Amendment'.
+Why C is wrong: It is not the 'Panchayati Raj Amendment' (that was the 73rd).
+Why D is wrong: It is not the 'Fundamental Rights Amendment'.
+Note: The 42nd Amendment added the words 'Socialist', 'Secular' and 'Integrity' to the Preamble.
+
+==============================================================================
+Set 48 | Q.No 22 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: हवा में एक पत्थर की तुलना में किस कारक के कारण एक कागज की शीट अधिक धीरे-धीरे गिरती है?
+   A) ट्रव्यमान अंतर
+   B) वायु प्रतिरोध  <-- CORRECT
+   C) आकार में अंतर
+   D) गुरुत्वाकर्षण अंतर
+Answer: B
+Why correct: A sheet of paper falls more slowly than a stone in air mainly because of air resistance acting on its larger surface area.
+Why A is wrong: In a vacuum both would fall together, so mass difference is not the cause.
+Why C is wrong: Shape matters only because it affects air resistance.
+Why D is wrong: Gravity acts equally; the difference is due to air resistance.
+Note: In a vacuum, a feather and a coin fall at the same rate.
+
+==============================================================================
+Set 48 | Q.No 23 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: किसी निश्चित ऊंचाई से मुक्त गिरावट की शुरुआत में, किसी वस्तु की स्थितिज ऊर्जा और गतिज ऊर्जा किस प्रकार संबंधित होती हैं?
+   A) स्थितिज ऊर्जा > 0, गतिज ऊर्जा > 000
+   B) स्थितिज ऊर्जा > 000, गतिज ऊर्जा > 0  <-- CORRECT
+   C) स्थितिज ऊर्जा > 9धा।४९, गतिज ऊर्जा > 0)
+   D) गतिज और स्थितिज ऊर्जा दोनों > 0
+Answer: B
+Why correct: At the start of a free fall from a height, the potential energy is maximum (greater than zero) and the kinetic energy is zero (the object is momentarily at rest).
+Why A is wrong: KE is zero at the start, not greater than zero.
+Why C is wrong: This option is garbled but PE is maximum, KE is zero.
+Why D is wrong: KE is not greater than zero at the very start.
+Note: As the object falls, PE converts into KE, conserving total mechanical energy.
+
+==============================================================================
+Set 48 | Q.No 24 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: पृथ्वी से हमें चंद्रमा का हमेशा एक ही भाग क्यों दिखाई देता है?
+   A) चंद्रमा अपनी अक्ष पर घूर्णन नहीं करता है
+   B) चंद्रमा जितने समय में पृथ्वी के चारों ओर परिक्रमा करता है, वह उतने ही समय में एक बार घूर्णन करता है  <-- CORRECT
+   C) पृथ्वी का घूर्णन, चंद्रमा के घूर्णन को निष्प्रभ कर देता है
+   D) चंद्रमा, सूर्य के साथ ज्वारीय रूप से जुड़ा हुआ है
+Answer: B
+Why correct: We always see the same face of the Moon because it rotates on its axis in the same time it takes to revolve around the Earth (tidal locking).
+Why A is wrong: The Moon does rotate; it is not non-rotating.
+Why C is wrong: Earth's rotation does not cancel the Moon's rotation.
+Why D is wrong: The Moon is tidally locked to the Earth, not the Sun.
+Note: This synchronous rotation means the 'far side' of the Moon is never visible from Earth.
+
+==============================================================================
+Set 48 | Q.No 25 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: इसरो (।580 ) के ॥॥०.0 प्रणाली का उद्देश्य कया है?
+   A) मौसम पूर्वानुमान
+   B) पृथ्वी इमेजिंग
+   C) क्षेत्रीय नेविगेशन  <-- CORRECT
+   D) अंतरिक्ष संचार
+Answer: C
+Why correct: ISRO's IRNSS (NavIC) system is meant for regional navigation - providing positioning over India and its surrounding region.
+Why A is wrong: It is not a weather-forecasting system.
+Why B is wrong: It is not an Earth-imaging system.
+Why D is wrong: It is not a communication system.
+Note: NavIC (Navigation with Indian Constellation) is India's indigenous satellite navigation system.
+
+==============================================================================
+Set 48 | Q.No 26 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: 990 के दशक के आरंभ में किस बाह्म घटना ने भारत के भुगतान संतुलन संकट को और बदतर बना दिया?
+   A) एशियाई वित्तीय संकट
+   B) खाड़ी युद्ध और बढ़ती तेल कीमतें  <-- CORRECT
+   C) सोवियत संघ का पतन
+   D) कृषि निर्यात में गिरावट
+Answer: B
+Why correct: The Gulf War and the resulting rise in oil prices worsened India's balance-of-payments crisis in the early 1990s.
+Why A is wrong: The Asian financial crisis came later (1997).
+Why C is wrong: The collapse of the USSR contributed but the immediate trigger was the Gulf War oil shock.
+Why D is wrong: A fall in agricultural exports was not the main external cause.
+Note: The 1991 crisis forced India to pledge gold and adopt sweeping economic reforms.
+
+==============================================================================
+Set 48 | Q.No 27 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: महिला कबड्डी मैच की मानक अवधि क्या है?
+   A) 20 minutes per half
+   B) 15 minutes per half  <-- CORRECT
+   C) 25 minutes per half
+   D) 30 minutes per half
+Answer: B
+Why correct: A standard women's kabaddi match has two halves of 15 minutes each.
+Why A is wrong: 20 minutes per half is the men's format.
+Why C is wrong: 25 minutes per half is incorrect.
+Why D is wrong: 30 minutes per half is incorrect.
+Note: Men's kabaddi matches are two halves of 20 minutes each.
+
+==============================================================================
+Set 48 | Q.No 28 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन-सी नदी, गंगा की सहायक नदी नहीं है?
+   A) सोन
+   B) गंडक
+   C) घाघरा
+   D) बेतवा  <-- CORRECT
+Answer: D
+Why correct: The Betwa is a tributary of the Yamuna, NOT directly of the Ganga (the others - Son, Gandak, Ghaghara - are Ganga tributaries).
+Why A is wrong: The Son is a tributary of the Ganga.
+Why B is wrong: The Gandak is a tributary of the Ganga.
+Why C is wrong: The Ghaghara is a tributary of the Ganga.
+Note: The Betwa joins the Yamuna, which in turn joins the Ganga at Prayagraj.
+
+==============================================================================
+Set 48 | Q.No 29 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत में, हरित क्रांति मुख्य रूप से को संदर्भित करती हैं।
+   A) खाद्यान्न उत्पादन में भारी वृद्धि  <-- CORRECT
+   B) देश के हरित आवरण क्षेत्र में भारी वृद्धि
+   C) बागवानी उत्पादन में भारी वृद्धि
+   D) झींगा पालन के उत्पादन में भारी वृद्धि
+Answer: A
+Why correct: In India, the Green Revolution refers mainly to a huge increase in food-grain production (especially wheat and rice).
+Why B is wrong: It was not about increasing green (forest) cover.
+Why C is wrong: It was not chiefly about horticulture.
+Why D is wrong: Shrimp farming (Blue Revolution) is separate.
+Note: The Green Revolution used HYV seeds, fertilizers, irrigation and machinery.
+
+==============================================================================
+Set 48 | Q.No 30 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: गुरु गोबिंद सिंह ने खालसा पंथ की स्थापना किस वर्ष में की थी?
+   A) 1606
+   B) 1648
+   C) 1676
+   D) 1699  <-- CORRECT
+Answer: D
+Why correct: Guru Gobind Singh founded the Khalsa Panth in 1699 (on Vaisakhi).
+Why A is wrong: 1606 is when Guru Arjan Dev was martyred.
+Why B is wrong: 1648 is incorrect.
+Why C is wrong: 1676 is incorrect.
+Note: The Khalsa was founded at Anandpur Sahib with the initiation of the Panj Pyare.
+
+==============================================================================
+Set 48 | Q.No 31 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: जुलाई 2025 में, किस राज्य सरकार ने शहरी गरीब महिलाओं को डिजिटल रूप से सशक्त बनाने के लिए डिजी-लक्ष्मी योजना शुरू की थी?
+   A) महाराष्ट्र
+   B) तमिलनाडु
+   C) कर्नाटक
+   D) आंध्र प्रदेश  <-- CORRECT
+Answer: D
+Why correct: In July 2025, the Andhra Pradesh government launched the 'Digi-Lakshmi' scheme to digitally empower urban poor women.
+Why A is wrong: Maharashtra did not launch it.
+Why B is wrong: Tamil Nadu did not launch it.
+Why C is wrong: Karnataka did not launch it.
+Note: Such schemes aim to improve women's access to digital and financial services.
+
+==============================================================================
+Set 48 | Q.No 32 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा कारक किसी स्थान की जलवायु को नियंत्रित करता है? [. महासगारिये धाराएँ [. उच्चावच लक्षण
+   A) Only I
+   B) Only II
+   C) Both I and II  <-- CORRECT
+   D) Neither I nor II
+Answer: C
+Why correct: Both ocean currents (I) and relief (topographic) features (II) control the climate of a place, so 'Both I and II' is correct.
+Why A is wrong: 'Only I' is incomplete.
+Why B is wrong: 'Only II' is incomplete.
+Why D is wrong: 'Neither' is wrong since both influence climate.
+Note: Other climate controls include latitude, altitude, distance from the sea and winds.
+
+==============================================================================
+Set 48 | Q.No 33 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सी परियोजना श्रेष्ठ योजना के अंतर्गत आती है? ।. आवासीय विद्यालय |. गैर-आवासीय विद्यालय
+   A) Only I
+   B) Only II
+   C) Both I and II  <-- CORRECT
+   D) Neither I nor II
+Answer: C
+Why correct: The SHRESHTHA scheme covers both residential schools (I) and, broadly, support for students in non-residential settings (II) - so 'Both I and II'.
+Why A is wrong: 'Only I' is incomplete.
+Why B is wrong: 'Only II' is incomplete.
+Why D is wrong: 'Neither' is wrong.
+Note: SHRESHTHA supports meritorious Scheduled Caste students' education in quality schools.
+
+==============================================================================
+Set 48 | Q.No 34 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारतीय संविधान का निम्नलिखित में से कौन सा अनुच्छेद संघ की राजभाषा से संबंधित है?
+   A) Article 341
+   B) Article 343  <-- CORRECT
+   C) Article 344
+   D) Article 339
+Answer: B
+Why correct: Article 343 of the Constitution deals with the official language of the Union (Hindi in Devanagari script).
+Why A is wrong: Article 341 deals with Scheduled Castes.
+Why C is wrong: Article 344 deals with the official-language commission/committee.
+Why D is wrong: Article 339 deals with the administration of Scheduled Areas/Tribes.
+Note: Article 343 also provided for the continued use of English for official purposes.
+
+==============================================================================
+Set 48 | Q.No 35 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: भारतीय संविधान का निम्नलिखित में से कौन सा अनुच्छेद विधानमंडल के विश्रांतिकल में अध्यादेश प्रख्यापित करने की राज्यपाल की शक्ति से संबंधित है?
+   A) Article 213  <-- CORRECT
+   B) Article 211
+   C) Article 210
+   D) Article 208
+Answer: A
+Why correct: Article 213 deals with the power of the Governor to promulgate ordinances when the legislature is not in session.
+Why B is wrong: Article 211 restricts discussion in the legislature about judges' conduct.
+Why C is wrong: Article 210 deals with the language used in the legislature.
+Why D is wrong: Article 208 deals with rules of procedure.
+Note: The President's equivalent ordinance power is under Article 123.
+
+==============================================================================
+Set 48 | Q.No 36 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: शास्त्रीय नृत्य शैली 'कथकली' किस भारतीय राज्य से संबंधित है?
+   A) सिक्किम
+   B) केरल  <-- CORRECT
+   C) महाराष्ट्र
+   D) गुजरात
+Answer: B
+Why correct: The classical dance form 'Kathakali' belongs to Kerala.
+Why A is wrong: It is not from Sikkim.
+Why C is wrong: It is not from Maharashtra.
+Why D is wrong: It is not from Gujarat.
+Note: Kathakali is known for elaborate make-up, costumes and storytelling from the epics.
+
+==============================================================================
+Set 48 | Q.No 37 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: भगवान कृष्ण के जीवन को दर्शानि वाली पारंपरिक कला 'कृष्णाट्रम' किस भारतीय राज्य की मूल कला है?
+   A) केरल  <-- CORRECT
+   B) तेलंगाना
+   C) तमिलनाडु
+   D) हरियाणा
+Answer: A
+Why correct: 'Krishnanattam', a traditional art depicting the life of Lord Krishna, originated in Kerala.
+Why B is wrong: It is not from Telangana.
+Why C is wrong: It is not from Tamil Nadu.
+Why D is wrong: It is not from Haryana.
+Note: Krishnanattam is performed mainly at the Guruvayur temple in Kerala.
+
+==============================================================================
+Set 48 | Q.No 38 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन सा पारंपरिक राजस्थानी वाद्य यंत्र एक लंबी कांस्य की ट्रम्पेट ही है जो दो भागों में बनी होती है और जिसका मुख कीपदार होता है?
+   A) तुरही  <-- CORRECT
+   B) टिमकी
+   C) सरोद
+   D) संतूर
+Answer: A
+Why correct: The traditional Rajasthani instrument that is a long bronze trumpet made in two parts with a flared (funnel-shaped) mouth is the 'Turhi' (Turahi).
+Why B is wrong: The Timki is a small drum.
+Why C is wrong: The Sarod is a string instrument.
+Why D is wrong: The Santoor is a struck string instrument.
+Note: The Turhi is a ceremonial trumpet used in folk processions in Rajasthan.
+
+==============================================================================
+Set 48 | Q.No 39 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: कबड्डी खेल को मुख्य रूप से _____ भारत में “हू-तू-तू” के नाम से जाना जाता है।
+   A) पश्चिमी  <-- CORRECT
+   B) पूर्वी
+   C) दक्षिण
+   D) उत्तरी
+Answer: A
+Why correct: Kabaddi is mainly known as 'Hu-Tu-Tu' in Western India (Maharashtra region).
+Why B is wrong: In the east it has other names.
+Why C is wrong: In the south it is called Chedugudu.
+Why D is wrong: In the north it has different local names.
+Note: Kabaddi is known by various regional names across India.
+
+==============================================================================
+Set 48 | Q.No 40 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस खेल ने अभी तक भारत को एशियाई खेलों में स्वर्ण पदक नहीं दिलाया है?
+   A) शूटिंग
+   B) गोल्फ़
+   C) वेटलिफ्टिंग  <-- CORRECT
+   D) एथलेटिक्स
+Answer: C
+Why correct: Among the options, weightlifting has not yet won India a gold medal at the Asian Games.
+Why A is wrong: Shooting has won India Asian Games gold.
+Why B is wrong: Golf has won India an Asian Games gold.
+Why D is wrong: Athletics has won India Asian Games gold.
+Note: India has won many Asian Games golds in athletics, shooting and other sports.
+
+==============================================================================
+Set 49 | Q.No 21 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: संविधान को अपनाए जाने के समय मूलतः इसमें कितनी अनुसूचियाँ थीं?
+   A) 7
+   B) 8  <-- CORRECT
+   C) 10
+   D) 12
+Answer: B
+Why correct: The Constitution of India originally had 8 Schedules when it was adopted in 1949.
+Why A is wrong: 7 is one fewer than the original number.
+Why C is wrong: 10 schedules came after later amendments.
+Why D is wrong: There are now 12 schedules, but originally there were 8.
+Note: Schedules 9, 10, 11 and 12 were added by later amendments.
+
+==============================================================================
+Set 49 | Q.No 22 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: 92वें संशोधन (2003) द्वारा आठवीं अनुसूची में कौन सी भाषा जोड़ी गई?
+   A) मैथिली
+   B) बोडो
+   C) संथाली
+   D) उपरोक्त सभी  <-- CORRECT
+Answer: D
+Why correct: The 92nd Amendment (2003) added four languages to the Eighth Schedule - Maithili, Bodo, Santhali and Dogri - so 'all of the above'.
+Why A is wrong: Maithili was added but it was not the only one.
+Why B is wrong: Bodo was added but not alone.
+Why C is wrong: Santhali was added but not alone.
+Note: The Eighth Schedule now lists 22 scheduled languages.
+
+==============================================================================
+Set 49 | Q.No 23 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: गिद्दा आमतौर पर किन अवसरों पर किया जाता है?
+   A) शादियाँ और फसल उत्सव  <-- CORRECT
+   B) केवल धार्मिक समारोह
+   C) राजनीतिक सभाएँ
+   D) शास्त्रीय नृत्य प्रतियोगिताएं
+Answer: A
+Why correct: Giddha is generally performed at weddings and harvest festivals.
+Why B is wrong: It is not limited to religious ceremonies.
+Why C is wrong: It is not for political gatherings.
+Why D is wrong: It is a folk dance, not a classical dance competition.
+Note: Giddha is the women's folk dance of Punjab, full of energy and humour.
+
+==============================================================================
+Set 49 | Q.No 24 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: सार्वभौमिक गुरुत्वाकर्षण स्थिरांक ८ का मान किसने निर्धारित किया?
+   A) आइजैक न्यूटन
+   B) अल्बर्ट आइंस्टीन
+   C) हेनरी कैवेंडिश  <-- CORRECT
+   D) जोहान्स केप्लर
+Answer: C
+Why correct: Henry Cavendish experimentally determined the value of the universal gravitational constant G (the 'Cavendish experiment').
+Why A is wrong: Isaac Newton gave the law of gravitation but did not measure G.
+Why B is wrong: Albert Einstein gave the theory of general relativity.
+Why D is wrong: Johannes Kepler gave the laws of planetary motion.
+Note: Cavendish's 1798 experiment used a torsion balance to 'weigh the Earth'.
+
+==============================================================================
+Set 49 | Q.No 25 | Topic: Books & Authors | Language: Hindi
+------------------------------------------------------------------------------
+Q: विलियम डेलरिम्पल की पुस्तक द लास्ट मुगल में किस ऐतिहासिक घटना का वर्णन है?
+   A) भारत का विभाजन
+   B) 857 का भारतीय विद्रोह  <-- CORRECT
+   C) भारतीय राष्ट्रीय कांग्रेस का गठन
+   D) भारतीय स्वतंत्रता आंदोलन
+Answer: B
+Why correct: William Dalrymple's book 'The Last Mughal' describes the Indian Revolt of 1857 and the fall of Bahadur Shah Zafar.
+Why A is wrong: It is not about the Partition of India.
+Why C is wrong: It is not about the founding of the INC.
+Why D is wrong: It is not a general account of the freedom movement.
+Note: The book focuses on Delhi during 1857 and the last Mughal emperor.
+
+==============================================================================
+Set 49 | Q.No 26 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: एशियाई कबड्डी महासंघ के नियमावली के अनुसार, सीनियर स्तर के पुरुष कबड्डी में आधिकारिक मैच की अवधि कितनी है?
+   A) 30 मिनट (5 मिनट के दो हाफ)
+   B) 40 मिनट (20 मिनट के दो हाफ) 5 मिनट के ब्रेक के साथ  <-- CORRECT
+   C) 50 मिनट लगातार खेल
+   D) 25 मिनट + अतिरिक्त रेड समय
+Answer: B
+Why correct: In senior men's kabaddi, an official match lasts 40 minutes - two halves of 20 minutes with a 5-minute break.
+Why A is wrong: 30 minutes (two 15-minute halves) is the women's format.
+Why C is wrong: 50 minutes of continuous play is incorrect.
+Why D is wrong: 25 minutes plus extra is incorrect.
+Note: Kabaddi is the national game of Bangladesh and very popular across South Asia.
+
+==============================================================================
+Set 49 | Q.No 27 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: चौथी पंचवर्षीय योजना (969-74) के दौरान, केंद्रीय औद्योगिक उद्देश्यों में से एक.__ था।
+   A) केवल उपभोक्ता वस्तुओं में आयात प्रतिस्थापन
+   B) विदेश व्यापार नीतियों का उदारीकरण
+   C) आईटी और सेवा उद्योगों को प्राथमिकता देना
+   D) भारी उद्योगों को मजबूत करने और विदेशी सहायता को कम करने के माध्यम से आत्मनिर्भरता  <-- CORRECT
+Answer: D
+Why correct: During the Fourth Five-Year Plan (1969-74), a central industrial objective was self-reliance through strengthening heavy industry and reducing dependence on foreign aid.
+Why A is wrong: It was not limited to import substitution in consumer goods only.
+Why B is wrong: It was not about liberalizing foreign trade.
+Why C is wrong: IT/services were not prioritised in that era.
+Note: The Fourth Plan's themes were 'growth with stability' and self-reliance.
+
+==============================================================================
+Set 49 | Q.No 28 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: आवृतबीजी के जननीय भाग कहां स्थित होते हैं?
+   A) पत्ती
+   B) जड़
+   C) फूल  <-- CORRECT
+   D) तना
+Answer: C
+Why correct: In angiosperms (flowering plants), the reproductive parts are located in the flower.
+Why A is wrong: The leaf is for photosynthesis.
+Why B is wrong: The root absorbs water and anchors the plant.
+Why D is wrong: The stem provides support and transport.
+Note: The flower contains the stamen (male) and the carpel/pistil (female) reproductive organs.
+
+==============================================================================
+Set 49 | Q.No 29 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: टेनिस में "ड्यूस" स्कोर का क्या अर्थ होता है?
+   A) सर्वर को बढ़त मिलती है।
+   B) रिसीवर को बढ़त मिलती है।
+   C) स्कोर 40-40 से बराबर है।  <-- CORRECT
+   D) खेल बराबर है, लेकिन 40-40 नहीं।
+Answer: C
+Why correct: In tennis, 'deuce' means the score is tied at 40-40.
+Why A is wrong: It does not mean the server has the advantage.
+Why B is wrong: It does not mean the receiver has the advantage.
+Why D is wrong: It specifically refers to 40-40, not just any tie.
+Note: From deuce, a player must win two points in a row (advantage then game).
+
+==============================================================================
+Set 49 | Q.No 30 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: कबड्डी में बोनस अंक अर्जित करने की मुख्य शर्त क्या होती है?
+   A) बॉल्क लाइन को छूना
+   B) कम से कम दो डिफेंडरों को छूना
+   C) एक पैर हवा में रखते हुए बोनस लाइन पार करना  <-- CORRECT
+   D) टैकल के प्रयास से बचना
+Answer: C
+Why correct: In kabaddi, a bonus point is earned mainly by the raider crossing the bonus line with at least one foot in the air (and other conditions met).
+Why A is wrong: Touching the baulk line alone does not earn a bonus.
+Why B is wrong: Touching two defenders is not the bonus condition.
+Why D is wrong: Avoiding a tackle is not the bonus rule.
+Note: The bonus line gives raiders an extra way to score when enough defenders are present.
+
+==============================================================================
+Set 49 | Q.No 31 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: दामोदर घाटी निगम (0४८) की स्थापना के लिए की गई थी।
+   A) व्यापार संवर्धन
+   B) इस्पात उत्पादन
+   C) बहुउद्देशीय नदी घाटी विकास  <-- CORRECT
+   D) ग्रामीण ऋण
+Answer: C
+Why correct: The Damodar Valley Corporation (DVC) was established for multipurpose river-valley development (flood control, irrigation, power).
+Why A is wrong: It was not set up for trade promotion.
+Why B is wrong: It was not for steel production.
+Why D is wrong: It was not for rural credit.
+Note: The DVC (1948) was India's first multipurpose river-valley project, modelled on the TVA of the USA.
+
+==============================================================================
+Set 49 | Q.No 32 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: प्रधानमंत्री श्रम योगी मान-धन (#५-504) योजना किस समूह के लिए बनाई गई है?
+   A) गृहिणियों
+   B) कॉर्पोरेट क्षेत्र के पेशेवर
+   C) असंगठित क्षेत्र के श्रमिकों  <-- CORRECT
+   D) सरकारी कर्मचारियों
+Answer: C
+Why correct: The Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM) scheme is designed for workers in the unorganised sector, providing a pension after age 60.
+Why A is wrong: It is not specifically for housewives.
+Why B is wrong: It is not for corporate-sector professionals.
+Why D is wrong: It is not for government employees.
+Note: PM-SYM is a voluntary, contributory pension scheme for unorganised workers.
+
+==============================================================================
+Set 49 | Q.No 33 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत की विदेश व्यापार नीति के निर्माण और कार्यान्वयन का दायित्व किस संस्था को सौंपा गया है?
+   A) भारतीय रिजर्व बैंक (आरबीआई)
+   B) नीति आयोग
+   C) विदेश व्यापार महानिदेशालय (डीजीएफटी)  <-- CORRECT
+   D) गृह मंत्रालय
+Answer: C
+Why correct: The Directorate General of Foreign Trade (DGFT) is responsible for formulating and implementing India's Foreign Trade Policy.
+Why A is wrong: The RBI handles monetary policy and forex management.
+Why B is wrong: NITI Aayog is a policy think-tank.
+Why D is wrong: The Ministry of Home Affairs is unrelated to trade policy.
+Note: The DGFT functions under the Ministry of Commerce and Industry.
+
+==============================================================================
+Set 49 | Q.No 34 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: नवंबर 2024 तक, भारत में सभी पी.डी.एस. लाभार्थियों में से ने अपना ई.के.वाई.सी. पूरा कर लिया है।
+   A) 88%
+   B) 42%
+   C) 100%
+   D) 64%  <-- CORRECT
+Answer: D
+Why correct: As of November 2024, about 64% of all PDS beneficiaries in India had completed their e-KYC.
+Why A is wrong: 88% overstates the figure.
+Why B is wrong: 42% understates it.
+Why C is wrong: 100% had not yet completed e-KYC.
+Note: e-KYC helps remove duplicate/ineligible ration cards from the Public Distribution System.
+
+==============================================================================
+Set 49 | Q.No 35 | Topic: Books & Authors | Language: Hindi
+------------------------------------------------------------------------------
+Q: इनमें से कौन सी रचना कालिदास की नहीं है?
+   A) मेघदूत
+   B) कुमारसंभवम्‌
+   C) मृच्छकटिकम्‌  <-- CORRECT
+   D) अभिज्ञानशाकुंतलम
+Answer: C
+Why correct: 'Mrichchhakatika' (The Little Clay Cart) is a play by Shudraka, NOT by Kalidasa.
+Why A is wrong: 'Meghaduta' is by Kalidasa.
+Why B is wrong: 'Kumarasambhavam' is by Kalidasa.
+Why D is wrong: 'Abhijnanasakuntalam' is by Kalidasa.
+Note: Kalidasa is celebrated as one of the greatest poets and playwrights of classical Sanskrit literature.
+
+==============================================================================
+Set 49 | Q.No 36 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: केंद्र सरकार द्वारा संचालित स्कूलों के लिए नई नीति के अनुसार, कक्षा 5 और 8 में वार्षिक परीक्षा में अनुत्तीर्ण होने वाले छात्रों को क्या सहायता दी जाती है?
+   A) दूसरे स्कूल में स्थानांतरण
+   B) भविष्य की परीक्षाओं से छूट
+   C) अतिरिक्त कोचिंग और पुन: परीक्षा का अवसर  <-- CORRECT
+   D) अगली कक्षा में सीधे पदोन्नति
+Answer: C
+Why correct: Under the new policy, students who fail the year-end exam in Classes 5 and 8 are given additional coaching and a chance to re-appear (re-examination).
+Why A is wrong: They are not transferred to another school.
+Why B is wrong: They are not exempted from future exams.
+Why D is wrong: They are not directly promoted to the next class.
+Note: This reverses the earlier automatic 'no-detention' promotion up to Class 8.
+
+==============================================================================
+Set 49 | Q.No 37 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: भारत में अंतरिक्ष आयोग की स्थापना किस वर्ष की गई थी?
+   A) 1961
+   B) 1972  <-- CORRECT
+   C) 1984
+   D) 1998
+Answer: B
+Why correct: The Space Commission (and the Department of Space) was established in India in 1972.
+Why A is wrong: 1961 is when INCOSPAR was set up.
+Why C is wrong: 1984 is incorrect.
+Why D is wrong: 1998 is incorrect.
+Note: The Space Commission formulates policy; ISRO executes the space programme.
+
+==============================================================================
+Set 49 | Q.No 38 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस दिन को मुस्लिम लीग द्वारा “प्रत्यक्ष कार्रवाई दिवस” मनाने का आह्वान किया था?
+   A) 8 August 1942
+   B) 9 December 1945
+   C) 16 August 1946  <-- CORRECT
+   D) 23 December 1946
+Answer: C
+Why correct: The Muslim League called for 'Direct Action Day' on 16 August 1946 to press its demand for Pakistan.
+Why A is wrong: 8 August 1942 was the Quit India resolution.
+Why B is wrong: 9 December 1945 is incorrect.
+Why D is wrong: 23 December 1946 is incorrect.
+Note: Direct Action Day led to large-scale communal riots, especially in Calcutta.
+
+==============================================================================
+Set 49 | Q.No 39 | Topic: Static GK | Language: English
+------------------------------------------------------------------------------
+Q: वार्षिक रिपोर्ट, आवधिक श्रम बल सर्वेक्षण (पी.एल.एफ.एस.), 2023-24 के अनुसार, 7 वर्ष और उससे अधिक आयु के व्यक्तियों के लिए मुसलमानों में साक्षरता दर थी।
+   A) 58.5%
+   B) 79.5%  <-- CORRECT
+   C) 73.5%
+   D) 71.5%
+Answer: B
+Why correct: Per the PLFS 2023-24 annual report, the literacy rate among Muslims (aged 7 and above) was about 79.5%.
+Why A is wrong: 58.5% understates the reported Muslim literacy rate.
+Why C is wrong: 73.5% is lower than the figure cited.
+Why D is wrong: 71.5% is incorrect.
+Note: The Periodic Labour Force Survey (PLFS) is conducted by the National Statistical Office.
+
+==============================================================================
+Set 49 | Q.No 40 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: दक्षिणी एशिया क्षेत्र में, कौन सा देश ग्लोबल जेंडर गैप इंडेक्स 2025 में शीर्ष पर है?
+   A) बांग्लादेश  <-- CORRECT
+   B) भूटान
+   C) नेपाल
+   D) मालदीव
+Answer: A
+Why correct: In South Asia, Bangladesh topped the Global Gender Gap Index 2025.
+Why B is wrong: Bhutan did not top the region.
+Why C is wrong: Nepal did not top it.
+Why D is wrong: Maldives did not top the regional ranking.
+Note: The Global Gender Gap Index is published by the World Economic Forum.
+
+==============================================================================
+Set 50 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: मौलिक कर्तव्यों को भारतीय संविधान में किसके द्वारा जोड़ा गया था?
+   A) 42वां संशोधन  <-- CORRECT
+   B) 44वां संशोधन
+   C) 52वां संशोधन
+   D) 67वां संशोधन
+Answer: A
+Why correct: Fundamental Duties were added to the Indian Constitution by the 42nd Amendment (1976), on the recommendation of the Swaran Singh Committee.
+Why B is wrong: The 44th Amendment reversed some Emergency-era changes.
+Why C is wrong: The 52nd Amendment added the anti-defection law.
+Why D is wrong: The 67th Amendment is unrelated to Fundamental Duties.
+Note: The Fundamental Duties are listed in Article 51A (originally ten, now eleven).
+
+==============================================================================
+Set 50 | Q.No 22 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: इनमे से कौन सा पशु समूह अल्ट्रासाउंड उत्पन्न करता है?
+   A) डॉल्फ़िन, चमगादड़ और शिंशुमार  <-- CORRECT
+   B) व्हेल, हाथी और जिराफ़
+   C) कुत्ते, बिल्लियाँ और शेर
+   D) गैंडे, पतंगे और बाघ
+Answer: A
+Why correct: Dolphins, bats and porpoises produce ultrasound (sounds above 20,000 Hz) for echolocation.
+Why B is wrong: Whales, elephants and giraffes are associated more with low-frequency (infrasound) communication.
+Why C is wrong: Dogs, cats and lions do not chiefly produce ultrasound.
+Why D is wrong: Rhinos, moths and tigers are not the standard ultrasound producers listed.
+Note: Bats and dolphins use echolocation - emitting ultrasound and sensing the echoes - to navigate and hunt.
+
+==============================================================================
+Set 50 | Q.No 23 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: जल में आंशिक रूप से डूबी हुई एक पेंसिल, पृष्ठ पर मुड़ी हुई दिखाई देती है। कौन-सी परिघटना इसका वर्णन करती है?
+   A) परावर्तन
+   B) अपवर्तन  <-- CORRECT
+   C) विवर्तन
+   D) व्यतिकरण
+Answer: B
+Why correct: A pencil partly dipped in water appears bent at the surface because of refraction - light bends as it passes between water and air.
+Why A is wrong: Reflection is the bouncing back of light, not bending.
+Why C is wrong: Diffraction is the bending around obstacles/edges.
+Why D is wrong: Interference is the superposition of waves.
+Note: Refraction occurs because light travels at different speeds in water and air.
+
+==============================================================================
+Set 50 | Q.No 24 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: राजस्व संग्रहण को मजबूत करने के लिए 99 के बाद भारत में कौन सा प्रमुख राजकोषीय सुधार लागू किया गया?
+   A) सब्सिडी में वृद्धि
+   B) वस्तु एवं सेवा कर (जीएसटी) का परिचय
+   C) मॉड वैट (4000//#0) के माध्यम से अप्रत्यक्ष करों को सरल बनाना  <-- CORRECT
+   D) आयकर को पूरी तरह से हटाना
+Answer: C
+Why correct: A major post-1991 fiscal reform to strengthen revenue collection was the simplification of indirect taxes through MODVAT/VAT (moving towards a value-added tax system that reduced cascading).
+Why A is wrong: Increasing subsidies does not strengthen revenue.
+Why B is wrong: GST came much later (2017); the post-1991 reform referred to here is the MODVAT/VAT simplification.
+Why D is wrong: Income tax was not abolished.
+Note: MODVAT/CENVAT and later state VAT (2005) progressively reduced the cascading of indirect taxes, culminating in GST (2017).
+
+==============================================================================
+Set 50 | Q.No 25 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: हॉकी में "स्लैप शॉट" क्या होता है?
+   A) खुले हाथ से लिया गया शॉट
+   B) स्टिक से लिया गया ज़ोरदार शॉट जिसे पीछे और फिर तेज़ी से आगे की ओर घुमाया जाता है  <-- CORRECT
+   C) कलाई से लिया गया तेज़ शॉट
+   D) थोड़ी दूरी से लिया गया शॉट
+Answer: B
+Why correct: In hockey, a 'slap shot' is a powerful shot taken by drawing the stick back and swinging it quickly forward to strike the ball.
+Why A is wrong: It is not taken with an open hand.
+Why C is wrong: It is not a wrist-only quick shot.
+Why D is wrong: It is not specifically a short-range push.
+Note: The slap shot generates speed while keeping the stick close to the ground.
+
+==============================================================================
+Set 50 | Q.No 26 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: निर्वासन के बाद मुगल सिंहासन पुनः प्राप्त करने में हुमायूं की सहायता किसने की?
+   A) गुजरात के बहादुर शाह ने
+   B) शेरशाह सूरी ने
+   C) फ़ारसी शासक शाह तहमास्प ने  <-- CORRECT
+   D) राणा सांगा ने
+Answer: C
+Why correct: The Persian ruler Shah Tahmasp helped Humayun regain the Mughal throne after his exile.
+Why A is wrong: Bahadur Shah of Gujarat was an adversary.
+Why B is wrong: Sher Shah Suri had driven Humayun out.
+Why D is wrong: Rana Sanga was an earlier Rajput opponent of Babur.
+Note: With Persian support, Humayun recovered Delhi in 1555, a year before his death.
+
+==============================================================================
+Set 50 | Q.No 27 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत का पहला निर्यात प्रसंस्करण क्षेत्र (ई.पी.जेड.) कहां स्थापित किया गया था?
+   A) पारादीप
+   B) कांडला  <-- CORRECT
+   C) मुंद्रा
+   D) हल्दिया
+Answer: B
+Why correct: India's first Export Processing Zone (EPZ) was set up at Kandla, Gujarat (1965).
+Why A is wrong: Paradip was not the first EPZ.
+Why C is wrong: Mundra was not the first EPZ.
+Why D is wrong: Haldia was not the first EPZ.
+Note: Kandla was also Asia's first Export Processing Zone.
+
+==============================================================================
+Set 50 | Q.No 28 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन सा मंत्रालय जुलाई 2025 में महिला आरोग्यम कक्ष के उद्घाटन से संबंधित है?
+   A) स्वास्थ्य एवं परिवार कल्याण मंत्रालय
+   B) महिला एवं बाल विकास मंत्रालय
+   C) विधि एवं न्याय मंत्रालय  <-- CORRECT
+   D) गृह मंत्रालय
+Answer: C
+Why correct: The Ministry of Law and Justice was associated with the inauguration of the 'Mahila Aarogyam Kaksh' in July 2025.
+Why A is wrong: It was not the Ministry of Health and Family Welfare.
+Why B is wrong: It was not the Ministry of Women and Child Development.
+Why D is wrong: It was not the Ministry of Home Affairs.
+Note: Women-focused facilities aim to improve access to services for women.
+
+==============================================================================
+Set 50 | Q.No 29 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा पवन के कार्य के संदर्भ में सही नहीं है?
+   A) मरुस्थलीय क्षेत्र में पवन अपरदन एवं निक्षेपण का सक्रिय कारक हैं।
+   B) छत्रक शैल का आधार संकीर्ण एवं शीर्ष विस्तृत होता है।
+   C) चीन में लोएस का निक्षेप नहीं पाया जाता हैं।  <-- CORRECT
+   D) बालू टिब्बा रेगिस्तानी क्षेत्र में पवन के कार्य का उदाहरण हैं।
+Answer: C
+Why correct: The statement that loess deposits are NOT found in China is incorrect - China has the famous Loess Plateau formed by wind deposition.
+Why A is wrong: It is true that wind is an active agent of erosion and deposition in deserts.
+Why B is wrong: It is true that a mushroom rock has a narrow base and broad top.
+Why D is wrong: It is true that sand dunes are examples of wind action in deserts.
+Note: China's Loess Plateau is a classic example of wind-deposited (aeolian) loess soil.
+
+==============================================================================
+Set 50 | Q.No 30 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: ग्लोबल जेंडर गैप इंडेक्स 2025 के अनुसार, भारत का प्रदर्शन स्कोर 2024 में 64.% से बढ़कर 2025 में हो गया है।
+   A) 64.4%  <-- CORRECT
+   B) 69.2%
+   C) 66.4%
+   D) 67.1%
+Answer: A
+Why correct: As per the Global Gender Gap Index 2025, India's score was about 64.1% in 2024, and the 2025 figure cited is about 64.4%.
+Why B is wrong: 69.2% is too high.
+Why C is wrong: 66.4% is incorrect.
+Why D is wrong: 67.1% is not the figure.
+Note: The Gender Gap Index measures gender parity in economics, education, health and politics.
+
+==============================================================================
+Set 50 | Q.No 31 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारतीय संविधान का अनुच्छेद 32 निम्नलिखित में से किससे संबंधित है?
+   A) कुछ अधिनियमों और विनियमों का विधिमान्यकरण।
+   B) धार्मिक कार्यों के प्रबंध की स्वतंत्रता
+   C) इस भाग द्वारा प्रदत्त अधिकारों को प्रवर्तित कराने के लिए उपचार  <-- CORRECT
+   D) अल्पसंख्यक-वर्गों के हितों का संरक्षण
+Answer: C
+Why correct: Article 32 of the Constitution provides the right to constitutional remedies - the right to move the Supreme Court to enforce Fundamental Rights.
+Why A is wrong: Validation of certain Acts is a different provision.
+Why B is wrong: Freedom to manage religious affairs is Article 26.
+Why D is wrong: Protection of minorities' interests is Article 29.
+Note: Dr Ambedkar called Article 32 the 'heart and soul' of the Constitution.
+
+==============================================================================
+Set 50 | Q.No 32 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: भारतीय संविधान का निम्नलिखित में से कौन सा अनुच्छेद न्यायालयों द्वारा विधानमंडल की कार्यवाहियों की जांच न किया जाना से संबंधित है?
+   A) Article 213
+   B) Article 211
+   C) Article 212  <-- CORRECT
+   D) Article 208
+Answer: C
+Why correct: Article 212 bars courts from inquiring into the proceedings of a state legislature (on grounds of procedural irregularity).
+Why A is wrong: Article 213 deals with the Governor's ordinance power.
+Why B is wrong: Article 211 restricts discussion of judges' conduct.
+Why D is wrong: Article 208 deals with rules of procedure.
+Note: A similar protection for Parliament's proceedings is given by Article 122.
+
+==============================================================================
+Set 50 | Q.No 33 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सी शास्त्रीय नृत्य शैली तमिलनाडु में उत्पन्न हुई थी?
+   A) तिरुवथिराकालि
+   B) बागुरुम्बा
+   C) वीरानात्यम
+   D) भरतनात्यम  <-- CORRECT
+Answer: D
+Why correct: Bharatanatyam is the classical dance form that originated in Tamil Nadu.
+Why A is wrong: Thiruvathirakali is a Kerala group dance (not a classical form here).
+Why B is wrong: Bagurumba is an Assamese (Bodo) folk dance.
+Why C is wrong: Veeranatyam is a Telugu temple dance.
+Note: Bharatanatyam is one of the eight classical dance forms recognised in India.
+
+==============================================================================
+Set 50 | Q.No 34 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: पारंपरिक नृत्य 'सीचा और कुकुई कूचो' निम्नलिखित में से किस क्षेत्र से संबंधित है?
+   A) पुदुचेरी
+   B) हरियाणा
+   C) नागालैंड  <-- CORRECT
+   D) तमिलनाडु
+Answer: C
+Why correct: The traditional dances 'Seecha' and 'Kukui Kucho' are associated with Nagaland.
+Why A is wrong: They are not from Puducherry.
+Why B is wrong: They are not from Haryana.
+Why D is wrong: They are not from Tamil Nadu.
+Note: Nagaland's many tribes have a rich variety of folk dances showcased at the Hornbill Festival.
+
+==============================================================================
+Set 50 | Q.No 35 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: संक्षिप्त नाम “एन.सी.एम.आर.डब्ल्यू.एफ.” भारत सरकार के किस केंद्रीय मंत्रालय से संबंधित है?
+   A) पर्यावरण, वन एवं जलवायु परिवर्तन मंत्रालय
+   B) पृथ्वी विज्ञान मंत्रालय  <-- CORRECT
+   C) सहकारिता मंत्रालय
+   D) शिक्षा मंत्रालय
+Answer: B
+Why correct: The acronym 'NCMRWF' relates to the Ministry of Earth Sciences - it is the National Centre for Medium Range Weather Forecasting.
+Why A is wrong: It is not under the Ministry of Environment.
+Why C is wrong: It is not under the Ministry of Cooperation.
+Why D is wrong: It is not under the Ministry of Education.
+Note: NCMRWF provides numerical weather-prediction support for forecasts in India.
+
+==============================================================================
+Set 50 | Q.No 36 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: लद्दाख में इस्तेमाल होने वाले 'सिल्येन' या 'बुब्जल' किस प्रकार के वाद्ययंत्र हैं?
+   A) झांझ  <-- CORRECT
+   B) ड्म
+   C) बांसुरी
+   D) घंटी
+Answer: A
+Why correct: The 'Silyen' or 'Bubjal' used in Ladakh are types of cymbals (percussion).
+Why B is wrong: They are not drums.
+Why C is wrong: They are not flutes.
+Why D is wrong: They are not bells in the sense asked.
+Note: Cymbals are widely used in Ladakhi Buddhist monastery (gompa) music.
+
+==============================================================================
+Set 50 | Q.No 37 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: नासा का कौन सा मिशन बृहस्पति के चंद्रमा यूरोपा का अन्वेषण करेगा?
+   A) यूरोपा ऑर्बिटर
+   B) यूरोपा क़िपर  <-- CORRECT
+   C) गैलीलियो-2
+   D) जूस
+Answer: B
+Why correct: NASA's 'Europa Clipper' mission will explore Jupiter's moon Europa.
+Why A is wrong: There is no current NASA mission simply named 'Europa Orbiter' for this.
+Why C is wrong: 'Galileo-2' is not the mission.
+Why D is wrong: JUICE is the European Space Agency's Jupiter mission, not NASA's Europa mission.
+Note: Europa is believed to have a subsurface ocean beneath its icy crust, a target in the search for life.
+
+==============================================================================
+Set 50 | Q.No 38 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: को तब भी देखा जा सकता हैं जब प्रकाश की एक महीन किरण एक छोटे छिद्रों के माध्यम से कमरे में प्रवेश करती है।
+   A) टिन्डल प्रभाव  <-- CORRECT
+   B) ब्राउनी गति
+   C) विवर्तन
+   D) निक्षेपण
+Answer: A
+Why correct: The Tyndall effect can be seen when a fine beam of light enters a room through a small hole and the path of light becomes visible due to scattering by dust particles.
+Why B is wrong: Brownian motion is the random movement of particles in a fluid.
+Why C is wrong: Diffraction is the bending of light around edges.
+Why D is wrong: Deposition is a change of state from gas to solid.
+Note: The Tyndall effect is the scattering of light by colloidal particles.
+
+==============================================================================
+Set 50 | Q.No 39 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा फील्ड हॉकी में गोल करने का तरीका नहीं है?
+   A) फील्ड गोल
+   B) पेनल्टी कॉर्नर
+   C) पेनल्टी स्ट्रोक
+   D) फ्री किक  <-- CORRECT
+Answer: D
+Why correct: A 'free kick' is NOT a way to score a goal in field hockey (it is a football term); hockey goals come via field goals, penalty corners and penalty strokes.
+Why A is wrong: A field goal is a valid way to score.
+Why B is wrong: A penalty corner can lead to a goal.
+Why C is wrong: A penalty stroke is a way to score.
+Note: In hockey, a goal can be scored only from within the shooting circle (the 'D').
+
+==============================================================================
+Set 50 | Q.No 40 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: खेलो इंडिया शीतकालीन खेल 2024, खेलो इंडिया कैलेंडर में वार्षिक आयोजन का संस्करण है।
+   A) First
+   B) Second
+   C) Third
+   D) Fourth  <-- CORRECT
+Answer: D
+Why correct: Khelo India Winter Games 2024 was the fourth edition in the Khelo India calendar.
+Why A is wrong: It was not the first edition.
+Why B is wrong: It was not the second.
+Why C is wrong: It was not the third.
+Note: The Khelo India Winter Games promote winter sports, held mainly in Ladakh and Jammu & Kashmir.
