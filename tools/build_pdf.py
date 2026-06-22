@@ -26,6 +26,8 @@ OCR_CACHE = os.path.join(ROOT, 'data', 'ocr_cache.json')
 SOL_DIR = os.path.join(ROOT, 'solutions')
 OUT_PDF = os.path.join(ROOT, 'SSC_GD_GK_Solutions.pdf')
 LETTERS = ['A', 'B', 'C', 'D']
+LANG_LABEL = {'eng': 'English', 'hin': 'Hindi', 'ben': 'Bengali',
+              'ori': 'Odia', 'mar': 'Marathi'}
 FILES = [('F1', os.path.join(ROOT, 'page1-223.pdf')),
          ('F2', os.path.join(ROOT, 'page224-445.pdf'))]
 
@@ -119,11 +121,13 @@ def build(include_images=True):
                      else classify(r['stem'], r['options']))
             qtext = (sol.get('q') if sol and sol.get('q') else r['stem'])
             opts = (sol.get('opts') if sol and sol.get('opts') else r['options'])
-            ans = r['answer_letter']
+            detected = r['answer_letter']
+            ans = (sol.get('answer') if sol and sol.get('answer') else detected)
+            diverged = bool(sol and sol.get('answer') and sol['answer'] != detected)
             parts.append("<div class='q'>")
             parts.append(f"<div class='qhead'>Q.No {r['qno']}"
                          f"<span class='tag'>{esc(topic)}</span>"
-                         f"<span class='tag'>{'Hindi' if r['lang']=='hin' else 'English'}</span></div>")
+                         f"<span class='tag'>{LANG_LABEL.get(r['lang'],'English')}</span></div>")
             if qtext:
                 parts.append(f"<div class='qtext'>{esc(qtext)}</div>")
             if include_images:
@@ -141,6 +145,10 @@ def build(include_images=True):
             if sol:
                 parts.append(f"<div class='h'>Solution &mdash; correct answer: {ans}</div>")
                 parts.append(f"<p>{esc(sol.get('correct',''))}</p>")
+                if diverged:
+                    parts.append(f"<div class='fact' style='border-left-color:#b03a2e'>"
+                                 f"Note: source-sheet highlight indicated option {detected}; "
+                                 f"corrected to {ans} based on standard facts (flagged for review).</div>")
                 wrong = sol.get('wrong', {})
                 if wrong:
                     parts.append("<div class='ww'>")

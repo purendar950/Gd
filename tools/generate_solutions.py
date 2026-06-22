@@ -41,6 +41,8 @@ TOPICS_DIR = os.path.join(STUDY, 'topics')
 SOL_DIR = os.path.join(ROOT, 'solutions')
 OCR_CACHE = os.path.join(ROOT, 'data', 'ocr_cache.json')
 LETTERS = ['A', 'B', 'C', 'D']
+LANG_LABEL = {'eng': 'English', 'hin': 'Hindi', 'ben': 'Bengali',
+              'ori': 'Odia', 'mar': 'Marathi'}
 
 FILES = [('F1', os.path.join(ROOT, 'page1-223.pdf')),
          ('F2', os.path.join(ROOT, 'page224-445.pdf'))]
@@ -206,11 +208,15 @@ def _set_header(set_no, total, solved_sets):
 
 
 def _render_q(doc, r, qtext, opts, ans_letter, topic, sol):
+    # Effective answer: prefer the author-verified answer; note any divergence
+    detected = ans_letter
+    eff = (sol.get('answer') if sol and sol.get('answer') else detected)
+    diverged = bool(sol and sol.get('answer') and sol['answer'] != detected)
     p = ["<div class='q'>"]
     p.append(
         f"<div class='qhead'>Q.No {r['qno']} "
         f"<span class='tag'>{esc(topic)}</span>"
-        f"<span class='tag lang'>{'Hindi' if r['lang']=='hin' else 'English'}</span>"
+        f"<span class='tag lang'>{LANG_LABEL.get(r['lang'],'English')}</span>"
         + (f"<span class='flag'>&#9888; low OCR confidence</span>"
            if r.get('min_conf', 100) < 55 else "")
         + "</div>")
@@ -225,7 +231,7 @@ def _render_q(doc, r, qtext, opts, ans_letter, topic, sol):
         p.append("</div>")
     # options
     for i, otext in enumerate(opts):
-        correct = (LETTERS[i] == ans_letter)
+        correct = (LETTERS[i] == eff)
         cls = 'opt correct' if correct else 'opt'
         tick = "<span class='tick'>&#10003; Correct</span>" if correct else ""
         p.append(
@@ -235,8 +241,13 @@ def _render_q(doc, r, qtext, opts, ans_letter, topic, sol):
     p.append("<div class='sol'>")
     if sol:
         p.append("<h4>Solution</h4>")
-        p.append(f"<p><b>Correct answer: {ans_letter}.</b> "
+        p.append(f"<p><b>Correct answer: {eff}.</b> "
                  f"{esc(sol.get('correct',''))}</p>")
+        if diverged:
+            p.append(f"<div class='fact' style='border-left-color:#c0392b'>"
+                     f"&#9888; Note: the answer-key highlight in the source sheet "
+                     f"points to option {detected}, but based on standard facts the "
+                     f"correct answer is {eff}. Flagged for review.</div>")
         wrong = sol.get('wrong', {})
         if wrong:
             p.append("<div class='why-wrong'>")
@@ -247,7 +258,7 @@ def _render_q(doc, r, qtext, opts, ans_letter, topic, sol):
         if sol.get('fact'):
             p.append(f"<div class='fact'>&#128161; {esc(sol['fact'])}</div>")
     else:
-        p.append(f"<div class='pending'>Correct answer: <b>{ans_letter}</b>. "
+        p.append(f"<div class='pending'>Correct answer: <b>{eff}</b>. "
                  f"Detailed solution coming in a later batch.</div>")
     p.append("</div>")
     p.append("</div>")
@@ -255,16 +266,21 @@ def _render_q(doc, r, qtext, opts, ans_letter, topic, sol):
 
 
 def _text_block(set_no, r, qtext, opts, ans_letter, topic, sol):
+    eff = (sol.get('answer') if sol and sol.get('answer') else ans_letter)
+    diverged = bool(sol and sol.get('answer') and sol['answer'] != ans_letter)
     lines = []
     lines.append("=" * 78)
     lines.append(f"Set {set_no} | Q.No {r['qno']} | Topic: {topic} | "
-                 f"Language: {'Hindi' if r['lang']=='hin' else 'English'}")
+                 f"Language: {LANG_LABEL.get(r['lang'],'English')}")
     lines.append("-" * 78)
     lines.append(f"Q: {qtext}")
     for i, o in enumerate(opts):
-        mark = '  <-- CORRECT' if LETTERS[i] == ans_letter else ''
+        mark = '  <-- CORRECT' if LETTERS[i] == eff else ''
         lines.append(f"   {LETTERS[i]}) {o}{mark}")
-    lines.append(f"Answer: {ans_letter}")
+    lines.append(f"Answer: {eff}")
+    if diverged:
+        lines.append(f"[Note: source-sheet highlight indicated {ans_letter}; "
+                     f"corrected to {eff} based on standard facts - flagged for review]")
     lines.append(f"Why correct: {sol.get('correct','')}")
     wrong = sol.get('wrong', {})
     for L in LETTERS:
