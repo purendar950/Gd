@@ -7497,3 +7497,3003 @@ Why A is wrong: 'Only I' is wrong because Cerium is a rare-earth element.
 Why B is wrong: 'Only II' is wrong because Europium is a rare-earth element.
 Why C is wrong: 'Both I and II' would mean both are not rare-earth, which is incorrect.
 Note: The rare-earth elements are the 15 lanthanides plus scandium and yttrium.
+
+==============================================================================
+Set 26 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: राज्य नीति के निर्देशक सिद्धांत निम्नलिखित से उधार लिए गए हैं?
+   A) यूनाइटेड किंगडम
+   B) कनाडा
+   C) संयुक्त राज्य अमेरिका
+   D) आयरलैंड  <-- CORRECT
+Answer: D
+Why correct: The Directive Principles of State Policy (DPSP) were borrowed from the Constitution of Ireland.
+Why A is wrong: From the UK, India borrowed the parliamentary system and rule of law.
+Why B is wrong: From Canada came the federal structure with a strong centre.
+Why C is wrong: From the USA came Fundamental Rights and judicial review.
+Note: The DPSP are non-justiciable guidelines for the State, contained in Part IV of the Constitution.
+
+==============================================================================
+Set 26 | Q.No 22 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस राज्य में द्विसदनीय विधायिका है?
+   A) हरियाणा
+   B) राजस्थान
+   C) हिमाचल प्रदेश
+   D) बिहार  <-- CORRECT
+Answer: D
+Why correct: Among the options, Bihar has a bicameral legislature (a Legislative Assembly and a Legislative Council).
+Why A is wrong: Haryana has only a Legislative Assembly.
+Why B is wrong: Rajasthan is unicameral.
+Why C is wrong: Himachal Pradesh has only a Legislative Assembly.
+Note: Only a few states (like Bihar, UP, Maharashtra, Karnataka, Telangana, Andhra Pradesh) have a Legislative Council.
+
+==============================================================================
+Set 26 | Q.No 23 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारतीय जनगणना में कार्यशील जनसंख्या को निम्नलिखित तीन श्रेणियों में से किसमें वर्गीकृत किया गया है?
+   A) मुख्य श्रमिक, सीमांत श्रमिक और गैर-श्रमिक  <-- CORRECT
+   B) कृषि, औद्योगिक और सेवा श्रमिक
+   C) संगठित, असंगठित, बेरोजगार
+   D) ग्रामीण, शहरी और प्रवासी श्रमिक
+Answer: A
+Why correct: The Indian Census classifies the working population into three categories: main workers, marginal workers and non-workers.
+Why B is wrong: Agricultural/industrial/service is a sectoral split, not the census worker classification.
+Why C is wrong: Organised/unorganised/unemployed is not the census categorisation.
+Why D is wrong: Rural/urban/migrant is not the worker classification used.
+Note: A 'main worker' works for at least 183 days (6 months) in a year; below that one is a 'marginal worker'.
+
+==============================================================================
+Set 26 | Q.No 24 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस अधिनियम द्वारा भारत में खाद्य सुरक्षा के लिए एक अलग प्राधिकरण बनाया गया?
+   A) खाद्य सुरक्षा और मानक अधिनियम, 2006  <-- CORRECT
+   B) राष्ट्रीय खाद्य सुरक्षा अधिनियम, 203
+   C) प्रतिस्पर्धा अधिनियम, 2002
+   D) उपभोक्ता संरक्षण अधिनियम, 209
+Answer: A
+Why correct: The Food Safety and Standards Act, 2006 created a separate authority (FSSAI) to regulate food safety in India.
+Why B is wrong: The National Food Security Act, 2013 deals with subsidised food grains, not the food-safety regulator.
+Why C is wrong: The Competition Act, 2002 set up the Competition Commission.
+Why D is wrong: The Consumer Protection Act, 2019 deals with consumer rights.
+Note: The FSSAI sets food standards and oversees food safety across India.
+
+==============================================================================
+Set 26 | Q.No 25 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत में, हरित क्रांति में के उच्च पैदावार वाली किस्मों के बीजों का उपयोग किया गया था।
+   A) चावल और गेहूं  <-- CORRECT
+   B) गन्ना और चाय
+   C) ज्वार और बाजरा
+   D) सरसों और रागी
+Answer: A
+Why correct: India's Green Revolution used high-yielding variety (HYV) seeds mainly of rice and wheat, dramatically increasing food-grain output.
+Why B is wrong: Sugarcane and tea were not the focus of HYV seeds in the Green Revolution.
+Why C is wrong: Jowar and bajra (millets) were not the main HYV crops then.
+Why D is wrong: Mustard and ragi were not the Green Revolution's lead crops.
+Note: M.S. Swaminathan is regarded as the father of India's Green Revolution.
+
+==============================================================================
+Set 26 | Q.No 26 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: चोल अभिलेखों में उल्लिखित भूमि की विभिन्न श्रेणियों के संदर्भ में निम्नलिखित में से कौन सा युग्म सही है? ।. शालाभोग - विद्यालय के रखरखाव के लिए भूमि। |. देवदान, तिरुनमट्रक्कनी - मंदिरों को उपहार में दी गई भूमि।
+   A) Only I
+   B) Only II
+   C) Both I and II  <-- CORRECT
+   D) Neither I nor II
+Answer: C
+Why correct: Both pairs are correct: Shalabhoga (I) was land for the maintenance of a school, and Devadana/Tirunamattukkani (II) was land gifted to temples - so 'Both I and II' is right.
+Why A is wrong: 'Only I' omits the correct temple-land term.
+Why B is wrong: 'Only II' omits the correct school-land term.
+Why D is wrong: 'Neither' is wrong as both pairs are correctly matched.
+Note: Chola inscriptions record several land categories, reflecting a well-organised rural economy.
+
+==============================================================================
+Set 26 | Q.No 27 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: नवंबर 2024 में, भारत को बाल विवाह मुक्त बनाने के उद्देश्य से “बाल विवाह मुक्त भारत” अभियान किसने शुरू किया था?
+   A) स्मृति ईरानी
+   B) अमित शाह
+   C) नरेंद्र मोदी
+   D) अन्नपूर्णा देवी  <-- CORRECT
+Answer: D
+Why correct: The 'Bal Vivah Mukt Bharat' (Child Marriage Free India) campaign was launched in November 2024 by Annapurna Devi, the Union Minister for Women and Child Development.
+Why A is wrong: Smriti Irani was no longer the WCD Minister at that time.
+Why B is wrong: Amit Shah did not launch this campaign.
+Why C is wrong: The campaign was launched by the WCD Minister, not directly by the Prime Minister.
+Note: India aims to eliminate child marriage, which remains a challenge in several states.
+
+==============================================================================
+Set 26 | Q.No 28 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: प्रसिद्ध कांस्य 'नृत्य करती लड़की' मूर्ति में खोजी गई थी।
+   A) लोथल
+   B) चन्हूदड़ो
+   C) मोहनजोदड़ो  <-- CORRECT
+   D) रोपड़
+Answer: C
+Why correct: The famous bronze 'Dancing Girl' figurine was discovered at Mohenjo-daro, a major Indus Valley Civilization site.
+Why A is wrong: Lothal was a dockyard town but not where the Dancing Girl was found.
+Why B is wrong: Chanhudaro is known for bead-making.
+Why D is wrong: Ropar (Rupnagar) is an Indus site but not where this figure was found.
+Note: The Dancing Girl, made by the lost-wax casting method, shows the metallurgical skill of the Harappans.
+
+==============================================================================
+Set 26 | Q.No 29 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत के राष्ट्रपति पर महाभियोग चलाने के लिए कितने संसद्‌ सदस्यों की आवश्यकता होती है?
+   A) लोकसभा से 00
+   B) राज्यसभा से 50
+   C) किसी भी सदन की कुल सदस्यता का एक-चौथाई  <-- CORRECT
+   D) कुल सदस्यता का आधा
+Answer: C
+Why correct: To impeach the President, the motion must be signed by at least one-fourth of the total membership of the House in which it is initiated.
+Why A is wrong: There is no fixed figure of 100 Lok Sabha members for this.
+Why B is wrong: There is no fixed figure of 50 Rajya Sabha members.
+Why D is wrong: It is one-fourth to initiate (and a two-thirds majority to pass), not half.
+Note: The President can be impeached only for 'violation of the Constitution' (Article 61).
+
+==============================================================================
+Set 26 | Q.No 30 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: मनुष्यों में वृद्धि हार्मोन-रिलीजिंग फैक्टर जारी करने के लिए कौन-सी मस्तिष्क संरचना उत्तरदायी होती है?
+   A) हाइपोथैंलेमस  <-- CORRECT
+   B) थायरॉयड ग्रंथि
+   C) पिट्यूटरी ग्रंथि
+   D) थाइमस ग्रंथि
+Answer: A
+Why correct: The hypothalamus releases growth-hormone-releasing factor (hormone), which stimulates the pituitary to secrete growth hormone.
+Why B is wrong: The thyroid gland secretes thyroxine, not growth-hormone-releasing factor.
+Why C is wrong: The pituitary secretes growth hormone in response to the hypothalamus.
+Why D is wrong: The thymus is involved in immunity (T-cell maturation).
+Note: The hypothalamus links the nervous and endocrine systems by controlling the pituitary gland.
+
+==============================================================================
+Set 26 | Q.No 31 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: 'लारू काज' मध्य प्रदेश में किस समुदाय द्वारा मनाया जाने वाला एक पारंपरिक त्योहार हैं?
+   A) भील
+   B) बैगा
+   C) गोंड  <-- CORRECT
+   D) सहरिया
+Answer: C
+Why correct: 'Laru Kaj' is a traditional festival celebrated by the Gond community of Madhya Pradesh.
+Why A is wrong: It is not a Bhil festival.
+Why B is wrong: It is not a Baiga festival.
+Why D is wrong: It is not a Sahariya festival.
+Note: The Gonds are one of the largest tribal communities in central India.
+
+==============================================================================
+Set 26 | Q.No 32 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा टाइगर रिजर्व देश के 56वें टाइगर रिजर्व के रूप में अधिसूचित है?
+   A) गुरु घासीदास-तमोर पिंगला टाइगर रिजर्व  <-- CORRECT
+   B) बांधवगढ़ टाइगर रिजर्व
+   C) सुंदरवन टाइगर रिजर्व
+   D) कान्हा टाइगर रिजर्व
+Answer: A
+Why correct: The Guru Ghasidas-Tamor Pingla Tiger Reserve (Chhattisgarh) was notified as India's 56th tiger reserve.
+Why B is wrong: Bandhavgarh is an older, established tiger reserve.
+Why C is wrong: Sundarbans is a long-established tiger reserve.
+Why D is wrong: Kanha is one of the oldest tiger reserves.
+Note: Tiger reserves are managed under Project Tiger, launched in 1973.
+
+==============================================================================
+Set 26 | Q.No 33 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: मानव शरीर के निम्नलिखित में से किस अंग का चित्रण पराध्वानी तरंगों का उपयोग करके नहीं किया जाता है? | सा [. पित्ताशय
+   A) Only I
+   B) Only II
+   C) Both I and II
+   D) Neither I nor II  <-- CORRECT
+Answer: D
+Why correct: Both the heart (I) and the gallbladder (II) ARE routinely imaged using ultrasound (echocardiography and abdominal ultrasound), so neither is an organ that is not imaged - hence 'Neither I nor II'.
+Why A is wrong: 'Only I' is wrong because the heart is imaged by ultrasound.
+Why B is wrong: 'Only II' is wrong because the gallbladder is imaged by ultrasound.
+Why C is wrong: 'Both' would mean both are not imaged, which is incorrect.
+Note: Ultrasound (sonography) uses high-frequency sound waves to image soft tissues and organs.
+
+==============================================================================
+Set 26 | Q.No 34 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारतीय अर्थव्यवस्था के संदर्भ में, वैयक्तिक प्रयोज्य आय (पी.डी.आई.) के संदर्भ में निम्नलिखित में से कौन सा कथन सही है?
+   A) पी.डी.आई. न वैयक्तिक आय - वैयक्तिक कर अदायगी + गैरकर अदायगी
+   B) पी.डी.आई. वैयक्तिक आय - व्यक्तिगत कर अदायगी - गैरकर अदायगी  <-- CORRECT
+   C) पी.डी.आई. + राष्ट्रीय आय - वैयक्तिक कर अदायगी + गैरकर अदायगी
+   D) पी.डी.आई. - राष्ट्रीय आय - वैयक्तिक कर अदायगी - गैरकर अदायगी
+Answer: B
+Why correct: Personal Disposable Income (PDI) = Personal Income minus personal (direct) tax payments minus non-tax payments (such as fees/fines to government).
+Why A is wrong: It subtracts non-tax payments too, not adds them.
+Why C is wrong: PDI starts from personal income, not national income.
+Why D is wrong: PDI is not national income minus those items.
+Note: Disposable income is what households can actually spend or save after compulsory payments.
+
+==============================================================================
+Set 26 | Q.No 35 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: पहली इंडियन ओपन गोल्फ चैंपियनशिप कब आयोजित हुई थी?
+   A) 1964  <-- CORRECT
+   B) 1978
+   C) 1955
+   D) 1999
+Answer: A
+Why correct: The first Indian Open Golf Championship was held in 1964.
+Why B is wrong: 1978 is later than the first edition.
+Why C is wrong: 1955 is incorrect.
+Why D is wrong: 1999 is much later.
+Note: The Indian Open is one of Asia's prominent professional golf tournaments.
+
+==============================================================================
+Set 26 | Q.No 36 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत और भूटान ने 24 से 25 अप्रैल 2025 तक में सीमा शुल्क की 6वीं संयुक्त समूह बैठक आयोजित की थी।
+   A) थिम्पू  <-- CORRECT
+   B) गांधीनगर
+   C) पारो
+   D) नई दिल्‍ली
+Answer: A
+Why correct: India and Bhutan held the 6th Joint Group of Customs meeting at Thimphu from 24 to 25 April 2025.
+Why B is wrong: It was not held at Gandhinagar.
+Why C is wrong: It was not held at Paro.
+Why D is wrong: It was not held in New Delhi.
+Note: Thimphu is the capital of Bhutan, India's close Himalayan neighbour.
+
+==============================================================================
+Set 26 | Q.No 37 | Topic: Books & Authors | Language: Hindi
+------------------------------------------------------------------------------
+Q: 'इंडियन विजडम' पुस्तक के लेखक कौन हैं?
+   A) सद्गुरु
+   B) दीपक चोपड़ा
+   C) देवदत्त पटनायक  <-- CORRECT
+   D) राधाकृष्णन पिल्नई
+Answer: C
+Why correct: The book 'Indian Wisdom' (in this context) is authored by Devdutt Pattanaik, known for his works on mythology.
+Why A is wrong: Sadhguru writes on yoga and spirituality (e.g. 'Inner Engineering').
+Why B is wrong: Deepak Chopra writes on mind-body wellness.
+Why D is wrong: Radhakrishnan Pillai writes on Chanakya's wisdom.
+Note: Devdutt Pattanaik has written many bestselling books retelling Indian myths.
+
+==============================================================================
+Set 26 | Q.No 38 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: भारत में, रीसेट (पूर्व खिलाड़ी सशक्तिकरण प्रशिक्षण) कार्यक्रम में शुरू किया गया था।
+   A) 2021
+   B) 2020
+   C) 2024  <-- CORRECT
+   D) 2023
+Answer: C
+Why correct: The RESET (Retired Sportsperson Empowerment Training) programme was launched in India in 2024 to help former athletes build second careers.
+Why A is wrong: 2021 is not the launch year.
+Why B is wrong: 2020 is incorrect.
+Why D is wrong: 2023 is not when it was launched.
+Note: The scheme trains retired sportspersons in coaching, management and allied roles.
+
+==============================================================================
+Set 26 | Q.No 39 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: एनर्जी ट्रांजीशन इंडेक्स 2025 में कौन सा देश प्रथम स्थान पर है?
+   A) स्वीडन  <-- CORRECT
+   B) फिनलैंड
+   C) डेनमार्क
+   D) यु.एस.ए.
+Answer: A
+Why correct: Sweden ranked first in the Energy Transition Index 2025, reflecting its progress towards clean and secure energy.
+Why B is wrong: Finland ranked high but not first.
+Why C is wrong: Denmark ranked among the leaders but not first.
+Why D is wrong: The USA did not top the index.
+Note: The Energy Transition Index is published by the World Economic Forum.
+
+==============================================================================
+Set 26 | Q.No 40 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: सर क्षेत्र जिला एस.डी.जी. सूचकांक 2023-24 में, निम्नलिखित में से किस राज्य के सभी जिलों को “अग्रणी” के रूप में वर्गीकृत किया गया है? [. सिक्किम [. मिजोरम
+   A) Only I
+   B) Only II
+   C) Both I and II  <-- CORRECT
+   D) Neither I nor II
+Answer: C
+Why correct: In the District SDG Index 2023-24, all districts of both Sikkim (I) and Mizoram (II) were classified as 'Front Runners', so 'Both I and II' is correct.
+Why A is wrong: 'Only I' omits Mizoram.
+Why B is wrong: 'Only II' omits Sikkim.
+Why D is wrong: 'Neither' is wrong since both states' districts were Front Runners.
+Note: The SDG India Index tracks progress on the Sustainable Development Goals; 'Front Runner' is a high-performing category.
+
+==============================================================================
+Set 27 | Q.No 21 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: टिप्पाणी नृत्य किस भारतीय राज्य का पारंपरिक लोक नृत्य है?
+   A) महाराष्ट्र
+   B) गुजरात  <-- CORRECT
+   C) राजस्थान
+   D) ओडिशा
+Answer: B
+Why correct: The Tippani dance is a traditional folk dance of Gujarat, performed by women using long sticks (tippani).
+Why A is wrong: Maharashtra is known for Lavani.
+Why C is wrong: Rajasthan is known for Ghoomar and Kalbeliya.
+Why D is wrong: Odisha is known for Odissi and folk forms like Sambalpuri.
+Note: The dance originated from women labourers compacting floors with tippani sticks.
+
+==============================================================================
+Set 27 | Q.No 22 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: आर्गन का लगभग कितना प्रतिशत वायु में उपस्थित होता है?
+   A) 0.03%
+   B) 0.93%  <-- CORRECT
+   C) 21%
+   D) 78%
+Answer: B
+Why correct: Argon makes up about 0.93% of the Earth's atmosphere, making it the third most abundant gas.
+Why A is wrong: 0.03% is roughly the share of carbon dioxide.
+Why C is wrong: 21% is the share of oxygen.
+Why D is wrong: 78% is the share of nitrogen.
+Note: Argon is a noble (inert) gas used in light bulbs and welding.
+
+==============================================================================
+Set 27 | Q.No 23 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: अप्रैल 2025 में १००ा0७९€ इंडिया के कंट्री मैनेजिंग डायरेक्टर के रूप में किसे नियुक्त किया गया?
+   A) ईशान चटर्जी
+   B) गुंजन सोनी  <-- CORRECT
+   C) मानसी सुब्रमण्यम
+   D) नटराजन शंकर
+Answer: B
+Why correct: Gunjan Soni was appointed the Country Managing Director of the named company (India) in April 2025.
+Why A is wrong: Ishan Chatterjee is not the appointee cited.
+Why C is wrong: Mansi Subramaniam is not the appointee.
+Why D is wrong: Natarajan Shankar is not the appointee.
+Note: Leadership appointments at major tech/e-commerce firms are closely tracked in current affairs.
+
+==============================================================================
+Set 27 | Q.No 24 | Topic: Awards & Honours | Language: Hindi
+------------------------------------------------------------------------------
+Q: 2025 में, आजीवन खेल उत्कृष्टता (॥€िघाा6€ 50000 €+06॥8700८6) के लिए पी.सी. चंद्र पुरस्कार किसे प्रदान किया गया?
+   A) लिएंडर पेस  <-- CORRECT
+   B) कर्नल आर.एस. जामवाल
+   C) मेजर कलिता
+   D) रवि किशन
+Answer: A
+Why correct: In 2025 the P.C. Chandra Award for lifetime sporting excellence was given to tennis legend Leander Paes.
+Why B is wrong: Col. R.S. Jamwal is a mountaineer, not the recipient here.
+Why C is wrong: Major Kalita is not the awardee.
+Why D is wrong: Ravi Kishan is an actor-politician, not the awardee.
+Note: Leander Paes won an Olympic bronze (1996) and numerous Grand Slam doubles titles.
+
+==============================================================================
+Set 27 | Q.No 25 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत का सबसे लंबा ग्लेशियर कौन-सा है?
+   A) सियाचिन  <-- CORRECT
+   B) पिंडारी
+   C) गंगोत्री
+   D) ज़ेमू
+Answer: A
+Why correct: The Siachen Glacier is the longest glacier in India (and in the non-polar Himalayas).
+Why B is wrong: The Pindari Glacier is much smaller.
+Why C is wrong: The Gangotri Glacier is large but shorter than Siachen.
+Why D is wrong: The Zemu Glacier (Sikkim) is shorter than Siachen.
+Note: The Siachen Glacier in the Karakoram is one of the highest battlegrounds in the world.
+
+==============================================================================
+Set 27 | Q.No 26 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन अकबर का राजस्व मंत्री था जिसे भूमि राजस्व सुधारों का श्रेय दिया जाता है?
+   A) अबुल फ़ज़ल
+   B) बीरबल
+   C) राजा टोडरमल  <-- CORRECT
+   D) तानसैन
+Answer: C
+Why correct: Raja Todarmal was Akbar's revenue minister, credited with major land-revenue reforms (the 'Dahsala'/Zabt system).
+Why A is wrong: Abul Fazl was Akbar's chronicler (Akbarnama).
+Why B is wrong: Birbal was a witty courtier and adviser.
+Why D is wrong: Tansen was the legendary court musician.
+Note: Todarmal's system measured land and fixed revenue based on average yields and prices.
+
+==============================================================================
+Set 27 | Q.No 27 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: 2025 में, कैबिनेट ने भारत की राष्ट्रीय खेल नीति 2025 को स्वीकृति दी।
+   A) जनवरी
+   B) जुलाई  <-- CORRECT
+   C) अप्रैल
+   D) मई
+Answer: B
+Why correct: The Union Cabinet approved India's National Sports Policy 2025 in July 2025.
+Why A is wrong: It was not approved in January.
+Why C is wrong: It was not approved in April.
+Why D is wrong: It was not approved in May.
+Note: The new policy replaces the National Sports Policy of 2001.
+
+==============================================================================
+Set 27 | Q.No 28 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: तलाश पहल जुलाई 2025 में शुरू की गई थी। तलाश का पूर्ण रुप है।
+   A) ट्राइबल एक्सेस, लीडरशिप एंड स्किल हब
+   B) ट्राइबल एप्टीट्यूड, लाइफ स्किल्स एंड सेल्फ एस्टीम हब  <-- CORRECT
+   C) ट्राइबल एडवांसमेंट एंड लर्निंग सपोर्ट हब
+   D) ट्राइबल अवेयरनेस, लर्निंग एंड सोशल एम्पावरमेंट हब
+Answer: B
+Why correct: The TALASH initiative (launched July 2025) stands for 'Tribal Aptitude, Life Skills and Self-Esteem Hub', aimed at tribal students.
+Why A is wrong: 'Tribal Access, Leadership and Skill Hub' is not the correct expansion.
+Why C is wrong: 'Tribal Advancement and Learning Support Hub' is incorrect.
+Why D is wrong: 'Tribal Awareness, Learning and Social Empowerment Hub' is incorrect.
+Note: It supports the career readiness and confidence of students in tribal residential schools.
+
+==============================================================================
+Set 27 | Q.No 29 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: महेश में रथ यात्रा भारत का दूसरा सबसे पुराना रथ उत्सव है, यह किस राज्य में मनाया जाता है?
+   A) ओडिशा
+   B) गुजरात
+   C) झारखंड
+   D) पश्चिम बंगाल  <-- CORRECT
+Answer: D
+Why correct: The Mahesh Rath Yatra - India's second-oldest chariot festival - is celebrated at Mahesh (Serampore) in West Bengal.
+Why A is wrong: The most famous Rath Yatra is at Puri, Odisha, but the Mahesh Yatra is in West Bengal.
+Why B is wrong: It is not held in Gujarat.
+Why C is wrong: It is not held in Jharkhand.
+Note: The Mahesh Rath Yatra has been held for over 600 years.
+
+==============================================================================
+Set 27 | Q.No 30 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: सी.ओ.पी.-26 (कॉन्फ्रेंस ऑफ पार्टीज) में किए गए संकल्प के अनुसार, भारत में तक 500 गीगावाट गैर-जीवाश्म ईंधन बिजली क्षमता के लक्ष्य तक पहुंचने के लिए प्रयास किए जा रहे हैं।
+   A) 2027
+   B) 2030  <-- CORRECT
+   C) 2035
+   D) 2040
+Answer: B
+Why correct: At COP-26 India pledged to reach 500 GW of non-fossil-fuel electricity capacity by 2030.
+Why A is wrong: 2027 is not the target year.
+Why C is wrong: 2035 is not the pledged year.
+Why D is wrong: 2040 is the carbon-related target for some pledges, but the 500 GW goal is 2030.
+Note: India also pledged at COP-26 to achieve net-zero emissions by 2070.
+
+==============================================================================
+Set 27 | Q.No 31 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: एक प्रकाश वर्ष का माप हैं।
+   A) समय
+   B) द्री  <-- CORRECT
+   C) चाल
+   D) द्रव्यमान
+Answer: B
+Why correct: A light year is a measure of distance - the distance light travels in one year.
+Why A is wrong: It is not a measure of time.
+Why C is wrong: It is not a measure of speed.
+Why D is wrong: It is not a measure of mass.
+Note: One light year is about 9.46 trillion kilometres.
+
+==============================================================================
+Set 27 | Q.No 32 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस वर्ष भारत ने अंतरिक्ष युग में प्रवेश किया, जब पहला भारतीय उपग्रह प्रश्नपित किया गया था?
+   A) 1961
+   B) 1971
+   C) 1975  <-- CORRECT
+   D) 1989
+Answer: C
+Why correct: India entered the space age in 1975, when its first satellite, Aryabhata, was launched (with Soviet help).
+Why A is wrong: 1961 pre-dates India's first satellite.
+Why B is wrong: 1971 is incorrect.
+Why D is wrong: 1989 is much later.
+Note: Aryabhata was named after the ancient Indian mathematician-astronomer.
+
+==============================================================================
+Set 27 | Q.No 33 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: 2024 में पूरी तरह से 30 प्रिंटेड इंजन वाला विश्व का पहला रॉकेट किसने लॉन्च किया था?
+   A) अग्रिकुल  <-- CORRECT
+   B) स्पेसएक्स
+   C) ब्लू ओरिजिन
+   D) स्काईरूट एयरोस्पेस
+Answer: A
+Why correct: In 2024 Agnikul Cosmos launched the world's first rocket powered by a fully 3D-printed engine (the Agnibaan SOrTeD).
+Why B is wrong: SpaceX uses 3D-printed parts but did not achieve this first.
+Why C is wrong: Blue Origin did not launch this first.
+Why D is wrong: Skyroot Aerospace launched Vikram-S but not the 3D-printed-engine first.
+Note: Agnikul is an Indian private space startup incubated at IIT Madras.
+
+==============================================================================
+Set 27 | Q.No 34 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: अगस्त 2025 में स्कूली छात्रों को विज्ञान से जोड़ने के लिए भारतीय चिकित्सा अनुसंधान परिषद द्वारा शुरू की गई पहल का नाम क्या है?
+   A) आई.सी.एम.आर.-शाइन  <-- CORRECT
+   B) आई.सी.एम.आर.-एजुकेट
+   C) आई.सी.एम.आर.-इंस्पायर
+   D) आई.सी.एम.आर.-डिस्कवर
+Answer: A
+Why correct: In August 2025 the ICMR launched 'ICMR-SHINE' to connect school students with science.
+Why B is wrong: 'ICMR-Educate' is not the initiative name.
+Why C is wrong: 'ICMR-Inspire' is not the launched programme.
+Why D is wrong: 'ICMR-Discover' is not the correct name.
+Note: The ICMR (Indian Council of Medical Research) is the apex body for biomedical research in India.
+
+==============================================================================
+Set 27 | Q.No 35 | Topic: Static GK | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा देश दक्षिण पूर्व एशियाई राष्ट्र संघ (आसियान) का सदस्य है?
+   A) ईरान
+   B) फ्रांस
+   C) सिंगापुर  <-- CORRECT
+   D) इराक
+Answer: C
+Why correct: Singapore is a member of the Association of Southeast Asian Nations (ASEAN).
+Why A is wrong: Iran is not an ASEAN member.
+Why B is wrong: France is a European country.
+Why D is wrong: Iraq is in West Asia, not Southeast Asia.
+Note: ASEAN has ten member states, mostly in Southeast Asia.
+
+==============================================================================
+Set 27 | Q.No 36 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: जुलाई 2025 तक, महिला वर्ग में मीटर का राष्ट्रीय रिकॉर्ड दुती चंद का है।
+   A) 100  <-- CORRECT
+   B) 200
+   C) 400
+   D) 800
+Answer: A
+Why correct: As of July 2025, Dutee Chand held the national record in the women's 100 metres sprint.
+Why B is wrong: She is not the 200 m national record holder asked here.
+Why C is wrong: She does not hold the 400 m record.
+Why D is wrong: She does not hold the 800 m record.
+Note: Dutee Chand is a noted Indian sprinter who has represented India at the Olympics.
+
+==============================================================================
+Set 27 | Q.No 37 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: जूडो की अंतर्राष्ट्रीय प्रतियोगिता के दौरान, प्रत्येक मैच ____ मिनट तक चलता है।
+   A) 2
+   B) 4  <-- CORRECT
+   C) 8
+   D) 10
+Answer: B
+Why correct: In international judo competitions, each match lasts 4 minutes (for seniors).
+Why A is wrong: 2 minutes is too short for a senior judo bout.
+Why C is wrong: 8 minutes is too long.
+Why D is wrong: 10 minutes is not the standard duration.
+Note: A judo match can end early by 'ippon', the decisive winning score.
+
+==============================================================================
+Set 27 | Q.No 38 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: विद्युत घंटी में सक्रिय होने के बाद विद्युत चुंबक क्या करता है?
+   A) लोहे की पट्टी को अपनी ओर खींचता है  <-- CORRECT
+   B) संपर्क पेंच खींचता हैं
+   C) घंटी बंद कर देता है
+   D) कुंडली पिघलाता है
+Answer: A
+Why correct: In an electric bell, when activated the electromagnet pulls the iron strip (armature) towards it, which strikes the gong.
+Why B is wrong: It does not pull the contact screw towards it as the action that rings the bell.
+Why C is wrong: It does not switch the bell off (the make-and-break action keeps it ringing).
+Why D is wrong: It does not melt the coil.
+Note: The repeated make-and-break of the circuit makes the hammer strike the gong continuously.
+
+==============================================================================
+Set 27 | Q.No 39 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा तार वाला पारंपरिक वाद्य यंत्र उत्तर भारत के विभिन्न भागों में पाया जाता हैं जो वादक को मूल शश्रुति' या 'स्वर' प्रदान करता है?
+   A) तानपुरा  <-- CORRECT
+   B) खरताल
+   C) 5
+   D) पखावज
+Answer: A
+Why correct: The Tanpura is a traditional stringed drone instrument of North India that provides the player a base 'shruti' (reference pitch) or 'swara'.
+Why B is wrong: The Khartal is a percussion/clapper instrument.
+Why C is wrong: This option does not name a drone string instrument.
+Why D is wrong: The Pakhawaj is a two-headed drum, not a drone string instrument.
+Note: The continuous drone of the tanpura supports the melody in Indian classical music.
+
+==============================================================================
+Set 27 | Q.No 40 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन-सा नाभिक सामान्यतः: नाभिकीय संलयन अभिक्रियाओं में उपयोग किया जाता हैं?
+   A) यूरेनियम और थोरियम
+   B) कार्बन और नाइट्रोजन
+   C) हाइड्रोजन और उसके समस्थानिक  <-- CORRECT
+   D) ऑक्सीजन और हीलियम
+Answer: C
+Why correct: Nuclear fusion reactions commonly use hydrogen and its isotopes (deuterium and tritium), which fuse to release enormous energy.
+Why A is wrong: Uranium and thorium are used in nuclear fission, not fusion.
+Why B is wrong: Carbon and nitrogen feature in stellar CNO cycles but the common fusion fuel is hydrogen isotopes.
+Why D is wrong: Oxygen and helium are not the standard fusion fuels.
+Note: The Sun is powered by the fusion of hydrogen nuclei into helium.
+
+==============================================================================
+Set 28 | Q.No 21 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: 699 में वैसाखी के दिन कौन-सी महत्वपूर्ण घटना घटी?
+   A) गुरु नानक देव जी का जन्म हुआ
+   B) पहला सिख मंदिर बनाया गया
+   C) गुरु गोबिंद सिंह जी ने खालसा पंथ की शुरुआत की  <-- CORRECT
+   D) कुरान अवतरित हुआ
+Answer: C
+Why correct: On Vaisakhi in 1699, Guru Gobind Singh founded the Khalsa Panth at Anandpur Sahib, initiating the Panj Pyare.
+Why A is wrong: Guru Nanak Dev was born in 1469, not on this Vaisakhi.
+Why B is wrong: The founding of the Khalsa, not the first Sikh temple, is the event.
+Why D is wrong: The revelation of the Quran is unrelated to Vaisakhi 1699.
+Note: The Khalsa introduced the five Ks and the names 'Singh' and 'Kaur'.
+
+==============================================================================
+Set 28 | Q.No 22 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: जब आप खड़े होने के बजाय रेत पर लेट जाते हैं, तो रेत पर दबाव ___ पड़ता है।
+   A) बड़ा
+   B) कम  <-- CORRECT
+   C) एक-रूप
+   D) शून्य
+Answer: B
+Why correct: Lying down spreads your weight over a larger area, so the pressure on the sand is less (pressure = force / area).
+Why A is wrong: Pressure becomes smaller, not bigger, over a larger area.
+Why C is wrong: The pressure is reduced, not merely 'uniform'.
+Why D is wrong: The pressure decreases but is not zero.
+Note: This is why lying flat helps distribute weight on soft or unstable surfaces.
+
+==============================================================================
+Set 28 | Q.No 23 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: मेघालय पठार किस बड़े भू-आकृति का विस्तार है?
+   A) पश्चिमी घाट
+   B) दक्कन का पठार
+   C) प्रायद्वीपीय पठार  <-- CORRECT
+   D) छोटानागपुर पठार
+Answer: C
+Why correct: The Meghalaya Plateau is a detached extension of the Peninsular Plateau of India.
+Why A is wrong: It is not part of the Western Ghats.
+Why B is wrong: It is a part of the broader peninsular block, not specifically the Deccan Plateau.
+Why D is wrong: It is not part of the Chotanagpur Plateau, though both are peninsular.
+Note: The Meghalaya Plateau (Shillong Plateau) got separated from the main peninsula by the Garo-Rajmahal gap.
+
+==============================================================================
+Set 28 | Q.No 24 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: 99 के सुधारों को कभी-कभी “बेरोजगारी विहीन वृद्धि” से क्यों जोड़ा जाता है?
+   A) कृषि में रोजगार का बढ़ता हिस्सा
+   B) आनुपातिक रोजगार विस्तार के बिना उच्च जीडीपी वृद्धि  <-- CORRECT
+   C) शिक्षित बेरोजगारी में तेजी से कमी आई
+   D) ग्रामीण क्षेत्रों ने अधिक श्रम को अवशोषित किया
+Answer: B
+Why correct: The 1991 reforms are sometimes called 'jobless growth' because they produced high GDP growth without a proportional expansion of employment.
+Why A is wrong: Agricultural employment did not rise sharply.
+Why C is wrong: Educated unemployment did not fall rapidly.
+Why D is wrong: Rural areas did not absorb much more labour.
+Note: Services-led growth created relatively fewer jobs than the size of the workforce required.
+
+==============================================================================
+Set 28 | Q.No 25 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: चाबहार बंदरगाह रणनीतिक रूप से किन तीन क्षेत्रों के चौराहे पर स्थित है?
+   A) पूर्वी एशिया, दक्षिण एशिया और अफ्रीका
+   B) दक्षिण एशिया, मध्य एशिया और मध्य पूर्व  <-- CORRECT
+   C) यूरोप, मध्य एशिया और पूर्वी एशिया
+   D) दक्षिण अमेरिका, अफ्रीका और दक्षिण एशिया
+Answer: B
+Why correct: Chabahar Port is strategically located at the crossroads of South Asia, Central Asia and the Middle East.
+Why A is wrong: It does not connect East Asia and Africa primarily.
+Why C is wrong: It is not at the Europe-East Asia junction.
+Why D is wrong: South America is not part of its strategic location.
+Note: Chabahar gives India sea-land access to Afghanistan and Central Asia, bypassing Pakistan.
+
+==============================================================================
+Set 28 | Q.No 26 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: 980 की नई औद्योगिक नीति का क्या उद्देश्य था?
+   A) लघु-स्तरीय आधुनिकीकरण और प्रौद्योगिकी समावेशन को प्रोत्साहित करें  <-- CORRECT
+   B) निजी उद्योगों को बंद करें
+   C) सार्वजनिक क्षेत्र पर सख्त नियंत्रण बनाए रखें
+   D) प्रमुख उद्योगों का राष्ट्रीयकरण करें
+Answer: A
+Why correct: The New Industrial Policy of 1980 aimed to encourage modernization of small-scale industry and the absorption of improved technology.
+Why B is wrong: It did not aim to close private industries.
+Why C is wrong: It did not aim at stricter control over the public sector.
+Why D is wrong: It did not aim to nationalize major industries.
+Note: The 1980 policy laid groundwork for the gradual liberalization that accelerated in 1991.
+
+==============================================================================
+Set 28 | Q.No 27 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: मिश्रित अर्थव्यवस्था में निम्नलिखित में से कौन-सा कार्य सरकार का नहीं है?
+   A) सभी वस्तुओं की कीमतें निर्धारित करना  <-- CORRECT
+   B) बाज़ारों का विनियमन
+   C) सार्वजनिक वस्तुओं का प्रावधान
+   D) आय का पुनर्वितरण
+Answer: A
+Why correct: In a mixed economy, setting the prices of all goods is NOT a function of the government - prices are largely determined by market forces.
+Why B is wrong: Regulating markets is a government function.
+Why C is wrong: Providing public goods is a government function.
+Why D is wrong: Redistributing income (through taxes/transfers) is a government function.
+Note: A mixed economy combines private markets with government intervention, as in India.
+
+==============================================================================
+Set 28 | Q.No 28 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत के काली मिट्टी (रेगुर) वाले क्षेत्रों के साथ किस फसल का कृषि-पारिस्थितिक संबंध सबसे मजबूत है?
+   A) जलोढ़ बाढ़ के मैदानों में जूट की खेती
+   B) काली मिट्टी के बेसिनों में कपास की खेती  <-- CORRECT
+   C) अम्लीय पहाड़ी मिट्टी में चाय की खेती
+   D) डेल्टाई जलोढ़ में चावल की खेती
+Answer: B
+Why correct: Cotton cultivation has the strongest agro-ecological link with the black soil (regur) basins of India, as black soil retains moisture well.
+Why A is wrong: Jute grows in alluvial deltaic soils, not black soil.
+Why C is wrong: Tea grows in acidic hill soils.
+Why D is wrong: Rice grows in deltaic/alluvial wetlands.
+Note: Black soil (regur) is also called 'black cotton soil' because of its suitability for cotton.
+
+==============================================================================
+Set 28 | Q.No 29 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: अगस्त 2024 में किस मंत्रालय ने न्याय श्रुति ऐप शुरू किया था?
+   A) विधि एवं न्याय मंत्रालय
+   B) रक्षा मंत्रालय
+   C) गृह मंत्रालय  <-- CORRECT
+   D) संचार मंत्रालय
+Answer: C
+Why correct: The 'Nyay Shruti' app was launched in August 2024 by the Ministry of Home Affairs.
+Why A is wrong: It was not launched by the Ministry of Law and Justice.
+Why B is wrong: It was not launched by the Ministry of Defence.
+Why D is wrong: It was not launched by the Ministry of Communications.
+Note: Such apps support the rollout of the new criminal laws and justice-delivery reforms.
+
+==============================================================================
+Set 28 | Q.No 30 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: नवंबर 2024 में किस अदालत ने कहा कि प्रतिद्वंद्वी पक्षों के बीच समझौता होने के बाद यौन उत्पीड़न का मामला बंद नहीं किया जा सकता क्योंकि ऐसे अपराधों का समाज पर गंभीर प्रभाव पड़ता है?
+   A) भारत का सर्वोच्च न्यायालय  <-- CORRECT
+   B) पटना उच्च न्यायालय
+   C) मद्रास उच्च न्यायालय
+   D) दिल्‍ली परिवार न्यायालय
+Answer: A
+Why correct: In November 2024 the Supreme Court of India held that a sexual-harassment case cannot be closed merely on a compromise between the parties, given the serious social impact of such offences.
+Why B is wrong: This ruling is attributed to the Supreme Court, not the Patna High Court.
+Why C is wrong: It was not the Madras High Court.
+Why D is wrong: It was not a Delhi family court.
+Note: Crimes against women are treated as offences against society, not just private disputes.
+
+==============================================================================
+Set 28 | Q.No 31 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: किस चालुक्य शासक ने नर्मदा नदी के तट पर हर्षवर्धन को हराया था?
+   A) राजेंद्र प्रथम
+   B) पुलकेशिन द्वितीय  <-- CORRECT
+   C) कृष्ण तृतीय
+   D) राजसिंह
+Answer: B
+Why correct: The Chalukya ruler Pulakeshin II defeated Harshavardhana on the banks of the Narmada river.
+Why A is wrong: Rajendra I was a Chola king.
+Why C is wrong: Krishna III was a Rashtrakuta king.
+Why D is wrong: 'Rajasimha' is not the ruler who defeated Harsha here.
+Note: This victory halted Harsha's southward expansion and is recorded in the Aihole inscription.
+
+==============================================================================
+Set 28 | Q.No 32 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: उत्तराखंड निम्नलिखित में से किस पारंपरिक लोक नृत्य के लिए जाना जाता है?
+   A) कोलकालि
+   B) सावलाकिन
+   C) छोलिया  <-- CORRECT
+   D) संबलपुरी
+Answer: C
+Why correct: Uttarakhand is known for the 'Choliya' folk dance, a sword dance performed at weddings and festivals.
+Why A is wrong: Kolkali is a folk art of Kerala.
+Why B is wrong: This option does not name an Uttarakhand dance.
+Why D is wrong: Sambalpuri is associated with Odisha.
+Note: The Choliya dance has martial roots, depicting the valour of Rajput warriors.
+
+==============================================================================
+Set 28 | Q.No 33 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: 2025 में, भारतीय रेलवे ने में देश के पहले हाइड्रोजन-संचालित कोच का सफलतापूर्वक परीक्षण किया।
+   A) चेन्नई  <-- CORRECT
+   B) रायबरेली
+   C) कपूरथला
+   D) कोलकाता
+Answer: A
+Why correct: In 2025 Indian Railways successfully tested the country's first hydrogen-powered coach at Chennai (Integral Coach Factory).
+Why B is wrong: Rae Bareli was not the test location cited.
+Why C is wrong: Kapurthala was not where it was tested.
+Why D is wrong: Kolkata was not the location.
+Note: Hydrogen trains emit only water vapour, supporting green transport goals.
+
+==============================================================================
+Set 28 | Q.No 34 | Topic: Static GK | Language: Hindi
+------------------------------------------------------------------------------
+Q: जनगणना 20 के अनुसार, भारत में किस राज्य में अधिकतम ग्रामीण जनसंख्या दर्ज की गई है?
+   A) बिहार
+   B) उत्तर प्रदेश  <-- CORRECT
+   C) महाराष्ट्र
+   D) पश्चिम बंगाल
+Answer: B
+Why correct: As per the 2011 Census, Uttar Pradesh recorded the maximum rural population of any Indian state.
+Why A is wrong: Bihar has a large rural population but less than UP.
+Why C is wrong: Maharashtra has a large urban share.
+Why D is wrong: West Bengal has fewer rural people than UP.
+Note: Uttar Pradesh is also India's most populous state overall.
+
+==============================================================================
+Set 28 | Q.No 35 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: किस वर्ष सतारा को विलय नीति के तहत अधिग्रहित कर लिया गया था?
+   A) 1842
+   B) 1844
+   C) 1846
+   D) 1848  <-- CORRECT
+Answer: D
+Why correct: Satara was annexed in 1848 under Lord Dalhousie's Doctrine of Lapse.
+Why A is wrong: 1842 is incorrect.
+Why B is wrong: 1844 is not the year.
+Why C is wrong: 1846 is incorrect.
+Note: The Doctrine of Lapse annexed states whose rulers died without a natural heir, including Jhansi and Nagpur.
+
+==============================================================================
+Set 28 | Q.No 36 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: रॉयल चैलेंजर्स बेंगलुरु ने में डब्ल्यू.पी.एल. महिला प्रीमियर लीग (क्रिकेट) का खिताब जीता था।
+   A) 2023
+   B) 2024  <-- CORRECT
+   C) 2022
+   D) 2021
+Answer: B
+Why correct: Royal Challengers Bengaluru won the Women's Premier League (WPL) title in 2024.
+Why A is wrong: In 2023 (the inaugural WPL) Mumbai Indians won.
+Why C is wrong: There was no WPL in 2022.
+Why D is wrong: There was no WPL in 2021.
+Note: The WPL is the women's franchise T20 league launched by the BCCI in 2023.
+
+==============================================================================
+Set 28 | Q.No 37 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: 2वें एशियाई खेल में आयोजित किए जाएंगे।
+   A) Doha  <-- CORRECT
+   B) Beijing
+   C) Tokyo
+   D) Dhaka
+Answer: A
+Why correct: The 2030 Asian Games will be held in Doha, Qatar.
+Why B is wrong: Beijing is not the 2030 host.
+Why C is wrong: Tokyo is not the host.
+Why D is wrong: Dhaka is not the host.
+Note: The 2026 Asian Games are scheduled for Aichi-Nagoya, Japan, and 2034 for Riyadh.
+
+==============================================================================
+Set 28 | Q.No 38 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: पेमिल हॉर्स तथा पैरेलल बार्स निम्नलिखित में से किस खेल से संबंधित शब्द हैं?
+   A) जिमनास्टिक्स  <-- CORRECT
+   B) क्रिकेट
+   C) बैडमिंटन
+   D) खो-खो
+Answer: A
+Why correct: 'Pommel horse' and 'parallel bars' are apparatus/terms associated with gymnastics.
+Why B is wrong: They are not cricket terms.
+Why C is wrong: They are not badminton terms.
+Why D is wrong: They are not kho-kho terms.
+Note: Men's artistic gymnastics includes six apparatus, including the pommel horse and parallel bars.
+
+==============================================================================
+Set 28 | Q.No 39 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन सा संगठन वैश्विक शिक्षा निगरानी रिपोर्ट प्रकाशित करता है?
+   A) यूनेस्को  <-- CORRECT
+   B) यू.एन.डी.पी.
+   C) विश्व बैंक
+   D) 
+Answer: A
+Why correct: UNESCO publishes the Global Education Monitoring (GEM) Report.
+Why B is wrong: The UNDP publishes the Human Development Report.
+Why C is wrong: The World Bank does not publish the GEM Report.
+Why D is wrong: No fourth valid option applies.
+Note: The GEM Report tracks progress towards global education goals (SDG 4).
+
+==============================================================================
+Set 28 | Q.No 40 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: शहरी शासन सूचकांक (यू.जी.आई.) 2024 ने भारतीय राज्यों का मूल्यांकन कितनी श्रेणियों में किया था?
+   A) 2
+   B) 4  <-- CORRECT
+   C) 6
+   D) 7
+Answer: B
+Why correct: The Urban Governance Index (UGI) 2024 evaluated Indian states across 4 main categories.
+Why A is wrong: 2 is fewer than the categories used.
+Why C is wrong: 6 is not the number of categories.
+Why D is wrong: 7 is incorrect.
+Note: Such governance indices help benchmark the performance of urban local bodies.
+
+==============================================================================
+Set 29 | Q.No 21 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Water has maximum density at:
+   A) O°c
+   B) 4°c  <-- CORRECT
+   C) 25°C
+   D) 100°C
+Answer: B
+Why correct: Water has its maximum density at 4 degrees Celsius; below this it expands again, which is why ice floats.
+Why A is wrong: At 0 C water is freezing into ice, which is less dense.
+Why C is wrong: At 25 C water is less dense than at 4 C.
+Why D is wrong: At 100 C water is at its boiling point and far less dense.
+Note: This 'anomalous expansion' of water lets aquatic life survive under ice in winter.
+
+==============================================================================
+Set 29 | Q.No 22 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: Who became the private secretary to Prime Minister Modi in March 2025?
+   A) Nidhi Tewari  <-- CORRECT
+   B) Sunita Williams
+   C) Danish Mahajan
+   D) Anju Rathi Rana
+Answer: A
+Why correct: Nidhi Tewari became the private secretary to Prime Minister Modi in March 2025.
+Why B is wrong: Sunita Williams is a NASA astronaut.
+Why C is wrong: Danish Mahajan is not the appointee.
+Why D is wrong: Anju Rathi Rana was appointed Law Secretary, a different post.
+Note: The PM's office (PMO) has several private secretaries and officers on special duty.
+
+==============================================================================
+Set 29 | Q.No 23 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: Who was appointed Union Law Secretary in March 2025?
+   A) Anju Rathi Rana  <-- CORRECT
+   B) Shubhanshu Shukla
+   C) K. Vinod Chandran
+   D) Danish Mahajan
+Answer: A
+Why correct: Anju Rathi Rana was appointed the Union Law Secretary in March 2025.
+Why B is wrong: Shubhanshu Shukla is an astronaut (Gaganyaan/Axiom), not the Law Secretary.
+Why C is wrong: K. Vinod Chandran is a judge, not the Law Secretary.
+Why D is wrong: Danish Mahajan is not the appointee.
+Note: The Law Secretary heads the Department of Legal Affairs in the Ministry of Law and Justice.
+
+==============================================================================
+Set 29 | Q.No 24 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: in which year Rajaraja | became the king of the Chola Empire?
+   A) 985  <-- CORRECT
+   B) 1008
+   C) 1028
+   D) 1045
+Answer: A
+Why correct: Rajaraja I became the king of the Chola Empire in 985 CE.
+Why B is wrong: 1008 falls within his reign, not its start.
+Why C is wrong: 1028 is after his reign.
+Why D is wrong: 1045 is much later.
+Note: Rajaraja I built the great Brihadisvara Temple at Thanjavur.
+
+==============================================================================
+Set 29 | Q.No 25 | Topic: Schemes & Government | Language: English
+------------------------------------------------------------------------------
+Q: In August 2025, launched ‘Pratibha Setu' to connect top talent with employers including private sector.
+   A) UPSC  <-- CORRECT
+   B) CBSE
+   C) AICTE
+   D) UGC
+Answer: A
+Why correct: In August 2025 the UPSC launched 'Pratibha Setu' to connect top (non-recommended but meritorious) candidates with employers, including the private sector.
+Why B is wrong: CBSE did not launch Pratibha Setu.
+Why C is wrong: AICTE did not launch it.
+Why D is wrong: UGC did not launch it.
+Note: Pratibha Setu (earlier PESB/PDDS) helps candidates who clear UPSC stages but miss final selection find jobs.
+
+==============================================================================
+Set 29 | Q.No 26 | Topic: Schemes & Government | Language: English
+------------------------------------------------------------------------------
+Q: In February 2025, the Government of India celebrated 6 years of the SWAYATT initiative. What does SWAYATT stand for?
+   A) Strengthening Women and Youth Against Trade Threats
+   B) Startups, Women and Youth Advantage Through e-Transactions  <-- CORRECT
+   C) Supporting Workers and Young Adults Through Training
+   D) Sustainable Work and Youth Alliance for Technological Trade
+Answer: B
+Why correct: SWAYATT stands for 'Startups, Women and Youth Advantage Through e-Transactions', an initiative on the Government e-Marketplace (GeM).
+Why A is wrong: 'Strengthening Women and Youth Against Trade Threats' is incorrect.
+Why C is wrong: 'Supporting Workers and Young Adults Through Training' is incorrect.
+Why D is wrong: 'Sustainable Work and Youth Alliance for Technological Trade' is incorrect.
+Note: SWAYATT promotes inclusion of startups, women and youth in public procurement on GeM.
+
+==============================================================================
+Set 29 | Q.No 27 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: In Tamil Nadu, is performed by dancers wearing peacock feathers in temples dedicated to Lord Murugan to obtain his blessings.
+   A) Gambhira
+   B) Pung Cholom
+   C) Theru Koothu
+   D) Mayil Aattam  <-- CORRECT
+Answer: D
+Why correct: In Tamil Nadu, 'Mayil Aattam' (peacock dance) is performed by dancers wearing peacock costumes in temples of Lord Murugan.
+Why A is wrong: Gambhira is a folk form of West Bengal.
+Why B is wrong: Pung Cholom is a Manipuri drum dance.
+Why C is wrong: Theru Koothu is Tamil street theatre, not the peacock dance.
+Note: The peacock is the vahana (mount) of Lord Murugan.
+
+==============================================================================
+Set 29 | Q.No 28 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: ‘Hareli festival’ is celebrated in which of the following Indian state?
+   A) Assam
+   B) Himachal Pradesh
+   C) Chhattisgarh  <-- CORRECT
+   D) Gujarat
+Answer: C
+Why correct: The 'Hareli' festival is celebrated in Chhattisgarh, marking the agricultural/monsoon season.
+Why A is wrong: It is not an Assam festival.
+Why B is wrong: It is not from Himachal Pradesh.
+Why D is wrong: It is not a Gujarat festival.
+Note: Hareli ('greenery') is one of the earliest festivals of the Chhattisgarhi calendar, when farmers worship their tools and cattle.
+
+==============================================================================
+Set 29 | Q.No 29 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: Which state government has planned to develop Asia's largest jungle safari in the Aravalli hills?
+   A) Haryana  <-- CORRECT
+   B) Rajasthan
+   C) Gujarat
+   D) Delhi
+Answer: A
+Why correct: The Haryana government planned to develop Asia's largest jungle safari in the Aravalli hills.
+Why B is wrong: Rajasthan is not developing this particular project.
+Why C is wrong: Gujarat is not the state.
+Why D is wrong: Delhi is not developing the Aravalli jungle safari.
+Note: The Aravalli range acts as a green barrier against the spread of the Thar Desert.
+
+==============================================================================
+Set 29 | Q.No 30 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: The Kosi Mechi Intra state river link project is associated with which of the following state?
+   A) Bihar  <-- CORRECT
+   B) Madhya Pradesh
+   C) Kerala
+   D) Tamil Nadu
+Answer: A
+Why correct: The Kosi-Mechi intra-state river-linking project is associated with Bihar.
+Why B is wrong: It is not in Madhya Pradesh.
+Why C is wrong: It is not in Kerala.
+Why D is wrong: It is not in Tamil Nadu.
+Note: The Kosi is known as the 'Sorrow of Bihar' for its frequent flooding.
+
+==============================================================================
+Set 29 | Q.No 31 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: What is the gross weight of ISRO’s PSLV-XL Configuration?
+   A) 120 tonnes
+   B) 1040 tonnes
+   C) 320 tonnes  <-- CORRECT
+   D) 560 tonnes
+Answer: C
+Why correct: ISRO's PSLV-XL configuration has a gross lift-off weight of about 320 tonnes.
+Why A is wrong: 120 tonnes is far too light.
+Why B is wrong: 1040 tonnes is far too heavy for the PSLV.
+Why D is wrong: 560 tonnes overstates the PSLV-XL's mass.
+Note: The PSLV-XL uses larger strap-on boosters for heavier payloads, such as Chandrayaan-1 and Mangalyaan.
+
+==============================================================================
+Set 29 | Q.No 32 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Which of the following discovery has been made with AstroSat? I. The detection of ultraviolet emissions emanating from remote galaxies. II. The polarisation of X-rays in proximate supernova remnants.
+   A) Only I
+   B) Only II
+   C) Both I and II  <-- CORRECT
+   D) Neither I nor II
+Answer: C
+Why correct: AstroSat has contributed to both - detecting ultraviolet emissions from distant galaxies (I) and studying X-ray polarisation in supernova remnants (II) - so 'Both I and II' is correct.
+Why A is wrong: 'Only I' omits the X-ray polarisation work.
+Why B is wrong: 'Only II' omits the UV-emission discoveries.
+Why D is wrong: 'Neither' is wrong as both have been achieved.
+Note: AstroSat (2015) is India's first dedicated multi-wavelength space observatory.
+
+==============================================================================
+Set 29 | Q.No 33 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Which IIT is leading the development of the ‘Shakti’ microprocessor?
+   A) IIT Bombay
+   B) IIT Delhi
+   C) IIT Madras  <-- CORRECT
+   D) IIT Kanpur
+Answer: C
+Why correct: IIT Madras is leading the development of the indigenous 'Shakti' microprocessor.
+Why A is wrong: IIT Bombay is not leading the Shakti project.
+Why B is wrong: IIT Delhi is not the lead.
+Why D is wrong: IIT Kanpur is not the lead.
+Note: Shakti is based on the open-source RISC-V instruction set architecture.
+
+==============================================================================
+Set 29 | Q.No 34 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: In December 2024, which institute unveiled a cost-effective Bluetooth Low Energy Gateway with advanced data security to enhance IoT applications?
+   A) IIT Delhi
+   B) IIT Ropar  <-- CORRECT
+   C) IIT Madras
+   D) IIT Bombay
+Answer: B
+Why correct: In December 2024 IIT Ropar unveiled a cost-effective Bluetooth Low Energy (BLE) gateway with advanced data security for IoT applications.
+Why A is wrong: IIT Delhi was not credited with this.
+Why C is wrong: IIT Madras was not the developer cited.
+Why D is wrong: IIT Bombay was not the developer.
+Note: BLE gateways link low-power IoT sensors to the internet/cloud.
+
+==============================================================================
+Set 29 | Q.No 35 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: The BIMSTEC Youth Summit-2025 was held in from 7-11 February 2025.
+   A) Chennai
+   B) Gandhinagar  <-- CORRECT
+   C) Dhaka
+   D) Colombo
+Answer: B
+Why correct: The BIMSTEC Youth Summit 2025 was held in Gandhinagar (Gujarat) from 7-11 February 2025.
+Why A is wrong: It was not held in Chennai.
+Why C is wrong: It was not held in Dhaka.
+Why D is wrong: It was not held in Colombo.
+Note: BIMSTEC links countries around the Bay of Bengal, including India, Bangladesh, Sri Lanka, Myanmar and Thailand.
+
+==============================================================================
+Set 29 | Q.No 36 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: Dev Meena holds the national record in pole vault with 5.40 metres set in :
+   A) 2019
+   B) 2023
+   C) 2014
+   D) 2025  <-- CORRECT
+Answer: D
+Why correct: Dev Meena set the national pole-vault record of 5.40 metres in 2025.
+Why A is wrong: 2019 is not when this record was set.
+Why B is wrong: 2023 is incorrect.
+Why C is wrong: 2014 is incorrect.
+Note: Pole vaulting is a track-and-field event requiring speed, strength and technique.
+
+==============================================================================
+Set 29 | Q.No 37 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: In athletics, all running events come under : I. Track events II. Ground events
+   A) Only I  <-- CORRECT
+   B) Only II
+   C) Both I and II
+   D) Neither I nor II
+Answer: A
+Why correct: In athletics, all running events come under track events (I), so 'Only I' is correct; there is no separate category called 'ground events'.
+Why B is wrong: 'Only II' is wrong; running events are track events.
+Why C is wrong: 'Both' is wrong since running events are only track events.
+Why D is wrong: 'Neither' is wrong since running events are track events.
+Note: Athletics is broadly divided into track events (running) and field events (jumps and throws).
+
+==============================================================================
+Set 29 | Q.No 38 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: What is the shape of the magnetic field lines around a current-carrying solenoid?
+   A) Random and irregular.
+   B) Parallel straight lines inside the solenoid and concentric circles outside.  <-- CORRECT
+   C) Concentric circles centered on the solenoid.
+   D) Radial lines extending outward from the solenoid.
+Answer: B
+Why correct: The magnetic field inside a current-carrying solenoid is made of parallel, straight, uniform field lines, while outside it resembles a bar magnet (field lines looping around) - among the options, 'parallel straight lines inside, circles outside' best describes it.
+Why A is wrong: The field is not random and irregular; it is well-ordered.
+Why C is wrong: Pure concentric circles describe the field around a straight wire, not a solenoid.
+Why D is wrong: The field is not radial.
+Note: A solenoid carrying current behaves like a bar magnet, the basis of electromagnets.
+
+==============================================================================
+Set 29 | Q.No 39 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: Which musical instrument is shown in the figure given below?
+   A) Jantar  <-- CORRECT
+   B) Trumpet
+   C) Nadaswaram
+   D) Mridangam
+Answer: A
+Why correct: The instrument shown is the 'Jantar', a traditional plucked string instrument (associated with Rajasthan folk traditions).
+Why B is wrong: A trumpet is a brass wind instrument.
+Why C is wrong: The Nadaswaram is a South Indian wind instrument.
+Why D is wrong: The Mridangam is a South Indian percussion drum.
+Note: The Jantar is a stick-zither with gourd resonators, used by folk balladeers.
+
+==============================================================================
+Set 29 | Q.No 40 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Which of the following is the use of petroleum gas in liquid form (LPG), a constituent of petroleum?
+   A) Ointments, candles, vaseline etc.
+   B) Fuel for heavy motor vehicles, electric generators
+   C) Paints, road surfacing
+   D) Fuel for home and industry  <-- CORRECT
+Answer: D
+Why correct: Liquefied Petroleum Gas (LPG), a constituent of petroleum, is used as a fuel for homes (cooking) and industry.
+Why A is wrong: Ointments, candles and vaseline come from petroleum jelly/wax, not LPG.
+Why B is wrong: Heavy motor vehicles and generators mainly use diesel, not LPG.
+Why C is wrong: Paints and road surfacing relate to bitumen/other fractions, not LPG.
+Note: LPG is mainly propane and butane, stored under pressure as a liquid.
+
+==============================================================================
+Set 30 | Q.No 21 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: 0°୯ ରେ ବାୟୁରେ ଶବ୍ଦର ବେଗ କେତେ ?
+   A) 344 m/s
+   B) 331 m/s  <-- CORRECT
+   C) 316 m/s
+   D) 346 m/s
+Answer: B
+Why correct: The speed of sound in air at 0 degrees Celsius is about 331 m/s.
+Why A is wrong: 344 m/s is the speed at about 20-22 C, not at 0 C.
+Why C is wrong: 316 m/s is too low for 0 C.
+Why D is wrong: 346 m/s corresponds to a warmer temperature.
+Note: The speed of sound in air increases by about 0.6 m/s for each 1 C rise in temperature.
+
+==============================================================================
+Set 30 | Q.No 22 | Topic: Geography | Language: Odia
+------------------------------------------------------------------------------
+Q: ଭାରତର କେଉଁ ଅଞ୍ଚଳକୁ "ରୁଫ ଅଫ ଦି ଓାଲୁ" କୁହାଯାଏ?
+   A) ଲଦାଖ ମାଳଭୂମି  <-- CORRECT
+   B) ଡେକାନ୍‌ ମାଳଭୂମି
+   C) ଛୋଟନାଗପୁର ମାଳଭୂମି
+   D) ମାଲଓୱ ମାଳଭ୍ରୂମି
+Answer: A
+Why correct: The Ladakh plateau is called the 'Roof of the World' due to its very high elevation.
+Why B is wrong: The Deccan Plateau is a lower peninsular plateau.
+Why C is wrong: The Chotanagpur Plateau is in eastern India at modest elevation.
+Why D is wrong: The Malwa Plateau is in central India.
+Note: The Ladakh region is a cold desert lying between the Karakoram and the Himalayas.
+
+==============================================================================
+Set 30 | Q.No 23 | Topic: Current Affairs | Language: Odia
+------------------------------------------------------------------------------
+Q: 201 ରେ କେଉଁ ସହରରେ 8ମ 8865 ଶିଖର ସମିଳନୀ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା ?
+   A) Goa, India  <-- CORRECT
+   B) Ufa, Russia
+   C) Johannesburg, South Africa
+   D) Beijing, China
+Answer: A
+Why correct: The 8th BRICS Summit (2016) was held in Goa, India.
+Why B is wrong: Ufa, Russia hosted the 7th summit (2015).
+Why C is wrong: Johannesburg hosted later summits.
+Why D is wrong: Beijing did not host the 8th summit.
+Note: At the Goa summit, BRICS leaders also met with BIMSTEC leaders.
+
+==============================================================================
+Set 30 | Q.No 24 | Topic: Economy | Language: Odia
+------------------------------------------------------------------------------
+Q: ଭାରତୀୟ ଶିଳ୍ପ ଉପରେ ଉଦାରୀକରଣ ଏବଂ ଜଗତୀକରଣର କ'ଣ ସକାରାମୂକ ପ୍ରଭାବ ପଡ଼ିଥିଲା?
+   A) ପ୍ରତିଯୋଗିତା ଯୋଗୁଁ ଦକ୍ଷତା ହ୍ରାସ
+   B) ଉନ୍ନତ ପ୍ରଯୁକ୍ତିବିଦ୍ୟା ଏବଂ ବୃହତ ବଜାରରେ ପ୍ରବେଶ  <-- CORRECT
+   C) ଭାରତୀୟ ଫାର୍ମଗୁଡ଼ିକର ବଦ୍ଧିତ ଏକାକୀତା
+   D) ରାଜ୍ୟକୁ ଭିତ୍ତିଭୂମିରୁ ସମ୍ପୂର୍ଣ୍ଣ ପ୍ରତ୍ୟାହାର କରିବା
+Answer: B
+Why correct: A positive effect of liberalization and globalization on Indian industry was access to advanced technology and entry into larger (global) markets.
+Why A is wrong: Competition raised efficiency rather than reducing it.
+Why C is wrong: It increased competition for Indian firms, not their monopoly.
+Why D is wrong: It did not mean the state fully withdrew from infrastructure.
+Note: Post-1991 liberalization integrated India more deeply with the world economy.
+
+==============================================================================
+Set 30 | Q.No 25 | Topic: Economy | Language: Odia
+------------------------------------------------------------------------------
+Q: 1950-1980 ମଧ୍ୟରେ କେଉଁ ଶିଳକୁ ଅର୍ଥନୀତିର " କମାଣ୍ଡିଂ ହାଇଟୁ" ଭାବରେ ବିବେଚନା କରାଯାଉଥିଲା?
+   A) ବୟନ
+   B) ହସ୍ତକଳା
+   C) କୃଷି
+   D) ଭାରୀ ଶିଳ୍ପ, ଇସ୍ପାତ, ଶକ୍ତି  <-- CORRECT
+Answer: D
+Why correct: Between 1950 and 1980, heavy industry, steel and power were considered the 'commanding heights' of the economy, reserved largely for the public sector.
+Why A is wrong: Textiles were not the 'commanding heights'.
+Why B is wrong: Handicrafts were not the commanding heights.
+Why C is wrong: Agriculture, though vital, was not termed the commanding heights.
+Note: The 'commanding heights' idea came from the 1956 Industrial Policy Resolution.
+
+==============================================================================
+Set 30 | Q.No 26 | Topic: Economy | Language: Odia
+------------------------------------------------------------------------------
+Q: ପ୍ରଯୁକ୍ତିବିଦ୍ୟା ପ୍ରଗତି ଯୋଗୁଁ କେଉଁ ପ୍ରକାରର ବେକାରୀ ସୃଷ୍ଟି ହୁଏ?
+   A) ରତୁକାଳୀନ
+   B) ଛଦ୍ମବେଶୀ
+   C) ଘର୍ଷଣାତ୍ମକ
+   D) ଗଠନମୂଳକ  <-- CORRECT
+Answer: D
+Why correct: Technological progress that replaces workers with machines creates structural unemployment.
+Why A is wrong: Seasonal unemployment is linked to seasons (e.g. farming), not technology.
+Why B is wrong: Disguised unemployment is surplus labour with near-zero productivity (common in agriculture).
+Why C is wrong: Frictional unemployment is the short-term gap while changing jobs.
+Note: Structural unemployment arises from a mismatch between workers' skills and available jobs.
+
+==============================================================================
+Set 30 | Q.No 27 | Topic: Schemes & Government | Language: Odia
+------------------------------------------------------------------------------
+Q: କେନ୍ଦ୍ର ବଜେଟ 2025 ରେ ହୋଇଥିବା ଘୋଷଣା ଅନୁସାରେ ୭///^\¦|1|4 ପାଣ୍ଠି -2 ପାଇଁ ଆବଣ୍ଟିତ ମୋଟ କର୍ପସ କେତେ?
+   A) Rs 10,000 crore
+   B) Rs 15,000 crore  <-- CORRECT
+   C) Rs 20,000 crore
+   D) Rs 25,000 crore
+Answer: B
+Why correct: As announced in the Union Budget 2025, the SWAMIH Fund-2 was allocated a total corpus of about Rs 15,000 crore.
+Why A is wrong: Rs 10,000 crore understates the corpus.
+Why C is wrong: Rs 20,000 crore overstates it.
+Why D is wrong: Rs 25,000 crore is too high.
+Note: SWAMIH funds help complete stalled affordable and mid-income housing projects.
+
+==============================================================================
+Set 30 | Q.No 28 | Topic: Schemes & Government | Language: English
+------------------------------------------------------------------------------
+Q: କେଉଁ ତାରିଖରେ କେନ୍ଦ୍ର କ୍ୟାବିନେଟ ୮/୦୯୫୧୬ ଅଧୀନରେ ପୋଷଣଯୁକ୍ତ ଚାଉଳ ଯୋଗାଣକୁ ଡିସେମ୍ବର 2028 ପର୍ଯ୍ୟନ୍ତ ଜାରି ରଖିବାକୁ ଅନୁମୋଦନ କରିଥିଲା?
+   A) 15 August 2024
+   B) 1 March 2024
+   C) 9 October 2024  <-- CORRECT
+   D) 1 January 2025
+Answer: C
+Why correct: On 9 October 2024 the Union Cabinet approved continuing the supply of fortified rice (under the food schemes) up to December 2028.
+Why A is wrong: 15 August 2024 is not the approval date.
+Why B is wrong: 1 March 2024 is incorrect.
+Why D is wrong: 1 January 2025 is not the approval date.
+Note: Rice fortification adds iron, folic acid and vitamin B12 to combat anaemia and malnutrition.
+
+==============================================================================
+Set 30 | Q.No 29 | Topic: History | Language: Odia
+------------------------------------------------------------------------------
+Q: ତାମିଲ ଭକ୍ତି ସାହିତ୍ୟରେ ବୈଷ୍ଣବ ସନ୍ଥ୍ରମାନଙ୍କୁ କୁହାଯାଉଥିଲା ।
+   A) ଯୋଗୀ
+   B) ଅଲବର  <-- CORRECT
+   C) ନୟନାର
+   D) ତୀଥଙ୍କର
+Answer: B
+Why correct: In Tamil Bhakti literature, the Vaishnava saints (devotees of Vishnu) were called the Alvars.
+Why A is wrong: 'Yogi' is a general term, not the name of these saints.
+Why C is wrong: The Nayanars were the Shaiva (Shiva-devotee) saints.
+Why D is wrong: Tirthankaras are the spiritual teachers of Jainism.
+Note: The Alvars and Nayanars led the Bhakti movement in South India.
+
+==============================================================================
+Set 30 | Q.No 30 | Topic: Art & Culture | Language: Odia
+------------------------------------------------------------------------------
+Q: ନିମ୍ନଲିଖିତ କେଉଁ ଭାରତୀୟ ରାଜ୍ୟ ସହିତ 'ଲେପ୍ନା' ନୁତ୍ୟ ସମ୍ବନ୍ଧିତ?
+   A) aga  <-- CORRECT
+   B) ପଶ୍ଚିମବଙ୍ଗ
+   C) ତେଲେଙ୍ଗାନା
+   D) ତ୍ରିପୂରା
+Answer: A
+Why correct: The 'Lepcha' (Lebना/folk) dance is associated with Sikkim, the home of the Lepcha community.
+Why B is wrong: It is not from West Bengal.
+Why C is wrong: It is not from Telangana.
+Why D is wrong: It is not from Tripura.
+Note: The Lepchas are among the indigenous inhabitants of Sikkim.
+
+==============================================================================
+Set 30 | Q.No 31 | Topic: Current Affairs | Language: Odia
+------------------------------------------------------------------------------
+Q: କେଉଁ କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳ ଏହାର ପ୍ରାକୃତିକ ଏତିହ୍ୟକୁ ସଂରକ୍ଷଣ କରିବା ପାଇଁ ଏକ ପଦକ୍ଷେପ ଭାବରେ ଚିନାର ଗଛର ଜିଓ-ଟ୍ୟାଗିଙ୍ଗ ଆରମ୍ଭ କରିଛି?
+   A) ଜାମ୍ମୁ ଓ କାଶ୍ମୀର  <-- CORRECT
+   B) OR
+   C) ପଣ୍ଡିଚେରୀ
+   D) ଆଣ୍ଡାମାନ ଏବଂ ନିକୋବର
+Answer: A
+Why correct: Jammu & Kashmir began geo-tagging of Chinar trees as a step to preserve its natural heritage.
+Why B is wrong: This option does not name the correct UT.
+Why C is wrong: Puducherry did not start this Chinar initiative.
+Why D is wrong: Andaman and Nicobar is not associated with Chinar trees.
+Note: The Chinar is an iconic tree of Kashmir, famous for its red autumn foliage.
+
+==============================================================================
+Set 30 | Q.No 32 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: ଭାରତରେ ମୁଖ୍ୟ ଶ୍ରମିକ ହେଉଛନ୍ତି ଜଣେ ବ୍ୟକ୍ତି ଯିଏ ବର୍ଷରେ ଅତି କମରେ ଦିନ କାମ କରନ୍ତି ।
+   A) 83
+   B) 90
+   C) 100
+   D) 183  <-- CORRECT
+Answer: D
+Why correct: In India, a 'main worker' is a person who works for at least 183 days (about six months) in a year.
+Why A is wrong: 83 days is too few.
+Why B is wrong: 90 days is below the main-worker threshold.
+Why C is wrong: 100 days corresponds to MGNREGA's guarantee, not the main-worker definition.
+Note: Those who work for less than 183 days are classified as 'marginal workers' in the Census.
+
+==============================================================================
+Set 30 | Q.No 33 | Topic: Art & Culture | Language: Odia
+------------------------------------------------------------------------------
+Q: ଇସଲାମ ଧର୍ମରେ ଉପବାସ ମାସ 'ରମଜାନ'ର ଶେଷ ଦିନ ଉପଲକ୍ଷେ କେଉଁ ପର୍ବ ପାଳନ କରାଯାଏ?
+   A) ବକରିଦ
+   B) ଭଦ-ଉଲ-ଫିତର  <-- CORRECT
+   C) ମୁହରମ
+   D) ଶବ-ଏ-ବାରାତ
+Answer: B
+Why correct: The festival of Eid-ul-Fitr is celebrated to mark the end of the fasting month of Ramzan in Islam.
+Why A is wrong: Bakrid (Eid-ul-Adha) is the festival of sacrifice, later in the year.
+Why C is wrong: Muharram marks the Islamic new year and mourning.
+Why D is wrong: Shab-e-Barat is a separate night of forgiveness.
+Note: Eid-ul-Fitr begins with a special prayer and the giving of charity (Zakat al-Fitr).
+
+==============================================================================
+Set 30 | Q.No 34 | Topic: History | Language: Odia
+------------------------------------------------------------------------------
+Q: ବିର୍ସା ଏକ ମୁଣ୍ଡା ପରିବାରରେ ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ, ଏକ ଆଦିବାସୀ ଗୋଷ୍ଠୀ ଯାହା ରେ ରହୁଥିଲେ ।
+   A) ଧର
+   B) ଜାବୁଆ
+   C) WIMAIG
+   D) ଛୋଟନାଗପୁର  <-- CORRECT
+Answer: D
+Why correct: Birsa Munda was born into a Munda tribal family that lived in the Chotanagpur (plateau) region.
+Why A is wrong: 'Dhar' is not the region associated with Birsa Munda.
+Why B is wrong: Jhabua is in Madhya Pradesh, not Birsa's region.
+Why C is wrong: This option does not name his region.
+Note: Birsa Munda led the 'Ulgulan' (Great Tumult) tribal rebellion against the British; his birth anniversary is Janjatiya Gaurav Divas.
+
+==============================================================================
+Set 30 | Q.No 35 | Topic: Economy | Language: Odia
+------------------------------------------------------------------------------
+Q: ରାସାୟନିକ ଭିତ୍ତିକ ଶିଳ୍ପ ସମ୍ବନ୍ଧରେ ନିମୂଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଠିକ ଅଟେ? 1. ସିନ୍ଥେଟିକ ଫାଇବର ରାସାୟନିକ ଭିତ୍ତିକ ଶିଳ୍ୁର ଏକ ଉଦାହରଣ ଅଟେ । ` - ର 11. ଲବଣ, ସଲଫର ଏବଂ ପଟାସ ଉଦ୍ୟୋଗଗୁଡ଼ିକ ମଧ୍ୟ ପ୍ରାକୃତିକ ଖଣିଜ ପଦାଥର ବ୍ୟବହାର କରିଥାନ୍ତି ।
+   A) Only I
+   B) Only II
+   C) Both I and II  <-- CORRECT
+   D) Neither I nor II
+Answer: C
+Why correct: Both statements are correct: synthetic fibre (I) is an example of a chemical-based industry, and salt, sulphur and potash industries (II) also use natural minerals - so 'Both I and II' is right.
+Why A is wrong: 'Only I' omits the correct second statement.
+Why B is wrong: 'Only II' omits the correct first statement.
+Why D is wrong: 'Neither' is wrong since both statements are correct.
+Note: Chemical industries are classified into organic and inorganic branches.
+
+==============================================================================
+Set 30 | Q.No 36 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: ସଚିନ ତେନ୍ଦୁଲକର କେବେ ତାଙ୍କର 100ତମ ଅନ୍ତର୍ଜାତୀୟ ଶତକ ହାସଲ କରିଥିଲେ?
+   A) 2009
+   B) 2012  <-- CORRECT
+   C) 2014
+   D) 2011
+Answer: B
+Why correct: Sachin Tendulkar scored his 100th international century in 2012 (against Bangladesh in the Asia Cup).
+Why A is wrong: 2009 is before the milestone.
+Why C is wrong: 2014 is after he retired from international cricket (2013).
+Why D is wrong: 2011 is the year he reached 99 centuries, not 100.
+Note: Sachin Tendulkar is the only cricketer to score 100 international centuries.
+
+==============================================================================
+Set 30 | Q.No 37 | Topic: Sports | Language: Odia
+------------------------------------------------------------------------------
+Q: ନିମ୍ନଲିଖିତ କେଉଁ ବର୍ଷ ସୁଶୀଲ କୁମାର ଅଲିମ୍ପିକ୍‌ ପଦକ ଜିତିଥିଲେ? 1. 2008 1[. 2012
+   A) Only I
+   B) Only II
+   C) Both I and II  <-- CORRECT
+   D) Neither I nor II
+Answer: C
+Why correct: Sushil Kumar won Olympic medals in both 2008 (bronze, Beijing) and 2012 (silver, London), so 'Both I and II' is correct.
+Why A is wrong: 'Only I' omits his 2012 medal.
+Why B is wrong: 'Only II' omits his 2008 medal.
+Why D is wrong: 'Neither' is wrong since he won in both years.
+Note: Sushil Kumar was the first Indian to win individual Olympic medals at two consecutive Games.
+
+==============================================================================
+Set 30 | Q.No 38 | Topic: Sports | Language: Odia
+------------------------------------------------------------------------------
+Q: ରୋମାନ ରିଂଗ୍ଧ, ଭଲ୍ଟିଂ ଟେବଲ କେଉଁ କ୍ରୀଡ଼ା ଇଭେଣ୍ଟ ସହିତ ଜଡ଼ିତ ଶବ୍ଦ?
+   A) ଜିମ୍ନାଷ୍ଟିକ୍ସ  <-- CORRECT
+   B) ହକି
+   C) ଲଂ ଜମ୍ପ
+   D) ପୋଲ ଭଲ୍ଟ
+Answer: A
+Why correct: 'Roman rings' and the 'vaulting table' are apparatus associated with gymnastics.
+Why B is wrong: They are not hockey terms.
+Why C is wrong: They are not long-jump terms.
+Why D is wrong: They are not pole-vault apparatus.
+Note: The rings test upper-body strength and balance in men's artistic gymnastics.
+
+==============================================================================
+Set 30 | Q.No 39 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: 2024 ର ଗ୍ଲୋବଲ ହଙ୍ଗର ଇଣ୍ଡେକୁରେ ଭାରତର ସ୍ୟୋର କେତେ ଥିଲା?
+   A) 27.3  <-- CORRECT
+   B) 31.1
+   C) 21.8
+   D) 11.1
+Answer: A
+Why correct: In the 2024 Global Hunger Index, India's score was 27.3, placing it in the 'serious' category.
+Why B is wrong: 31.1 is not India's 2024 GHI score.
+Why C is wrong: 21.8 is incorrect.
+Why D is wrong: 11.1 is too low.
+Note: The Global Hunger Index measures hunger using undernourishment, child wasting, child stunting and child mortality.
+
+==============================================================================
+Set 30 | Q.No 40 | Topic: Current Affairs | Language: Odia
+------------------------------------------------------------------------------
+Q: 2024 ଇନଭାଇରମେଣ୍ଟ ପରଫର୍ମାନ୍ସ ଇଣ୍ଡେଳ୍ସରେ ଚୀନ ସ୍ଥାନ ପାଇଛି ।
+   A) 156th  <-- CORRECT
+   B) 124th
+   C) 101st
+   D) 111th
+Answer: A
+Why correct: In the 2024 Environmental Performance Index, China was ranked around 156th.
+Why B is wrong: 124th is not China's rank.
+Why C is wrong: 101st is incorrect.
+Why D is wrong: 111th is not the rank.
+Note: The Environmental Performance Index (EPI) is produced by Yale and Columbia universities.
+
+==============================================================================
+Set 31 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: उपराष्ट्रपति की अनुपस्थिति में राज्यसभा की अध्यक्षता कौन करता है?
+   A) लोकसभा अध्यक्ष
+   B) राष्ट्रपति
+   C) राज्यसभा के उपसभापति  <-- CORRECT
+   D) प्रधानमंत्री
+Answer: C
+Why correct: In the absence of the Vice-President, the Deputy Chairman of the Rajya Sabha presides over its sittings.
+Why A is wrong: The Lok Sabha Speaker presides over the Lok Sabha, not the Rajya Sabha.
+Why B is wrong: The President does not preside over the Rajya Sabha.
+Why D is wrong: The Prime Minister does not preside over either House.
+Note: The Vice-President is the ex-officio Chairman of the Rajya Sabha.
+
+==============================================================================
+Set 31 | Q.No 22 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: गिहा नृत्य के संदर्भ में बोलियां क्या हैं?
+   A) नर्तकों द्वारा पहने जाने वाले परिधानों के प्रकार
+   B) नृत्य के दौरान गाए जाने वाले पारंपरिक गीत  <-- CORRECT
+   C) विशिष्ट नृत्य चरण
+   D) प्रदर्शन के दौरान बजाए जाने वाले वाद्यायंत्र
+Answer: B
+Why correct: In the Giddha dance, 'boliyan' are the traditional rhyming verses/songs sung during the performance.
+Why A is wrong: They are not types of costumes.
+Why C is wrong: They are not specific dance steps.
+Why D is wrong: They are not instruments.
+Note: Boliyan often express folk wit, social commentary and emotions.
+
+==============================================================================
+Set 31 | Q.No 23 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन सी भारतीय झील ज्वालामुखीय उत्पत्ति की है?
+   A) सांभर झील
+   B) लोकतक झील
+   C) लोनार झील  <-- CORRECT
+   D) चिल्‍का झील
+Answer: C
+Why correct: Lonar Lake in Maharashtra is of volcanic/meteoritic origin - it formed in a crater created by a meteorite impact in basalt.
+Why A is wrong: Sambhar is a saline inland lake, not volcanic.
+Why B is wrong: Loktak is a freshwater lake with floating phumdis.
+Why D is wrong: Chilika is a coastal lagoon.
+Note: Lonar is one of the few saline soda lakes formed by a meteorite impact.
+
+==============================================================================
+Set 31 | Q.No 24 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: स्वतंत्र उम्मीदवार के रूप में भारत के राष्ट्रपति चुने जाने वाले एकमात्र व्यक्ति कौन थे?
+   A) जैल सिंह
+   B) नीलम संजीव रेड्डी
+   C) वी. वी. गिरि  <-- CORRECT
+   D) फखरुद्दीन अली अहमद
+Answer: C
+Why correct: V.V. Giri was the only person elected President of India as an independent candidate (1969).
+Why A is wrong: Zail Singh was a Congress nominee.
+Why B is wrong: Neelam Sanjiva Reddy was a party-backed candidate.
+Why D is wrong: Fakhruddin Ali Ahmed was a Congress nominee.
+Note: V.V. Giri won the 1969 election after a 'conscience vote' split the Congress.
+
+==============================================================================
+Set 31 | Q.No 25 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: किस मुगलकालीन स्मारक को अक्सर "बेबी ताज" कहा जाता है और यह सफेद संगमरमर वास्तुकला की ओर एक शैलीगत बदलाव का प्रतीक है?
+   A) एत्मादुद्दौला का मकबरा  <-- CORRECT
+   B) बीबी का मकबरा
+   C) मोती मस्जिद
+   D) हुमायूँ का मकबरा
+Answer: A
+Why correct: The Tomb of Itmad-ud-Daula in Agra is often called the 'Baby Taj'; it marked the shift towards white-marble Mughal architecture.
+Why B is wrong: Bibi Ka Maqbara (Aurangabad) is called the 'Mini Taj', a later imitation.
+Why C is wrong: The Moti Masjid is a mosque, not this tomb.
+Why D is wrong: Humayun's Tomb is an earlier red-sandstone structure.
+Note: Itmad-ud-Daula's tomb was built by Nur Jahan for her father; it pioneered pietra dura inlay.
+
+==============================================================================
+Set 31 | Q.No 26 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: कबड्डी में महिलाओं के लिए मानक कोर्ट का आकार क्या है?
+   A) 10 m x 8 m
+   B) 12 m x 8 m  <-- CORRECT
+   C) 11 m x 8 m
+   D) 13 m x 11 m
+Answer: B
+Why correct: The standard kabaddi court for women measures 12 m x 8 m.
+Why A is wrong: 10 m x 8 m is not the women's court size.
+Why C is wrong: 11 m x 8 m is incorrect.
+Why D is wrong: 13 m x 11 m is the men's court size.
+Note: The men's kabaddi court is larger, at 13 m x 10 m.
+
+==============================================================================
+Set 31 | Q.No 27 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा नीति आयोग का मुख्य कार्य है?
+   A) राज्यों को योजना निधि का आवंटन
+   B) नीति विषयक चिंतनशील संस्था और सहकारी संघवाद  <-- CORRECT
+   C) मौद्रिक नीति को नियंत्रित करना
+   D) चुनाव कराना
+Answer: B
+Why correct: A key function of NITI Aayog is to act as a policy think-tank and to promote cooperative federalism between the Centre and the states.
+Why A is wrong: It does not allocate plan funds (that role ended with the Planning Commission).
+Why C is wrong: Monetary policy is controlled by the RBI.
+Why D is wrong: Elections are conducted by the Election Commission.
+Note: NITI Aayog (2015) replaced the Planning Commission and has no fund-allocation powers.
+
+==============================================================================
+Set 31 | Q.No 28 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: चोल काल की कृषि में कावेरी नदी की नहरों की मुख्य भूमिका कया थी?
+   A) वे फसलों के लिए उपजाऊ मिट्टी तथा आर््रता प्रदान करती थीं।  <-- CORRECT
+   B) वे आक्रमणों से सुरक्षा प्रदान करती थीं।
+   C) वे व्यापार के लिए माल का परिवहन करती थीं।
+   D) उनका उपयोग मछली पकड़ने तथा नाव परिवहन के लिए किया जाता था।
+Answer: A
+Why correct: In Chola-era agriculture, the canals from the Kaveri river provided fertile silt and moisture to the fields, supporting prosperous farming.
+Why B is wrong: They were for irrigation, not military protection.
+Why C is wrong: They were primarily for irrigation, not goods transport.
+Why D is wrong: Their main role was irrigation, not fishing/boat transport.
+Note: The fertile Kaveri delta was the heartland of the Chola economy.
+
+==============================================================================
+Set 31 | Q.No 29 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: लगातार स्थानांतरण के लिए जाने जाने वाले कौन से आई.ए.एस. अधिकारी अप्रैल 2025 में सेवानिवृत्त हुए हैं?
+   A) सुजाता सौनिक
+   B) अशोक खेमका  <-- CORRECT
+   C) राजीव टोपनो
+   D) दुर्गा शक्ति नागपाल
+Answer: B
+Why correct: IAS officer Ashok Khemka, known for his many transfers during his career, retired in April 2025.
+Why A is wrong: Sujata Saunik is a serving senior officer, not the one described.
+Why C is wrong: Rajiv Topno is not the officer cited.
+Why D is wrong: Durga Shakti Nagpal is not the officer who retired here.
+Note: Ashok Khemka was transferred over 50 times during his three-decade career.
+
+==============================================================================
+Set 31 | Q.No 30 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: मई 2025 तक, भारत के मुख्य सूचना आयुक्त (सी.आई.सी.) कौन हैं?
+   A) यशवर्धन कुमार सिन्हा
+   B) हीरालाल सामरिया  <-- CORRECT
+   C) सुधीर भार्गव
+   D) सुरेश चंद्र
+Answer: B
+Why correct: As of May 2025, Heeralal Samariya was the Chief Information Commissioner (CIC) of India.
+Why A is wrong: Y.K. Sinha was a previous CIC.
+Why C is wrong: Sudhir Bhargava was an earlier CIC.
+Why D is wrong: Suresh Chandra is not the CIC.
+Note: The CIC heads the Central Information Commission under the RTI Act, 2005.
+
+==============================================================================
+Set 31 | Q.No 31 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: भारतीय नागरिक सुरक्षा संहिता (बी.एन.एस.एस.), 2023 की धारा 290 के तहत आरोप तय होने की तिथि से कितने दिनों के भीतर प्ली बार्गेनिंग के लिए आवेदन किया जा सकता है?
+   A) 70
+   B) 30  <-- CORRECT
+   C) 80
+   D) 100
+Answer: B
+Why correct: Under Section 290 of the BNSS, 2023, an application for plea bargaining can be filed within 30 days from the date of framing of charges.
+Why A is wrong: 70 days is incorrect.
+Why C is wrong: 80 days is incorrect.
+Why D is wrong: 100 days is incorrect.
+Note: The Bharatiya Nagarik Suraksha Sanhita (BNSS) replaced the Code of Criminal Procedure (CrPC).
+
+==============================================================================
+Set 31 | Q.No 32 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: भारतीय संविधान के भाग '/ का कौन सा अध्याय कार्यपालिका से संबंधित है?
+   A) Chapter I  <-- CORRECT
+   B) Chapter II
+   C) Chapter III
+   D) Chapter IV
+Answer: A
+Why correct: In Part V of the Constitution, Chapter I ('The Executive') deals with the Union executive - the President, Vice-President and Council of Ministers.
+Why B is wrong: Chapter II deals with Parliament.
+Why C is wrong: Chapter III deals with legislative powers of the President.
+Why D is wrong: Chapter IV deals with the Union Judiciary.
+Note: Part V covers the Union, and Part VI covers the States.
+
+==============================================================================
+Set 31 | Q.No 33 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: को प्राय: प्रकृति के सफाई कर्मचारी के रूप में संदर्भित किया जाता है।
+   A) गिद्धों  <-- CORRECT
+   B) हाथियों
+   C) शेर
+   D) बाघ
+Answer: A
+Why correct: Vultures are often called nature's scavengers (sanitation workers) because they feed on dead animal carcasses, helping keep the environment clean.
+Why B is wrong: Elephants are herbivores, not scavengers.
+Why C is wrong: Lions are predators, not scavengers in this sense.
+Why D is wrong: Tigers are predators, not nature's cleaners.
+Note: India's vulture populations crashed due to the veterinary drug diclofenac, now banned for cattle.
+
+==============================================================================
+Set 31 | Q.No 34 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस वर्ष भारतीय राष्ट्रीय अंतरिक्ष अनुसंधान समिति का इसरो में विकास हुआ था?
+   A) 1962
+   B) 1969  <-- CORRECT
+   C) 1972
+   D) 1974
+Answer: B
+Why correct: The Indian National Committee for Space Research (INCOSPAR) evolved into ISRO in 1969.
+Why A is wrong: 1962 is when INCOSPAR was set up, not ISRO.
+Why C is wrong: 1972 is when the Department of Space was created.
+Why D is wrong: 1974 is unrelated to ISRO's formation.
+Note: Vikram Sarabhai is regarded as the father of the Indian space programme.
+
+==============================================================================
+Set 31 | Q.No 35 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: मसाला उद्योग के लिए भारतीय मसाला अनुसंधान संस्थान (आई.आई.एस.आर.), कोझ्ञिकोड द्वारा विकसित नई हल्के रंग की 'हल्दी' किस्म का नाम क्या हैं?
+   A) IISR Jyoti
+   B) IISR Varna
+   C) IISR Surya  <-- CORRECT
+   D) IISR Shakti
+Answer: C
+Why correct: The new light-coloured turmeric variety developed by the Indian Institute of Spices Research (IISR), Kozhikode, is named 'IISR Surya'.
+Why A is wrong: 'IISR Jyoti' is not the new turmeric variety named.
+Why B is wrong: 'IISR Varna' is not the variety.
+Why D is wrong: 'IISR Shakti' is not the variety.
+Note: The IISR develops improved varieties of spices like turmeric, pepper and cardamom.
+
+==============================================================================
+Set 31 | Q.No 36 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: सचिन तेंदुलकर ने अपना 00वां अंतर्राष्ट्रीय शतक कहाँ बनाया था?
+   A) Dhaka  <-- CORRECT
+   B) Mumbai
+   C) Chennai
+   D) Perth
+Answer: A
+Why correct: Sachin Tendulkar scored his 100th international century at Dhaka (Mirpur), against Bangladesh, in 2012.
+Why B is wrong: It was not scored in Mumbai.
+Why C is wrong: It was not in Chennai.
+Why D is wrong: It was not in Perth.
+Note: It was Sachin's only century against Bangladesh and his historic 100th ton.
+
+==============================================================================
+Set 31 | Q.No 37 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: विश्व बैंक भूमि सम्मेलन-2025 में आयोजित किया गया था।
+   A) New York
+   B) Brasilia
+   C) Washington D.C.  <-- CORRECT
+   D) Shanghai
+Answer: C
+Why correct: The World Bank Land Conference 2025 was held in Washington D.C.
+Why A is wrong: It was not held in New York.
+Why B is wrong: It was not held in Brasilia.
+Why D is wrong: It was not held in Shanghai.
+Note: The World Bank is headquartered in Washington D.C.
+
+==============================================================================
+Set 31 | Q.No 38 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: 'चकरी' पारंपरिक संगीत ___ से संबंधित है।
+   A) कर्नाटक
+   B) तेलंगाना
+   C) मध्य प्रदेश
+   D) जम्मू और कश्मीर  <-- CORRECT
+Answer: D
+Why correct: 'Chakri' is a traditional music/folk form associated with Jammu and Kashmir.
+Why A is wrong: It is not from Karnataka.
+Why B is wrong: It is not from Telangana.
+Why C is wrong: It is not from Madhya Pradesh.
+Note: Chakri is a popular folk-music style of the Jammu region, often played on the harmonium and rabab.
+
+==============================================================================
+Set 31 | Q.No 39 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: नेटवर्क तत्परता सूचकांक 2024 ने कितने प्रमुख स्तंभों के आधार पर 33 अर्थव्यवस्थाओं की नेटवर्क तत्परता का मूल्यांकन किया था?
+   A) 4  <-- CORRECT
+   B) 6
+   C) 8
+   D) 10
+Answer: A
+Why correct: The Network Readiness Index 2024 evaluated economies on 4 main pillars (Technology, People, Governance and Impact).
+Why B is wrong: 6 is not the number of pillars.
+Why C is wrong: 8 is incorrect.
+Why D is wrong: 10 is incorrect.
+Note: The Network Readiness Index assesses how well countries leverage information and communication technologies.
+
+==============================================================================
+Set 31 | Q.No 40 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: दर रिपोर्ट ऑन चाइल्ड राइट्स इन इंडिया: एन ओवरव्यू ऑफ़ द पास्ट डिकेड' शीर्षक से अध्ययन, द्वारा डेस्क समीक्षा अध्ययन के रूप में शुरू [गया था।
+   A) चाइल्ड राइट्स एंड यू  <-- CORRECT
+   B) ऑक्सफैम इंडिया
+   C) प्रथम
+   D) सेवलाइफ फाउंडेशन
+Answer: A
+Why correct: The study 'Report on Child Rights in India: An Overview of the Past Decade' was carried out as a desk review by Child Rights and You (CRY).
+Why B is wrong: Oxfam India did not conduct this particular study.
+Why C is wrong: Pratham is known for the ASER education report, not this study.
+Why D is wrong: SaveLIFE Foundation works on road safety.
+Note: CRY (Child Rights and You) is a well-known NGO working for the rights of underprivileged children.
+
+==============================================================================
+Set 32 | Q.No 21 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: ध्वनि का अनुभव हमारे मस्तिष्क में लगभग कितने समय तक बना रहता है?
+   A) 0.01 s
+   B) 0.1 s  <-- CORRECT
+   C) 1 s
+   D) 10 s
+Answer: B
+Why correct: The sensation of sound persists in our brain (ears) for about 0.1 second; this is why an echo is heard distinctly only if the reflected sound returns after at least 0.1 s.
+Why A is wrong: 0.01 s is too short for the persistence of hearing.
+Why C is wrong: 1 s is far longer than the actual persistence.
+Why D is wrong: 10 s is much too long.
+Note: This persistence of hearing determines the minimum distance needed for a distinct echo.
+
+==============================================================================
+Set 32 | Q.No 22 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: पूर्वी घाट को निम्नलिखित में से किस नाम से भी जाना जाता है?
+   A) नीलगिरि पहाड़ियाँ
+   B) राजमहल पहाड़ियाँ
+   C) मैकाल पहाड़ियाँ
+   D) नल्लामलाई पहाड़ियाँ  <-- CORRECT
+Answer: D
+Why correct: The Eastern Ghats are also known by local names such as the Nallamalai Hills (in Andhra Pradesh).
+Why A is wrong: The Nilgiri Hills are part of the Western Ghats.
+Why B is wrong: The Rajmahal Hills are in Jharkhand.
+Why C is wrong: The Maikal Hills are part of the Satpura system.
+Note: The Eastern Ghats are discontinuous, cut across by rivers like the Godavari and Krishna.
+
+==============================================================================
+Set 32 | Q.No 23 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: ब्रिक्स (805) 2025 के लिए ब्राजील की प्रमुख प्राथमिकताओं में निम्नलिखित में से कौन सा क्षेत्र शामिल है?
+   A) व्यापार, निवेश और वित्त  <-- CORRECT
+   B) खेल, पर्यटन और युवा मामले
+   C) अंतरिक्ष अन्वेषण, खगोल विज्ञान और उपग्रह सहयोग
+   D) सांस्कृतिक विरासत, भाषा संवर्धन और पारंपरिक कलाएँ
+Answer: A
+Why correct: Trade, investment and finance was among Brazil's key priorities for its BRICS 2025 chairship.
+Why B is wrong: Sports, tourism and youth affairs was not a stated key priority area.
+Why C is wrong: Space exploration cooperation was not the headline priority.
+Why D is wrong: Cultural heritage and language promotion was not the main priority.
+Note: Brazil chaired BRICS in 2025, hosting its summit and ministerial meetings.
+
+==============================================================================
+Set 32 | Q.No 24 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: 950 और 990 के बीच भारतीय कृषि के सामने निम्नलिखित में से कौन सी चुनौती नहीं थी?
+   A) खंडित भूमि जोत
+   B) मानसून वर्षा पर निर्भरता
+   C) उर्वरकों और सिंचाई का कम उपयोग
+   D) उच्च ग्रामीण साक्षरता दर से श्रम आपूर्ति में कमी  <-- CORRECT
+Answer: D
+Why correct: High rural literacy reducing the labour supply was NOT a challenge facing Indian agriculture between 1950 and 1990 - in fact rural literacy was low and labour was abundant.
+Why A is wrong: Fragmented landholdings were a genuine challenge.
+Why B is wrong: Dependence on monsoon rainfall was a real challenge.
+Why C is wrong: Low use of fertilizers and irrigation was a genuine problem.
+Note: The Green Revolution addressed some of these challenges through HYV seeds, fertilizers and irrigation.
+
+==============================================================================
+Set 32 | Q.No 25 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत-चीन युद्ध के कारण कौन-सी योजना पूरी होने से एक वर्ष पहले ही समाप्त कर दी गई थी?
+   A) पहली योजना
+   B) दूसरी योजना
+   C) तीसरी योजना  <-- CORRECT
+   D) चौथी योजना
+Answer: C
+Why correct: The Third Five-Year Plan was terminated a year early because of the disruption caused by the 1962 India-China war (and later wars/droughts).
+Why A is wrong: The First Plan was completed.
+Why B is wrong: The Second Plan was completed.
+Why D is wrong: The Fourth Plan came after a 'plan holiday'.
+Note: After the Third Plan, India had a three-year 'plan holiday' (1966-69).
+
+==============================================================================
+Set 32 | Q.No 26 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: बादामी के चालुक्य , भारतीय कला में किस योगदान के लिए जाने जाते हैं?
+   A) नटराज की कांस्य मूर्ति के लिए
+   B) बादामी में चट्टानों को काटकर बनाए गए गुफा मंदिर के लिए  <-- CORRECT
+   C) नागर शैली के मंदिरों का विकास करने के लिए
+   D) एलोरा गुफाओं में चित्रकारी के लिए
+Answer: B
+Why correct: The Chalukyas of Badami are known for the rock-cut cave temples at Badami, an important contribution to Indian temple architecture.
+Why A is wrong: The bronze Nataraja is associated with the Cholas.
+Why C is wrong: The Nagara temple style developed mainly in the north.
+Why D is wrong: The Ellora paintings are linked to other dynasties (Rashtrakutas).
+Note: Badami, Aihole and Pattadakal form the cradle of Chalukyan temple architecture.
+
+==============================================================================
+Set 32 | Q.No 27 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: स्थिर मूल्यों पर मापी गई राष्ट्रीय आय को क्या कहते हैं?
+   A) वास्तविक आय  <-- CORRECT
+   B) नाममात्र की आय
+   C) व्यय योग्य आय
+   D) शुद्ध कारक आय
+Answer: A
+Why correct: National income measured at constant (base-year) prices is called real income (real GDP/national income), as it removes the effect of price changes.
+Why B is wrong: Nominal income is measured at current prices.
+Why C is wrong: Disposable income is income after taxes.
+Why D is wrong: Net factor income is a separate concept.
+Note: Real income reflects the actual change in the volume of goods and services produced.
+
+==============================================================================
+Set 32 | Q.No 28 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस अधिनियम द्वारा पहली बार भारतीयों को लंदन में खुली प्रतियोगिता के माध्यम से भारतीय सिविल सेवा में भर्ती करने की अनुमति दी गई?
+   A) Charter Act of 1813
+   B) Charter Act of 1833
+   C) Charter Act of 1853  <-- CORRECT
+   D) Indian Councils Act of 1861
+Answer: C
+Why correct: The Charter Act of 1853 first allowed Indians to be recruited to the Indian Civil Service through open competition held in London.
+Why A is wrong: The 1813 Charter Act dealt with the Company's monopoly and education funds.
+Why B is wrong: The 1833 Charter Act centralised administration under the Governor-General.
+Why D is wrong: The 1861 Act dealt with legislative councils.
+Note: The first Indian to qualify for the ICS was Satyendranath Tagore in 1863.
+
+==============================================================================
+Set 32 | Q.No 29 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: जून 2025 में शुरू किए गए नव्या कार्यक्रम का प्राथमिक उद्देश्य कया है?
+   A) किशोरियों को उच्च शिक्षा प्रदान करना
+   B) 6-8 वर्ष की किशोरियों को व्यावसायिक प्रशिक्षण प्रदान करना  <-- CORRECT
+   C) किशोरियों के बीच खेलों को बढ़ावा देना
+   D) किशोरियों को वित्तीय सहायता प्रदान करना
+Answer: B
+Why correct: The 'Navya' programme (June 2025) aims to provide vocational training to adolescent girls aged 16-18 years.
+Why A is wrong: It is not specifically about higher education for girls.
+Why C is wrong: It is not a sports-promotion programme.
+Why D is wrong: It is not a financial-assistance scheme.
+Note: Navya is a joint initiative to build employable skills among adolescent girls.
+
+==============================================================================
+Set 32 | Q.No 30 | Topic: Schemes & Government | Language: English
+------------------------------------------------------------------------------
+Q: अगस्त 2025 तक, नमस्ते योजना के तहत कितने सीवर और सेप्टिक टैंक श्रमिकों (एस.एस.डब्ल्यू.) को मान्य किया गया है?
+   A) 84,902  <-- CORRECT
+   B) 74,900
+   C) 64,900
+   D) 44,900
+Answer: A
+Why correct: As of August 2025, about 84,902 sewer and septic-tank workers (SSWs) had been profiled/validated under the NAMASTE scheme.
+Why B is wrong: 74,900 understates the number.
+Why C is wrong: 64,900 is incorrect.
+Why D is wrong: 44,900 is too low.
+Note: NAMASTE aims to ensure the safety and dignity of sanitation workers and end hazardous manual cleaning.
+
+==============================================================================
+Set 32 | Q.No 31 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा नृत्य असम राज्य से संबंधित है?
+   A) गेंडी
+   B) कायांग
+   C) UII HY
+   D) भोरताल नृत्य  <-- CORRECT
+Answer: D
+Why correct: The Bhortal Nritya (Bortal dance), performed with large cymbals, belongs to Assam.
+Why A is wrong: Gendi is a tribal dance of central India.
+Why B is wrong: Kayang is associated with other regions.
+Why C is wrong: This option does not name an Assamese dance.
+Note: The Bhortal dance was popularised by the dancer Narahari Burha Bhakat in Assam.
+
+==============================================================================
+Set 32 | Q.No 32 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत में तटीय, वेडर पक्षियों की पहली जनगणना जनवरी 2025 में में शुरू हुई थी।
+   A) रायपुर
+   B) जम्मू
+   C) चेन्नई
+   D) जामनगर  <-- CORRECT
+Answer: D
+Why correct: India's first census of coastal and wader birds began in January 2025 at Jamnagar (Gujarat).
+Why A is wrong: It did not begin at Raipur.
+Why B is wrong: It did not begin at Jammu.
+Why C is wrong: It did not begin at Chennai.
+Note: Jamnagar's Marine National Park and surrounding wetlands host many migratory and wader birds.
+
+==============================================================================
+Set 32 | Q.No 33 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत के किस राज्य में 'गोदाची मेला' पारंपरिक रूप से मनाया जाता है?
+   A) गुजरात
+   B) कर्नाटक  <-- CORRECT
+   C) असम
+   D) हरियाणा
+Answer: B
+Why correct: The 'Godachi Fair' (Godachi Veerabhadreshwara Jatra) is traditionally celebrated in Karnataka.
+Why A is wrong: It is not a Gujarat fair.
+Why C is wrong: It is not from Assam.
+Why D is wrong: It is not from Haryana.
+Note: It is one of the largest fairs in northern Karnataka, dedicated to Lord Veerabhadra.
+
+==============================================================================
+Set 32 | Q.No 34 | Topic: Static GK | Language: English
+------------------------------------------------------------------------------
+Q: 20 की जनगणना के अनुसार केरल की साक्षरता दर क्या है?
+   A) 94.00%  <-- CORRECT
+   B) 88.70%
+   C) 87.10%
+   D) 99.00%
+Answer: A
+Why correct: As per the 2011 Census, Kerala's literacy rate was about 94%, the highest among Indian states.
+Why B is wrong: 88.70% is below Kerala's figure.
+Why C is wrong: 87.10% is incorrect.
+Why D is wrong: 99.00% overstates it.
+Note: Kerala consistently ranks highest in literacy and human-development indicators in India.
+
+==============================================================================
+Set 32 | Q.No 35 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: दर भारतीय राज्यों में चावल की खेती निम्नलिखित में से किस ऋतु में की जाती है? [.र . खरीफ
+   A) Only I
+   B) Only II
+   C) Both I and II  <-- CORRECT
+   D) Neither I nor II
+Answer: C
+Why correct: Rice is cultivated in both the seasons referred to (including the kharif season) across different Indian states depending on climate and irrigation - so 'Both I and II' is correct.
+Why A is wrong: 'Only I' is incomplete.
+Why B is wrong: 'Only II' (only kharif) ignores rice grown in other seasons in some states.
+Why D is wrong: 'Neither' is wrong.
+Note: Rice is mainly a kharif crop but is grown in the rabi/summer season too in states like West Bengal and the south.
+
+==============================================================================
+Set 32 | Q.No 36 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: आई.पी.एल. (इंडियन प्रीमियर लीग) का पहला सीज़न किस वर्ष में खेला गया था?
+   A) 2008  <-- CORRECT
+   B) 2009
+   C) 2010
+   D) 2011
+Answer: A
+Why correct: The first season of the Indian Premier League (IPL) was played in 2008.
+Why B is wrong: 2009 was the second season (held in South Africa).
+Why C is wrong: 2010 was the third season.
+Why D is wrong: 2011 was the fourth season.
+Note: Rajasthan Royals won the inaugural 2008 IPL title.
+
+==============================================================================
+Set 32 | Q.No 37 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: भारतीय वॉलीबॉल महासंघ का गठन किस वर्ष में हुआ था?
+   A) 1951  <-- CORRECT
+   B) 1980
+   C) 1958
+   D) 1976
+Answer: A
+Why correct: The Volleyball Federation of India was formed in 1951.
+Why B is wrong: 1980 is incorrect.
+Why C is wrong: 1958 is not the founding year.
+Why D is wrong: 1976 is incorrect.
+Note: Volleyball is a popular sport in many Indian states, played at school and national levels.
+
+==============================================================================
+Set 32 | Q.No 38 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: नीचे दिए गए कौशल को "टो टच" कहा जाता है जो निम्नलिखित में से किस खेल से संबंधित है? ्
+   A) बास्केटबाल
+   B) कबड्डी  <-- CORRECT
+   C) फुटबॉल
+   D) बैडमिंटन
+Answer: B
+Why correct: The skill called 'toe touch' is associated with the sport of kabaddi, where a raider quickly touches a defender's toe and retreats.
+Why A is wrong: It is not a basketball term.
+Why C is wrong: It is not a football term.
+Why D is wrong: It is not a badminton term.
+Note: The toe-touch is a common raiding technique to score a point in kabaddi.
+
+==============================================================================
+Set 32 | Q.No 39 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: ग्लोबल बिजनेस कॉम्प्लेक्सिटी इंडेक्स 2025 निम्नलिखित में से किसके द्वारा प्रकाशित किया गया था?
+   A) टी.एम.एफ. ग्रुप  <-- CORRECT
+   B) अंतर्राष्ट्रीय मुद्रा कोष
+   C) विश्व व्यापार संगठन
+   D) इकोनॉमिस्ट इंटेलिजेंस यूनिट
+Answer: A
+Why correct: The Global Business Complexity Index 2025 was published by the TMF Group.
+Why B is wrong: The IMF did not publish it.
+Why C is wrong: The WTO did not publish it.
+Why D is wrong: The Economist Intelligence Unit did not publish this index.
+Note: The index ranks jurisdictions by how complex it is to do business there.
+
+==============================================================================
+Set 32 | Q.No 40 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: सरकार ने में ।2 प्रदूषकों के लिए राष्ट्रीय परिवेशी वायु गुणवत्ता मानक (एन.ए.ए.क्यू.एस.) अधिसूचित किए हैं।
+   A) 1999
+   B) 2001
+   C) 2009  <-- CORRECT
+   D) 2015
+Answer: C
+Why correct: The Government notified the National Ambient Air Quality Standards (NAAQS) for 12 pollutants in 2009.
+Why A is wrong: 1999 is incorrect.
+Why B is wrong: 2001 is not the year.
+Why D is wrong: 2015 was when the AQI was launched, not the NAAQS notification.
+Note: The NAAQS are enforced by the Central Pollution Control Board.
+
+==============================================================================
+Set 33 | Q.No 21 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन-सा भारतीय क्षेत्र अपनी बाउल गायन परंपरा के लिए जाना जाता है?
+   A) गुजरात
+   B) तमिलनाडु
+   C) बंगाल  <-- CORRECT
+   D) पंजाब
+Answer: C
+Why correct: Bengal is known for its Baul singing tradition - a mystic, devotional folk-music form of wandering minstrels.
+Why A is wrong: Gujarat is known for Garba, not Baul.
+Why B is wrong: Tamil Nadu has Carnatic and folk forms, not Baul.
+Why D is wrong: Punjab is known for Bhangra and Sufi music.
+Note: Baul music of Bengal is recognised by UNESCO as an Intangible Cultural Heritage.
+
+==============================================================================
+Set 33 | Q.No 22 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: हिंदुस्तानी संगीत में राग यमन से कौन-सा थाट जुड़ा हुआ है?
+   A) काफ़ी
+   B) बिलावल
+   C) कल्याण  <-- CORRECT
+   D) भैरव
+Answer: C
+Why correct: In Hindustani music, Raga Yaman belongs to the Kalyan thaat.
+Why A is wrong: Kafi is a different thaat.
+Why B is wrong: Bilawal is the natural-scale thaat.
+Why D is wrong: Bhairav is another thaat.
+Note: There are ten basic thaats (parent scales) in the Hindustani classical system.
+
+==============================================================================
+Set 33 | Q.No 23 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: पादप के संवहनी तंत्र के कौन से घटक, जल चालन के लिए उत्तरदायी होते हैं?
+   A) चालनी नलिका और सहकोशिका
+   B) वाहिका और ट्रेकीड  <-- CORRECT
+   C) द्वार-कोशिका और रंध्र
+   D) फ्लोएम फाइबर
+Answer: B
+Why correct: In a plant's vascular system, the vessels and tracheids (xylem elements) are responsible for conducting water.
+Why A is wrong: Sieve tubes and companion cells (phloem) conduct food, not water.
+Why C is wrong: Guard cells and stomata regulate gas exchange.
+Why D is wrong: Phloem fibres provide support, not water conduction.
+Note: Xylem carries water and minerals upward; phloem transports food made in the leaves.
+
+==============================================================================
+Set 33 | Q.No 24 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: पादप और जंतुओं के मृत अवशेषों को विघटित करने के लिए मुख्यतः: कौन से जीव उत्तरदायी होते हैं?
+   A) शाकाहारी
+   B) उत्पादक
+   C) अपघटक  <-- CORRECT
+   D) मांसाहारी
+Answer: C
+Why correct: Decomposers (such as bacteria and fungi) are mainly responsible for breaking down the dead remains of plants and animals.
+Why A is wrong: Herbivores eat plants; they are consumers, not decomposers.
+Why B is wrong: Producers (green plants) make food, they do not decompose remains.
+Why D is wrong: Carnivores eat other animals; they are consumers.
+Note: Decomposers recycle nutrients back into the soil, completing the nutrient cycle.
+
+==============================================================================
+Set 33 | Q.No 25 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: इनमें से किसे जैव-निम्नीकरणीय अपशिष्ट माना जाता है?
+   A) कांच के जार
+   B) मृत जंतु  <-- CORRECT
+   C) एल्युमिनियम के डिब्बे
+   D) स्टाइरोफ़ोम
+Answer: B
+Why correct: Dead animals are biodegradable waste, as they can be broken down by natural decomposers.
+Why A is wrong: Glass jars are non-biodegradable.
+Why C is wrong: Aluminium cans are non-biodegradable.
+Why D is wrong: Styrofoam is non-biodegradable.
+Note: Biodegradable waste can be composted; non-biodegradable waste persists in the environment.
+
+==============================================================================
+Set 33 | Q.No 26 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: बैंगलोर में सेक्रे-कूर चर्च के डिजाइन में निम्नलिखित में से कौन-सी विशेषता प्रमुख है?
+   A) गुंबददार छत
+   B) रंगीन कांच की खिड़कियाँ  <-- CORRECT
+   C) कोरिंथियन स्तंभ
+   D) सपाट छत
+Answer: B
+Why correct: Stained-glass windows are a prominent feature of the design of the Sacred Heart (Sacre Coeur) Church in Bangalore.
+Why A is wrong: A domed roof is not its defining feature.
+Why C is wrong: Corinthian columns are not the highlighted feature.
+Why D is wrong: A flat roof is not characteristic.
+Note: Many colonial-era churches in India feature Gothic-style stained glass.
+
+==============================================================================
+Set 33 | Q.No 27 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: पत्तियों का हरा रंग किसके कारण होता है?
+   A) द्वार कोशिकाएँ (6८०७0 ८€॥5)
+   B) GIScs (xylem)
+   C) फ्लोएम (006)
+   D) uvteftd (Chlorophyll)  <-- CORRECT
+Answer: D
+Why correct: The green colour of leaves is due to the pigment chlorophyll, which captures light for photosynthesis.
+Why A is wrong: Guard cells control stomatal opening, not colour.
+Why B is wrong: Xylem conducts water.
+Why C is wrong: Phloem transports food.
+Note: Chlorophyll absorbs red and blue light and reflects green, giving leaves their colour.
+
+==============================================================================
+Set 33 | Q.No 28 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: पादप के किस भाग को "खाद्य कारखाना (५४00 ५८0४)" कहा जाता है?
+   A) फूल
+   B) तना
+   C) जड़
+   D) पत्ता  <-- CORRECT
+Answer: D
+Why correct: The leaf is called the 'food factory' of a plant because photosynthesis takes place there.
+Why A is wrong: The flower is the reproductive part.
+Why B is wrong: The stem supports the plant and transports materials.
+Why C is wrong: The root absorbs water and anchors the plant.
+Note: Leaves contain chloroplasts where light energy is converted into chemical energy (glucose).
+
+==============================================================================
+Set 33 | Q.No 29 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: मस्तिष्क और मेरुरज्जु मुख्य रूप से से बने होते हैं।
+   A) पेशी ऊतक
+   B) संयोजी ऊतक
+   C) तंत्रिका ऊतक  <-- CORRECT
+   D) उपकला ऊतक
+Answer: C
+Why correct: The brain and spinal cord are made mainly of nervous tissue, which transmits electrical impulses.
+Why A is wrong: Muscle tissue is contractile.
+Why B is wrong: Connective tissue binds and supports.
+Why D is wrong: Epithelial tissue forms linings.
+Note: The brain and spinal cord together form the central nervous system (CNS).
+
+==============================================================================
+Set 33 | Q.No 30 | Topic: Awards & Honours | Language: Hindi
+------------------------------------------------------------------------------
+Q: जुलाई 2025 में, ब्राज़ील के सर्वोच्च नागरिक सम्मान, ग्रैंड कॉलर ऑफ़ द नेशनल ऑर्डर ऑफ़ द सदर्न क्रॉस से किसे सम्मानित किया गया है?
+   A) द्रौपदी मुर्मू
+   B) राहुल गांधी
+   C) नरेंद्र मोदी  <-- CORRECT
+   D) जयशंकर
+Answer: C
+Why correct: In July 2025, Prime Minister Narendra Modi was conferred Brazil's highest civilian honour, the Grand Collar of the National Order of the Southern Cross.
+Why A is wrong: Droupadi Murmu did not receive this honour.
+Why B is wrong: Rahul Gandhi did not receive it.
+Why D is wrong: S. Jaishankar did not receive it.
+Note: Several countries have conferred their highest honours on PM Modi during state visits.
+
+==============================================================================
+Set 33 | Q.No 31 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: दिसंबर 2024 में केरल का राज्यपाल किसे नियुक्त किया गया था?
+   A) विजय कुमार सिंह
+   B) अनुसुड़या उड़के
+   C) हरि बाबू कंभमपति
+   D) राजेंद्र विश्वनाथ आर्लेकर  <-- CORRECT
+Answer: D
+Why correct: Rajendra Vishwanath Arlekar was appointed Governor of Kerala in December 2024.
+Why A is wrong: Vijay Kumar Singh was appointed to another role.
+Why B is wrong: This option does not name the appointee.
+Why C is wrong: Hari Babu Kambhampati was an earlier governor of another state.
+Note: Governors are appointed by the President and serve as the constitutional head of a state.
+
+==============================================================================
+Set 33 | Q.No 32 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: पुरुषों में निम्नलिखित में से कौन-सी अंतःस्रावी ग्रंथि यौवनारंभ से संबंधित हार्मोन का स्त्राव करती हैं?
+   A) पीनियल ग्रंथि
+   B) वृषण  <-- CORRECT
+   C) अग्न्याशय
+   D) थाइमस ग्रंथि
+Answer: B
+Why correct: In males, the testes are the endocrine glands that secrete the hormone (testosterone) associated with the onset of puberty.
+Why A is wrong: The pineal gland secretes melatonin.
+Why C is wrong: The pancreas secretes insulin.
+Why D is wrong: The thymus is involved in immunity.
+Note: Testosterone drives male secondary sexual characteristics during puberty.
+
+==============================================================================
+Set 33 | Q.No 33 | Topic: Awards & Honours | Language: Hindi
+------------------------------------------------------------------------------
+Q: विश्व पर्यावरण दिवस 2025 पर सबसे प्रभावशाली पर्यावरणविद्‌ पुरस्कार से किसे सम्मानित किया गया?
+   A) आचार्य प्रशांत  <-- CORRECT
+   B) ग्जेंद्र शेखावत
+   C) नरेंद्र मोदी
+   D) सोनू सूद
+Answer: A
+Why correct: On World Environment Day 2025, Acharya Prashant was honoured with the 'Most Impactful Environmentalist' award.
+Why B is wrong: Gajendra Singh Shekhawat was not the awardee.
+Why C is wrong: Narendra Modi was not the recipient.
+Why D is wrong: Sonu Sood was not the recipient.
+Note: World Environment Day is observed on 5 June every year.
+
+==============================================================================
+Set 33 | Q.No 34 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारतीय अंतरिक्ष विज्ञान एवं प्रौद्योगिकी संस्थान में स्थित है।
+   A) कोचि
+   B) नागपुर
+   C) नई दिल्ली
+   D) तिरुवनंतपुरम  <-- CORRECT
+Answer: D
+Why correct: The Indian Institute of Space Science and Technology (IIST) is located in Thiruvananthapuram, Kerala.
+Why A is wrong: It is not in Kochi.
+Why B is wrong: It is not in Nagpur.
+Why C is wrong: It is not in New Delhi.
+Note: IIST is Asia's first space university, set up under the Department of Space.
+
+==============================================================================
+Set 33 | Q.No 35 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: खेलों में दवाओं के दुरुपयोग के संबंध में निम्नलिखित में से कौन सा एक एनाबोलिक एजेंट है? ।. ऑक्सेंड्रोलोन |. ऑक्साबोलोन
+   A) Only I
+   B) Only II
+   C) Both I and II  <-- CORRECT
+   D) Neither I nor II
+Answer: C
+Why correct: Both Oxandrolone (I) and Oxabolone (II) are anabolic agents banned in sport, so 'Both I and II' is correct.
+Why A is wrong: 'Only I' omits Oxabolone.
+Why B is wrong: 'Only II' omits Oxandrolone.
+Why D is wrong: 'Neither' is wrong since both are anabolic agents.
+Note: Anabolic agents are listed on the WADA Prohibited List.
+
+==============================================================================
+Set 33 | Q.No 36 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस पूर्वोत्तर राज्य ने राष्ट्रीय खेल 2025 में सबसे अधिक पदक जीते हैं?
+   A) मणिपुर  <-- CORRECT
+   B) अरुणाचल प्रदेश
+   C) असम
+   D) मिजोरम
+Answer: A
+Why correct: Among north-eastern states, Manipur won the most medals at the National Games 2025.
+Why B is wrong: Arunachal Pradesh did not top among NE states.
+Why C is wrong: Assam did not win the most among NE states.
+Why D is wrong: Mizoram did not top the NE tally.
+Note: Manipur is a sporting powerhouse, producing many national and international athletes.
+
+==============================================================================
+Set 33 | Q.No 37 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: 949 में थल सेनाध्यक्ष तथा बाद में फील्ड मार्शल बनने वाले पहले भारतीय कौन थे?
+   A) जनरल पी. एन. थापर
+   B) जनरल के. एम. करिअप्पा  <-- CORRECT
+   C) जनरल के. एस. थिमय्या
+   D) जनरल एस. एम. श्रीनागेश
+Answer: B
+Why correct: General K.M. Cariappa became the first Indian Commander-in-Chief of the Army in 1949 and was later made a Field Marshal.
+Why A is wrong: P.N. Thapar was a later Army Chief.
+Why C is wrong: K.S. Thimayya was a later Army Chief.
+Why D is wrong: S.M. Shrinagesh was a later Army Chief.
+Note: India has had only two Field Marshals: K.M. Cariappa and Sam Manekshaw.
+
+==============================================================================
+Set 33 | Q.No 38 | Topic: Static GK | Language: English
+------------------------------------------------------------------------------
+Q: क्यु.एस. एशिया यूनिवर्सिटी रैंकिंग 2025 में दिल्ली विश्वविद्यालय का रैंक क्या है?
+   A) 81  <-- CORRECT
+   B) 67
+   C) 91
+   D) 77
+Answer: A
+Why correct: In the QS Asia University Rankings 2025, the University of Delhi was ranked around 81.
+Why B is wrong: 67 is not DU's rank.
+Why C is wrong: 91 is incorrect.
+Why D is wrong: 77 is incorrect.
+Note: The QS rankings assess universities on factors like academic reputation and research.
+
+==============================================================================
+Set 33 | Q.No 39 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: ग्लोबल बिजनेस कॉम्प्लेक्सिटी इंडेक्स 2025 में भारत की रैंकिंग कया है?
+   A) 71
+   B) 33
+   C) 11
+   D) 18  <-- CORRECT
+Answer: D
+Why correct: India was ranked 18th in the Global Business Complexity Index 2025.
+Why A is wrong: 71 is incorrect.
+Why B is wrong: 33 is not India's rank.
+Why C is wrong: 11 is incorrect.
+Note: A higher rank in this index means doing business is more complex in that jurisdiction.
+
+==============================================================================
+Set 33 | Q.No 40 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: सचिन तेंदुलकर ने अंतर्राष्ट्रीय क्रिकेट में अपना पहला टेस्ट मैच किस टीम के खिलाफ खेला था?
+   A) श्रीलंका
+   B) ऑस्ट्रेलिया
+   C) पाकिस्तान  <-- CORRECT
+   D) इंगलैंड
+Answer: C
+Why correct: Sachin Tendulkar played his first Test match against Pakistan, in 1989 at Karachi.
+Why A is wrong: His debut was not against Sri Lanka.
+Why B is wrong: It was not against Australia.
+Why D is wrong: It was not against England.
+Note: Sachin made his Test debut at just 16, facing the pace of Wasim Akram and Waqar Younis.
+
+==============================================================================
+Set 34 | Q.No 21 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन सा पर्वतीय दर्रा लद्ाख को कश्मीर घाटी से जोड़ता है?
+   A) नाथू ला
+   B) रोहतांग दर्रा
+   C) ज़ोजी ला  <-- CORRECT
+   D) शिपकी ला
+Answer: C
+Why correct: Zoji La is the mountain pass that connects Ladakh with the Kashmir Valley (on the Srinagar-Leh route).
+Why A is wrong: Nathu La connects Sikkim with Tibet.
+Why B is wrong: Rohtang Pass is in Himachal Pradesh.
+Why D is wrong: Shipki La is in Himachal Pradesh.
+Note: Zoji La often closes in winter due to heavy snow; a tunnel is being built to keep it open.
+
+==============================================================================
+Set 34 | Q.No 22 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: जीएसटी से पहले भारतीय राज्यों द्वारा मूल्य वर्धित कर (वैट) लागू करने का मुख्य उद्देश्य क्या था?
+   A) सभी प्रत्यक्ष करों को एकल कर से प्रतिस्थापित करना
+   B) अप्रत्यक्ष कराधान के व्यापक प्रभाव को न्यूनतम करना  <-- CORRECT
+   C) अधिक कर व्यय के माध्यम से राजकोषीय घाटे में वृद्धि
+   D) टैरिफ बढ़ाकर घरेलू उत्पादकों की रक्षा करना
+Answer: B
+Why correct: Before GST, states introduced Value Added Tax (VAT) mainly to minimise the cascading ('tax on tax') effect of indirect taxation.
+Why A is wrong: VAT replaced sales tax (an indirect tax), not all direct taxes.
+Why C is wrong: It aimed to improve, not increase, fiscal deficits.
+Why D is wrong: It was not designed to raise tariffs for protection.
+Note: GST (2017) further unified indirect taxes and removed cascading across the country.
+
+==============================================================================
+Set 34 | Q.No 23 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: ह्लेन त्सांग (५08280) का विवरण विशेष रूप से के अध्ययन के लिए मूल्यवान है।
+   A) हड़प्पा नगर
+   B) हर्षवर्धन के दरबार  <-- CORRECT
+   C) मौर्यकालीन राजनीति
+   D) चोल नौसैनिक खोजयात्राओं
+Answer: B
+Why correct: Hiuen Tsang's (Xuanzang's) accounts are especially valuable for studying the court of Harshavardhana, whom he visited in the 7th century.
+Why A is wrong: He did not describe Harappan towns (a far earlier civilization).
+Why C is wrong: He is not the main source for Mauryan polity (that is Megasthenes/Kautilya).
+Why D is wrong: He did not record Chola naval expeditions.
+Note: Hiuen Tsang also studied at the Nalanda university during his stay in India.
+
+==============================================================================
+Set 34 | Q.No 24 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: पांचवीं पंचवर्षीय योजना (974-79) में किस पर जोर दिया गया?
+   A) निर्यात-आधारित विकास
+   B) गरीबी उन्मूलन ("गरीबी हटाओ")  <-- CORRECT
+   C) बैंकिंग सुधार
+   D) भारी उद्योग
+Answer: B
+Why correct: The Fifth Five-Year Plan (1974-79) emphasised poverty removal ('Garibi Hatao') and self-reliance.
+Why A is wrong: Export-led growth was not the Fifth Plan's focus.
+Why C is wrong: Banking reforms were not its theme.
+Why D is wrong: Heavy industry was the focus of the Second Plan.
+Note: The Fifth Plan was cut short and the Rolling Plan concept was introduced afterwards.
+
+==============================================================================
+Set 34 | Q.No 25 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: प्रच्छन्न बेरोजगारी या छिपी बेरोजगारी सामान्यतः: कहाँ पाई जाती है?
+   A) कृषि क्षेत्र  <-- CORRECT
+   B) आईटी क्षेत्र
+   C) औद्योगिक क्षेत्र
+   D) सेवा क्षेत्र
+Answer: A
+Why correct: Disguised (hidden) unemployment is generally found in the agricultural sector, where more people work on a piece of land than are actually needed.
+Why B is wrong: The IT sector does not typically have disguised unemployment.
+Why C is wrong: The industrial sector is less prone to it.
+Why D is wrong: The service sector is less characterised by disguised unemployment.
+Note: In disguised unemployment, removing some workers would not reduce total output.
+
+==============================================================================
+Set 34 | Q.No 26 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: वर्ष 83 के चार्टर अधिनियम ने पर ईस्ट इंडिया कंपनी के एकाधिकार को समाप्त कर दिया।
+   A) अफीम व्यापार
+   B) चीन के साथ व्यापार
+   C) यूरोप के साथ व्यापार
+   D) चाय और चीन के व्यापार को छोड़कर भारत के साथ होने वाले व्यापार  <-- CORRECT
+Answer: D
+Why correct: The Charter Act of 1813 ended the East India Company's trade monopoly over India, except for the tea trade and trade with China.
+Why A is wrong: It did not specifically end an opium-trade monopoly here.
+Why B is wrong: It retained the China-trade monopoly.
+Why C is wrong: It was about Indian trade, not just Europe.
+Note: The 1833 Charter Act later ended even the China-tea monopoly, turning the Company into an administrator.
+
+==============================================================================
+Set 34 | Q.No 27 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: 2025 में किस भारतीय राज्य सरकार ने 'मुख्यमंत्री बालिका समृद्धि योजना' योजना शुरू की थी?
+   A) मिजोरम
+   B) त्रिपुरा  <-- CORRECT
+   C) असम
+   D) मणिपुर
+Answer: B
+Why correct: In 2025, the Tripura state government launched the 'Mukhyamantri Balika Samriddhi Yojana'.
+Why A is wrong: Mizoram did not launch this scheme.
+Why C is wrong: Assam did not launch it.
+Why D is wrong: Manipur did not launch it.
+Note: Such schemes aim to support the education and welfare of the girl child.
+
+==============================================================================
+Set 34 | Q.No 28 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: अगस्त 2025 में लोकसभा द्वारा पारित ऑनलाइन गेमिंग के संवर्धन और विनियमन विधेयक के संदर्भ में निम्नलिखित में से कौन सा कथन सही है? ।. यह विधेयक ई-स्पोर्ट्स और ऑनलाइन सोशल गेम्स को प्रोत्साहित करता है। |. यह विधेयक ऑनलाइन मनी गेमिंग सेवाओं को भी प्रोत्साहित करता है।
+   A) Only I  <-- CORRECT
+   B) Only II
+   C) Both I and II
+   D) Neither I nor II
+Answer: A
+Why correct: The Online Gaming Bill (passed by the Lok Sabha in August 2025) promotes e-sports and online social games (I) while banning/regulating online real-money gaming - so 'Only I' is correct.
+Why B is wrong: 'Only II' is wrong; the bill does not promote online money-gaming.
+Why C is wrong: 'Both' is wrong since money-gaming is restricted, not promoted.
+Why D is wrong: 'Neither' is wrong since e-sports are promoted.
+Note: The bill seeks to curb the harms of online real-money/betting games while supporting legitimate e-sports.
+
+==============================================================================
+Set 34 | Q.No 29 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: 'मटकी' निम्नलिखित में से किस भारतीय राज्य में किया जाने वाला एक लोकप्रिय लोक नृत्य है?
+   A) आंध्र प्रदेश
+   B) लक्षद्वीप
+   C) पश्चिम बंगाल
+   D) मध्य प्रदेश  <-- CORRECT
+Answer: D
+Why correct: 'Matki' is a popular folk dance of Madhya Pradesh, performed by women balancing pots.
+Why A is wrong: It is not from Andhra Pradesh.
+Why B is wrong: It is not from Lakshadweep.
+Why C is wrong: It is not from West Bengal.
+Note: The Matki dance is performed by the Malwa region women on festive occasions.
+
+==============================================================================
+Set 34 | Q.No 30 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: दिसंबर 2024 में किस गांव को भारत का पहला बॉर्डर सोलर विलेज घोषित किया गया?
+   A) मन (माणा)
+   B) मसाली  <-- CORRECT
+   C) मावल्यान्नॉग
+   D) खोनोमा
+Answer: B
+Why correct: In December 2024, Masali village (in Gujarat's Banaskantha district) was declared India's first border solar village.
+Why A is wrong: Mana (Maana) in Uttarakhand is called India's 'first village', not the first solar border village.
+Why C is wrong: Mawlynnong is known as Asia's cleanest village.
+Why D is wrong: Khonoma is known as India's first green village.
+Note: The solar village uses rooftop solar to meet its electricity needs.
+
+==============================================================================
+Set 34 | Q.No 31 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: तमिलनाडु में 'पोंगल' त्यौहार कितने दिनों तक मनाया जाता है?
+   A) 2 days
+   B) 4 days  <-- CORRECT
+   C) 7 days
+   D) 10 days
+Answer: B
+Why correct: The Pongal festival in Tamil Nadu is celebrated over 4 days (Bhogi, Thai Pongal, Mattu Pongal and Kaanum Pongal).
+Why A is wrong: It is more than 2 days.
+Why C is wrong: It is not a 7-day festival.
+Why D is wrong: It is not 10 days long.
+Note: Pongal is a harvest/thanksgiving festival dedicated to the Sun God.
+
+==============================================================================
+Set 34 | Q.No 32 | Topic: Static GK | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत की जनगणना 207 के अनुसार, का जनसंख्या घनत्व 02 व्यक्ति प्रति वर्ग कि.मी. था।
+   A) Kerala
+   B) Bihar  <-- CORRECT
+   C) Nagaland
+   D) Haryana
+Answer: B
+Why correct: As per the 2011 Census, Bihar had the highest population density among Indian states (about 1,102 persons per sq km).
+Why A is wrong: Kerala's density is lower than Bihar's.
+Why C is wrong: Nagaland has a low population density.
+Why D is wrong: Haryana's density is lower than Bihar's.
+Note: Bihar is among India's most densely populated and populous states.
+
+==============================================================================
+Set 34 | Q.No 33 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: बर्फ का गलनांक ।( होता हैं।
+   A) 373.15 K
+   B) 0 K
+   C) 273.15 K  <-- CORRECT
+   D) 100 K
+Answer: C
+Why correct: The melting point of ice is 273.15 Kelvin (0 degrees Celsius).
+Why A is wrong: 373.15 K is the boiling point of water.
+Why B is wrong: 0 K is absolute zero.
+Why D is wrong: 100 K is far below the melting point.
+Note: To convert Celsius to Kelvin, add 273.15.
+
+==============================================================================
+Set 34 | Q.No 34 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: गोवा निम्नलिखित में से किस खनिज संसाधन के लिए प्रसिद्ध है? [. मैंगनीज अयस्क [. लौह अयस्क
+   A) Only I
+   B) Only II
+   C) Both I and II  <-- CORRECT
+   D) Neither I nor II
+Answer: C
+Why correct: Goa is famous for both manganese ore (I) and iron ore (II), so 'Both I and II' is correct.
+Why A is wrong: 'Only I' omits iron ore.
+Why B is wrong: 'Only II' omits manganese ore.
+Why D is wrong: 'Neither' is wrong since Goa has both.
+Note: Iron-ore mining and export have historically been important to Goa's economy.
+
+==============================================================================
+Set 34 | Q.No 35 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: प्रो कबड्डी लीग कब शुरू की गई थी?
+   A) 2014  <-- CORRECT
+   B) 2017
+   C) 2012
+   D) 2011
+Answer: A
+Why correct: The Pro Kabaddi League was launched in 2014.
+Why B is wrong: 2017 is incorrect.
+Why C is wrong: 2012 is not the launch year.
+Why D is wrong: 2011 is incorrect.
+Note: The Pro Kabaddi League greatly boosted the popularity and professionalism of kabaddi in India.
+
+==============================================================================
+Set 34 | Q.No 36 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: ढाका में दक्षिण एशियाई महासंघ खेलों का मेजबान था।
+   A) 2004
+   B) 2006
+   C) 2010  <-- CORRECT
+   D) 2016
+Answer: C
+Why correct: Dhaka hosted the South Asian (Federation) Games in 2010.
+Why A is wrong: 2004 SAF Games were in Islamabad.
+Why B is wrong: 2006 Games were in Colombo.
+Why D is wrong: 2016 Games were in Guwahati/Shillong, India.
+Note: The South Asian Games are a regional multi-sport event among SAARC nations.
+
+==============================================================================
+Set 34 | Q.No 37 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: यह तस्वीर क्रिकेट के खेल में अंपायर द्वारा दिए गए संकेतों में से एक को दर्शाती है। इसे क्या कहा जाता है? श छल 3 न 5.2
+   A) लेग बाई
+   B) शर्ट रन
+   C) चौका
+   D) डेड बॉल  <-- CORRECT
+Answer: D
+Why correct: The cricket umpire signal shown - crossing and uncrossing the wrists below the waist - indicates a 'Dead Ball'.
+Why A is wrong: A 'leg bye' is signalled by tapping a raised knee.
+Why B is wrong: A 'short run' is signalled by tapping the near shoulder.
+Why C is wrong: A 'four' is signalled by waving the arm across the chest.
+Note: A dead ball means no runs can be scored and the delivery does not count for certain purposes.
+
+==============================================================================
+Set 34 | Q.No 38 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: राष्ट्रीय क्षेत्राधिकार से अलग जैव विविधता समझौता के तहत एक अंतरराष्ट्रीय संधि है।
+   A) यू.एन.सी.एल.ओ.एस.  <-- CORRECT
+   B) डब्ल्यू.टी.ओ.
+   C) डब्ल्यू.ई.ओ.
+   D) यूनेस्को
+Answer: A
+Why correct: The Biodiversity Beyond National Jurisdiction (BBNJ) agreement is an international treaty under the UN Convention on the Law of the Sea (UNCLOS).
+Why B is wrong: The WTO deals with trade, not high-seas biodiversity.
+Why C is wrong: The 'WEO' is not the relevant body.
+Why D is wrong: UNESCO is not the framework for this treaty.
+Note: The BBNJ ('High Seas Treaty') aims to conserve marine biodiversity in areas beyond national jurisdiction.
+
+==============================================================================
+Set 34 | Q.No 39 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: अंतर्रष्ट्रीय आई.पी. सूचकांक 2025 इस सूचकांक का कौन सा संस्करण है?
+   A) 13  <-- CORRECT
+   B) 18
+   C) 21
+   D) 25
+Answer: A
+Why correct: The International IP Index 2025 is the 13th edition of the index.
+Why B is wrong: 18 is not the edition number.
+Why C is wrong: 21 is incorrect.
+Why D is wrong: 25 is incorrect.
+Note: The International IP Index is released by the US Chamber of Commerce, ranking IP protection across economies.
+
+==============================================================================
+Set 34 | Q.No 40 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: विश्व बैंक के लॉजिस्टिक्स प्रदर्शन सूचकांक 2023 के अनुसार, भारत अंतर्राष्ट्रीय शिपमेंट श्रेणी में वैश्विक रैंकिंग में रैंक पर पहुंच गया है।
+   A) 22nd  <-- CORRECT
+   B) 12th
+   C) 44th
+   D) 31st
+Answer: A
+Why correct: Per the World Bank's Logistics Performance Index 2023, India climbed to 22nd in the 'international shipments' category.
+Why B is wrong: 12th is not India's rank in that category.
+Why C is wrong: 44th is incorrect.
+Why D is wrong: 31st is not the rank.
+Note: India's overall LPI 2023 rank improved to 38th, reflecting better logistics infrastructure.
+
+==============================================================================
+Set 35 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में कौन से संवैधानिक संशोधन ने सहकारी समितियों को संवैधानिक दर्जा दिया?
+   A) 73वां संशोधन
+   B) 86वां संशोधन
+   C) 9१वां संशोधन
+   D) 97वां संशोधन  <-- CORRECT
+Answer: D
+Why correct: The 97th Constitutional Amendment (2011) gave constitutional status to cooperative societies, adding the right to form them and Part IX-B.
+Why A is wrong: The 73rd Amendment dealt with Panchayati Raj.
+Why B is wrong: The 86th Amendment made education a fundamental right.
+Why C is wrong: The 91st Amendment limited the size of the Council of Ministers.
+Note: The 97th Amendment added 'cooperative societies' to the right to form associations (Article 19).
+
+==============================================================================
+Set 35 | Q.No 22 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: गिह्दा प्रदर्शन के दौरान प्राय: किस संगीत वाद्यायंत्र का उपयोग किया जाता है?
+   A) तबला
+   B) ढोल  <-- CORRECT
+   C) हारमोनियम
+   D) सारंगी
+Answer: B
+Why correct: The Dhol is the percussion instrument commonly used during a Giddha performance.
+Why A is wrong: The tabla is used in classical/semi-classical music.
+Why C is wrong: The harmonium is not the main Giddha instrument.
+Why D is wrong: The sarangi is a classical bowed instrument.
+Note: Giddha is the women's folk dance of Punjab, danced to boliyan and the beat of the dhol.
+
+==============================================================================
+Set 35 | Q.No 23 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन सा भौगोलिक प्रभाग अपनी समृद्ध जलोढ़ मिट्टी और उच्च जनसंख्या घनत्व के लिए प्रसिद्ध है?
+   A) प्रायद्वीपीय पठार
+   B) उत्तरी मैदान  <-- CORRECT
+   C) तटीय मैदान
+   D) हिमालय
+Answer: B
+Why correct: The Northern Plains are famous for rich alluvial soil and a high population density.
+Why A is wrong: The peninsular plateau has older, less fertile soils.
+Why C is wrong: Coastal plains are fertile but smaller.
+Why D is wrong: The Himalayas have thin mountain soils and low density.
+Note: The fertile, well-watered Northern Plains support dense populations and intensive farming.
+
+==============================================================================
+Set 35 | Q.No 24 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: 897 में कैथोड किरण प्रयोगों के माध्यम से इलेक्ट्रॉन की खोज किसने की थी?
+   A) अर्नेस्ट रदरफोर्ड
+   B) जे.जे. थॉमसन  <-- CORRECT
+   C) नील्स बोहर
+   D) जेम्स चैडविक
+Answer: B
+Why correct: J.J. Thomson discovered the electron in 1897 through his cathode-ray-tube experiments.
+Why A is wrong: Ernest Rutherford discovered the nucleus and proton.
+Why C is wrong: Niels Bohr gave the model of the atom.
+Why D is wrong: James Chadwick discovered the neutron.
+Note: Thomson's discovery showed that atoms contain smaller, negatively charged particles.
+
+==============================================================================
+Set 35 | Q.No 25 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन भारत में इंडो-गोथिक वास्तुकला का एक प्रमुख उदाहरण है?
+   A) छत्रपति शिवाजी महाराज वास्तु संग्रहालय (पूर्व में प्रिंस ऑफ वेल्स संग्रहालय), मुंबई  <-- CORRECT
+   B) ताजमहल, आगरा
+   C) कुतुब मीनार, दिल्‍ली
+   D) लाल किला, दिल्‍ली
+Answer: A
+Why correct: The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (formerly Prince of Wales Museum), Mumbai, is a major example of Indo-Gothic/Indo-Saracenic colonial architecture in India.
+Why B is wrong: The Taj Mahal is Mughal architecture.
+Why C is wrong: The Qutub Minar is Indo-Islamic.
+Why D is wrong: The Red Fort is Mughal architecture.
+Note: Indo-Saracenic style blended Gothic, Indian and Islamic features in colonial-era public buildings.
+
+==============================================================================
+Set 35 | Q.No 26 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: खो-खो में एक डिफेंस पारी के आरंभ में कितने डिफेंडर प्रवेश करते हैं?
+   A) 2
+   B) 3  <-- CORRECT
+   C) 4
+   D) 5
+Answer: B
+Why correct: In kho-kho, 3 defenders enter the field at the start of a defending turn (innings).
+Why A is wrong: 2 is fewer than the number that enter.
+Why C is wrong: 4 is incorrect.
+Why D is wrong: 5 is incorrect.
+Note: Defenders enter in batches of three and try to avoid being tagged by the chasers.
+
+==============================================================================
+Set 35 | Q.No 27 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत में कौन सी फसल भोजन और चारे दोनों के रूप में उपयोग की जाती है?
+   A) जौ (होर्डियम वल्गेरे)
+   B) गन्ना (सैकरम ऑफ़िसिनारम)
+   C) मक्का (ज़िया मेस)  <-- CORRECT
+   D) ज्वार (सोरघम बाइकलर)
+Answer: C
+Why correct: Maize (Zea mays) is a crop used both as food (for humans) and as fodder (for animals).
+Why A is wrong: Barley is mainly a food/feed grain but maize is the classic dual food-and-fodder crop here.
+Why B is wrong: Sugarcane is grown mainly for sugar.
+Why D is wrong: Sorghum (jowar) is used as food/fodder too, but maize is the keyed answer.
+Note: Maize is one of the world's most important cereal crops, also used for starch and biofuel.
+
+==============================================================================
+Set 35 | Q.No 28 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: गुर्जर-प्रतिहार हरिचंद्र को किस क्षेत्र में राजशाही कायम करने के लिए जाना जाता हैं? [. तमिलनाडु . राजस्थान
+   A) Only I (Tamil Nadu)
+   B) Only II (Rajasthan)  <-- CORRECT
+   C) Both I and II
+   D) Neither I nor II
+Answer: B
+Why correct: The Gurjara-Pratihara ruler Harichandra is known for establishing the dynasty's kingship in the Rajasthan region (II), so 'Only II' is correct.
+Why A is wrong: 'Only I' (Tamil Nadu) is wrong; the Pratiharas rose in the north-west.
+Why C is wrong: 'Both' is wrong since Tamil Nadu is not associated with him.
+Why D is wrong: 'Neither' is wrong since Rajasthan is correct.
+Note: The Gurjara-Pratiharas were a major power in northern India and resisted Arab expansion.
+
+==============================================================================
+Set 35 | Q.No 29 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: अप्रैल 2025 में राष्ट्रीय सुरक्षा सलाहकार बोर्ड (एन.एस.ए.बी.) का प्रमुख किसे नियुक्त किया गया है?
+   A) अजीत डोभाल
+   B) आलोक जोशी  <-- CORRECT
+   C) शिवशंकर मेनन
+   D) ब्रजेश मिश्रा
+Answer: B
+Why correct: In April 2025, Alok Joshi was appointed the head of the National Security Advisory Board (NSAB).
+Why A is wrong: Ajit Doval is the National Security Adviser (NSA), a different post.
+Why C is wrong: Shivshankar Menon is a former NSA.
+Why D is wrong: Brajesh Mishra was India's first NSA.
+Note: The NSAB advises the National Security Council on long-term security issues.
+
+==============================================================================
+Set 35 | Q.No 30 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: प्रेम सिंह तमांग (पी.एस. गोले) ने 2024 में किस पूर्वोत्तर राज्य के मुख्यमंत्री के रूप में दूसरे कार्यकाल के लिए शपथ ली?
+   A) सिक्किम  <-- CORRECT
+   B) मिजोरम
+   C) अरुणाचल प्रदेश
+   D) मेघालय
+Answer: A
+Why correct: Prem Singh Tamang (P.S. Golay) took oath for a second term as Chief Minister of Sikkim in 2024.
+Why B is wrong: He is not the CM of Mizoram.
+Why C is wrong: He is not the CM of Arunachal Pradesh.
+Why D is wrong: He is not the CM of Meghalaya.
+Note: His party, the SKM, won a landslide in the 2024 Sikkim Assembly elections.
+
+==============================================================================
+Set 35 | Q.No 31 | Topic: Schemes & Government | Language: English
+------------------------------------------------------------------------------
+Q: भारत में, वन नेशन वन सब्सक्रिप्शन 30 प्रमुख अंतरराष्ट्रीय प्रकाशकों के से अधिक विद्वानों की पत्रिकाओं तक पहुंच प्रदान करता है।
+   A) 13,000  <-- CORRECT
+   B) 24,000
+   C) 21,000
+   D) 30,000
+Answer: A
+Why correct: In India, One Nation One Subscription provides access to more than 13,000 scholarly journals from about 30 major international publishers.
+Why B is wrong: 24,000 overstates the number of journals.
+Why C is wrong: 21,000 is incorrect.
+Why D is wrong: 30,000 refers loosely to scale but the figure is about 13,000 journals.
+Note: ONOS gives government higher-education and research institutions nationwide access to research journals.
+
+==============================================================================
+Set 35 | Q.No 32 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा प्रश्न भारतीय संसद में नहीं पूछा जाता है?
+   A) स्टारड प्रश्न
+   B) अनस्टारड प्रश्न
+   C) अजेंट प्रश्र  <-- CORRECT
+   D) शोर्ट नोटिस
+Answer: C
+Why correct: There is no category called an 'urgent question' in the Indian Parliament, so it is the one not asked.
+Why A is wrong: A starred question seeks an oral answer.
+Why B is wrong: An unstarred question seeks a written answer.
+Why D is wrong: A short-notice question is a recognised category.
+Note: Parliamentary questions are mainly starred, unstarred, short-notice, and questions to private members.
+
+==============================================================================
+Set 35 | Q.No 33 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: भारत ने वर्ष 2024 में अपने प्राणिजात में नई प्रजातियां जोड़ी है।
+   A) 786
+   B) 683  <-- CORRECT
+   C) 888
+   D) 1200
+Answer: B
+Why correct: India added 683 new animal species to its faunal records in 2024.
+Why A is wrong: 786 is not the figure for new fauna species.
+Why C is wrong: 888 is incorrect.
+Why D is wrong: 1200 overstates it.
+Note: The Zoological Survey of India documents the addition of new faunal species each year.
+
+==============================================================================
+Set 35 | Q.No 34 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: गगनयान मिशन मानव अंतरिक्ष उड़ान क्षमता का एक दिवसीय मिशन है, जिसमें चालक दल को कक्षा में प्रक्षेपित करके उन्हें सुरक्षित रूप से पृथ्वी पर वापस लाया जाएगा।
+   A) 3  <-- CORRECT
+   B) 5
+   C) 7
+   D) 9
+Answer: A
+Why correct: The Gaganyaan mission is planned as a 3-day human spaceflight, launching a crew into orbit and bringing them safely back.
+Why B is wrong: 5 days is not the planned duration.
+Why C is wrong: 7 days is incorrect.
+Why D is wrong: 9 days is incorrect.
+Note: Gaganyaan will be India's first crewed orbital spaceflight mission.
+
+==============================================================================
+Set 35 | Q.No 35 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: कॉम्बैट एयर टीमिंग सिस्टम (सी.ए.टी.एस.) वॉरियर, एक उन्नत मानव रहित हवाई यान अवधारणा, मई 2025 में किस संगठन द्वारा विकसित की गई है?
+   A) एच.ए.एल.  <-- CORRECT
+   B) डी.आर.डी.ओ.
+   C) इसरो
+   D) बी.ए.आर.सी.
+Answer: A
+Why correct: The Combat Air Teaming System (CATS) Warrior, an unmanned aerial vehicle concept, has been developed by Hindustan Aeronautics Limited (HAL).
+Why B is wrong: DRDO develops various systems but CATS Warrior is led by HAL.
+Why C is wrong: ISRO is the space agency, not the developer.
+Why D is wrong: BARC works on atomic research.
+Note: The CATS Warrior is a 'loyal wingman' drone designed to operate alongside fighter jets.
+
+==============================================================================
+Set 35 | Q.No 36 | Topic: Sports | Language: Hindi
+------------------------------------------------------------------------------
+Q: 2025 में विश्व पैरा एथलेटिक्स चैंपियनशिप की मेजबानी किस भारतीय शहर नें की थी?
+   A) नई दिल्ली  <-- CORRECT
+   B) चेन्नई
+   C) मुंबई
+   D) हैदराबाद
+Answer: A
+Why correct: New Delhi hosted the World Para Athletics Championships in 2025.
+Why B is wrong: Chennai did not host it.
+Why C is wrong: Mumbai did not host it.
+Why D is wrong: Hyderabad did not host it.
+Note: It was the first time India hosted the World Para Athletics Championships.
+
+==============================================================================
+Set 35 | Q.No 37 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: संयुक्त राष्ट्र के महासचिव की नियुक्ति कितने वर्षों के लिए की जाती है?
+   A) 2
+   B) 3
+   C) 5  <-- CORRECT
+   D) 6
+Answer: C
+Why correct: The UN Secretary-General is appointed for a term of 5 years (renewable).
+Why A is wrong: 2 years is incorrect.
+Why B is wrong: 3 years is incorrect.
+Why D is wrong: 6 years is not the standard term.
+Note: The Secretary-General is appointed by the General Assembly on the Security Council's recommendation.
+
+==============================================================================
+Set 35 | Q.No 38 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: असम में प्रयुक्त सुषिर वाद्य 'काली' किस वाद्य का अधिक विकसित संस्करण माना जाता है?
+   A) झांझ
+   B) शहनाई  <-- CORRECT
+   C) ड्म
+   D) गिटार
+Answer: B
+Why correct: The wind instrument 'Kali', used in Assam, is regarded as a more developed version of the shehnai.
+Why A is wrong: The jhanj is a pair of cymbals, not a wind instrument.
+Why C is wrong: A drum is a percussion instrument.
+Why D is wrong: A guitar is a string instrument.
+Note: Wind instruments of the shehnai family are common in Indian folk and ceremonial music.
+
+==============================================================================
+Set 35 | Q.No 39 | Topic: Schemes & Government | Language: English
+------------------------------------------------------------------------------
+Q: भारत में स्वच्छ सर्वेक्षण सर्वे का डिज़ाइन कितने प्रमुख स्तंभों पर आधारित है?
+   A) 3  <-- CORRECT
+   B) 5
+   C) 6
+   D) 7
+Answer: A
+Why correct: The Swachh Survekshan survey design is based on 3 main pillars (broad components).
+Why B is wrong: 5 is not the number of pillars.
+Why C is wrong: 6 is incorrect.
+Why D is wrong: 7 is incorrect.
+Note: Swachh Survekshan is the annual cleanliness survey of cities under the Swachh Bharat Mission.
+
+==============================================================================
+Set 35 | Q.No 40 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: मार्च 2025 में प्रकाशित एस.आई.पी.आर.आई. (5702) रिपोर्ट के अनुसार 2020-24 में दुनिया का सबसे बड़ा हथियार आयातक देश कौन सा था?
+   A) यूक्रेन  <-- CORRECT
+   B) ब्राज़िल
+   C) जापान
+   D) उत्तर कोरिया
+Answer: A
+Why correct: According to the SIPRI report (March 2025), Ukraine was the world's largest arms importer in 2020-24, driven by the ongoing war.
+Why B is wrong: Brazil was not the largest importer.
+Why C is wrong: Japan was not the largest importer.
+Why D is wrong: North Korea was not the largest importer.
+Note: SIPRI tracks global arms transfers; large imports often reflect active conflicts or modernisation drives.
