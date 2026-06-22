@@ -1,0 +1,602 @@
+[
+ {
+  "set": 27,
+  "qno": 21,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 78.0,
+  "stem": "टिप्पाणी नृत्य किस भारतीय राज्य का पारंपरिक लोक नृत्य है?",
+  "options": [
+   "महाराष्ट्र",
+   "गुजरात",
+   "राजस्थान",
+   "ओडिशा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "गुजरात",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8345
+  ],
+  "option_objs": [
+   842,
+   846,
+   844,
+   8347
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 22,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.1,
+  "stem": "आर्गन का लगभग कितना प्रतिशत वायु में उपस्थित होता है?",
+  "options": [
+   "0.03%",
+   "0.93%",
+   "21%",
+   "78%"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "0.93%",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8375
+  ],
+  "option_objs": [
+   8377,
+   8379,
+   359,
+   8381
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 23,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 86.7,
+  "stem": "अप्रैल 2025 में १००ा0७९€ इंडिया के कंट्री मैनेजिंग डायरेक्टर के रूप में किसे नियुक्त किया गया?",
+  "options": [
+   "ईशान चटर्जी",
+   "गुंजन सोनी",
+   "मानसी सुब्रमण्यम",
+   "नटराजन शंकर"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "गुंजन सोनी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8383
+  ],
+  "option_objs": [
+   8385,
+   8387,
+   8389,
+   8391
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 24,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 76.9,
+  "stem": "2025 में, आजीवन खेल उत्कृष्टता (॥€िघाा6€ 50000 €+06॥8700८6) के लिए पी.सी. चंद्र पुरस्कार किसे प्रदान किया गया?",
+  "options": [
+   "लिएंडर पेस",
+   "कर्नल आर.एस. जामवाल",
+   "मेजर कलिता",
+   "रवि किशन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "लिएंडर पेस",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8393
+  ],
+  "option_objs": [
+   8395,
+   8397,
+   8399,
+   8401
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 25,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 74.0,
+  "stem": "भारत का सबसे लंबा ग्लेशियर कौन-सा है?",
+  "options": [
+   "सियाचिन",
+   "पिंडारी",
+   "गंगोत्री",
+   "ज़ेमू"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "सियाचिन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8403
+  ],
+  "option_objs": [
+   8424,
+   8426,
+   8428,
+   8430
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 26,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 81.0,
+  "stem": "निम्नलिखित में से कौन अकबर का राजस्व मंत्री था जिसे भूमि राजस्व सुधारों का श्रेय दिया जाता है?",
+  "options": [
+   "अबुल फ़ज़ल",
+   "बीरबल",
+   "राजा टोडरमल",
+   "तानसैन"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "राजा टोडरमल",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8432
+  ],
+  "option_objs": [
+   7166,
+   8434,
+   8436,
+   8438
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 27,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 94.0,
+  "stem": "2025 में, कैबिनेट ने भारत की राष्ट्रीय खेल नीति 2025 को स्वीकृति दी।",
+  "options": [
+   "जनवरी",
+   "जुलाई",
+   "अप्रैल",
+   "मई"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "जुलाई",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8440
+  ],
+  "option_objs": [
+   6641,
+   6643,
+   6645,
+   8442
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 28,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 81.0,
+  "stem": "तलाश पहल जुलाई 2025 में शुरू की गई थी। तलाश का पूर्ण रुप है।",
+  "options": [
+   "ट्राइबल एक्सेस, लीडरशिप एंड स्किल हब",
+   "ट्राइबल एप्टीट्यूड, लाइफ स्किल्स एंड सेल्फ एस्टीम हब",
+   "ट्राइबल एडवांसमेंट एंड लर्निंग सपोर्ट हब",
+   "ट्राइबल अवेयरनेस, लर्निंग एंड सोशल एम्पावरमेंट हब"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "ट्राइबल एप्टीट्यूड, लाइफ स्किल्स एंड सेल्फ एस्टीम हब",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8444
+  ],
+  "option_objs": [
+   8446,
+   8467,
+   8469,
+   8471
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 29,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 94.5,
+  "stem": "महेश में रथ यात्रा भारत का दूसरा सबसे पुराना रथ उत्सव है, यह किस राज्य में मनाया जाता है?",
+  "options": [
+   "ओडिशा",
+   "गुजरात",
+   "झारखंड",
+   "पश्चिम बंगाल"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "पश्चिम बंगाल",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8473
+  ],
+  "option_objs": [
+   7834,
+   6655,
+   7808,
+   5483
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 30,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.6,
+  "stem": "सी.ओ.पी.-26 (कॉन्फ्रेंस ऑफ पार्टीज) में किए गए संकल्प के अनुसार, भारत में तक 500 गीगावाट गैर-जीवाश्म ईंधन बिजली क्षमता के लक्ष्य तक पहुंचने के लिए प्रयास किए जा रहे हैं।",
+  "options": [
+   "2027",
+   "2030",
+   "2035",
+   "2040"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "2030",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8475
+  ],
+  "option_objs": [
+   8477,
+   8479,
+   8481,
+   8483
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 31,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 71.0,
+  "stem": "एक प्रकाश वर्ष का माप हैं।",
+  "options": [
+   "समय",
+   "द्री",
+   "चाल",
+   "द्रव्यमान"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "द्री",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8485
+  ],
+  "option_objs": [
+   8487,
+   8489,
+   8510,
+   8512
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.8,
+  "stem": "निम्नलिखित में से किस वर्ष भारत ने अंतरिक्ष युग में प्रवेश किया, जब पहला भारतीय उपग्रह प्रश्नपित किया गया था?",
+  "options": [
+   "1961",
+   "1971",
+   "1975",
+   "1989"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "1975",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8514
+  ],
+  "option_objs": [
+   8516,
+   8518,
+   8520,
+   8522
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 33,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 57.0,
+  "stem": "2024 में पूरी तरह से 30 प्रिंटेड इंजन वाला विश्व का पहला रॉकेट किसने लॉन्च किया था?",
+  "options": [
+   "अग्रिकुल",
+   "स्पेसएक्स",
+   "ब्लू ओरिजिन",
+   "स्काईरूट एयरोस्पेस"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "अग्रिकुल",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8524
+  ],
+  "option_objs": [
+   8526,
+   8528,
+   8530,
+   8532
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 34,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 78.0,
+  "stem": "अगस्त 2025 में स्कूली छात्रों को विज्ञान से जोड़ने के लिए भारतीय चिकित्सा अनुसंधान परिषद द्वारा शुरू की गई पहल का नाम क्या है?",
+  "options": [
+   "आई.सी.एम.आर.-शाइन",
+   "आई.सी.एम.आर.-एजुकेट",
+   "आई.सी.एम.आर.-इंस्पायर",
+   "आई.सी.एम.आर.-डिस्कवर"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "आई.सी.एम.आर.-शाइन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8534
+  ],
+  "option_objs": [
+   8536,
+   8538,
+   8559,
+   8561
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 35,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 94.0,
+  "stem": "निम्नलिखित में से कौन सा देश दक्षिण पूर्व एशियाई राष्ट्र संघ (आसियान) का सदस्य है?",
+  "options": [
+   "ईरान",
+   "फ्रांस",
+   "सिंगापुर",
+   "इराक"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "सिंगापुर",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8563
+  ],
+  "option_objs": [
+   7642,
+   6444,
+   8565,
+   8567
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.7,
+  "stem": "जुलाई 2025 तक, महिला वर्ग में मीटर का राष्ट्रीय रिकॉर्ड दुती चंद का है।",
+  "options": [
+   "100",
+   "200",
+   "400",
+   "800"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "100",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8569
+  ],
+  "option_objs": [
+   8571,
+   8573,
+   8575,
+   8577
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 88.7,
+  "stem": "जूडो की अंतर्राष्ट्रीय प्रतियोगिता के दौरान, प्रत्येक मैच ____ मिनट तक चलता है।",
+  "options": [
+   "2",
+   "4",
+   "8",
+   "10"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "4",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8579
+  ],
+  "option_objs": [
+   8581,
+   7257,
+   8583,
+   6080
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 38,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 89.6,
+  "stem": "विद्युत घंटी में सक्रिय होने के बाद विद्युत चुंबक क्या करता है?",
+  "options": [
+   "लोहे की पट्टी को अपनी ओर खींचता है",
+   "संपर्क पेंच खींचता हैं",
+   "घंटी बंद कर देता है",
+   "कुंडली पिघलाता है"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "लोहे की पट्टी को अपनी ओर खींचता है",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8603
+  ],
+  "option_objs": [
+   8605,
+   8607,
+   8609,
+   8611
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 39,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 80.0,
+  "stem": "निम्नलिखित में से कौन सा तार वाला पारंपरिक वाद्य यंत्र उत्तर भारत के विभिन्न भागों में पाया जाता हैं जो वादक को मूल शश्रुति' या 'स्वर' प्रदान करता है?",
+  "options": [
+   "तानपुरा",
+   "खरताल",
+   "5",
+   "पखावज"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "तानपुरा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8613
+  ],
+  "option_objs": [
+   8615,
+   8617,
+   8619,
+   8621
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 27,
+  "qno": 40,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "निम्नलिखित में से कौन-सा नाभिक सामान्यतः: नाभिकीय संलयन अभिक्रियाओं में उपयोग किया जाता हैं?",
+  "options": [
+   "यूरेनियम और थोरियम",
+   "कार्बन और नाइट्रोजन",
+   "हाइड्रोजन और उसके समस्थानिक",
+   "ऑक्सीजन और हीलियम"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "हाइड्रोजन और उसके समस्थानिक",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8623
+  ],
+  "option_objs": [
+   8625,
+   8627,
+   8629,
+   8631
+  ],
+  "diagram_objs": []
+ }
+]

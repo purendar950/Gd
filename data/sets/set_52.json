@@ -1,0 +1,602 @@
+[
+ {
+  "set": 52,
+  "qno": 21,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.0,
+  "stem": "Which sector was given top priority in India’s Second Five-Year Plan?",
+  "options": [
+   "Agriculture",
+   "Heavy industry",
+   "Services",
+   "Small-scale enterprises"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Heavy industry",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6550
+  ],
+  "option_objs": [
+   6552,
+   6554,
+   6556,
+   6558
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 22,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 89.9,
+  "stem": "The concept of five year plans of India was borrowed from :",
+  "options": [
+   "United Kingdome",
+   "United states of America",
+   "France",
+   "Former Soviet Union"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Former Soviet Union",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6585
+  ],
+  "option_objs": [
+   6587,
+   6589,
+   6591,
+   6593
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 23,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.0,
+  "stem": "Which type of cultivation did the Gonds practice primarily?",
+  "options": [
+   "Terrace cultivation",
+   "Permanent farming",
+   "Shifting cultivation",
+   "Irrigation-based farming"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Shifting cultivation",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6595
+  ],
+  "option_objs": [
+   6597,
+   6599,
+   6601,
+   6603
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 24,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 92.4,
+  "stem": "Article 53 of the Indian constitution is related with .",
+  "options": [
+   "Term of office of President",
+   "Executive power of the Union",
+   "Qualifications for election as President",
+   "Election of President"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Executive power of the Union",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6605
+  ],
+  "option_objs": [
+   6607,
+   6609,
+   6611,
+   6613
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 25,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.1,
+  "stem": "In 2025 India marked 10 years of the AMRUT initiative. Which is the nodal ministry for the AMRUT initiative?",
+  "options": [
+   "Ministry of Housing and Urban Affairs",
+   "Ministry of Urban Development",
+   "Ministry of Finance",
+   "Ministry of Jal Shakti"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Ministry of Housing and Urban Affairs",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6631
+  ],
+  "option_objs": [
+   6633,
+   6635,
+   6637,
+   6639
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 26,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 74.0,
+  "stem": "Which of the following statement regarding the Indian constitution is correct? I. Article 27 is related with Freedom as to payment of taxes for promotion of any particular religion. II. Article 28 is related with Prohibition of traffic in human beings and forced labour.",
+  "options": [
+   "Only I",
+   "Only II",
+   "Both I and II",
+   "Neither I Nor II"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Only I",
+  "highlight_tag": "G",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   6643,
+   6645,
+   6647,
+   6649
+  ],
+  "diagram_objs": [
+   6641
+  ]
+ },
+ {
+  "set": 52,
+  "qno": 27,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "Which of the following is INCORRECT about peninsular plateau of India?",
+  "options": [
+   "It lies in the south of northern plains.",
+   "It is triangular in shape.",
+   "The relief is highly even.",
+   "Aravali hills, one of the oldest ranges of the world, border it on the north-west side."
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "The relief is highly even.",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6651
+  ],
+  "option_objs": [
+   6653,
+   6655,
+   6657,
+   6659
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 28,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 73.5,
+  "stem": "Which of the following is a social development scheme in India? 1. PM-AJAY Il. SMILE scheme",
+  "options": [
+   "Only |",
+   "Only II",
+   "Both | and Il",
+   "Neither | nor Il"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Both | and Il",
+  "highlight_tag": "G",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   6679,
+   6681,
+   6683,
+   6685
+  ],
+  "diagram_objs": [
+   6677
+  ]
+ },
+ {
+  "set": 52,
+  "qno": 29,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.4,
+  "stem": "Article 256 of the Indian Constitution is related with which of the following?",
+  "options": [
+   "Power of the Union to confer powers, etc., on States in certain cases",
+   "Obligation of States and the Union",
+   "Jurisdiction of the Union in relation to territories outside India",
+   "Power of the States to entrust functions to the Union"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Obligation of States and the Union",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6687
+  ],
+  "option_objs": [
+   6689,
+   6691,
+   6693,
+   6695
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 30,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 92.8,
+  "stem": "‘Nongkrem’ dance is related to which of the following Indian state/Union Territory?",
+  "options": [
+   "Gujarat",
+   "Meghalaya",
+   "West Bengal",
+   "Ladakh"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Meghalaya",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6697
+  ],
+  "option_objs": [
+   6699,
+   6701,
+   6703,
+   6705
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 31,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 90.8,
+  "stem": "Which of the following Indian state/Union Territory practices the folk dance form 'Ranmale'?",
+  "options": [
+   "Goa",
+   "Telangana",
+   "Manipur",
+   "Jammu and Kashmir"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Goa",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6726
+  ],
+  "option_objs": [
+   6728,
+   6730,
+   6732,
+   6734
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 32,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "In 2025, species, Zographetus mathewi, has been discovered in Western ghats.",
+  "options": [
+   "butterfly",
+   "cat",
+   "bat",
+   "ant"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "butterfly",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6736
+  ],
+  "option_objs": [
+   6738,
+   6740,
+   6742,
+   6744
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 33,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 88.0,
+  "stem": "The Thumba Equatorial Rocket Launching Station is in :",
+  "options": [
+   "Karnataka",
+   "Gujarat",
+   "Kerala",
+   "Maharashtra"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Kerala",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6746
+  ],
+  "option_objs": [
+   6748,
+   6750,
+   6752,
+   6754
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 34,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.6,
+  "stem": "Which of the following statement is NOT correct?",
+  "options": [
+   "Sliding friction is smaller than static friction.",
+   "Friction depends on how hard the two surfaces press together.",
+   "Friction is important for many of our activities.",
+   "Friction can be decreased by making the surface rough."
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Friction can be decreased by making the surface rough.",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6775
+  ],
+  "option_objs": [
+   6777,
+   6779,
+   6781,
+   6783
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 35,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 87.0,
+  "stem": "The verses of Saint Kabir are mainly found in which famous collection?",
+  "options": [
+   "Bijak",
+   "Padavali",
+   "Gitagovinda",
+   "Prabandha Chintamani"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Bijak",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6785
+  ],
+  "option_objs": [
+   6787,
+   6789,
+   6791,
+   6793
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 36,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.6,
+  "stem": "In a candle middle zone of partial combustion is of which colour?",
+  "options": [
+   "Red",
+   "Yellow",
+   "Green",
+   "Brown"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Yellow",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6795
+  ],
+  "option_objs": [
+   6797,
+   6799,
+   6801,
+   6803
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 37,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "Which BARC developed reactor achieved first criticality with LEU fuel?",
+  "options": [
+   "PURNE",
+   "APSARA-U",
+   "DHRUVA",
+   "KAMINI"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "APSARA-U",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6824
+  ],
+  "option_objs": [
+   6826,
+   6828,
+   6830,
+   6832
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 38,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 41.0,
+  "stem": "At the Olympic Games, the matches in a team event in table tennis is a best of affair.",
+  "options": [
+   "9",
+   "3",
+   "5",
+   "7"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "5",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6834
+  ],
+  "option_objs": [
+   1620,
+   1614,
+   1616,
+   1618
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "In hockey, the distance between the inner edges of the goalposts is metres.",
+  "options": [
+   "3.66",
+   "2.44",
+   "1.12",
+   "2.98"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "3.66",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6836
+  ],
+  "option_objs": [
+   6838,
+   6840,
+   6842,
+   6844
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 52,
+  "qno": 40,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "What was India’s overall rank by total medal count at the 2018 Commonwealth Games?",
+  "options": [
+   "5th",
+   "2nd",
+   "3rd",
+   "4th"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "3rd",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6857
+  ],
+  "option_objs": [
+   6859,
+   6861,
+   6863,
+   6865
+  ],
+  "diagram_objs": []
+ }
+]

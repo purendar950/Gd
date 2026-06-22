@@ -1,0 +1,602 @@
+[
+ {
+  "set": 54,
+  "qno": 21,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.3,
+  "stem": "Who decides the number of judges in a high court?",
+  "options": [
+   "President of India",
+   "Parliament",
+   "Chief Justice of India",
+   "Governor of the State"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "President of India",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7182
+  ],
+  "option_objs": [
+   7184,
+   7186,
+   7188,
+   7190
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 22,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 76.7,
+  "stem": "Which commission recommended the creation of new states on a linguistic basis?",
+  "options": [
+   "Rajamannar Commission",
+   "Fazi Ali Commission",
+   "Punchhi Commission",
+   "Sarkaria Commission"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Fazi Ali Commission",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7217
+  ],
+  "option_objs": [
+   7219,
+   7221,
+   7223,
+   7225
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 23,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 92.0,
+  "stem": "In which region did Bhangra originate?",
+  "options": [
+   "Rajasthan",
+   "Gujarat",
+   "Punjab",
+   "Maharashtra"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Punjab",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7227
+  ],
+  "option_objs": [
+   7229,
+   6699,
+   7231,
+   7233
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 24,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.6,
+  "stem": "Why do action and reaction forces, though equal in magnitude, not always produce equal accelerations?",
+  "options": [
+   "The forces act on the same object",
+   "The forces are in the same direction",
+   "The objects have different masses",
+   "One force is stronger than the other"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "The objects have different masses",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7235
+  ],
+  "option_objs": [
+   7237,
+   7239,
+   7241,
+   7243
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 25,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "Who is the author of Maila Aanchal?",
+  "options": [
+   "Yashpal",
+   "Phanishwar Nath Renu",
+   "Bhisham Sahni",
+   "Munshi Premchand"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Phanishwar Nath Renu",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7245
+  ],
+  "option_objs": [
+   7247,
+   7268,
+   7270,
+   7272
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 26,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.9,
+  "stem": "In which year did Pullela Gopichand win the All-England Open Badminton Championships?",
+  "options": [
+   "1999",
+   "2000",
+   "2001",
+   "2003"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "2001",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7274
+  ],
+  "option_objs": [
+   7276,
+   7278,
+   1817,
+   7280
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 27,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.5,
+  "stem": "Which statement best captures the industrial performance of India during the Third Five-Year Plan (1961-66)?",
+  "options": [
+   "The plan failed due to wars and droughts, leading to import dependence",
+   "Industry grew as expected, while agriculture stagnated",
+   "Industrial output doubled despite fiscal imbalances",
+   "The Plan marked the beginning of privatization and liberalization"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "The plan failed due to wars and droughts, leading to import dependence",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7282
+  ],
+  "option_objs": [
+   7284,
+   7286,
+   7288,
+   7290
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 28,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "The spinal cord is protected by:",
+  "options": [
+   "Ribs",
+   "Vertebral column",
+   "Cerebellum",
+   "Pons"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Vertebral column",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7292
+  ],
+  "option_objs": [
+   7294,
+   7296,
+   7298,
+   7319
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 29,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 88.5,
+  "stem": "The Fifth Five-Year Plan (1974-1979) focused on:",
+  "options": [
+   "Trade liberalization",
+   "Export-oriented growth",
+   "Poverty alleviation and employment generation",
+   "Industrialization only"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Poverty alleviation and employment generation",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7321
+  ],
+  "option_objs": [
+   7323,
+   7325,
+   7327,
+   7329
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 30,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.4,
+  "stem": "In boxing, how many judges score an Olympic-style bout?",
+  "options": [
+   "3",
+   "5",
+   "4",
+   "2"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "5",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7331
+  ],
+  "option_objs": [
+   1510,
+   1514,
+   1512,
+   1508
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 31,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 91.7,
+  "stem": "Which initiative promotes the rational use of groundwater through community participation?",
+  "options": [
+   "Pradhan Mantri Kisan Samman Nidhi",
+   "Jal Jeevan Mission",
+   "Atal Bhujal Yojana",
+   "Atal Pension Yojana"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Atal Bhujal Yojana",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7333
+  ],
+  "option_objs": [
+   7335,
+   7337,
+   7339,
+   7341
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 32,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 65.0,
+  "stem": "Which mineral is commonly referred to as the “key metal of industrial development” ?",
+  "options": [
+   "Copper",
+   "Iron",
+   "Aluminum",
+   "Manganese"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Iron",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7362
+  ],
+  "option_objs": [
+   7364,
+   7366,
+   7368,
+   7370
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 33,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.4,
+  "stem": "What is the full form of NAMASTE scheme?",
+  "options": [
+   "National Action for Mechanized Sanitation Ecosystem",
+   "New Authority for Mechanized Service Ecosystem",
+   "New Action for Mechanized Sanitation Ecosystem",
+   "National Authority for Mechanized Service Ecosystem"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "National Action for Mechanized Sanitation Ecosystem",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7372
+  ],
+  "option_objs": [
+   7374,
+   7376,
+   7378,
+   7380
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 34,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 42.0,
+  "stem": "Under the AB PM-JAY expansion, senior citizens within families already covered by AB PM-JAY will receive an additional top-up cover of up to Rs lakh per year.",
+  "options": [
+   "25",
+   "5",
+   "TS",
+   "10"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "5",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7382
+  ],
+  "option_objs": [
+   7384,
+   1514,
+   7386,
+   3047
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 35,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 91.4,
+  "stem": "Rudrasena || was a ruler belonging to which dynasty?",
+  "options": [
+   "Nanda dynasty",
+   "Maurya dynasty",
+   "Vakataka dynasty",
+   "Gurjar-Pratihar dynasty"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Vakataka dynasty",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7408
+  ],
+  "option_objs": [
+   7410,
+   7412,
+   7414,
+   7416
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 36,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "In the context of Indian satellite launch vehicle, how many stages did the ASLV have?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "5",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7418
+  ],
+  "option_objs": [
+   2005,
+   1614,
+   359,
+   1616
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 37,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 89.0,
+  "stem": "Who became the first Indian Governor-General of independent India?",
+  "options": [
+   "C. Rajagopalachari",
+   "Vallabh Bhai Patel",
+   "Rajendra Prasad",
+   "Jawaharlal Nehru"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "C. Rajagopalachari",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7420
+  ],
+  "option_objs": [
+   7422,
+   7424,
+   7426,
+   7428
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 38,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 96.0,
+  "stem": "As per report of Technical Group on Population Projections constituted by the National Commission on Population, the proportion of population of the older ages (60 years and above) is projected to increase to crores in 2036.",
+  "options": [
+   "15",
+   "23",
+   "31",
+   "35"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "23",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7430
+  ],
+  "option_objs": [
+   7070,
+   7446,
+   7448,
+   7076
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 41.0,
+  "stem": "There are 28 hurdle jumps and water jumps in 3000 metres steeplechase event.",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "7",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7450
+  ],
+  "option_objs": [
+   359,
+   1616,
+   361,
+   1618
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 54,
+  "qno": 40,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "Which of the following countries is NOT in the top 5 of the Global Firepower Index 2025?",
+  "options": [
+   "India",
+   "China",
+   "South Korea",
+   "Japan"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Japan",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7452
+  ],
+  "option_objs": [
+   7454,
+   7456,
+   7458,
+   7460
+  ],
+  "diagram_objs": []
+ }
+]

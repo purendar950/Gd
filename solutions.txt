@@ -1,0 +1,1499 @@
+==============================================================================
+Set 1 | Q.No 21 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: Which body recommends the distribution of taxes between Center and States?
+   A) Planning Commission
+   B) Finance Commission  <-- CORRECT
+   C) Parliament
+   D) NITI Aayog
+Answer: B
+Why correct: The Finance Commission, a constitutional body under Article 280, is constituted every five years by the President to recommend how the net proceeds of taxes should be divided (vertical devolution) between the Union and the States, and how funds should be distributed among the States (horizontal devolution).
+Why A is wrong: The Planning Commission (1950-2014) prepared Five-Year Plans and allocated plan assistance, but it had no role in dividing tax revenue and is now defunct.
+Why C is wrong: Parliament enacts tax laws and passes the Budget, but it does not recommend the formula for sharing tax proceeds with the States.
+Why D is wrong: NITI Aayog is only an advisory think-tank that replaced the Planning Commission; it has no constitutional power over tax devolution.
+Note: The 15th Finance Commission (chaired by N.K. Singh) recommended a 41% share of the divisible pool for the States.
+
+==============================================================================
+Set 1 | Q.No 22 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: Who appoints the chairman and members of the Finance Commission?
+   A) Parliament
+   B) Union Cabinet
+   C) President  <-- CORRECT
+   D) Prime Minister
+Answer: C
+Why correct: Under Article 280, the President of India constitutes the Finance Commission and appoints its Chairman and the other members, along with deciding their qualifications and manner of selection.
+Why A is wrong: Parliament only enacts the law laying down qualifications of members; it does not appoint them.
+Why B is wrong: The Union Cabinet may advise the President, but the formal appointing authority is the President.
+Why D is wrong: The Prime Minister heads the Council of Ministers but does not appoint the Finance Commission.
+Note: A Finance Commission has a Chairman and four other members.
+
+==============================================================================
+Set 1 | Q.No 23 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: During which festival is Gaur dance predominantly performed?
+   A) Diwali
+   B) Holi  <-- CORRECT
+   C) Navratri
+   D) Baisakhi
+Answer: B
+Why correct: The Gaur (bison-horn) dance is a tribal dance of the Maria Gonds of the Bastar region (Chhattisgarh/Madhya Pradesh) and is performed prominently during festive/spring celebrations associated with Holi.
+Why A is wrong: Diwali is the festival of lights celebrated with lamps and fireworks, not specifically with the Gaur dance.
+Why C is wrong: Navratri is associated with Garba and Dandiya of Gujarat, not the Gaur dance.
+Why D is wrong: Baisakhi is a Punjabi harvest festival celebrated with the Bhangra and Gidda dances.
+Note: Dancers wear headdresses made of bison (gaur) horns, which gives the dance its name.
+
+==============================================================================
+Set 1 | Q.No 24 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: Which Sikh scripture is recited during Hola Mohalla?
+   A) Guru Granth Sahib  <-- CORRECT
+   B) Bhagavad Gita
+   C) Quran
+   D) Bible
+Answer: A
+Why correct: Hola Mohalla is a Sikh festival started by Guru Gobind Singh; the Guru Granth Sahib, the holy scripture of the Sikhs, is recited during its religious observances.
+Why B is wrong: The Bhagavad Gita is a Hindu scripture, part of the Mahabharata, not recited at Hola Mohalla.
+Why C is wrong: The Quran is the holy book of Islam.
+Why D is wrong: The Bible is the holy book of Christianity.
+Note: Hola Mohalla is celebrated at Anandpur Sahib a day after Holi and features mock battles and martial-arts (Gatka) displays by the Nihangs.
+
+==============================================================================
+Set 1 | Q.No 25 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: When is acceleration considered positive?
+   A) When it is opposite to velocity
+   B) When velocity is decreasing
+   C) When it is in the direction of velocity  <-- CORRECT
+   D) When the object is at rest
+Answer: C
+Why correct: Acceleration is taken as positive when it acts in the same direction as the velocity, because the body then speeds up in its direction of motion.
+Why A is wrong: When acceleration is opposite to velocity it is negative acceleration (retardation/deceleration).
+Why B is wrong: Decreasing velocity means the acceleration opposes motion, i.e. it is negative.
+Why D is wrong: An object at rest with no change in velocity has zero acceleration.
+Note: Acceleration is a vector quantity, so its sign depends on the chosen positive direction relative to the velocity.
+
+==============================================================================
+Set 1 | Q.No 26 | Topic: Books & Authors | Language: English
+------------------------------------------------------------------------------
+Q: Frankenstein is written by :
+   A) Mary Shelley  <-- CORRECT
+   B) Bram Stoker
+   C) H.G. Wells
+   D) Robert Louis Stevenson
+Answer: A
+Why correct: Frankenstein; or, The Modern Prometheus (1818) was written by the English author Mary Shelley.
+Why B is wrong: Bram Stoker wrote Dracula (1897).
+Why C is wrong: H.G. Wells wrote science-fiction classics such as The Time Machine and The War of the Worlds.
+Why D is wrong: Robert Louis Stevenson wrote Treasure Island and Strange Case of Dr Jekyll and Mr Hyde.
+Note: Mary Shelley wrote Frankenstein at the age of 18-19; it is often considered the first true science-fiction novel.
+
+==============================================================================
+Set 1 | Q.No 27 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: The Ease of Doing Business (EODB) indicator “Enforcing Contracts” measures:
+   A) implementation of labor regulations
+   B) Ease of paying and managing taxes
+   C) Efficiency of the judicial system in resolving commercial disputes  <-- CORRECT
+   D) Effectiveness of law enforcement agencies
+Answer: C
+Why correct: In the World Bank's Ease of Doing Business framework, the 'Enforcing Contracts' indicator measures the time, cost and procedural quality of the judicial system in resolving a standardised commercial dispute.
+Why A is wrong: Labour-regulation implementation is captured by separate labour-market indicators, not Enforcing Contracts.
+Why B is wrong: Ease of paying and managing taxes is measured by the 'Paying Taxes' indicator.
+Why D is wrong: Effectiveness of law-enforcement (police) agencies is a governance/security measure, not part of this EODB indicator.
+Note: The World Bank discontinued the Doing Business report in 2021 and is replacing it with the Business Ready (B-READY) project.
+
+==============================================================================
+Set 1 | Q.No 28 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: In which city and year were the first World Athletics Championships held?
+   A) Helsinki, 1983  <-- CORRECT
+   B) Tokyo, 1991
+   C) Rome, 1987
+   D) Berlin, 1993
+Answer: A
+Why correct: The first World Athletics Championships were held in Helsinki, Finland, in 1983.
+Why B is wrong: Tokyo hosted the 1991 edition (and again in 2007).
+Why C is wrong: Rome hosted the 1987 World Championships.
+Why D is wrong: The 1993 Championships were held in Stuttgart, not Berlin (Berlin hosted in 2009).
+Note: Helsinki's Olympic Stadium, which hosted the 1952 Olympics, was the venue for the inaugural 1983 Championships.
+
+==============================================================================
+Set 1 | Q.No 29 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: if a spacecraft travels at 30 km/s, how long will it take to cover 1 AU (150 million km)?
+   A) 15 days
+   B) 58 days  <-- CORRECT
+   C) 100 days
+   D) 365 days
+Answer: B
+Why correct: Time = distance / speed = 150,000,000 km / 30 km/s = 5,000,000 seconds, which is about 57.9 days, i.e. roughly 58 days.
+Why A is wrong: 15 days would require a speed of about 116 km/s.
+Why C is wrong: 100 days corresponds to roughly 17 km/s.
+Why D is wrong: 365 days (one year) corresponds to a speed of under 5 km/s.
+Note: 1 AU is the average Earth-Sun distance; light covers it in about 8 minutes 20 seconds.
+
+==============================================================================
+Set 1 | Q.No 30 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: in which year did India take over the BRICS Chairship from Russia?
+   A) 2020
+   B) 2021  <-- CORRECT
+   C) 2022
+   D) 2023
+Answer: B
+Why correct: India assumed the BRICS Chairship in 2021, hosting the 13th BRICS Summit virtually that year.
+Why A is wrong: In 2020 Russia held the BRICS Chair.
+Why C is wrong: China chaired BRICS in 2022.
+Why D is wrong: South Africa chaired BRICS in 2023.
+Note: BRICS originally stood for Brazil, Russia, India, China and South Africa; it expanded with new members from 2024.
+
+==============================================================================
+Set 1 | Q.No 31 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: What was the main drawback of small-scale industry reservation policies?
+   A) They encouraged monopoly power
+   B) They eliminated export opportunities
+   C) They excluded rural entrepreneurs
+   D) They restricted economies of scale and technological upgrading  <-- CORRECT
+Answer: D
+Why correct: Reserving products exclusively for small-scale industries kept firms artificially small, which restricted economies of scale and discouraged investment in modern technology, hurting productivity and competitiveness.
+Why A is wrong: The policy was meant to prevent monopoly by protecting small firms, not to encourage monopoly power.
+Why B is wrong: It did not specifically eliminate export opportunities; the core problem was scale and technology.
+Why C is wrong: Reservation did not exclude rural entrepreneurs; in fact small units were widely spread.
+Note: India progressively 'de-reserved' SSI products after 1997, and the reservation list was abolished entirely by 2015.
+
+==============================================================================
+Set 1 | Q.No 32 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: Which was the model for the First Five-Year Plan (1951-1956)?
+   A) Solow model
+   B) Harrod-Domar model  <-- CORRECT
+   C) Keynesian model
+   D) Mahalanobis model
+Answer: B
+Why correct: India's First Five-Year Plan (1951-56) was based on the Harrod-Domar model, which links growth to the rate of saving and investment and the capital-output ratio.
+Why A is wrong: The Solow growth model came later and was not the basis of the First Plan.
+Why C is wrong: The Keynesian model focuses on demand management, not the planning framework used here.
+Why D is wrong: The Mahalanobis model was the basis of the Second Five-Year Plan (1956-61), not the First.
+Note: The First Plan prioritised agriculture and irrigation following the disruptions of Partition.
+
+==============================================================================
+Set 1 | Q.No 33 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: What is the length of a standard field hockey pitch?
+   A) 80 m
+   B) 91.4 m  <-- CORRECT
+   C) 100 m
+   D) 105m
+Answer: B
+Why correct: A standard field-hockey pitch is 91.4 metres long (100 yards) and 55 metres wide.
+Why A is wrong: 80 m is shorter than the regulation length.
+Why C is wrong: 100 m is the length of a standard football pitch's playing area, not a hockey pitch.
+Why D is wrong: 105 m is the typical length of a full-size football (soccer) field.
+Note: The dimensions come from the old imperial measure of 100 yards by 60 yards.
+
+==============================================================================
+Set 1 | Q.No 34 | Topic: Schemes & Government | Language: English
+------------------------------------------------------------------------------
+Q: What is the goal of the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) scheme launched in 2015?
+   A) Promote digital services
+   B) Expand rural employment
+   C) Enhance agricultural marketing
+   D) Urban infrastructure and water supply  <-- CORRECT
+Answer: D
+Why correct: AMRUT, launched in 2015, aims to provide basic urban infrastructure - especially assured water supply, sewerage, drainage and green spaces - in selected cities and towns.
+Why A is wrong: Promoting digital services is the focus of Digital India, not AMRUT.
+Why B is wrong: Expanding rural employment is the goal of MGNREGA.
+Why C is wrong: Agricultural marketing is addressed by schemes like e-NAM, not AMRUT.
+Note: AMRUT 2.0 was launched in 2021 with the goal of universal water-supply coverage in all statutory towns.
+
+==============================================================================
+Set 1 | Q.No 35 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: Which financial institution plays the lead role in supporting India’s export and import activities?
+   A) NABARD
+   B) EXIM Bank  <-- CORRECT
+   C) World Bank
+   D) SIDBI
+Answer: B
+Why correct: The Export-Import (EXIM) Bank of India is the apex financial institution set up in 1982 specifically to finance and promote India's foreign trade.
+Why A is wrong: NABARD is the apex bank for agriculture and rural development.
+Why C is wrong: The World Bank is an international multilateral lender, not India's export-import bank.
+Why D is wrong: SIDBI is the principal institution for financing small and medium enterprises.
+Note: EXIM Bank also extends Lines of Credit on behalf of the Government of India to other developing countries.
+
+==============================================================================
+Set 1 | Q.No 36 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: Who mentioned the role of the Banjaras in transporting grain in his memoirs?
+   A) Babur
+   B) Humayun
+   C) Sher Shah Suri
+   D) Jahangir  <-- CORRECT
+Answer: D
+Why correct: Emperor Jahangir, in his memoirs (the Tuzuk-i-Jahangiri / Jahangirnama), described the Banjaras as itinerant traders who transported grain on bullocks across the country.
+Why A is wrong: Babur's memoirs (Baburnama) focus on his conquests and observations of India, not the Banjaras' grain trade.
+Why B is wrong: Humayun did not leave such memoirs; his life was recorded by others (e.g. the Humayun-nama by Gulbadan Begum).
+Why C is wrong: Sher Shah Suri is known for administrative reforms and the Grand Trunk Road, not for memoirs on the Banjaras.
+Note: The Banjaras were a mobile trading community who moved goods in large caravans called 'tandas'.
+
+==============================================================================
+Set 1 | Q.No 37 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: What term was used to describe the student stage of life in early Hindu philosophy?
+   A) Vanaprastha
+   B) Brahmachari  <-- CORRECT
+   C) Sannyasin
+   D) Grihastha
+Answer: B
+Why correct: In the ancient Hindu ashrama system, 'Brahmacharya' was the first stage of life - the celibate student stage devoted to learning under a guru. A student was called a Brahmachari.
+Why A is wrong: Vanaprastha is the third stage - gradual retirement and withdrawal from worldly life.
+Why C is wrong: Sannyasin refers to the fourth stage - renunciation of all worldly attachments.
+Why D is wrong: Grihastha is the second stage - the householder/family life.
+Note: The four ashramas are Brahmacharya, Grihastha, Vanaprastha and Sannyasa.
+
+==============================================================================
+Set 1 | Q.No 38 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: As per a report by Prime Minister’s Economic Advisory Panel EAC-PM, the number of domestic migrants have lowered by nearly between 2011 and 2023.
+   A) 12%  <-- CORRECT
+   B) 9%
+   C) 15%
+   D) 21%
+Answer: A
+Why correct: According to the EAC-PM (Economic Advisory Council to the Prime Minister) analysis, domestic migration fell by nearly 12% between 2011 and 2023, indicating greater local economic opportunity.
+Why B is wrong: 9% understates the decline reported.
+Why C is wrong: 15% is higher than the figure cited in the report.
+Why D is wrong: 21% overstates the reported fall in migration.
+Note: The EAC-PM is a non-constitutional advisory body that gives the Prime Minister independent economic advice.
+
+==============================================================================
+Set 1 | Q.No 39 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: The PCPNDT Act was enacted by the Government of India in for prohibition of sex selection.
+   A) 1991
+   B) 1994  <-- CORRECT
+   C) 2011
+   D) 2015
+Answer: B
+Why correct: The Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act was enacted in 1994 to prohibit sex selection and the misuse of diagnostic techniques for determining the sex of a foetus.
+Why A is wrong: 1991 is incorrect; the Act came three years later.
+Why C is wrong: 2011 was the year of a Census that highlighted the skewed child sex ratio, not the year of the Act.
+Why D is wrong: 2015 is much later; major amendments to the Act were made in 2003, not 2015.
+Note: The Act was significantly amended in 2003 to also regulate pre-conception sex-selection techniques.
+
+==============================================================================
+Set 1 | Q.No 40 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: To whom did the rebel soldiers of the Meerut Regiment want to hand over the rule of the country?
+   A) Bahadur Shah Zafar  <-- CORRECT
+   B) Peshwa Baji Rao Il
+   C) Nana Saheb
+   D) Rani Lakshmibai
+Answer: A
+Why correct: The rebel sepoys of the Meerut regiment marched to Delhi in May 1857 and proclaimed the aged Mughal emperor Bahadur Shah Zafar II as the symbolic ruler of Hindustan.
+Why B is wrong: Peshwa Baji Rao II had died in 1851; it was his adopted heir Nana Saheb who led the revolt at Kanpur.
+Why C is wrong: Nana Saheb led the rebellion in Kanpur, but the Meerut sepoys went to Delhi to the Mughal emperor.
+Why D is wrong: Rani Lakshmibai led the revolt at Jhansi, not the figure the Meerut soldiers turned to.
+Note: After the revolt was crushed, Bahadur Shah Zafar was exiled to Rangoon, where he died in 1862.
+
+==============================================================================
+Set 2 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: केंद्रीय मंत्रिपरिषद में मंत्रियों की अधिकतम संख्या निम्नलिखित तक सीमित है:
+   A) 10% of the Lok Sabha
+   B) 12% of the Lok Sabha
+   C) 15% of the Lok Sabha  <-- CORRECT
+   D) 20% of the Lok Sabha
+Answer: C
+Why correct: The 91st Constitutional Amendment (2003) inserted Article 75(1A), capping the total number of ministers in the Union Council of Ministers, including the Prime Minister, at 15% of the total strength of the Lok Sabha.
+Why A is wrong: 10% is below the constitutional ceiling.
+Why B is wrong: 12% is not the figure fixed by the 91st Amendment.
+Why D is wrong: 20% exceeds the limit; the cap is 15%.
+Note: The same 91st Amendment also set a minimum of 12 ministers for smaller states and strengthened anti-defection rules.
+
+==============================================================================
+Set 2 | Q.No 22 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: टिप्पाणी नृत्य के साथ आमतौर पर कौन-सा संगीत वाद्ययंत्र बजाया जाता है?
+   A) ढोल और मंजीरा (छोटी झांझ)  <-- CORRECT
+   B) तबला और हारमोनियम
+   C) बांसुरी और वीणा
+   D) सितार और सारंगी
+Answer: A
+Why correct: The Tippani folk dance of the Chorwad region of Gujarat is performed by women and is accompanied by percussion instruments such as the dhol and manjira (small cymbals), which set its rhythmic beat.
+Why B is wrong: Tabla and harmonium are associated with Hindustani classical/semi-classical music, not the Tippani dance.
+Why C is wrong: Flute and veena are melodic instruments not central to this rhythmic folk dance.
+Why D is wrong: Sitar and sarangi belong to classical music traditions, not Tippani.
+Note: The Tippani dance imitates the labour of women beating the floor with long sticks (tippani) to harden it.
+
+==============================================================================
+Set 2 | Q.No 23 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन-सा वेद मुख्यतः: अपनी संगीतात्मक सामग्री के लिए जाना जाता है?
+   A) ऋग्वेद
+   B) सामवेद  <-- CORRECT
+   C) यजुर्वेद
+   D) अथर्ववेद
+Answer: B
+Why correct: The Samaveda is the Veda of melodies and chants; its verses (saman) were meant to be sung, making it the principal source of early Indian music.
+Why A is wrong: The Rigveda is the oldest Veda and contains hymns of praise, but it is not primarily musical.
+Why C is wrong: The Yajurveda deals with sacrificial formulae and rituals.
+Why D is wrong: The Atharvaveda contains spells, charms and everyday-life hymns.
+Note: Indian classical music traces its origin to the chanting of the Samaveda.
+
+==============================================================================
+Set 2 | Q.No 24 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: चंद्रमा पर पृथ्वी की तुलना में कम गुरुत्वाकर्षण बल क्यों लगता है?
+   A) यह आकार में छोटा है
+   B) इसका द्रव्यमान कम है  <-- CORRECT
+   C) यह तेजी से घूमता है
+   D) यह सूर्य से अधिक दूर है
+Answer: B
+Why correct: The Moon exerts less gravitational pull than the Earth mainly because it has much less mass (about 1/81 of Earth's mass); gravity depends on mass, so surface gravity on the Moon is about one-sixth of Earth's.
+Why A is wrong: Smaller size alone does not determine gravity; it is the mass that matters, though the Moon is indeed smaller.
+Why C is wrong: The Moon actually rotates slowly (tidally locked), and rotation speed does not reduce gravity.
+Why D is wrong: Distance from the Sun is irrelevant to the Moon's own surface gravity.
+Note: Surface gravity g = GM/R^2; the Moon's lower mass M is the dominant reason its g is about 1.62 m/s^2.
+
+==============================================================================
+Set 2 | Q.No 25 | Topic: Books & Authors | Language: Hindi
+------------------------------------------------------------------------------
+Q: द पैलेस ऑफ इल्यूजन्स के लेखक कौन हैं?
+   A) चित्रा बनर्जी दिवाकरुनी  <-- CORRECT
+   B) सुधा मूर्ति
+   C) देवदत्त पटनायक
+   D) कविता केन
+Answer: A
+Why correct: 'The Palace of Illusions' (2008), a retelling of the Mahabharata from Draupadi's perspective, was written by Indian-American author Chitra Banerjee Divakaruni.
+Why B is wrong: Sudha Murty is known for works like 'Wise and Otherwise' and many children's books.
+Why C is wrong: Devdutt Pattanaik writes on mythology (e.g. 'Jaya', 'Sita') but did not write this book.
+Why D is wrong: Kavita Kane writes mythological fiction (e.g. 'Karna's Wife') but is not the author of this title.
+Note: Draupadi narrates the epic in the novel, giving a strong female viewpoint of the Mahabharata.
+
+==============================================================================
+Set 2 | Q.No 26 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सा खुशी सूचकांक में उदारता कारक का उदाहरण है?
+   A) राष्ट्रीय कर दरें
+   B) विदेशी सहायता
+   C) सरकारी सब्सिडी
+   D) दान देने या दूसरों की मदद करने की इच्छा  <-- CORRECT
+Answer: D
+Why correct: In the World Happiness Report, 'Generosity' is measured by people's willingness to donate money or help others, reflecting prosocial behaviour in a society.
+Why A is wrong: National tax rates are a fiscal-policy variable, not a measure of generosity.
+Why B is wrong: Foreign aid is given between governments and is not the generosity factor of the index.
+Why C is wrong: Government subsidies are state transfers, not the voluntary giving that generosity captures.
+Note: The World Happiness Report ranks countries using six key factors, including GDP per capita, social support and generosity.
+
+==============================================================================
+Set 2 | Q.No 27 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: पृथ्वी का चुंबकीय क्षेत्र हमें आवेशित सौर कणों से संरक्षित करता है। जब पृथ्वी का चुंबकीय क्षेत्र अस्थायी रूप से दुर्बल हो जाता है, तो क्या होता है?
+   A) ध्रुवीय ज्योति और विकिरण जोखिम में वृद्धि होती है  <-- CORRECT
+   B) वायुमंडल की पूर्ण हानि होती है
+   C) गुरुत्वाकर्षण में वृद्धि होती है
+   D) कोई प्रभाव नहीं होता है
+Answer: A
+Why correct: Earth's magnetic field deflects charged solar particles. When it weakens temporarily, more particles reach the upper atmosphere, increasing auroral activity (polar lights) and the radiation exposure for satellites and astronauts.
+Why B is wrong: A temporary weakening does not strip away the entire atmosphere.
+Why C is wrong: The magnetic field has nothing to do with the strength of gravity.
+Why D is wrong: There is a clear effect - increased auroras and radiation - so 'no effect' is wrong.
+Note: The region of space dominated by Earth's magnetic field is called the magnetosphere.
+
+==============================================================================
+Set 2 | Q.No 28 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: किदाम्बी श्रीकांत किस वर्ष विश्व चैंपियनशिप के फाइनल में पहुंचने वाले पहले भारतीय पुरुष शटलर बने?
+   A) 2017
+   B) 2018
+   C) 2021  <-- CORRECT
+   D) 2022
+Answer: C
+Why correct: Kidambi Srikanth became the first Indian male shuttler to reach the final of the BWF World Championships in 2021 at Huelva, Spain, winning the silver medal.
+Why A is wrong: 2017 was a strong Super Series year for Srikanth but not when he reached the Worlds final.
+Why B is wrong: 2018 was not the year of this milestone.
+Why D is wrong: 2022 is after the achievement, which took place in 2021.
+Note: At the same 2021 Worlds, Lakshya Sen won bronze, making it a landmark event for Indian men's badminton.
+
+==============================================================================
+Set 2 | Q.No 29 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: 99 से पहले किस नीति ने कुछ उद्योगों में निजी क्षेत्र की भागीदारी को सीमित कर दिया था?
+   A) Industrial Licensing Policy  <-- CORRECT
+   B) Agricultural Subsidy Policy
+   C) Foreign Trade Policy
+   D) Public Distribution System
+Answer: A
+Why correct: Before the 1991 reforms, the Industrial Licensing Policy (the 'Licence Raj', based on the Industries (Development and Regulation) Act, 1951) restricted private-sector entry by requiring government licences and reserving many industries for the public sector.
+Why B is wrong: Agricultural subsidy policy supports farmers and does not restrict private industry.
+Why C is wrong: Foreign trade policy governs exports and imports, not domestic industrial entry.
+Why D is wrong: The Public Distribution System distributes subsidised food grains, unrelated to industrial licensing.
+Note: The 1991 New Industrial Policy abolished licensing for most industries, opening the economy to private and foreign investment.
+
+==============================================================================
+Set 2 | Q.No 30 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: वर्ष 207 में चाबहार बंदरगाह के माध्यम से भारत द्वारा पहली बार अफगानिस्तान को कौन सी वस्तु भेजी गई थी?
+   A) चावल
+   B) गेहूँ  <-- CORRECT
+   C) तेल
+   D) मशीनरी
+Answer: B
+Why correct: In 2017, India shipped its first consignment of wheat to Afghanistan through Iran's Chabahar Port, demonstrating the port's value as a route bypassing Pakistan.
+Why A is wrong: Rice was not the commodity of this landmark first shipment.
+Why C is wrong: Oil was not the cargo; Chabahar gives India access to Afghanistan/Central Asia.
+Why D is wrong: Machinery was not the first consignment sent.
+Note: Chabahar Port lies on Iran's south-eastern coast and is developed with Indian assistance to reach Afghanistan and Central Asia.
+
+==============================================================================
+Set 2 | Q.No 31 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: यौवनारंभ के दौरान पुरुषों में होने वाले परिवर्तनों के लिए मुख्य रूप से कौन-सा हार्मोन उत्तरदायी है?
+   A) एस्ट्रोजन
+   B) थायरोक्सिन
+   C) टेस्टोस्टेरोन  <-- CORRECT
+   D) एड्रिनिेलिन
+Answer: C
+Why correct: Testosterone is the primary male sex hormone responsible for the physical changes of puberty in boys, such as deepening of the voice, facial hair and muscle growth.
+Why A is wrong: Estrogen is the primary female sex hormone driving female pubertal changes.
+Why B is wrong: Thyroxine, from the thyroid gland, regulates metabolism, not male puberty specifically.
+Why D is wrong: Adrenaline is the 'fight-or-flight' hormone from the adrenal medulla, not a puberty hormone.
+Note: Testosterone is produced mainly in the testes; the onset of puberty is triggered by the hypothalamus releasing GnRH.
+
+==============================================================================
+Set 2 | Q.No 32 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: हाल ही में किस सांसद को इतिहास और स्कॉलरशिप में उनके योगदान के लिए राज्यसभा के लिए मनोनीत किया गया है?
+   A) उज्ज्वल निकम
+   B) डॉ. मीनाक्षी जैन  <-- CORRECT
+   C) हरिकृष्णन
+   D) सी. सदानंदन मास्टर
+Answer: B
+Why correct: Historian Dr. Meenakshi Jain was nominated to the Rajya Sabha in July 2025 in recognition of her contribution to history and scholarship.
+Why A is wrong: Ujjwal Nikam is a well-known public prosecutor nominated for legal/public service, not for history scholarship.
+Why C is wrong: Harikishan is not the person nominated for contributions to history.
+Why D is wrong: C. Sadanandan Master was nominated for social/public service, not for history scholarship.
+Note: The President nominates 12 members to the Rajya Sabha for distinction in literature, science, art and social service.
+
+==============================================================================
+Set 2 | Q.No 33 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: राष्ट्रीय नमूना सर्वेक्षण संगठन (/550) की स्थापना किस उद्देश्य के लिए की गई थी?
+   A) कृषि को बढ़ावा देना
+   B) उद्योग पर नज़र रखना
+   C) निर्यात को बढ़ावा देना
+   D) सामाजिक-ओआर्थिक स्थितियों पर सांख्यिकीय ऑआँकड़े एकत्र करना  <-- CORRECT
+Answer: D
+Why correct: The National Sample Survey Organisation (NSSO) was set up to collect statistical data on socio-economic conditions through large-scale sample surveys, providing inputs for policy and the national accounts.
+Why A is wrong: Promoting agriculture is the work of bodies like ICAR/NABARD, not the NSSO.
+Why B is wrong: Monitoring industry through production indices is the Annual Survey of Industries / industrial statistics work, distinct from NSSO's socio-economic surveys.
+Why C is wrong: Promoting exports is the role of bodies like the DGFT and EXIM Bank.
+Note: The NSSO is now part of the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation.
+
+==============================================================================
+Set 2 | Q.No 34 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन-सा राज्य बांग्लादेश के साथ सीमा साझा नहीं करता है?
+   A) असम
+   B) ओड़िशा  <-- CORRECT
+   C) त्रिपुरा
+   D) पश्चिम बंगाल
+Answer: B
+Why correct: Odisha does not share a border with Bangladesh. Bangladesh borders the Indian states of West Bengal, Assam, Meghalaya, Tripura and Mizoram.
+Why A is wrong: Assam shares a border with Bangladesh in the north-east.
+Why C is wrong: Tripura is almost surrounded by Bangladesh on three sides.
+Why D is wrong: West Bengal shares the longest stretch of the India-Bangladesh border.
+Note: India and Bangladesh share a land border of about 4,096 km, the fifth-longest land border in the world.
+
+==============================================================================
+Set 2 | Q.No 35 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन सी चुनौती आज भारतीय कृषि मे प्रमुख है?
+   A) ग्रामीण क्षेत्रों में कम जनसंख्या घनत्व के कारण कृषि श्रम की कमी होना
+   B) कृषि मशीनीकरण का बढ़ता स्तर
+   C) कृषि जोतों का लगातार खंडित होना और परिचालन होल्डिंग्स के आकार में गिरावट  <-- CORRECT
+   D) मुख्य खाद्यान्नों की घटती घरेलू मांग
+Answer: C
+Why correct: A major structural problem of Indian agriculture is the continuous fragmentation of landholdings due to inheritance, which steadily reduces the size of operational holdings and lowers efficiency.
+Why A is wrong: Indian agriculture suffers from surplus, under-employed labour, not a shortage caused by low rural population density.
+Why B is wrong: Rising mechanisation is a positive trend, not a core challenge.
+Why D is wrong: Domestic demand for staple food grains is not falling; the problem is on the supply/structure side.
+Note: Average operational holding size in India has fallen to roughly 1.08 hectares, making most farmers small or marginal.
+
+==============================================================================
+Set 2 | Q.No 36 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत के पहले निर्यात प्रसंस्करण क्षेत्र का स्थान किस भारतीय बंदरगाह को बनाया गया था?
+   A) सूरत
+   B) कांडला  <-- CORRECT
+   C) मुंबई
+   D) कोचीन
+Answer: B
+Why correct: India's first Export Processing Zone (EPZ) was set up at Kandla, Gujarat, in 1965 - it was also Asia's first EPZ.
+Why A is wrong: Surat is a major textile/diamond hub but was not the site of the first EPZ.
+Why C is wrong: Mumbai's SEEPZ came later (1973), after Kandla.
+Why D is wrong: Cochin had an EPZ established later, not the first.
+Note: Export Processing Zones were the forerunners of today's Special Economic Zones (SEZs).
+
+==============================================================================
+Set 2 | Q.No 37 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: आयुर्वेद के जनक के रूप में किसे जाना जाता है?
+   A) Charak  <-- CORRECT
+   B) Vagbhata
+   C) Sushruta
+   D) Nagarjuna
+Answer: A
+Why correct: Charak (Charaka) is regarded as the father of Ayurveda (Indian medicine); his treatise, the Charaka Samhita, is the foundational text of Ayurvedic internal medicine.
+Why B is wrong: Vagbhata was a later Ayurvedic scholar who compiled the Ashtanga Hridayam.
+Why C is wrong: Sushruta is honoured as the father of surgery (Sushruta Samhita), not of Ayurveda as a whole.
+Why D is wrong: Nagarjuna was a scholar associated with alchemy/rasashastra, not the founding of Ayurveda.
+Note: Charaka served in the court of the Kushan emperor Kanishka and emphasised prevention and a balanced lifestyle.
+
+==============================================================================
+Set 2 | Q.No 38 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: बिम्बिसार की कथित तौर पर हत्या करने या उसे आत्महत्या के लिए मजबूर करने के बाद उसका उत्तराधिकारी कौन बना था?
+   A) अशोक
+   B) बिंदुसार
+   C) अजातशत्रु  <-- CORRECT
+   D) चंद्रगुप्त मौर्य
+Answer: C
+Why correct: According to tradition, Ajatashatru succeeded his father Bimbisara as ruler of Magadha after imprisoning and reportedly causing his death.
+Why A is wrong: Ashoka was a much later Mauryan emperor, not Bimbisara's successor.
+Why B is wrong: Bindusara was a Mauryan king (Ashoka's father), unrelated to Bimbisara's succession.
+Why D is wrong: Chandragupta Maurya founded the Mauryan empire long after Bimbisara's Haryanka dynasty.
+Note: Bimbisara and Ajatashatru belonged to the Haryanka dynasty of Magadha and were contemporaries of the Buddha and Mahavira.
+
+==============================================================================
+Set 2 | Q.No 39 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से किस वर्ष में औरंगजेब की मृत्यु हुई थी?
+   A) 1707  <-- CORRECT
+   B) 1717
+   C) 1747
+   D) 1757
+Answer: A
+Why correct: The Mughal emperor Aurangzeb died in 1707 (at Ahmednagar), an event that is often taken to mark the beginning of the decline of the Mughal Empire.
+Why B is wrong: 1717 is incorrect; by then Farrukhsiyar was on the throne.
+Why C is wrong: 1747 is unrelated to Aurangzeb's death.
+Why D is wrong: 1757 is the year of the Battle of Plassey, not Aurangzeb's death.
+Note: Aurangzeb ruled for about 49 years (1658-1707), the longest reign of any Mughal emperor.
+
+==============================================================================
+Set 2 | Q.No 40 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: जुलाई 2025 तक, भारत में कितने राज्य हैं जिन्होंने पंचायती राज संस्थाओं में महिलाओं के लिए 50% आरक्षण का प्रावधान किया है?
+   A) 21  <-- CORRECT
+   B) 11
+   C) 14
+   D) 25
+Answer: A
+Why correct: As of July 2025, about 21 states/UTs had provided for 50% reservation for women in Panchayati Raj Institutions, going beyond the constitutional minimum of one-third.
+Why B is wrong: 11 understates the number of states that have adopted 50% reservation.
+Why C is wrong: 14 is lower than the figure reported.
+Why D is wrong: 25 overstates the number of states with the 50% provision.
+Note: The 73rd Constitutional Amendment (1992) mandates at least one-third reservation for women in panchayats; many states have raised it to 50%.
+
+==============================================================================
+Set 3 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: किसी राज्य में राष्ट्रपति शासन की सिफारिश करने का अधिकार किसके पास होता है?
+   A) मुख्यमंत्री
+   B) राज्यपाल  <-- CORRECT
+   C) प्रधानमंत्री
+   D) सर्वोच्च न्यायालय
+Answer: B
+Why correct: The Governor of a state sends a report to the President recommending President's Rule (Article 356) when the state government cannot function according to the Constitution.
+Why A is wrong: The Chief Minister heads the state government that is being superseded; he does not recommend President's Rule.
+Why C is wrong: The Prime Minister advises on national matters but does not formally recommend state emergency.
+Why D is wrong: The Supreme Court can review the proclamation but does not recommend its imposition.
+Note: President's Rule under Article 356 must be approved by Parliament within two months and the S.R. Bommai (1994) judgment made it subject to judicial review.
+
+==============================================================================
+Set 3 | Q.No 22 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: जब राज्य विधानसभा में किसी भी पार्टी को स्पष्ट बहुमत न हो तो मुख्यमंत्री की नियुक्ति का अधिकार किसके पास होता है?
+   A) राष्ट्रपति
+   B) विधानसभा का अध्यक्ष
+   C) प्रधानमंत्री
+   D) राज्यपाल  <-- CORRECT
+Answer: D
+Why correct: When no party has a clear majority in the state assembly, the Governor uses discretion to appoint as Chief Minister the person most likely to command the confidence of the House.
+Why A is wrong: The President is concerned with the Union government, not appointing a state CM.
+Why B is wrong: The Speaker of the Assembly presides over the House but does not appoint the CM.
+Why C is wrong: The Prime Minister has no role in appointing a state Chief Minister.
+Note: The Governor's discretion here is one of the few genuine discretionary powers under the Constitution, exercised especially in hung assemblies.
+
+==============================================================================
+Set 3 | Q.No 23 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: ऐतिहासिक अवलोकन के अनुसार भारतीय संगीत के इतिहास का अध्ययन करने के लिए सबसे पहले किन तत्वों को समझना आवश्यक है?
+   A) मानव सभ्यता और भाषा
+   B) मानव विकास और तकनीकी कौशल
+   C) मानव उत्पत्ति और ध्वनि, स्वर और लय जैसे तत्व  <-- CORRECT
+   D) वाद्ययंत्रों और नृत्य का विकास
+Answer: C
+Why correct: To study the history of Indian music, one must first understand human origin and the basic elements of sound - swara (tone), and laya (rhythm) - from which all music developed.
+Why A is wrong: Human civilisation and language are background context, but music specifically rests on sound, tone and rhythm.
+Why B is wrong: Human evolution and technical skill are too general and not the core musical elements.
+Why D is wrong: The development of instruments and dance came after the fundamental elements of sound.
+Note: Indian classical theory is built on the concepts of swara (notes), raga (melodic framework) and tala (rhythmic cycle).
+
+==============================================================================
+Set 3 | Q.No 24 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: यदि दो वस्तुओं के बीच की दूरी छह गुना बढ़ जाए तो गुरुत्वाकर्षण बल पर क्या प्रभाव पड़ेगा?
+   A) 36 गुना बड़ा हो जाता है
+   B) 6 गुना बड़ा हो जाता है
+   C) 36 गुना छोटा हो जाता है  <-- CORRECT
+   D) /6 गुना छोटा हो जाता है
+Answer: C
+Why correct: By Newton's law of gravitation, force is inversely proportional to the square of the distance. If the distance increases 6 times, the force becomes 1/6^2 = 1/36, i.e. 36 times smaller.
+Why A is wrong: Force decreases, not increases, when distance grows, so '36 times larger' is wrong.
+Why B is wrong: Force does not increase 6 times; it decreases with the square of distance.
+Why D is wrong: Force falls by the square (1/36), not just 1/6.
+Note: Newton's law: F = G m1 m2 / r^2, the inverse-square law of gravitation.
+
+==============================================================================
+Set 3 | Q.No 25 | Topic: Books & Authors | Language: Hindi
+------------------------------------------------------------------------------
+Q: कौन-सी पुस्तक “द अदर साइड ऑफ मिडनाइट” का सीक्वल है?
+   A) मेमोरीज़ ऑफ़ मिडनाइट  <-- CORRECT
+   B) मास्टर ऑफ द गेम
+   C) मॉर्निंग, नून एंड नाइट
+   D) ब्लडलाइन
+Answer: A
+Why correct: 'Memories of Midnight' (1990) is Sidney Sheldon's sequel to his earlier bestseller 'The Other Side of Midnight'.
+Why B is wrong: 'Master of the Game' is a separate Sidney Sheldon novel, not a sequel to The Other Side of Midnight.
+Why C is wrong: 'Morning, Noon and Night' is another standalone Sheldon novel.
+Why D is wrong: 'Bloodline' is a different Sidney Sheldon thriller, not the sequel.
+Note: Both novels follow the character Catherine Alexander and the schemes of Constantin Demiris.
+
+==============================================================================
+Set 3 | Q.No 26 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: मालवा पठार मुख्यतः: किस राज्य में स्थित है?
+   A) मध्य प्रदेश  <-- CORRECT
+   B) महाराष्ट्र
+   C) राजस्थान
+   D) गुजरात
+Answer: A
+Why correct: The Malwa Plateau lies mainly in Madhya Pradesh (extending into parts of Rajasthan and Gujarat) and is a volcanic, black-soil plateau in west-central India.
+Why B is wrong: Maharashtra is associated with the Deccan Plateau, not the Malwa Plateau.
+Why C is wrong: Only the north-western fringe of Malwa touches Rajasthan; the plateau is principally in MP.
+Why D is wrong: Gujarat lies to the west and holds only a small edge of the region.
+Note: The Malwa Plateau is drained by rivers like the Chambal and Betwa and is known for its fertile black soil.
+
+==============================================================================
+Set 3 | Q.No 27 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: भाबर क्षेत्र भारत की किस भौतिक विशेषता से जुड़ा हुआ है?
+   A) हिमालय की तलहटी  <-- CORRECT
+   B) प्रायद्वीपीय पठार
+   C) सिंधु-गंगा का मैदान
+   D) रेगिस्तानी क्षेत्र
+Answer: A
+Why correct: The Bhabar is a narrow belt of porous, pebbly soil at the foothills of the Himalayas, where rivers descending from the mountains deposit coarse sediments and streams often disappear underground.
+Why B is wrong: The Peninsular Plateau is an ancient landmass of the south, unrelated to the Bhabar.
+Why C is wrong: The Indo-Gangetic plain lies south of the Bhabar; the Terai (not Bhabar) adjoins it.
+Why D is wrong: The Bhabar is a humid foothill zone, not a desert region.
+Note: Just south of the Bhabar lies the marshy Terai belt, where the underground streams re-emerge.
+
+==============================================================================
+Set 3 | Q.No 28 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: वैश्विक जीवनक्षमता सूचकांक किसके द्वारा जारी किया जाता है?
+   A) अर्थशास्त्री खुफिया इकाई  <-- CORRECT
+   B) विश्व बैंक
+   C) संयुक्त राष्ट्र विकास कार्यक्रम
+   D) विश्व आर्थिक मंच
+Answer: A
+Why correct: The Global Liveability Index is published by the Economist Intelligence Unit (EIU), ranking cities on stability, healthcare, culture, environment, education and infrastructure.
+Why B is wrong: The World Bank publishes development indicators and the Ease of Doing Business work, not this index.
+Why C is wrong: The UNDP publishes the Human Development Index, not the Liveability Index.
+Why D is wrong: The World Economic Forum publishes the Global Competitiveness Report, not this one.
+Note: Vienna has frequently topped the EIU's Global Liveability Index in recent years.
+
+==============================================================================
+Set 3 | Q.No 29 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: विश्व तीरंदाजी को अंतर्राष्ट्रीय ओलंपिक समिति (00) द्वारा तीरंदाजी के लिए अंतर्राष्ट्रीय शासी निकाय के रूप में आधिकारिक तौर पर किस वर्ष मान्यता मिली?
+   A) 1932
+   B) 1972  <-- CORRECT
+   C) 1980
+   D) 1992
+Answer: B
+Why correct: Archery returned to the Olympic programme in 1972, the year associated with the international governing body's formal recognition for the sport at the Olympics.
+Why A is wrong: 1932 is too early; archery was absent from the Olympics for decades after 1920.
+Why C is wrong: 1980 is after the 1972 reinstatement.
+Why D is wrong: 1992 is far later than the recognition year.
+Note: World Archery (formerly FITA) was founded in 1931 and governs the sport internationally.
+
+==============================================================================
+Set 3 | Q.No 30 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: एक इंजीनियर को रडार का इस्तेमाल करके धरती की सतह में होने वाले बदलावों पर नज़र रखने का काम सौंपा गया है, यहाँ तक कि बादलों के बीच और रात में भी।
+   A) Chandrayaan-3
+   B) EOS-09
+   C) NISAR  <-- CORRECT
+   D) XPoSat
+Answer: C
+Why correct: NISAR (NASA-ISRO Synthetic Aperture Radar) is a joint Earth-observation satellite that uses radar to monitor changes in the Earth's surface in all weather, day or night, even through clouds.
+Why A is wrong: Chandrayaan-3 is India's lunar lander-rover mission, not an Earth-surface radar satellite.
+Why B is wrong: EOS-09 is an Earth-observation satellite but is not the NASA-ISRO radar collaboration described.
+Why D is wrong: XPoSat is an X-ray polarimetry satellite for studying cosmic sources, not Earth's surface.
+Note: NISAR carries dual-frequency (L- and S-band) radar, the first satellite of its kind, to track land deformation, ice and ecosystems.
+
+==============================================================================
+Set 3 | Q.No 31 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: किस भारतीय रॉकेट को "फैट बॉय" कहा जाता है?
+   A) PSLV
+   B) GSLV MK III  <-- CORRECT
+   C) SSLV
+   D) ASLV
+Answer: B
+Why correct: The GSLV Mk III (now called LVM3) is nicknamed the 'Fat Boy' because of its heavy, bulky build; it is ISRO's most powerful launch vehicle.
+Why A is wrong: The PSLV (Polar Satellite Launch Vehicle) is ISRO's reliable workhorse, not the 'Fat Boy'.
+Why C is wrong: The SSLV is the Small Satellite Launch Vehicle, a lightweight rocket.
+Why D is wrong: The ASLV was an early, much smaller experimental launch vehicle.
+Note: LVM3 launched Chandrayaan-2 and Chandrayaan-3 and will carry India's Gaganyaan crewed mission.
+
+==============================================================================
+Set 3 | Q.No 32 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: राष्ट्रपति की एड-डी-कैंप ( /॥०६-०६-८80 - #00) के रूप में सेवा करने वाली पहली महिला नौसेना अधिकारी कौन बनीं?
+   A) लेफ्टिनेंट कमांडर यशस्वी सोलंकी  <-- CORRECT
+   B) लेफ्टिनेंट भावना सिंह
+   C) कमांडर प्रिया मेनन
+   D) कैप्टन शिखा शर्मा
+Answer: A
+Why correct: Lt Cdr Yashasvi Solanki became the first woman naval officer to serve as an Aide-de-Camp (ADC) to the President of India.
+Why B is wrong: Lt Bhavna Singh is not the officer associated with this first.
+Why C is wrong: Commander Priya Menon is not the record-holder named here.
+Why D is wrong: Captain Shikha Sharma is not the first woman naval ADC to the President.
+Note: An Aide-de-Camp is a personal military assistant to a high official such as the President, who is the Supreme Commander of the Armed Forces.
+
+==============================================================================
+Set 3 | Q.No 33 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: किस नीति ने लघु उद्योगों को प्रमुखता से बढ़ावा दिया?
+   A) Industrial Policy of 1948
+   B) Industrial Policy of 1956
+   C) Industrial Policy of 1977  <-- CORRECT
+   D) Industrial Policy of 1980
+Answer: C
+Why correct: The Industrial Policy of 1977 (under the Janata government) gave special prominence to small-scale and cottage industries, expanding the list of items reserved for them and promoting decentralised development.
+Why A is wrong: The 1948 policy laid the first framework for a mixed economy but did not specially emphasise small industries.
+Why B is wrong: The 1956 policy emphasised heavy industry and the public sector ('commanding heights').
+Why D is wrong: The 1980 policy focused on raising productivity and reviving the public sector, not chiefly on small industry.
+Note: The 1977 policy introduced the concept of 'District Industries Centres' to promote small enterprises.
+
+==============================================================================
+Set 3 | Q.No 34 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत में पहली तेल रिफाइनरी कहाँ स्थापित की गई थी?
+   A) हल्दिया
+   B) कोयली
+   C) बरौनी
+   D) डिगबोई  <-- CORRECT
+Answer: D
+Why correct: India's first oil refinery was established at Digboi in Assam (commissioned in 1901), making it one of the oldest operating refineries in the world.
+Why A is wrong: Haldia in West Bengal has a much later refinery.
+Why B is wrong: Koyali (Gujarat) refinery came up in the 1960s.
+Why C is wrong: Barauni refinery in Bihar was set up in the 1960s.
+Note: Digboi is often called the 'Oil City of Asia'; oil was first struck there in the 1880s.
+
+==============================================================================
+Set 3 | Q.No 35 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: जब नाममात्र सकल घरेलू उत्पाद (८07?) वास्तविक जीडीपी (८0?) की तुलना में तेज़ी से बढ़ता है, तो यह __ दर्शाता है
+   A) शून्य वृद्धि
+   B) गिरती मुद्रास्फीति
+   C) उच्च मुद्रास्फीति  <-- CORRECT
+   D) अपस्फीति
+Answer: C
+Why correct: If nominal GDP rises faster than real GDP, the gap is due to rising prices - this indicates high inflation, because nominal GDP is measured at current prices while real GDP is adjusted for price changes.
+Why A is wrong: Zero growth would mean GDP is not changing, which is not the case here.
+Why B is wrong: Falling inflation would narrow, not widen, the gap between nominal and real GDP.
+Why D is wrong: Deflation means falling prices, which would make nominal GDP grow slower than real GDP.
+Note: The ratio of nominal to real GDP is the GDP deflator, a broad measure of economy-wide inflation.
+
+==============================================================================
+Set 3 | Q.No 36 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत के व्यापार संतुलन की मुख्य कमी क्या है?
+   A) सेवाओं का अधिशेष निर्यात
+   B) कुछ व्यापारिक साझेदारों पर अत्यधिक निर्भरता
+   C) आयात के कारण लगातार व्यापार घाटा  <-- CORRECT
+   D) उच्च शुल्क संरचना
+Answer: C
+Why correct: The main weakness of India's balance of trade is a persistent trade deficit - the value of imports (especially crude oil, gold and electronics) consistently exceeds the value of exports.
+Why A is wrong: A surplus in services exports is actually a strength that partly offsets the goods deficit, not a weakness.
+Why B is wrong: Over-dependence on a few partners is a concern but not the defining weakness of the trade balance.
+Why D is wrong: A high tariff structure is a policy feature, not the core trade-balance problem.
+Note: India's large software and services exports help finance its merchandise (goods) trade deficit in the current account.
+
+==============================================================================
+Set 3 | Q.No 37 | Topic: Schemes & Government | Language: Hindi
+------------------------------------------------------------------------------
+Q: वर्ष 202-22 से 2025-26 तक 450 करोड़ रुपये की राशि के लिए किस सामाजिक विकास योजना को मंजूरी दी गई है?
+   A) एस.एम.आई.एल.ई.योजना
+   B) पी.एम.-दक्ष योजना  <-- CORRECT
+   C) नमस्ते योजना
+   D) नशा मुक्त भारत अभियान
+Answer: B
+Why correct: The PM-DAKSH (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi) Yojana, a skilling scheme for marginalised groups, was approved with an outlay of about Rs 450 crore for 2021-22 to 2025-26.
+Why A is wrong: The SMILE scheme supports the welfare and rehabilitation of transgender persons and beggars, not this skilling outlay.
+Why C is wrong: The NAMASTE scheme is for the safety and dignity of sanitation workers.
+Why D is wrong: Nasha Mukt Bharat Abhiyaan is a drug-free India campaign, not a skilling scheme.
+Note: PM-DAKSH targets SCs, OBCs, EWS, safai karamcharis and DNTs for free skill training, implemented by the Ministry of Social Justice and Empowerment.
+
+==============================================================================
+Set 3 | Q.No 38 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: मैसूर निम्नलिखित में से किस तट के लाभदायक व्यापार को नियंत्रित करता था?
+   A) बंबई
+   B) हुगली
+   C) कोरोमंडल
+   D) मालाबार  <-- CORRECT
+Answer: D
+Why correct: The kingdom of Mysore controlled the lucrative trade of the Malabar coast (south-western India), an important source of pepper and spices, which brought it into conflict with the English.
+Why A is wrong: Bombay (the Konkan coast) was a Maratha/English sphere, not controlled by Mysore.
+Why B is wrong: Hooghly is on the eastern (Bengal) coast, far from Mysore's influence.
+Why C is wrong: The Coromandel coast (south-east) was dominated by the British and French at Madras/Pondicherry.
+Note: Mysore's control of Malabar's pepper and sandalwood trade under Haidar Ali and Tipu Sultan was a key cause of the Anglo-Mysore Wars.
+
+==============================================================================
+Set 3 | Q.No 39 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: 857 के विद्रोह के बाद बहादुर शाह जफर को निम्नलिखित में से किस स्थान पर जेल भेजा गया था?
+   A) शंघाई
+   B) ढाका
+   C) रंगून  <-- CORRECT
+   D) अंडमान
+Answer: C
+Why correct: After the Revolt of 1857, the last Mughal emperor Bahadur Shah Zafar was tried and exiled (imprisoned) to Rangoon in Burma, where he died in 1862.
+Why A is wrong: Shanghai (China) was never a place of his imprisonment.
+Why B is wrong: Dhaka was not where he was sent.
+Why D is wrong: The Andaman Islands (Cellular Jail) held many later freedom fighters, but Zafar was exiled to Rangoon.
+Note: Bahadur Shah Zafar was also a noted Urdu poet; his tomb in Yangon (Rangoon) is a site of pilgrimage.
+
+==============================================================================
+Set 3 | Q.No 40 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: अटल बिहारी वाजपेयी पहली बार किस वर्ष में भारत के प्रधानमंत्री बने थे?
+   A) 1990
+   B) 1992
+   C) 1994
+   D) 1996  <-- CORRECT
+Answer: D
+Why correct: Atal Bihari Vajpayee first became Prime Minister of India in 1996, heading a government that lasted only 13 days before resigning.
+Why A is wrong: In 1990 V.P. Singh / Chandra Shekhar were in office, not Vajpayee.
+Why B is wrong: 1992 was during P.V. Narasimha Rao's tenure.
+Why C is wrong: 1994 was also during Narasimha Rao's term.
+Note: Vajpayee served three terms as PM (13 days in 1996, 13 months in 1998-99, and a full term 1999-2004).
+
+==============================================================================
+Set 4 | Q.No 21 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: संविधान सभा के संवैधानिक सलाहकार कौन थे?
+   A) बी.एन. राउ  <-- CORRECT
+   B) अल्‍्लादी कृष्णस्वामी अय्यर
+   C) टी.टी. कृष्णमाचारी
+   D) के.एम. मुंशी
+Answer: A
+Why correct: B.N. Rau was the Constitutional Adviser to the Constituent Assembly; he prepared the initial draft of the Constitution on which the Drafting Committee worked.
+Why B is wrong: Alladi Krishnaswami Ayyar was a distinguished member of the Drafting Committee, not the Constitutional Adviser.
+Why C is wrong: T.T. Krishnamachari was a member of the Drafting Committee.
+Why D is wrong: K.M. Munshi was also a member of the Drafting Committee, not the Adviser.
+Note: The Drafting Committee was chaired by Dr B.R. Ambedkar; B.N. Rau later became a judge of the International Court of Justice.
+
+==============================================================================
+Set 4 | Q.No 22 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: केंद्र शासित प्रदेशों का प्रशासन निम्नलिखित द्वारा किया जाता है:
+   A) संसद
+   B) मुख्यमंत्री
+   C) राज्यपाल
+   D) राष्ट्रपति द्वारा नियुक्त प्रशासक  <-- CORRECT
+Answer: D
+Why correct: Union Territories are administered by the President of India acting through an Administrator (such as a Lieutenant Governor) appointed by him, under Article 239.
+Why A is wrong: Parliament can legislate for UTs but does not administer them day to day.
+Why B is wrong: Only some UTs with legislatures have a Chief Minister; administration is ultimately through the President's appointee.
+Why C is wrong: A Governor heads a State, not a Union Territory.
+Note: Delhi and Puducherry are UTs with their own legislatures and Chief Ministers, but still have a Lieutenant Governor.
+
+==============================================================================
+Set 4 | Q.No 23 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: संथाल नृत्य मुख्यतः: किस अवसर पर किया जाता है?
+   A) फसल उत्सव और धार्मिक समारोह  <-- CORRECT
+   B) राजनीतिक रैलियां
+   C) केवल शादियों के लिए
+   D) अंत्येष्टि
+Answer: A
+Why correct: The Santhal dance is performed by the Santhal tribe (eastern India) mainly during harvest festivals and religious/community ceremonies, celebrating nature and community life.
+Why B is wrong: It is a tribal cultural dance, not performed for political rallies.
+Why C is wrong: It is not restricted only to weddings.
+Why D is wrong: It is a celebratory dance, not a funeral performance.
+Note: The Santhals are one of India's largest tribal communities, spread across Jharkhand, West Bengal and Odisha.
+
+==============================================================================
+Set 4 | Q.No 24 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: टिप्पाणी नृत्य पारंपरिक रूप से किस अवसर पर किया जाता है?
+   A) शादियाँ और त्यौहार  <-- CORRECT
+   B) केवल धार्मिक अनुष्ठान
+   C) केवल फसल के मौसम में
+   D) राजनीतिक रैलियों में
+Answer: A
+Why correct: The Tippani dance of Gujarat is traditionally performed by women on festive and celebratory occasions such as weddings and festivals.
+Why B is wrong: It is not limited to religious rituals only.
+Why C is wrong: It is not performed only during the harvest season.
+Why D is wrong: It is a folk celebration, not a political-rally performance.
+Note: The dance originated from women labourers who beat the floor with long sticks (tippani) while working.
+
+==============================================================================
+Set 4 | Q.No 25 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: सतपुड़ा पर्वतमाला भारत के किस भाग में स्थित है?
+   A) उत्तरी भारत
+   B) दक्षिणी भारत
+   C) मध्य भारत  <-- CORRECT
+   D) पूर्वी भारत
+Answer: C
+Why correct: The Satpura Range runs east-west through central India (Madhya Pradesh and adjoining areas), lying between the Narmada and Tapti rivers.
+Why A is wrong: Northern India is dominated by the Himalayas and the Gangetic plain, not the Satpura.
+Why B is wrong: Southern India has the Deccan Plateau and the Western/Eastern Ghats.
+Why D is wrong: Eastern India has the Chotanagpur Plateau and eastern hills, not the Satpura.
+Note: The Satpura Range separates the Narmada valley to its north from the Tapti valley to its south.
+
+==============================================================================
+Set 4 | Q.No 26 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: गंगा-ब्रह्मपुत्र डेल्टा मुख्यतः: किस राज्य में स्थित है?
+   A) पश्चिम बंगाल  <-- CORRECT
+   B) उत्तर प्रदेश
+   C) बिहार
+   D) असाम
+Answer: A
+Why correct: The Ganga-Brahmaputra delta lies mainly in West Bengal (and Bangladesh); within India it is located in West Bengal and forms the Sundarbans.
+Why B is wrong: Uttar Pradesh lies in the upper Ganga plain, not the delta.
+Why C is wrong: Bihar is in the middle Ganga plain, upstream of the delta.
+Why D is wrong: Assam lies along the Brahmaputra valley, not the combined delta.
+Note: The Ganga-Brahmaputra delta is the world's largest delta and hosts the Sundarbans mangrove forest.
+
+==============================================================================
+Set 4 | Q.No 27 | Topic: Polity & Constitution | Language: Hindi
+------------------------------------------------------------------------------
+Q: किस भारतीय नेता ने 992 से 997 तक भारत के राष्ट्रपति के रूप में कार्य किया और संवैधानिक कानून में उनकी विशिष्ट शैक्षणिक पृष्ठभूमि थी?
+   A) रामास्वामी वेंकटरमन
+   B) शंकर दयाल शर्मा  <-- CORRECT
+   C) के. आर. नारायणन
+   D) ज्ञानी जैल सिंह
+Answer: B
+Why correct: Dr Shankar Dayal Sharma served as President of India from 1992 to 1997 and had a distinguished academic background in constitutional law.
+Why A is wrong: R. Venkataraman was President from 1987 to 1992, just before Sharma.
+Why C is wrong: K.R. Narayanan was President from 1997 to 2002, after Sharma.
+Why D is wrong: Giani Zail Singh was President from 1982 to 1987.
+Note: Shankar Dayal Sharma had been a law teacher and earlier served as Vice-President of India (1987-92).
+
+==============================================================================
+Set 4 | Q.No 28 | Topic: Economy | Language: Hindi
+------------------------------------------------------------------------------
+Q: __मानव विकास सूचकांक (५०) एक समग्र सूचकांक है।
+   A) शिक्षा, आय, जीवन प्रत्याशा  <-- CORRECT
+   B) सकल घरेलू उत्पाद, सकल राष्ट्रीय आय, साक्षरता
+   C) रोजगार, सामाजिक सुरक्षा, लैंगिक समानता
+   D) आय, स्वास्थ्य, पर्यावरण
+Answer: A
+Why correct: The Human Development Index (HDI) is a composite index based on three dimensions: education (knowledge), income (standard of living) and life expectancy (a long, healthy life).
+Why B is wrong: HDI does not combine GDP, GNI and literacy in that specific set; income is captured by GNI per capita while knowledge uses schooling, not just literacy.
+Why C is wrong: Employment, social security and gender equality are not the three HDI components.
+Why D is wrong: Environment is not a component of the standard HDI.
+Note: The HDI was introduced by the UNDP in 1990, conceptualised by economists Mahbub ul Haq and Amartya Sen.
+
+==============================================================================
+Set 4 | Q.No 29 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: 4,000 वर्ष (मिलेनकोविच चक्र) में पृथ्वी के अक्ष का झुकाव 22.* से 24.5" के बीच बदलता रहता है। यह परिवर्तन पृथ्वी को किस प्रकार प्रभावित करता है?
+   A) अधिक झुकाव से मौसमी विपर्यास में वृद्धि होती है  <-- CORRECT
+   B) झुकाव परिवर्तन से कक्षीय चाल बदलता है
+   C) झुकाव परिवर्तन चुंबकीय क्षेत्र को प्रभावित करता है
+   D) कोई प्रभाव नहीं होता है
+Answer: A
+Why correct: Over the roughly 41,000-year Milankovitch cycle, Earth's axial tilt (obliquity) varies between about 22.1 and 24.5 degrees; a greater tilt increases the contrast between seasons (hotter summers, colder winters).
+Why B is wrong: A change in axial tilt does not change the Earth's orbital speed.
+Why C is wrong: Obliquity affects climate/seasons, not the planet's magnetic field.
+Why D is wrong: There is a clear climatic effect, so 'no effect' is wrong.
+Note: Milankovitch cycles - changes in eccentricity, obliquity and precession - drive long-term ice-age cycles.
+
+==============================================================================
+Set 4 | Q.No 30 | Topic: Art & Culture | Language: Hindi
+------------------------------------------------------------------------------
+Q: पांडिचेरी में फ्रेंच क्वार्टर की प्राथमिक स्थापत्य शैली क्या है?
+   A) इंडो-फ्रेंच औपनिवेशिक  <-- CORRECT
+   B) गोथिक पुनरुद्धार
+   C) आर्ट डेको
+   D) नवशास्त्रीय
+Answer: A
+Why correct: The French Quarter (White Town) of Puducherry is built primarily in the Indo-French colonial style, with grid streets, pastel villas, verandahs and tree-lined boulevards.
+Why B is wrong: Gothic Revival is a European church-architecture style, seen in some churches but not the quarter's overall character.
+Why C is wrong: Art Deco is a 20th-century style, not the defining style of the French Quarter.
+Why D is wrong: Neoclassical elements appear in some buildings, but the quarter is characterised as Indo-French colonial.
+Note: Puducherry (Pondicherry) was a French colony until 1954, which shaped its distinctive urban layout.
+
+==============================================================================
+Set 4 | Q.No 31 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: ओरायन (000), एक है।
+   A) Constellation  <-- CORRECT
+   B) Star
+   C) Galaxy
+   D) Satellite
+Answer: A
+Why correct: Orion is a constellation - a recognisable pattern of stars in the night sky, prominent in winter and known for the three stars of 'Orion's Belt'.
+Why B is wrong: Orion is not a single star; it contains many stars such as Betelgeuse and Rigel.
+Why C is wrong: Orion is not a galaxy; it is a group of stars within our own Milky Way galaxy.
+Why D is wrong: Orion is not a satellite.
+Note: The Orion Nebula, a stellar nursery, lies in this constellation and is visible to the naked eye.
+
+==============================================================================
+Set 4 | Q.No 32 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: क्रिकेट विश्व कप की मेजबानी भारत ने पहली बार किस वर्ष की थी?
+   A) 1975
+   B) 1983
+   C) 1987  <-- CORRECT
+   D) 1996
+Answer: C
+Why correct: India first hosted (co-hosted) the Cricket World Cup in 1987 (the Reliance Cup), shared with Pakistan - the first World Cup held outside England.
+Why A is wrong: 1975 was the first-ever World Cup, held in England.
+Why B is wrong: 1983 was the year India won the World Cup, but it was played in England.
+Why D is wrong: 1996 was the next subcontinent World Cup (India, Pakistan, Sri Lanka), not the first time India hosted.
+Note: India later co-hosted the 2011 World Cup and won it, and hosted the 2023 World Cup solo.
+
+==============================================================================
+Set 4 | Q.No 33 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: प्रथम आधिकारिक विश्व शतरंज चैंपियन किसे माना जाता है?
+   A) Bobby Fischer
+   B) Wilhelm Steinitz  <-- CORRECT
+   C) Garry Kasparov
+   D) Paul Morphy
+Answer: B
+Why correct: Wilhelm Steinitz is regarded as the first official World Chess Champion, holding the title from 1886 to 1894.
+Why A is wrong: Bobby Fischer became World Champion in 1972, nearly a century later.
+Why C is wrong: Garry Kasparov was World Champion from 1985, in the modern era.
+Why D is wrong: Paul Morphy was a dominant unofficial player of the 1850s but was never the official world champion.
+Note: Steinitz is also credited with developing the principles of positional (strategic) chess.
+
+==============================================================================
+Set 4 | Q.No 34 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: हृदय स्पंद, किस प्रकार की क्रिया है?
+   A) प्रतिवर्ती क्रिया
+   B) अनैच्छिक क्रिया  <-- CORRECT
+   C) ऐच्छिक क्रिया
+   D) समन्वित क्रिया
+Answer: B
+Why correct: The heartbeat is an involuntary action - it occurs automatically and continuously without conscious control, driven by the heart's own pacemaker.
+Why A is wrong: A reflex action is a sudden, automatic response to a stimulus (e.g. a knee-jerk), not the continuous heartbeat.
+Why C is wrong: A voluntary action is one we consciously control, such as walking.
+Why D is wrong: 'Coordinated action' is not the standard classification for the heartbeat.
+Note: The heartbeat is initiated by the sino-atrial (SA) node, the heart's natural pacemaker, and regulated by the autonomic nervous system.
+
+==============================================================================
+Set 4 | Q.No 35 | Topic: Science & Technology | Language: Hindi
+------------------------------------------------------------------------------
+Q: निम्नलिखित में से कौन-सा, कोशिका में लाइसोसोम का प्राथमिक कार्य है?
+   A) ऊर्जा उत्पादन
+   B) अपशिष्ट निपटान  <-- CORRECT
+   C) प्रोटीन संश्लेषण
+   D) लिपिड का भंडारण
+Answer: B
+Why correct: The primary function of the lysosome is intracellular waste disposal - it contains digestive enzymes that break down worn-out cell parts, food particles and foreign material.
+Why A is wrong: Energy production is the function of the mitochondria.
+Why C is wrong: Protein synthesis is carried out by ribosomes.
+Why D is wrong: Lipid storage is not the lysosome's primary role.
+Note: Because they digest cellular debris and can break down the cell itself, lysosomes are nicknamed the cell's 'suicide bags'.
+
+==============================================================================
+Set 4 | Q.No 36 | Topic: Geography | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत में खारे पानी की सबसे बड़ी झील कौन-सी है?
+   A) वेम्बनाड झील
+   B) पुलिकट झील
+   C) चिल्‍का झील  <-- CORRECT
+   D) सांभर झील
+Answer: C
+Why correct: Chilika Lake in Odisha is India's largest brackish (saltwater) lake and the largest coastal lagoon in the country.
+Why A is wrong: Vembanad Lake (Kerala) is the longest lake in India but Chilika is the largest brackish-water lake.
+Why B is wrong: Pulicat Lake is the second-largest brackish lagoon, smaller than Chilika.
+Why D is wrong: Sambhar Lake (Rajasthan) is the largest inland salt (saline) lake, but Chilika is the largest brackish coastal lake.
+Note: Chilika is a Ramsar wetland famous for migratory birds and the Irrawaddy dolphin.
+
+==============================================================================
+Set 4 | Q.No 37 | Topic: Current Affairs | Language: Hindi
+------------------------------------------------------------------------------
+Q: नवंबर 2024 में, कौन सा देश 6 वर्ष से कम उम्र के बच्चों के लिए सोशल मीडिया के उपयोग पर प्रतिबंध लगाने वाला कानून पारित करने वाला पहला देश बन गया है?
+   A) भारत
+   B) यूएसए
+   C) जापान
+   D) ऑस्ट्रेलिया  <-- CORRECT
+Answer: D
+Why correct: In November 2024, Australia became the first country to pass a law banning social-media use for children under 16.
+Why A is wrong: India has discussed age regulation but did not pass such a first-of-its-kind law.
+Why B is wrong: The USA has state-level debates but no such national ban.
+Why C is wrong: Japan did not pass this pioneering law.
+Note: Australia's law puts the responsibility on social-media platforms to keep under-16 users off their services.
+
+==============================================================================
+Set 4 | Q.No 38 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: प्रथम अंग्रेज़-मैसूर युद्ध किस वर्ष में हुआ था?
+   A) 1767-69  <-- CORRECT
+   B) 1780-84
+   C) 1790-92
+   D) 1799
+Answer: A
+Why correct: The First Anglo-Mysore War was fought in 1767-1769 between the British East India Company and Haidar Ali of Mysore, ending with the Treaty of Madras.
+Why B is wrong: 1780-84 was the Second Anglo-Mysore War.
+Why C is wrong: 1790-92 was the Third Anglo-Mysore War.
+Why D is wrong: 1799 was the Fourth (final) Anglo-Mysore War, in which Tipu Sultan died.
+Note: Haidar Ali nearly captured Madras in the First War, forcing the British into the humiliating Treaty of Madras (1769).
+
+==============================================================================
+Set 4 | Q.No 39 | Topic: History | Language: Hindi
+------------------------------------------------------------------------------
+Q: 946 के प्रांतीय चुनावों के दौरान किस राजनीतिक दल ने "सामान्य" निर्वाचन क्षेत्रों में अच्छा प्रदर्शन किया था?
+   A) भारतीय राष्ट्रीय कांग्रेस  <-- CORRECT
+   B) जस्टिस पार्टी
+   C) भारतीय कम्युनिस्ट पार्टी
+   D) स्वराज पार्टी
+Answer: A
+Why correct: In the 1946 provincial elections, the Indian National Congress performed very well in the 'general' (non-Muslim) constituencies, winning a large majority of those seats.
+Why B is wrong: The Justice Party had declined by 1946 and was not a major winner.
+Why C is wrong: The Communist Party of India won only a handful of seats.
+Why D is wrong: The Swaraj Party was a 1920s formation and no longer a separate force in 1946.
+Note: The Muslim League won most of the Muslim-reserved seats in 1946, strengthening its demand for Pakistan.
+
+==============================================================================
+Set 4 | Q.No 40 | Topic: Awards & Honours | Language: Hindi
+------------------------------------------------------------------------------
+Q: भारत रत्न पुरस्कार प्राप्त करने वाली पहली महिला कौन थी?
+   A) अरुणा आसफ अली
+   B) लता दीनानाथ मंगेशकर
+   C) इंदिरा गांधी  <-- CORRECT
+   D) मदर मैरी टेरेसा
+Answer: C
+Why correct: Indira Gandhi was the first woman to receive the Bharat Ratna, India's highest civilian award, in 1971.
+Why A is wrong: Aruna Asaf Ali received the Bharat Ratna in 1997, much later.
+Why B is wrong: Lata Mangeshkar received the Bharat Ratna in 2001.
+Why D is wrong: Mother Teresa received the Nobel Peace Prize (1979) but not the Bharat Ratna.
+Note: The Bharat Ratna was instituted in 1954; Indira Gandhi received it while serving as Prime Minister.
+
+==============================================================================
+Set 5 | Q.No 21 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: Which body recommends the distribution of tax revenues between union and states?
+   A) NITI Aayog
+   B) Parliament
+   C) Finance Commission  <-- CORRECT
+   D) Planning Commission
+Answer: C
+Why correct: The Finance Commission (Article 280) recommends the distribution of the net proceeds of taxes between the Union and the States and the principles governing grants-in-aid to the States.
+Why A is wrong: NITI Aayog is an advisory think-tank with no role in tax devolution.
+Why B is wrong: Parliament legislates on taxes but does not recommend the sharing formula.
+Why D is wrong: The Planning Commission, now abolished, dealt with development planning, not tax devolution.
+Note: The Finance Commission is constituted by the President every five years (or earlier if needed).
+
+==============================================================================
+Set 5 | Q.No 22 | Topic: Polity & Constitution | Language: English
+------------------------------------------------------------------------------
+Q: During a financial emergency under Article 360, the president can:
+   A) Reduce salaries of government employees  <-- CORRECT
+   B) Dismiss State Governments
+   C) Dissolve Parliament
+   D) Suspend Fundamental Rights
+Answer: A
+Why correct: During a Financial Emergency under Article 360, the President can direct the reduction of salaries and allowances of government employees, including judges of the Supreme Court and High Courts, to maintain financial stability.
+Why B is wrong: Dismissing state governments is a feature of President's Rule under Article 356, not a Financial Emergency.
+Why C is wrong: Dissolving Parliament is not a power granted under Article 360.
+Why D is wrong: Suspension of Fundamental Rights is linked to a National Emergency under Article 352, not a Financial Emergency.
+Note: A Financial Emergency under Article 360 has never been declared in India.
+
+==============================================================================
+Set 5 | Q.No 23 | Topic: Art & Culture | Language: English
+------------------------------------------------------------------------------
+Q: Why is the Raga Tarangini considered highly important in Hindustani music history?
+   A) It uses only southern raga's
+   B) It introduces tabla and harmonium
+   C) It uses many raga names still in use today  <-- CORRECT
+   D) It rejects traditional Indian theories
+Answer: C
+Why correct: The Raga Tarangini is considered historically important because it records and uses many raga names that are still in use in Hindustani music today, providing continuity with earlier tradition.
+Why A is wrong: It does not deal only with southern (Carnatic) ragas; it is a Hindustani-music text.
+Why B is wrong: It is a treatise on ragas, not a work introducing the tabla and harmonium.
+Why D is wrong: It builds on, rather than rejects, traditional Indian musical theory.
+Note: Raga Tarangini was authored by Locana (Lochana Kavi), an early text valuable for the history of ragas.
+
+==============================================================================
+Set 5 | Q.No 24 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Archimedes’ principle states that a body immersed in a fluid experiences an upward force equal to
+   A) Its own weight
+   B) The volume of the body
+   C) The weight of the fluid displaced  <-- CORRECT
+   D) The density of the fluid
+Answer: C
+Why correct: Archimedes' principle states that a body immersed (fully or partly) in a fluid experiences an upward buoyant force equal to the weight of the fluid it displaces.
+Why A is wrong: The buoyant force equals the displaced fluid's weight, not the body's own weight (these are equal only when the body floats).
+Why B is wrong: The volume of the body is a quantity, not a force.
+Why D is wrong: Density of the fluid alone is not a force; the upthrust depends on weight of fluid displaced.
+Note: This principle explains why ships float and why objects feel lighter in water.
+
+==============================================================================
+Set 5 | Q.No 25 | Topic: Books & Authors | Language: English
+------------------------------------------------------------------------------
+Q: Which poetic collection by Sumitranandan Pant won him the Jnanpith Award?
+   A) Pallav
+   B) Kala Aur Budhdha Chand
+   C) Chidambara  <-- CORRECT
+   D) Veena
+Answer: C
+Why correct: The poetic collection 'Chidambara' won Sumitranandan Pant the Jnanpith Award (for 1968), making him one of the early recipients of the honour.
+Why A is wrong: 'Pallav' is an earlier important collection by Pant but did not win him the Jnanpith.
+Why B is wrong: 'Kala Aur Budhdha Chand' is another of his works, not the Jnanpith-winning one.
+Why D is wrong: 'Veena' was one of his early collections, not the award-winning book.
+Note: Sumitranandan Pant was a leading poet of the Chhayavaad (Romantic) movement in Hindi literature.
+
+==============================================================================
+Set 5 | Q.No 26 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: The Sunderbans Delta is formed by the confluence of which rivers?
+   A) Ganga and Yamuna
+   B) Ganga and Brahmaputra  <-- CORRECT
+   C) Godavari and Krishna
+   D) Mahanadi and Godavari
+Answer: B
+Why correct: The Sundarbans delta is formed by the confluence of the Ganga, Brahmaputra and Meghana rivers; among the options, the Ganga and Brahmaputra are the principal rivers.
+Why A is wrong: The Yamuna is a tributary of the Ganga and does not directly form the Sundarbans delta.
+Why C is wrong: The Godavari and Krishna form deltas on the eastern (Andhra) coast.
+Why D is wrong: The Mahanadi and Godavari form separate deltas, not the Sundarbans.
+Note: The Sundarbans is the world's largest mangrove forest and home to the Royal Bengal Tiger.
+
+==============================================================================
+Set 5 | Q.No 27 | Topic: Geography | Language: English
+------------------------------------------------------------------------------
+Q: The Himalayas are wider in which sector of India?
+   A) Western Himalayas  <-- CORRECT
+   B) Central Himalayas
+   C) Eastern Himalayas
+   D) Shiwalik Himalayas
+Answer: A
+Why correct: The Himalayas are widest in the Western (Kashmir) sector and progressively narrow towards the east; the western Himalayas span the greatest north-south width.
+Why B is wrong: The Central Himalayas (Nepal region) are narrower than the western sector.
+Why C is wrong: The Eastern Himalayas are the narrowest but rise very steeply.
+Why D is wrong: The Shiwaliks are only the outermost, lowest range, not a 'wider' sector of the whole system.
+Note: The Himalayas are divided into the Western, Central and Eastern sectors, and the highest peak, Mount Everest, lies in the Central (Nepal) Himalayas.
+
+==============================================================================
+Set 5 | Q.No 28 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: Who won the ICC Men’s ODI Cricketer of the Year award in 2023?
+   A) Pat Cummins
+   B) Suryakumar Yadav
+   C) Usman Khawaja
+   D) Virat Kohli  <-- CORRECT
+Answer: D
+Why correct: Virat Kohli won the ICC Men's ODI Cricketer of the Year award for 2023, a year in which he was the leading run-scorer at the 2023 World Cup.
+Why A is wrong: Pat Cummins won the ICC Men's Cricketer of the Year (Sir Garfield Sobers Trophy) but not the ODI award for 2023.
+Why B is wrong: Suryakumar Yadav won the ICC Men's T20I Cricketer of the Year for 2023.
+Why C is wrong: Usman Khawaja was honoured as the Test Cricketer of the Year for 2023.
+Note: Kohli scored a record 765 runs in the 2023 ODI World Cup, including his 50th ODI century.
+
+==============================================================================
+Set 5 | Q.No 29 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: How many key variables are used to rank countries in the Happiness Index?
+   A) 4
+   B) 5
+   C) 6  <-- CORRECT
+   D) 7
+Answer: C
+Why correct: The World Happiness Report uses six key variables to rank countries: GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity and perceptions of corruption.
+Why A is wrong: Four is fewer than the six factors used.
+Why B is wrong: Five omits one of the standard factors.
+Why D is wrong: Seven is one more than the six key variables.
+Note: Finland has topped the World Happiness Report for several consecutive years.
+
+==============================================================================
+Set 5 | Q.No 30 | Topic: Sports | Language: English
+------------------------------------------------------------------------------
+Q: When did India's men's national football team last qualify for the Olympic Games?
+   A) 1956
+   B) 1960  <-- CORRECT
+   C) 1964
+   D) 1972
+Answer: B
+Why correct: India's men's national football team last qualified for the Olympic Games in 1960 (Rome Olympics).
+Why A is wrong: 1956 (Melbourne) was India's best Olympic football performance (4th place), but they qualified again afterwards.
+Why C is wrong: India did not qualify for the 1964 Olympics football event.
+Why D is wrong: 1972 is later than India's last Olympic football appearance.
+Note: At the 1956 Melbourne Olympics, India finished fourth - the best-ever finish by an Asian football team at that time.
+
+==============================================================================
+Set 5 | Q.No 31 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: Which telescope provided the first direct image of a black hole?
+   A) Hubble
+   B) Event Horizon Telescope  <-- CORRECT
+   C) Spitzer
+   D) Kepler
+Answer: B
+Why correct: The Event Horizon Telescope (EHT) produced the first-ever direct image of a black hole - the supermassive black hole at the centre of galaxy M87 - released in April 2019.
+Why A is wrong: The Hubble Space Telescope is an optical/UV observatory and did not capture the first black-hole image.
+Why C is wrong: The Spitzer Space Telescope was an infrared observatory, not the source of this image.
+Why D is wrong: The Kepler telescope was designed to detect exoplanets, not image black holes.
+Note: The EHT is a global network of radio telescopes that works together as an Earth-sized virtual telescope.
+
+==============================================================================
+Set 5 | Q.No 32 | Topic: Science & Technology | Language: English
+------------------------------------------------------------------------------
+Q: if an astronaut’s mass is 70 kg, what will be their weight on the Moon (1/6th of Earth's gravity)?
+   A) 700 N
+   B) 117 N  <-- CORRECT
+   C) 420 N
+   D) 686 N
+Answer: B
+Why correct: Weight on the Moon = mass x lunar gravity = 70 kg x (9.8/6) m/s^2 ≈ 70 x 1.63 ≈ 114-117 N.
+Why A is wrong: 700 N (using g = 10) would be the approximate weight on Earth, not the Moon.
+Why C is wrong: 420 N would imply gravity far higher than one-sixth of Earth's.
+Why D is wrong: 686 N (70 x 9.8) is the weight on Earth, not on the Moon.
+Note: Mass stays constant everywhere; only weight (= mass x local gravity) changes between the Earth and the Moon.
+
+==============================================================================
+Set 5 | Q.No 33 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: Minimum Support Price (MSP) was introduced in:
+   A) 1950s
+   B) 1960s  <-- CORRECT
+   C) 1970s
+   D) 1980s
+Answer: B
+Why correct: The Minimum Support Price (MSP) system was introduced in the 1960s (around 1966-67) during the Green Revolution to assure farmers a guaranteed price and encourage food-grain production.
+Why A is wrong: The 1950s pre-dates the MSP mechanism.
+Why C is wrong: The 1970s is after MSP had already been introduced.
+Why D is wrong: The 1980s is much later than the actual introduction.
+Note: MSP is announced by the government on the recommendation of the Commission for Agricultural Costs and Prices (CACP).
+
+==============================================================================
+Set 5 | Q.No 34 | Topic: Schemes & Government | Language: English
+------------------------------------------------------------------------------
+Q: The Make in India initiative was launched in:
+   A) 2010
+   B) 2012
+   C) 2014  <-- CORRECT
+   D) 2015
+Answer: C
+Why correct: The 'Make in India' initiative was launched in September 2014 to encourage companies to manufacture in India and to boost the manufacturing sector's share of the economy.
+Why A is wrong: 2010 pre-dates the initiative.
+Why B is wrong: 2012 is incorrect; the launch was in 2014.
+Why D is wrong: 2015 is the launch year of Digital India and several other schemes, not Make in India.
+Note: The Make in India lion logo, made of gear wheels, symbolises manufacturing and national progress.
+
+==============================================================================
+Set 5 | Q.No 35 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: Which micro-missile system did India test in 2025?
+   A) Astra-ll
+   B) Vibhavasu
+   C) Bhargavastra  <-- CORRECT
+   D) Pralay
+Answer: C
+Why correct: Bhargavastra is a low-cost micro-missile counter-drone system that India tested in 2025, designed to neutralise swarms of small drones.
+Why A is wrong: Astra is a beyond-visual-range air-to-air missile, not the 2025 micro-missile counter-drone system.
+Why B is wrong: Vibhavasu is not the system tested for this purpose.
+Why D is wrong: Pralay is a short-range ballistic missile, not a micro counter-drone system.
+Note: Counter-drone systems like Bhargavastra are increasingly important against the growing threat of low-cost drone swarms.
+
+==============================================================================
+Set 5 | Q.No 36 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: Which index measures wholesale prices?
+   A) Gross Domestic Product Deflator
+   B) Consumer Price Index
+   C) Index of Industrial Production
+   D) Wholesale Price Index  <-- CORRECT
+Answer: D
+Why correct: The Wholesale Price Index (WPI) measures the average change in prices of goods at the wholesale level (bulk transactions between businesses).
+Why A is wrong: The GDP deflator measures economy-wide price change, not specifically wholesale prices.
+Why B is wrong: The Consumer Price Index (CPI) measures prices at the retail (consumer) level.
+Why C is wrong: The Index of Industrial Production (IIP) measures output/production volume, not prices.
+Note: In India, WPI is released by the Office of the Economic Adviser, while CPI is released by the National Statistical Office.
+
+==============================================================================
+Set 5 | Q.No 37 | Topic: Economy | Language: English
+------------------------------------------------------------------------------
+Q: Which structural constraint continues to be the most critical factor limiting agricultural productivity in India?
+   A) inadequacy of fertile soils across major regions
+   B) High dependence on monsoonal variability  <-- CORRECT
+   C) Chronic shortage of agricultural labor
+   D) Weakness of domestic market linkages
+Answer: B
+Why correct: High dependence on the monsoon (rainfall variability) is the most critical structural constraint on Indian agricultural productivity, since a large share of farmland is rain-fed and vulnerable to erratic rains.
+Why A is wrong: India has substantial fertile soil; inadequacy of fertile soil is not the principal constraint.
+Why C is wrong: India generally has surplus agricultural labour, not a chronic shortage.
+Why D is wrong: Weak market linkages are a problem but not the most critical productivity constraint.
+Note: About half of India's net sown area is still rain-fed, which is why irrigation expansion is a policy priority.
+
+==============================================================================
+Set 5 | Q.No 38 | Topic: Current Affairs | Language: English
+------------------------------------------------------------------------------
+Q: In , the Centre officially announced the scrapping of the 'No-Detention Policy' for Classes 5 and 8 in central government-run schools?
+   A) November 2024
+   B) December 2024  <-- CORRECT
+   C) January 2025
+   D) October 2024
+Answer: B
+Why correct: In December 2024, the Centre officially scrapped the 'No-Detention Policy' for Classes 5 and 8 in central-government-run schools, allowing students who fail year-end exams to be held back (after a re-test).
+Why A is wrong: November 2024 is not when the official announcement was made.
+Why C is wrong: January 2025 is after the December 2024 announcement.
+Why D is wrong: October 2024 is incorrect.
+Note: The No-Detention Policy had been part of the Right to Education Act; it was diluted by a 2019 amendment empowering governments to decide on detention.
+
+==============================================================================
+Set 5 | Q.No 39 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: Who among the following was never the Nawab of Bengal?
+   A) Alivardi Khan
+   B) Saadat Ali Khan  <-- CORRECT
+   C) Mir Qasim
+   D) Sirajuddaulah
+Answer: B
+Why correct: Saadat Ali Khan was the Nawab of Awadh (Oudh), not of Bengal, so he was never the Nawab of Bengal.
+Why A is wrong: Alivardi Khan was Nawab of Bengal (1740-1756).
+Why C is wrong: Mir Qasim was Nawab of Bengal after Mir Jafar.
+Why D is wrong: Sirajuddaulah was the Nawab of Bengal defeated at the Battle of Plassey (1757).
+Note: The Nawabs of Bengal in this era included Alivardi Khan, Sirajuddaulah, Mir Jafar and Mir Qasim.
+
+==============================================================================
+Set 5 | Q.No 40 | Topic: History | Language: English
+------------------------------------------------------------------------------
+Q: Henry Lawrence was the Chief Commissioner of which state during the Revolt of 1857?
+   A) Awadh  <-- CORRECT
+   B) Odisha
+   C) Maharashtra
+   D) Punjab
+Answer: A
+Why correct: Sir Henry Lawrence was the Chief Commissioner of Awadh (Oudh) during the Revolt of 1857 and died defending the Residency at Lucknow.
+Why B is wrong: Odisha was not the region of Henry Lawrence's command.
+Why C is wrong: Maharashtra was not under his charge during the revolt.
+Why D is wrong: Punjab was administered by his brother John Lawrence; Henry was posted to Awadh.
+Note: The Siege of the Lucknow Residency was one of the most famous episodes of the 1857 Revolt.

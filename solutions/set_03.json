@@ -1,0 +1,223 @@
+{
+  "21": {
+    "topic": "Polity & Constitution",
+    "answer": "B",
+    "correct": "The Governor of a state sends a report to the President recommending President's Rule (Article 356) when the state government cannot function according to the Constitution.",
+    "wrong": {
+      "A": "The Chief Minister heads the state government that is being superseded; he does not recommend President's Rule.",
+      "C": "The Prime Minister advises on national matters but does not formally recommend state emergency.",
+      "D": "The Supreme Court can review the proclamation but does not recommend its imposition."
+    },
+    "fact": "President's Rule under Article 356 must be approved by Parliament within two months and the S.R. Bommai (1994) judgment made it subject to judicial review."
+  },
+  "22": {
+    "topic": "Polity & Constitution",
+    "answer": "D",
+    "correct": "When no party has a clear majority in the state assembly, the Governor uses discretion to appoint as Chief Minister the person most likely to command the confidence of the House.",
+    "wrong": {
+      "A": "The President is concerned with the Union government, not appointing a state CM.",
+      "B": "The Speaker of the Assembly presides over the House but does not appoint the CM.",
+      "C": "The Prime Minister has no role in appointing a state Chief Minister."
+    },
+    "fact": "The Governor's discretion here is one of the few genuine discretionary powers under the Constitution, exercised especially in hung assemblies."
+  },
+  "23": {
+    "topic": "Art & Culture",
+    "answer": "C",
+    "correct": "To study the history of Indian music, one must first understand human origin and the basic elements of sound - swara (tone), and laya (rhythm) - from which all music developed.",
+    "wrong": {
+      "A": "Human civilisation and language are background context, but music specifically rests on sound, tone and rhythm.",
+      "B": "Human evolution and technical skill are too general and not the core musical elements.",
+      "D": "The development of instruments and dance came after the fundamental elements of sound."
+    },
+    "fact": "Indian classical theory is built on the concepts of swara (notes), raga (melodic framework) and tala (rhythmic cycle)."
+  },
+  "24": {
+    "topic": "Science & Technology",
+    "answer": "C",
+    "correct": "By Newton's law of gravitation, force is inversely proportional to the square of the distance. If the distance increases 6 times, the force becomes 1/6^2 = 1/36, i.e. 36 times smaller.",
+    "wrong": {
+      "A": "Force decreases, not increases, when distance grows, so '36 times larger' is wrong.",
+      "B": "Force does not increase 6 times; it decreases with the square of distance.",
+      "D": "Force falls by the square (1/36), not just 1/6."
+    },
+    "fact": "Newton's law: F = G m1 m2 / r^2, the inverse-square law of gravitation."
+  },
+  "25": {
+    "topic": "Books & Authors",
+    "answer": "A",
+    "correct": "'Memories of Midnight' (1990) is Sidney Sheldon's sequel to his earlier bestseller 'The Other Side of Midnight'.",
+    "wrong": {
+      "B": "'Master of the Game' is a separate Sidney Sheldon novel, not a sequel to The Other Side of Midnight.",
+      "C": "'Morning, Noon and Night' is another standalone Sheldon novel.",
+      "D": "'Bloodline' is a different Sidney Sheldon thriller, not the sequel."
+    },
+    "fact": "Both novels follow the character Catherine Alexander and the schemes of Constantin Demiris."
+  },
+  "26": {
+    "topic": "Geography",
+    "answer": "A",
+    "correct": "The Malwa Plateau lies mainly in Madhya Pradesh (extending into parts of Rajasthan and Gujarat) and is a volcanic, black-soil plateau in west-central India.",
+    "wrong": {
+      "B": "Maharashtra is associated with the Deccan Plateau, not the Malwa Plateau.",
+      "C": "Only the north-western fringe of Malwa touches Rajasthan; the plateau is principally in MP.",
+      "D": "Gujarat lies to the west and holds only a small edge of the region."
+    },
+    "fact": "The Malwa Plateau is drained by rivers like the Chambal and Betwa and is known for its fertile black soil."
+  },
+  "27": {
+    "topic": "Geography",
+    "answer": "A",
+    "correct": "The Bhabar is a narrow belt of porous, pebbly soil at the foothills of the Himalayas, where rivers descending from the mountains deposit coarse sediments and streams often disappear underground.",
+    "wrong": {
+      "B": "The Peninsular Plateau is an ancient landmass of the south, unrelated to the Bhabar.",
+      "C": "The Indo-Gangetic plain lies south of the Bhabar; the Terai (not Bhabar) adjoins it.",
+      "D": "The Bhabar is a humid foothill zone, not a desert region."
+    },
+    "fact": "Just south of the Bhabar lies the marshy Terai belt, where the underground streams re-emerge."
+  },
+  "28": {
+    "topic": "Current Affairs",
+    "answer": "A",
+    "correct": "The Global Liveability Index is published by the Economist Intelligence Unit (EIU), ranking cities on stability, healthcare, culture, environment, education and infrastructure.",
+    "wrong": {
+      "B": "The World Bank publishes development indicators and the Ease of Doing Business work, not this index.",
+      "C": "The UNDP publishes the Human Development Index, not the Liveability Index.",
+      "D": "The World Economic Forum publishes the Global Competitiveness Report, not this one."
+    },
+    "fact": "Vienna has frequently topped the EIU's Global Liveability Index in recent years."
+  },
+  "29": {
+    "topic": "Sports",
+    "answer": "B",
+    "correct": "Archery returned to the Olympic programme in 1972, the year associated with the international governing body's formal recognition for the sport at the Olympics.",
+    "wrong": {
+      "A": "1932 is too early; archery was absent from the Olympics for decades after 1920.",
+      "C": "1980 is after the 1972 reinstatement.",
+      "D": "1992 is far later than the recognition year."
+    },
+    "fact": "World Archery (formerly FITA) was founded in 1931 and governs the sport internationally."
+  },
+  "30": {
+    "topic": "Science & Technology",
+    "answer": "C",
+    "correct": "NISAR (NASA-ISRO Synthetic Aperture Radar) is a joint Earth-observation satellite that uses radar to monitor changes in the Earth's surface in all weather, day or night, even through clouds.",
+    "wrong": {
+      "A": "Chandrayaan-3 is India's lunar lander-rover mission, not an Earth-surface radar satellite.",
+      "B": "EOS-09 is an Earth-observation satellite but is not the NASA-ISRO radar collaboration described.",
+      "D": "XPoSat is an X-ray polarimetry satellite for studying cosmic sources, not Earth's surface."
+    },
+    "fact": "NISAR carries dual-frequency (L- and S-band) radar, the first satellite of its kind, to track land deformation, ice and ecosystems."
+  },
+  "31": {
+    "topic": "Science & Technology",
+    "answer": "B",
+    "correct": "The GSLV Mk III (now called LVM3) is nicknamed the 'Fat Boy' because of its heavy, bulky build; it is ISRO's most powerful launch vehicle.",
+    "wrong": {
+      "A": "The PSLV (Polar Satellite Launch Vehicle) is ISRO's reliable workhorse, not the 'Fat Boy'.",
+      "C": "The SSLV is the Small Satellite Launch Vehicle, a lightweight rocket.",
+      "D": "The ASLV was an early, much smaller experimental launch vehicle."
+    },
+    "fact": "LVM3 launched Chandrayaan-2 and Chandrayaan-3 and will carry India's Gaganyaan crewed mission."
+  },
+  "32": {
+    "topic": "Current Affairs",
+    "answer": "A",
+    "correct": "Lt Cdr Yashasvi Solanki became the first woman naval officer to serve as an Aide-de-Camp (ADC) to the President of India.",
+    "wrong": {
+      "B": "Lt Bhavna Singh is not the officer associated with this first.",
+      "C": "Commander Priya Menon is not the record-holder named here.",
+      "D": "Captain Shikha Sharma is not the first woman naval ADC to the President."
+    },
+    "fact": "An Aide-de-Camp is a personal military assistant to a high official such as the President, who is the Supreme Commander of the Armed Forces."
+  },
+  "33": {
+    "topic": "Economy",
+    "answer": "C",
+    "opts": ["Industrial Policy of 1948", "Industrial Policy of 1956", "Industrial Policy of 1977", "Industrial Policy of 1980"],
+    "correct": "The Industrial Policy of 1977 (under the Janata government) gave special prominence to small-scale and cottage industries, expanding the list of items reserved for them and promoting decentralised development.",
+    "wrong": {
+      "A": "The 1948 policy laid the first framework for a mixed economy but did not specially emphasise small industries.",
+      "B": "The 1956 policy emphasised heavy industry and the public sector ('commanding heights').",
+      "D": "The 1980 policy focused on raising productivity and reviving the public sector, not chiefly on small industry."
+    },
+    "fact": "The 1977 policy introduced the concept of 'District Industries Centres' to promote small enterprises."
+  },
+  "34": {
+    "topic": "Geography",
+    "answer": "D",
+    "correct": "India's first oil refinery was established at Digboi in Assam (commissioned in 1901), making it one of the oldest operating refineries in the world.",
+    "wrong": {
+      "A": "Haldia in West Bengal has a much later refinery.",
+      "B": "Koyali (Gujarat) refinery came up in the 1960s.",
+      "C": "Barauni refinery in Bihar was set up in the 1960s."
+    },
+    "fact": "Digboi is often called the 'Oil City of Asia'; oil was first struck there in the 1880s."
+  },
+  "35": {
+    "topic": "Economy",
+    "answer": "C",
+    "correct": "If nominal GDP rises faster than real GDP, the gap is due to rising prices - this indicates high inflation, because nominal GDP is measured at current prices while real GDP is adjusted for price changes.",
+    "wrong": {
+      "A": "Zero growth would mean GDP is not changing, which is not the case here.",
+      "B": "Falling inflation would narrow, not widen, the gap between nominal and real GDP.",
+      "D": "Deflation means falling prices, which would make nominal GDP grow slower than real GDP."
+    },
+    "fact": "The ratio of nominal to real GDP is the GDP deflator, a broad measure of economy-wide inflation."
+  },
+  "36": {
+    "topic": "Economy",
+    "answer": "C",
+    "correct": "The main weakness of India's balance of trade is a persistent trade deficit - the value of imports (especially crude oil, gold and electronics) consistently exceeds the value of exports.",
+    "wrong": {
+      "A": "A surplus in services exports is actually a strength that partly offsets the goods deficit, not a weakness.",
+      "B": "Over-dependence on a few partners is a concern but not the defining weakness of the trade balance.",
+      "D": "A high tariff structure is a policy feature, not the core trade-balance problem."
+    },
+    "fact": "India's large software and services exports help finance its merchandise (goods) trade deficit in the current account."
+  },
+  "37": {
+    "topic": "Schemes & Government",
+    "answer": "B",
+    "correct": "The PM-DAKSH (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi) Yojana, a skilling scheme for marginalised groups, was approved with an outlay of about Rs 450 crore for 2021-22 to 2025-26.",
+    "wrong": {
+      "A": "The SMILE scheme supports the welfare and rehabilitation of transgender persons and beggars, not this skilling outlay.",
+      "C": "The NAMASTE scheme is for the safety and dignity of sanitation workers.",
+      "D": "Nasha Mukt Bharat Abhiyaan is a drug-free India campaign, not a skilling scheme."
+    },
+    "fact": "PM-DAKSH targets SCs, OBCs, EWS, safai karamcharis and DNTs for free skill training, implemented by the Ministry of Social Justice and Empowerment."
+  },
+  "38": {
+    "topic": "History",
+    "answer": "D",
+    "correct": "The kingdom of Mysore controlled the lucrative trade of the Malabar coast (south-western India), an important source of pepper and spices, which brought it into conflict with the English.",
+    "wrong": {
+      "A": "Bombay (the Konkan coast) was a Maratha/English sphere, not controlled by Mysore.",
+      "B": "Hooghly is on the eastern (Bengal) coast, far from Mysore's influence.",
+      "C": "The Coromandel coast (south-east) was dominated by the British and French at Madras/Pondicherry."
+    },
+    "fact": "Mysore's control of Malabar's pepper and sandalwood trade under Haidar Ali and Tipu Sultan was a key cause of the Anglo-Mysore Wars."
+  },
+  "39": {
+    "topic": "History",
+    "answer": "C",
+    "correct": "After the Revolt of 1857, the last Mughal emperor Bahadur Shah Zafar was tried and exiled (imprisoned) to Rangoon in Burma, where he died in 1862.",
+    "wrong": {
+      "A": "Shanghai (China) was never a place of his imprisonment.",
+      "B": "Dhaka was not where he was sent.",
+      "D": "The Andaman Islands (Cellular Jail) held many later freedom fighters, but Zafar was exiled to Rangoon."
+    },
+    "fact": "Bahadur Shah Zafar was also a noted Urdu poet; his tomb in Yangon (Rangoon) is a site of pilgrimage."
+  },
+  "40": {
+    "topic": "Polity & Constitution",
+    "answer": "D",
+    "correct": "Atal Bihari Vajpayee first became Prime Minister of India in 1996, heading a government that lasted only 13 days before resigning.",
+    "wrong": {
+      "A": "In 1990 V.P. Singh / Chandra Shekhar were in office, not Vajpayee.",
+      "B": "1992 was during P.V. Narasimha Rao's tenure.",
+      "C": "1994 was also during Narasimha Rao's term."
+    },
+    "fact": "Vajpayee served three terms as PM (13 days in 1996, 13 months in 1998-99, and a full term 1999-2004)."
+  }
+}

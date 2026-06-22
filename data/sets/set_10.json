@@ -1,0 +1,602 @@
+[
+ {
+  "set": 10,
+  "qno": 21,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 89.0,
+  "stem": "Citizenship provisions are given in which part of the Indian Constitution?",
+  "options": [
+   "Part |",
+   "Part Il",
+   "Part Ill",
+   "Part IV"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Part Il",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3013
+  ],
+  "option_objs": [
+   3015,
+   3017,
+   3019,
+   3021
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 22,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.8,
+  "stem": "Who has the power to create new states and alter boundaries of existing states?",
+  "options": [
+   "Parliament",
+   "State Legislature",
+   "Supreme Court",
+   "President"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Parliament",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3048
+  ],
+  "option_objs": [
+   23,
+   2701,
+   2697,
+   101
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 23,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "Which deity is predominantly worshipped through Manipuri dance?",
+  "options": [
+   "Shiva",
+   "Krishna",
+   "Durga",
+   "Ganesha"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Krishna",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3050
+  ],
+  "option_objs": [
+   3052,
+   3054,
+   3056,
+   3058
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 24,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "Which of the following is a key characteristic of Bhangra music?",
+  "options": [
+   "Soft and melodic tunes",
+   "Fast and energetic beats",
+   "Complex rhythms with slow tempos",
+   "Instrumental Music only"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Fast and energetic beats",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3060
+  ],
+  "option_objs": [
+   3062,
+   3064,
+   3066,
+   3068
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 25,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.8,
+  "stem": "In which year did the Jaipur Literature Festival begin?",
+  "options": [
+   "2002",
+   "2005",
+   "2006",
+   "2008"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "2006",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3070
+  ],
+  "option_objs": [
+   3072,
+   3093,
+   3095,
+   3097
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 26,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "Which river of India has the largest catchment area?",
+  "options": [
+   "Godavari",
+   "Ganga",
+   "Narmada",
+   "Brahmaputra"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Ganga",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3099
+  ],
+  "option_objs": [
+   3101,
+   3103,
+   3105,
+   3107
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 27,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.5,
+  "stem": "Which of the following plate boundaries formed the Himalayas?",
+  "options": [
+   "Divergent boundary",
+   "Transform boundary",
+   "Hotspot boundary",
+   "Convergent boundary"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Convergent boundary",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3109
+  ],
+  "option_objs": [
+   3111,
+   3113,
+   3115,
+   3117
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 28,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.1,
+  "stem": "Why are the days on Venus longer than its years?",
+  "options": [
+   "Venus has a slower rotation than revolution",
+   "Venus revolves very slowly around the Sun",
+   "Venus does not rotate",
+   "Venus spins on its axis in the opposite direction"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Venus has a slower rotation than revolution",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3119
+  ],
+  "option_objs": [
+   3121,
+   3123,
+   3144,
+   3146
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 29,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "Which mosque within Agra Fort was constructed by Shah Jahan for the royal ladies and features three domes?",
+  "options": [
+   "Moti Masjid",
+   "Mina Masjid",
+   "Nagina Masjid",
+   "Jama Masjid"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Nagina Masjid",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3148
+  ],
+  "option_objs": [
+   3150,
+   3152,
+   3154,
+   3156
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 30,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.8,
+  "stem": "Which planet has a magnetic field that is offset from its center and tilted about 59 degrees to its rotational axis?",
+  "options": [
+   "Earth",
+   "Jupiter",
+   "Uranus",
+   "Saturn"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Uranus",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3158
+  ],
+  "option_objs": [
+   3160,
+   3162,
+   3164,
+   3166
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 31,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.0,
+  "stem": "What is the maximum duration of a standard boxing bout in the Olympics?",
+  "options": [
+   "Three 3-minute rounds",
+   "Four 2-minute rounds",
+   "Two 3-minute rounds",
+   "Three 2-minute rounds"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Three 3-minute rounds",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3168
+  ],
+  "option_objs": [
+   3170,
+   3172,
+   3174,
+   3196
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.9,
+  "stem": "How many Asian Games medals did India win in shooting at Hangzhou 2023?",
+  "options": [
+   "18",
+   "22",
+   "19",
+   "21"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "22",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3198
+  ],
+  "option_objs": [
+   3200,
+   3202,
+   3204,
+   711
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.5,
+  "stem": "Blood is classified under which type of animal tissue?",
+  "options": [
+   "Muscular tissue",
+   "Nervous tissue",
+   "Connective tissue",
+   "Epithelial tissue"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Connective tissue",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3206
+  ],
+  "option_objs": [
+   3208,
+   3210,
+   3212,
+   3214
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 34,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.2,
+  "stem": "Which of the following is an example of chemotropism in plants?",
+  "options": [
+   "Shoot bending towards light",
+   "Root growing downwards",
+   "Pollen tube growing towards ovule",
+   "Leaf folding on touch"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Pollen tube growing towards ovule",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3216
+  ],
+  "option_objs": [
+   3218,
+   3220,
+   3222,
+   3224
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.3,
+  "stem": "The Chipko Movement is associated with:",
+  "options": [
+   "Forest conservation",
+   "Air pollution",
+   "Wildlife trafficking",
+   "River pollution"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Forest conservation",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3245
+  ],
+  "option_objs": [
+   3247,
+   3249,
+   3251,
+   3253
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.3,
+  "stem": "The Rs. 6000 crores allocated for One Nation One Subscription initiative ensures smooth implementation of ONOS from 1st January 2025 to 31st December ;",
+  "options": [
+   "2032",
+   "2030",
+   "2029",
+   "2027"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "2027",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3255
+  ],
+  "option_objs": [
+   3257,
+   3259,
+   3261,
+   3263
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "Which crop did the British force the peasants of Maharashtra to produce?",
+  "options": [
+   "Cotton",
+   "Tea",
+   "Jute",
+   "Barley"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Cotton",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3265
+  ],
+  "option_objs": [
+   3267,
+   3269,
+   3271,
+   3273
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.4,
+  "stem": "in which year the World Parliament of Religions was held in Chicago?",
+  "options": [
+   "1893",
+   "1895",
+   "1897",
+   "1899"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "1893",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3292
+  ],
+  "option_objs": [
+   3294,
+   2449,
+   3296,
+   3298
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 86.7,
+  "stem": "Who was the first Indian woman to win an Olympic silver medal?",
+  "options": [
+   "Aanchal Thakur",
+   "P. V. Sindhu",
+   "Sania Mirza",
+   "Dipa Karmakar"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "P. V. Sindhu",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3300
+  ],
+  "option_objs": [
+   3302,
+   3304,
+   3306,
+   3308
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 10,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.7,
+  "stem": "Which of the following ministry has unveiled ‘Logistics Ease Across Different States (LEADS) 2024’ Report?",
+  "options": [
+   "Ministry of Commerce & Industry",
+   "Ministry of Finance",
+   "Ministry of Ports, Shipping and Waterways",
+   "Ministry of Cooperation"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Ministry of Commerce & Industry",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3310
+  ],
+  "option_objs": [
+   3312,
+   3314,
+   3316,
+   3318
+  ],
+  "diagram_objs": []
+ }
+]

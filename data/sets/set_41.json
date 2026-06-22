@@ -1,0 +1,602 @@
+[
+ {
+  "set": 41,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.9,
+  "stem": "मोहिनीअट्रम की पौराणिक कथा किस देवता से जुड़ी है?",
+  "options": [
+   "भगवान शिव",
+   "भगवान विष्णु",
+   "भगवान कृष्ण",
+   "देवी दुर्गा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "भगवान विष्णु",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3219
+  ],
+  "option_objs": [
+   3221,
+   3223,
+   3225,
+   3227
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 85.0,
+  "stem": "सुन्दरवन किस प्रकार की प्राकृतिक वनस्पति के लिए प्रसिद्ध है?",
+  "options": [
+   "उष्णकटिबंधीय सदाबहार वन",
+   "रेगिस्तानी वनस्पति",
+   "मैंग्रोव वन",
+   "अल्पाइन घास के मैदान"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "मैंग्रोव वन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3249
+  ],
+  "option_objs": [
+   3251,
+   3253,
+   3255,
+   3257
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.7,
+  "stem": "भारतीय नागरिक सुरक्षा संहिता (8/55) के अंतर्गत यौन अपराधों की जांच निम्नलिखित अवधि के भीतर पूरी करने की आवश्यकता है?",
+  "options": [
+   "6 महीने",
+   "वर्ष",
+   "2 महीने",
+   "3 महीने"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "2 महीने",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3259
+  ],
+  "option_objs": [
+   3261,
+   3263,
+   3265,
+   3267
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 82.0,
+  "stem": "अलाउद्दीन खिलजी के प्रशासन के तहत खेती पर निम्नलिखित में से कौन सा कर लगाया गया था?",
+  "options": [
+   "महज़र",
+   "फिरोज़",
+   "आमिल",
+   "खराज"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "खराज",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3269
+  ],
+  "option_objs": [
+   3271,
+   3273,
+   3275,
+   3277
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 84.2,
+  "stem": "नवंबर 2024 में प्रधानमंत्री नरेंद्र मोदी को प्रदान किये गए, गयाना के सर्वोच्च राष्ट्रीय पुरस्कार का नाम क्या है?",
+  "options": [
+   "द ऑर्डर ऑफ एक्सीलेंस",
+   "द ऑर्डर ऑफ वेलोर",
+   "द क्राउन जूल ऑनर",
+   "द ग्रैंड क्रॉस ऑफ द ऑर्डर"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "द ऑर्डर ऑफ एक्सीलेंस",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3299
+  ],
+  "option_objs": [
+   3301,
+   3303,
+   3305,
+   3307
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.8,
+  "stem": "जनवरी 2025 में, भारतीय वायु सेना की पश्चिमी वायु कमान की कमान किसने संभाली थी?",
+  "options": [
+   "एयर मार्शल विक्रम सिंह",
+   "एयर मार्शल बालाकृष्णन मणिकांतन",
+   "एयर मार्शल जीतेंद्र मिश्रा",
+   "एयर मार्शल सूरत सिंह"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "एयर मार्शल जीतेंद्र मिश्रा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3309
+  ],
+  "option_objs": [
+   3311,
+   3313,
+   3315,
+   3317
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.0,
+  "stem": "भारतीय संविधान की निम्नलिखित में से कौन सी विशेषता संयुक्त राज्य अमेरिका से उधार ली गई है?",
+  "options": [
+   "मूल कर्तव्य",
+   "“गणतंत्र” की अवधारणा",
+   "संविधान की उद्देशिका",
+   "व्यापार और वाणिज्य की स्वतंत्रता"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "संविधान की उद्देशिका",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3319
+  ],
+  "option_objs": [
+   3321,
+   3323,
+   3325,
+   3327
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "भारत में राष्ट्रीय और राज्य स्तरीय दलों के लिए आरक्षित प्रतीकों का निर्णय कौन करता है ?",
+  "options": [
+   "उच्चतम न्यायालय",
+   "राष्ट्रपति",
+   "भारत का निर्वाचन आयोग",
+   "लोक सभा के अध्यक्ष"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "भारत का निर्वाचन आयोग",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3329
+  ],
+  "option_objs": [
+   3350,
+   21,
+   3352,
+   3354
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "किस राज्य सरकार ने डॉ. भीमराव अंबेडकर अभयारण्य को एक नए वन्यजीव अभयारण्य के रूप में स्थापित किया?",
+  "options": [
+   "मध्य प्रदेश",
+   "केरल",
+   "उत्तराखंड",
+   "पंजाब"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "मध्य प्रदेश",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3356
+  ],
+  "option_objs": [
+   353,
+   3358,
+   3360,
+   2245
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 46.5,
+  "stem": "निम्नलिखित में से कौन सा सूर्य के अवलोकन के लिए समर्पित पहला भारतीय मिशन हैं?",
+  "options": [
+   "हिनोड",
+   "पार्कर सोलर प्रोब",
+   "आदित्य एल-",
+   "सोहो"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "आदित्य एल-",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3362
+  ],
+  "option_objs": [
+   3364,
+   3366,
+   3368,
+   3370
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 86.0,
+  "stem": "का प किस संगठन ने कैंसर ए.आई. एंड टेक्नोलॉजी चैलेंज (कैच) अनुदान कार्यक्रम शुरू करने के लिए राष्ट्रीय कैंसर ग्रिड (एन.सी.जी.) के साथ भागीदा",
+  "options": [
+   "इंडियाएआई",
+   "सी.एस.आई.आर.",
+   "एम्स दिल्ली",
+   "कैंसरएआई"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "इंडियाएआई",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3372
+  ],
+  "option_objs": [
+   3374,
+   3395,
+   3397,
+   3399
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.4,
+  "stem": "हट्टी गोल्ड माइंस निम्नलिखित में से किस भारतीय राज्य में स्थित है?",
+  "options": [
+   "कर्नाटक",
+   "बिहार",
+   "झारखंड",
+   "ओडिशा"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "कर्नाटक",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3401
+  ],
+  "option_objs": [
+   349,
+   1856,
+   3074,
+   2835
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 33,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.4,
+  "stem": "मुंबई इंडियंस महिला टीम ने अपना पहला डब्ल्यू.पी.एल. (महिला प्रीमियर लीग) खिताब कब जीता था?",
+  "options": [
+   "2023",
+   "2024",
+   "2022",
+   "2021"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2023",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3403
+  ],
+  "option_objs": [
+   1950,
+   3405,
+   3407,
+   3409
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 50.0,
+  "stem": "\"इुंडो-पैसिफिक महासागर पहल\" की एक पहल है।",
+  "options": [
+   "भारत",
+   "मेडागास्कर",
+   "केन्या",
+   "मालदीव"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "भारत",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3411
+  ],
+  "option_objs": [
+   2611,
+   3413,
+   1997,
+   3434
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.0,
+  "stem": "निम्नलिखित में से किस खेल में बाएँ और दाएँ सर्विस कोर्ट देखा जाता है?",
+  "options": [
+   "बैडमिंटन",
+   "फुटबॉल",
+   "बास्केटबाल",
+   "क्रिकेट"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "बैडमिंटन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3436
+  ],
+  "option_objs": [
+   690,
+   688,
+   684,
+   3438
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 52.0,
+  "stem": "दिल्ली में 'लाल कोट' शहर का निर्माण किसने किया था?",
+  "options": [
+   "पृथ्वी राज चौहान",
+   "अलाउद्दीन खिलजी",
+   "हुमायूं",
+   "अनंग पाल तोमर"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "अनंग पाल तोमर",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3440
+  ],
+  "option_objs": [
+   3442,
+   3444,
+   3446,
+   3448
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.1,
+  "stem": "875 में, द्वारकानाथ घोष ने कलकत्ता में भारतीय हाथ-पंपित के अपने संस्करण को डिज़ाइन किया।",
+  "options": [
+   "तबला",
+   "गिटार",
+   "बांसुरी",
+   "हारमोनियम"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "हारमोनियम",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3450
+  ],
+  "option_objs": [
+   3452,
+   1684,
+   2894,
+   3473
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "मिट्टी के बर्तनों से बने वाद्य यंत्र 'घटम' को लोकप्रिय बनाने के लिए 'घटम के भगवान' के रूप में किसे जाना जाता है?",
+  "options": [
+   "भीमसेन जोशी",
+   "टी.एच. विनायकराम",
+   "पंडित शिवकुमार शर्मा",
+   "टी.एम. कृष्णा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "टी.एच. विनायकराम",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3475
+  ],
+  "option_objs": [
+   3477,
+   3479,
+   3481,
+   3483
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.5,
+  "stem": "जुलाई 2025 में जारी 2023-24 के लिए प्रदर्शन ग्रेडिंग सूचकांक (पी.जी.आई.) 2.0 में, दक्ष (ग्रेड नाम) के अंतर्गत कितने राज्य हैं?",
+  "options": [
+   "2",
+   "4",
+   "6",
+   "0"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "0",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3485
+  ],
+  "option_objs": [
+   2005,
+   359,
+   361,
+   1285
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 41,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.6,
+  "stem": "स्वच्छ सर्वेक्षण ग्रामीण (एस.एस.जी.) 2025 द्वारा एक राष्ट्रव्यापी ग्रामीण स्वच्छता सर्वेक्षण है।",
+  "options": [
+   "जल शक्ति मंत्रालय",
+   "नीति आयोग",
+   "राष्ट्रीय हरित अधिकरण",
+   "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "जल शक्ति मंत्रालय",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3487
+  ],
+  "option_objs": [
+   3489,
+   2286,
+   3491,
+   3493
+  ],
+  "diagram_objs": []
+ }
+]

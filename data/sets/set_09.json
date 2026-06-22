@@ -1,0 +1,602 @@
+[
+ {
+  "set": 9,
+  "qno": 21,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.7,
+  "stem": "The Council of Ministers in a state is collectively responsible to:",
+  "options": [
+   "President",
+   "Supreme Court",
+   "Governor",
+   "State Legislature"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "State Legislature",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2695
+  ],
+  "option_objs": [
+   101,
+   2697,
+   2699,
+   2701
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 22,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 96.0,
+  "stem": "Under which Article of the Indian Constitution is the joint sitting of Parliament provided?",
+  "options": [
+   "Article 107",
+   "Article 108",
+   "Article 109",
+   "Article 110"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Article 108",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2727
+  ],
+  "option_objs": [
+   2729,
+   2731,
+   2733,
+   2735
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 23,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "What is the main medium of transmission in Indian folk and tribal music?",
+  "options": [
+   "Written notation",
+   "Audio recordings",
+   "Guru-Shishya tradition",
+   "Oral tradition"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Oral tradition",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2737
+  ],
+  "option_objs": [
+   2739,
+   2741,
+   2743,
+   2745
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 24,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "The rolling of thunder is mainly due to",
+  "options": [
+   "Resonance of clouds",
+   "Successive reflections of sound",
+   "Lightning effect",
+   "Interference of sound waves"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Successive reflections of sound",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2747
+  ],
+  "option_objs": [
+   2749,
+   2751,
+   2753,
+   2755
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 25,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.9,
+  "stem": "The Aravalli Range extends from which direction?",
+  "options": [
+   "North to South",
+   "East to West",
+   "Northeast to Southwest",
+   "Northwest to Southeast"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Northeast to Southwest",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2757
+  ],
+  "option_objs": [
+   2759,
+   2779,
+   2781,
+   2783
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 26,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.0,
+  "stem": "The Rann of Kutch is located in which Indian state?",
+  "options": [
+   "Gujarat",
+   "Maharashtra",
+   "Rajasthan",
+   "Uttar Pradesh"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Gujarat",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2785
+  ],
+  "option_objs": [
+   2787,
+   1700,
+   2789,
+   2791
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 27,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "The Serpent and the Rope (Novel) is written by",
+  "options": [
+   "R.K. Narayan",
+   "Raja Rao",
+   "Mulk Raj Anand",
+   "Khushwant Singh"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Raja Rao",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2793
+  ],
+  "option_objs": [
+   2795,
+   2797,
+   2799,
+   2801
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 28,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.2,
+  "stem": "Which state elected the world’s first democratically elected communist government, with EMS Namboodiripad as CM?",
+  "options": [
+   "West Bengal",
+   "Kerala",
+   "Tripura",
+   "Andhra Pradesh"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Kerala",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2803
+  ],
+  "option_objs": [
+   2805,
+   2807,
+   2809,
+   2831
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 29,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.3,
+  "stem": "Healthy life expectancy in the Happiness Index is based on:",
+  "options": [
+   "Number of hospitals",
+   "Expected years of healthy living",
+   "Total fertility rate",
+   "Average years of schooling"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Expected years of healthy living",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2833
+  ],
+  "option_objs": [
+   2835,
+   2837,
+   2839,
+   2841
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 30,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.7,
+  "stem": "What capability does Project NETRA provide to ISRO?",
+  "options": [
+   "Deep-space communication",
+   "Space debris tracking and situational awareness",
+   "Human-rated life support",
+   "Lunar landing navigation"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Space debris tracking and situational awareness",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2843
+  ],
+  "option_objs": [
+   2845,
+   2847,
+   2849,
+   2851
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 31,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.6,
+  "stem": "The Indian men's hockey team won its last Olympic gold medal in which year?",
+  "options": [
+   "1972",
+   "1976",
+   "1980",
+   "1984"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "1980",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2853
+  ],
+  "option_objs": [
+   891,
+   2212,
+   893,
+   2855
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "India wants to explore Venus’s thick atmosphere and greenhouse effect. Which mission is planned?",
+  "options": [
+   "LUPEX",
+   "Shukrayaan (Venus Orbiter)",
+   "Chandrayaan-4",
+   "MOM-2"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Shukrayaan (Venus Orbiter)",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2876
+  ],
+  "option_objs": [
+   2878,
+   2880,
+   2882,
+   2884
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "Who was appointed as the new Comptroller and Auditor General (CAG) of India in February 2025?",
+  "options": [
+   "Girish Chandra Murmu",
+   "K. Sanjay Murthy",
+   "Vineet Pandey",
+   "Girish Chandra Tripathi"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "K. Sanjay Murthy",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2886
+  ],
+  "option_objs": [
+   2888,
+   2890,
+   2892,
+   2894
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 34,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.5,
+  "stem": "The Manmohan Singh Committee (1991) is known for:",
+  "options": [
+   "Liberalization and structural adjustment",
+   "Banking reforms",
+   "Agricultural reforms",
+   "Fiscal reforms"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Liberalization and structural adjustment",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2896
+  ],
+  "option_objs": [
+   2898,
+   2900,
+   2902,
+   2904
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.8,
+  "stem": "The bank nationalization in 1969 was primarily aimed at:",
+  "options": [
+   "Promoting exports",
+   "Controlling inflation",
+   "Reducing foreign investment",
+   "Extending credit to agriculture, small industries, and priority sectors"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Extending credit to agriculture, small industries, and priority sectors",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2924
+  ],
+  "option_objs": [
+   2926,
+   2928,
+   2930,
+   2932
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.6,
+  "stem": "Which economist gave the concept of comparative advantage?",
+  "options": [
+   "Keynes",
+   "Adam Smith",
+   "Hicks",
+   "Ricardo"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Ricardo",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2934
+  ],
+  "option_objs": [
+   2936,
+   2938,
+   2940,
+   2942
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.2,
+  "stem": "Which of the following most accurately reflects the fundamental orientation of public sector industries in India?",
+  "options": [
+   "They are primarily export-driven enterprises",
+   "They function with the exclusive motive of profit maximization",
+   "They are predominantly under foreign ownership and control",
+   "They prioritize wider socio-economic developmental objectives"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "They prioritize wider socio-economic developmental objectives",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2944
+  ],
+  "option_objs": [
+   2946,
+   2948,
+   2950,
+   2952
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "About of children in India aged 6-23 months lack diversity in diet as suggested by the World Health Organization in 2024.",
+  "options": [
+   "77%",
+   "12%",
+   "90%",
+   "32%"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "77%",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2954
+  ],
+  "option_objs": [
+   2956,
+   353,
+   2973,
+   2975
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.8,
+  "stem": "In which of the following years did the East India Company ultimately annexed Punjab?",
+  "options": [
+   "1836",
+   "1841",
+   "1849",
+   "1856"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "1849",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2977
+  ],
+  "option_objs": [
+   2979,
+   2981,
+   2983,
+   2985
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 9,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.5,
+  "stem": "in which of the following year the Court of Directors of the East India Company in London sent an educational (Wood's) dispatch to the Governor-General in India?",
+  "options": [
+   "1830",
+   "1854",
+   "1861",
+   "1875"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1854",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2987
+  ],
+  "option_objs": [
+   2989,
+   2991,
+   2993,
+   2995
+  ],
+  "diagram_objs": []
+ }
+]

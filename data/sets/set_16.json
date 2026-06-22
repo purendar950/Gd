@@ -1,0 +1,602 @@
+[
+ {
+  "set": 16,
+  "qno": 21,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 90.0,
+  "stem": "Which constitutional body audits the accounts of the Union and states?",
+  "options": [
+   "Finance Commission",
+   "Comptroller and Auditor General",
+   "NITI Aayog",
+   "Union Public Service Commission"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Comptroller and Auditor General",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4910
+  ],
+  "option_objs": [
+   21,
+   4912,
+   25,
+   4914
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 22,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.0,
+  "stem": "Which type of emergency has never been proclaimed in India?",
+  "options": [
+   "National Emergency",
+   "President’s Rule",
+   "Financial Emergency",
+   "None of the above"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Financial Emergency",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4940
+  ],
+  "option_objs": [
+   4942,
+   4944,
+   4946,
+   4948
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 23,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.5,
+  "stem": "Who has the power to appoint the Advocate General of a State?",
+  "options": [
+   "Chief Minister",
+   "State Legislature",
+   "Governor",
+   "President"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Governor",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4950
+  ],
+  "option_objs": [
+   4952,
+   2701,
+   2699,
+   101
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 24,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.8,
+  "stem": "What is the frequency range of sound that can be heard by the human ear?",
+  "options": [
+   "2 Hz to 200 Hz",
+   "20 Hz to 20,000 Hz",
+   "200 Hz to 2000 Hz",
+   "2000 Hz to 20,000 Hz"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "20 Hz to 20,000 Hz",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4954
+  ],
+  "option_objs": [
+   4956,
+   4958,
+   4960,
+   4962
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 25,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.3,
+  "stem": "Which of the following is NOT a work written by William Wordsworth?",
+  "options": [
+   "The Excursion",
+   "Intimations of Immortality",
+   "Hyperion",
+   "Michael"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Hyperion",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4964
+  ],
+  "option_objs": [
+   4966,
+   4986,
+   4988,
+   4990
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 26,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 82.5,
+  "stem": "Which of the following is the largest contributor to urban PM2.5 in India?",
+  "options": [
+   "industrial emissions",
+   "Construction dust",
+   "Vehicle exhaust",
+   "All of these"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "All of these",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4992
+  ],
+  "option_objs": [
+   4994,
+   4996,
+   4998,
+   5000
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 27,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.9,
+  "stem": "Which of the following meteorological factors can reduce Air Quality Index (AQI) temporarily?",
+  "options": [
+   "High humidity without rain",
+   "Calm wind",
+   "Temperature inversion",
+   "Rain"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Rain",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5002
+  ],
+  "option_objs": [
+   5004,
+   5006,
+   5008,
+   5010
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 28,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.5,
+  "stem": "Neeraj Chopra won his first-ever gold medal in javelin at the Asian Games in which year and city?",
+  "options": [
+   "2014, Incheon",
+   "2018, Jakarta",
+   "2022, Hangzhou",
+   "2010, Guangzhou"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "2018, Jakarta",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5012
+  ],
+  "option_objs": [
+   5014,
+   5016,
+   5018,
+   5040
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 29,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "What are anabolic steroids primarily used for by athletes who misuse them?",
+  "options": [
+   "Increase endurance",
+   "Enhance flexibility",
+   "Build muscle mass",
+   "Reduce fatigue"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Build muscle mass",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5042
+  ],
+  "option_objs": [
+   5044,
+   5046,
+   5048,
+   5050
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 30,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 29.0,
+  "stem": "Which element is required by the thyroid gland to produce thyroxine?",
+  "options": [
+   "Calcium",
+   "iodine",
+   "Sodium",
+   "Potassium"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "iodine",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5052
+  ],
+  "option_objs": [
+   5054,
+   5056,
+   5058,
+   5060
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 31,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.7,
+  "stem": "The Goods and Services Tax Council is chaired by:",
+  "options": [
+   "Prime Minister",
+   "NITI Aayog CEO",
+   "RBI Governor",
+   "Finance Minister of India"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Finance Minister of India",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5062
+  ],
+  "option_objs": [
+   103,
+   5064,
+   5066,
+   5068
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.0,
+  "stem": "Aurangzeb’s long Deccan campaigns mainly aimed at subduing",
+  "options": [
+   "The Rajputs",
+   "The Marathas",
+   "The Afghans",
+   "The Portuguese"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "The Marathas",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5088
+  ],
+  "option_objs": [
+   5090,
+   5092,
+   5094,
+   5096
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 73.5,
+  "stem": "Which of the following is a target groups for PM-DAKSH Scheme which is seen in news in July 2025? 1. Scheduled Caste I]. Other Backward Caste",
+  "options": [
+   "Only |",
+   "Only II",
+   "Both | and Il",
+   "Neither | nor Il"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Both | and Il",
+  "highlight_tag": "G",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   5100,
+   5102,
+   5104,
+   5106
+  ],
+  "diagram_objs": [
+   5098
+  ]
+ },
+ {
+  "set": 16,
+  "qno": 34,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 90.0,
+  "stem": "Which Pallava king defeated and killed Pulakesin II?",
+  "options": [
+   "Dhruva",
+   "Parantaka |",
+   "Narasimhavarman |",
+   "Amoghavarsha |"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Narasimhavarman |",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5108
+  ],
+  "option_objs": [
+   5110,
+   5112,
+   5114,
+   5116
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.3,
+  "stem": "‘Kambala’ festival is celebrated in which of the following Indian state?",
+  "options": [
+   "Karnataka",
+   "Gujarat",
+   "Assam",
+   "Tripura"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Karnataka",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5137
+  ],
+  "option_objs": [
+   5139,
+   5141,
+   5143,
+   5145
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "The 3-day International Bird Festival 2025 was organised at from 16 to 18 February 2025.",
+  "options": [
+   "Prayagraj",
+   "Bhopal",
+   "Patna",
+   "Bhagalpur"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Prayagraj",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5147
+  ],
+  "option_objs": [
+   5149,
+   5151,
+   5153,
+   5155
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.0,
+  "stem": "Who delivered a speech in Bombay on January 15, 1908, declaring that the purpose of national education was to awaken the spirit of nationalism among students?",
+  "options": [
+   "Rabindranath Tagore",
+   "Sri Aurobindo Ghose",
+   "Lala Lajpat Rai",
+   "Mahatma Gandhi"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Sri Aurobindo Ghose",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5157
+  ],
+  "option_objs": [
+   5159,
+   5161,
+   5163,
+   5165
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 84.0,
+  "stem": "The religious group saw the highest decadal population growth rate in India between the 2001 and 2011 censuses.",
+  "options": [
+   "Sikh",
+   "Muslim",
+   "Buddhist",
+   "Hindu"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Muslim",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5167
+  ],
+  "option_objs": [
+   5183,
+   5185,
+   5187,
+   5189
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 16,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 74.0,
+  "stem": "Which of the following is NOT the way to finance a budgetary deficit? I. Borrowings II. Taxation",
+  "options": [
+   "Only I",
+   "Only II",
+   "Both I and II",
+   "Neither I nor II"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Neither I nor II",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   5193,
+   5195,
+   5197,
+   5199
+  ],
+  "diagram_objs": [
+   5191
+  ]
+ },
+ {
+  "set": 16,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 78.0,
+  "stem": "The Operation Gideon Chariots is associated with which of the following country?",
+  "options": [
+   "India",
+   "israel",
+   "Turkey",
+   "UAE"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "israel",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5201
+  ],
+  "option_objs": [
+   5203,
+   5205,
+   5207,
+   5209
+  ],
+  "diagram_objs": []
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "set": 5,
+  "qno": 21,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 90.0,
+  "stem": "Which body recommends the distribution of tax revenues between union and states?",
+  "options": [
+   "NITI Aayog",
+   "Parliament",
+   "Finance Commission",
+   "Planning Commission"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Finance Commission",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1400
+  ],
+  "option_objs": [
+   25,
+   23,
+   21,
+   19
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 22,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "During a financial emergency under Article 360, the president can:",
+  "options": [
+   "Reduce salaries of government employees",
+   "Dismiss State Governments",
+   "Dissolve Parliament",
+   "Suspend Fundamental Rights"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Reduce salaries of government employees",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1423
+  ],
+  "option_objs": [
+   1425,
+   1427,
+   1429,
+   1431
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 23,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 89.0,
+  "stem": "Why is the Raga Tarangini considered highly important in Hindustani music history?",
+  "options": [
+   "It uses only southern raga's",
+   "It introduces tabla and harmonium",
+   "It uses many raga names still in use today",
+   "It rejects traditional Indian theories"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "It uses many raga names still in use today",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1433
+  ],
+  "option_objs": [
+   1435,
+   1437,
+   1439,
+   1441
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 24,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 87.7,
+  "stem": "Archimedes’ principle states that a body immersed in a fluid experiences an upward force equal to",
+  "options": [
+   "Its own weight",
+   "The volume of the body",
+   "The weight of the fluid displaced",
+   "The density of the fluid"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "The weight of the fluid displaced",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1443
+  ],
+  "option_objs": [
+   1445,
+   1447,
+   1449,
+   1451
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 25,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 90.0,
+  "stem": "Which poetic collection by Sumitranandan Pant won him the Jnanpith Award?",
+  "options": [
+   "Pallav",
+   "Kala Aur Budhdha Chand",
+   "Chidambara",
+   "Veena"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Chidambara",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1453
+  ],
+  "option_objs": [
+   1455,
+   1476,
+   1478,
+   1480
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 26,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.3,
+  "stem": "The Sunderbans Delta is formed by the confluence of which rivers?",
+  "options": [
+   "Ganga and Yamuna",
+   "Ganga and Brahmaputra",
+   "Godavari and Krishna",
+   "Mahanadi and Godavari"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Ganga and Brahmaputra",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1482
+  ],
+  "option_objs": [
+   1484,
+   1486,
+   1488,
+   1490
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 27,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.5,
+  "stem": "The Himalayas are wider in which sector of India?",
+  "options": [
+   "Western Himalayas",
+   "Central Himalayas",
+   "Eastern Himalayas",
+   "Shiwalik Himalayas"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Western Himalayas",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1492
+  ],
+  "option_objs": [
+   1494,
+   1496,
+   1498,
+   1500
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 28,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.5,
+  "stem": "Who won the ICC Men’s ODI Cricketer of the Year award in 2023?",
+  "options": [
+   "Pat Cummins",
+   "Suryakumar Yadav",
+   "Usman Khawaja",
+   "Virat Kohli"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Virat Kohli",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1502
+  ],
+  "option_objs": [
+   1504,
+   1506,
+   1508,
+   1531
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 29,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.8,
+  "stem": "How many key variables are used to rank countries in the Happiness Index?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "6",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1533
+  ],
+  "option_objs": [
+   1535,
+   1537,
+   1539,
+   1541
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 30,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.3,
+  "stem": "When did India's men's national football team last qualify for the Olympic Games?",
+  "options": [
+   "1956",
+   "1960",
+   "1964",
+   "1972"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1960",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1543
+  ],
+  "option_objs": [
+   1545,
+   1547,
+   1549,
+   891
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 31,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 96.0,
+  "stem": "Which telescope provided the first direct image of a black hole?",
+  "options": [
+   "Hubble",
+   "Event Horizon Telescope",
+   "Spitzer",
+   "Kepler"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Event Horizon Telescope",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1551
+  ],
+  "option_objs": [
+   1553,
+   1555,
+   1557,
+   1559
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 51.0,
+  "stem": "if an astronaut’s mass is 70 kg, what will be their weight on the Moon (1/6th of Earth's gravity)?",
+  "options": [
+   "700",
+   "117 N",
+   "420N",
+   "686 N"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "117 N",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1580
+  ],
+  "option_objs": [
+   1582,
+   1584,
+   1586,
+   1588
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "Minimum Support Price (MSP) was introduced in:",
+  "options": [
+   "1950s",
+   "1960s",
+   "1970s",
+   "1980s"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1960s",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1590
+  ],
+  "option_objs": [
+   1592,
+   1594,
+   1596,
+   1598
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 34,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "The Make in India initiative was launched in:",
+  "options": [
+   "2010",
+   "2012",
+   "2014",
+   "2015"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "2014",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1600
+  ],
+  "option_objs": [
+   1602,
+   1604,
+   1606,
+   369
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 85.0,
+  "stem": "Which micro-missile system did India test in 2025?",
+  "options": [
+   "Astra-ll",
+   "Vibhavasu",
+   "Bhargavastra",
+   "Pralay"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Bhargavastra",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1608
+  ],
+  "option_objs": [
+   1630,
+   1632,
+   1634,
+   1636
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 90.0,
+  "stem": "Which index measures wholesale prices?",
+  "options": [
+   "Gross Domestic Product Deflator",
+   "Consumer Price Index",
+   "Index of Industrial Production",
+   "Wholesale Price Index"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Wholesale Price Index",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1638
+  ],
+  "option_objs": [
+   1640,
+   1642,
+   1644,
+   1646
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 88.1,
+  "stem": "Which structural constraint continues to be the most critical factor limiting agricultural productivity in India?",
+  "options": [
+   "inadequacy of fertile soils across major regions",
+   "High dependence on monsoonal variability",
+   "Chronic shortage of agricultural labor",
+   "Weakness of domestic market linkages"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "High dependence on monsoonal variability",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1648
+  ],
+  "option_objs": [
+   1650,
+   1652,
+   1654,
+   1656
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.4,
+  "stem": "In , the Centre officially announced the scrapping of the 'No-Detention Policy' for Classes 5 and 8 in central government-run schools?",
+  "options": [
+   "November 2024",
+   "December 2024",
+   "January 2025",
+   "October 2024"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "December 2024",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1658
+  ],
+  "option_objs": [
+   1660,
+   1662,
+   1680,
+   1682
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "Who among the following was never the Nawab of Bengal?",
+  "options": [
+   "Alivardi Khan",
+   "Saadat Ali Khan",
+   "Mir Qasim",
+   "Sirajuddaulah"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Saadat Ali Khan",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1684
+  ],
+  "option_objs": [
+   1686,
+   1688,
+   1690,
+   1692
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 5,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "Henry Lawrence was the Chief Commissioner of which state during the Revolt of 1857?",
+  "options": [
+   "Awadh",
+   "Odisha",
+   "Maharashtra",
+   "Punjab"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Awadh",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1694
+  ],
+  "option_objs": [
+   1696,
+   1698,
+   1700,
+   1702
+  ],
+  "diagram_objs": []
+ }
+]

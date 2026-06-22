@@ -1,0 +1,602 @@
+[
+ {
+  "set": 8,
+  "qno": 21,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 46.7,
+  "stem": "wast nefaand po daca wala wea ata HA BANG?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "3",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2356
+  ],
+  "option_objs": [
+   1962,
+   1964,
+   1535,
+   1537
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 22,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 22.0,
+  "stem": "faafife fags acy afb ASTON BWA Sas WS PSA Afar SA?",
+  "options": [
+   "arate aft cows face aa",
+   "शंधावसज्ञी थहि (उए४ पिएउ शांपत।",
+   "afe WASA ASA 3 PSHA AP-OSAT WHA AIHA EAI",
+   "of afS Sy Tad DSA ww MBI BT!"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "afe WASA ASA 3 PSHA AP-OSAT WHA AIHA EAI",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2386
+  ],
+  "option_objs": [
+   2388,
+   2390,
+   2392,
+   2394
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 23,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 27.0,
+  "stem": "alfo qos wees faced rato wiSPost IGA Pa?",
+  "options": [
+   "API G ARAMA Gal FSSA AAAS OS WS B AITST FS",
+   "APPA AAIPTS ANA Torn",
+   "Sqaa IO ACS aaa Ula MHfaACIP TS To",
+   "OMS 8 bit Waa SA VSS FS"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "API G ARAMA Gal FSSA AAAS OS WS B AITST FS",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2396
+  ],
+  "option_objs": [
+   2398,
+   2400,
+   2402,
+   2404
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 24,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 25.2,
+  "stem": "fas aie BIStaaitral Afaatal EIA PPSBASt CIPsep Pica?",
+  "options": [
+   "Oat PTS ANG",
+   "Ace bind (US Pega SA CPs) Taga Acws 3 Waa nies",
+   "जाधाज्न जुउिन्न (शासाक",
+   "जाएलाशात़ कांपिज"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Ace bind (US Pega SA CPs) Taga Acws 3 Waa nies",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2406
+  ],
+  "option_objs": [
+   2408,
+   2410,
+   2412,
+   2414
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 25,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 27.0,
+  "stem": "GIA TH HAyCar WH CIA IRSA F-BI ASA PACS?",
+  "options": [
+   "(शानावती",
+   "TAT",
+   "PRI",
+   "शसूता"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "TAT",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2416
+  ],
+  "option_objs": [
+   2439,
+   2441,
+   2443,
+   2445
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 26,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 39.3,
+  "stem": "wri afsafeant Frat const ors SS pe afSfSo aa?",
+  "options": [
+   "1895",
+   "1925",
+   "1905",
+   "1915"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "1905",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2447
+  ],
+  "option_objs": [
+   2449,
+   2451,
+   2453,
+   2455
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 27,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 0.0,
+  "stem": "“CAD FACES Bian” SIA ASEM ACTA WAHT FICS GIES?",
+  "options": [
+   "aalaalsa",
+   "तीलश्का",
+   "ढेतत्नाएलसिंशा",
+   "नाश्लाएनस"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "ढेतत्नाएलसिंशा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2457
+  ],
+  "option_objs": [
+   2459,
+   2461,
+   2463,
+   2465
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 28,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 25.5,
+  "stem": "ढेऊिशाएन जान्नरउन् शथव सड्लि सड्न ७ जाडाघाऊी शावलाकाती (क? ऊिवि ज्ञावि (उलू ताछिशाएवन् (जता शक्षात७ छिएलत",
+  "options": [
+   "कुश्चिलि",
+   "Rt CRT",
+   "arofsrat arerat",
+   "arereifa are"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "कुश्चिलि",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2467
+  ],
+  "option_objs": [
+   2469,
+   2471,
+   2495,
+   2497
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 29,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 16.0,
+  "stem": "शपि तरक्जाएँ जूद्यत्न सतजा कच्च, उत्व शुशिवीव् जुलताश वडिरर्किफित्र शुरु जाधवाजा जर्न््क की उतूुवात कन्ना (थऊ शांत?",
+  "options": [
+   "DIeraIA Tors SHoI",
+   "APs SIAATal",
+   "Tot",
+   "WAGGA SAT CIMA SSA ATG AT"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "APs SIAATal",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2499
+  ],
+  "option_objs": [
+   2501,
+   2503,
+   2505,
+   2507
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 30,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 21.0,
+  "stem": "(एकांत वन्मिर्ता्ि डित्मू ७ देजलावि झानिजात्पलीऩ जउतता जश्सियरनत् जता शन्िषिउ?",
+  "options": [
+   "Pod faa",
+   "लग्की ताज्नाशप सत्मनित, उत्ञछा",
+   "जौष्ि खुश",
+   "जुर्थ सत्निज्न, (काताज्क"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "लग्की ताज्नाशप सत्मनित, उत्ञछा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2509
+  ],
+  "option_objs": [
+   2511,
+   2513,
+   2515,
+   2517
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 31,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 14.0,
+  "stem": "afadia sews fags Batad St PACT ACG?",
+  "options": [
+   "जुर्थ ७ हएनव् साथाकर्षतीश ययाकर्षन",
+   "ofa araseas fs",
+   "xfadta wows fSaAot",
+   "Gia ay"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "जुर्थ ७ हएनव् साथाकर्षतीश ययाकर्षन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2519
+  ],
+  "option_objs": [
+   2521,
+   2523,
+   2525,
+   2551
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 32,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 23.0,
+  "stem": "1950 sive fat areaoda eaait afSfhteo asara oa faaffto ar at ae oife farofae?",
+  "options": [
+   "सार्कित यूऊत्नाडे",
+   "ज्या्ट्जक्ठिता",
+   "बाजिल",
+   "USPSA"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "ज्या्ट्जक्ठिता",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2553
+  ],
+  "option_objs": [
+   2555,
+   2557,
+   2559,
+   2561
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 50.4,
+  "stem": "#0६ वलएऊ की (वावाश?",
+  "options": [
+   "Wrewifos Sabre 30sb APU (Federation of international Digital Events)",
+   "GPO SISAUPAIT COW B06H (Federation internationale des Echecs)",
+   "AVA BSenfos (Go ABMAaASA (First International Dual Enterprise)",
+   "QPUITETA BP BSAA COMA BSH (Federation of indian Domestic Events)"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "GPO SISAUPAIT COW B06H (Federation internationale des Echecs)",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2563
+  ],
+  "option_objs": [
+   2565,
+   2567,
+   2569,
+   2571
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 34,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 0.0,
+  "stem": "कर्क (कांपखन्न शाहिएव (काल शपार्थ या खेनापात शातक, था (जखलिट्क शग़ाज ७ जएलन्न शधेंठि जाएऊना कान (उाएल?",
+  "options": [
+   "किरछेठित",
+   "लिशतित",
+   "winafaa",
+   "ATA"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "winafaa",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2573
+  ],
+  "option_objs": [
+   2575,
+   2577,
+   2579,
+   2581
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 16.0,
+  "stem": "Posty AAA At oa Bat ASS AScorpfyalt (mitochondrion) BGS acs?",
+  "options": [
+   "aio",
+   "fo",
+   "उितर्हि",
+   "biafo"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "fo",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2605
+  ],
+  "option_objs": [
+   2607,
+   2609,
+   2611,
+   2613
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 0.0,
+  "stem": "witoca fafaca SACO EIA AICS Aatetera MAA WA CATE IPA ?",
+  "options": [
+   "THIACHT",
+   "BPA",
+   "WPM AMT",
+   "छुद्धिस्रेछ"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "THIACHT",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2615
+  ],
+  "option_objs": [
+   2617,
+   2619,
+   2621,
+   2623
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 35.2,
+  "stem": "ABA 6 as AN 'a-feorts as afoced ay ass wast feels aap, ah Foote awe ahora Gel ao je BA, VIR UIT ASiae EBS CHA BA AA VBA APICTA TOM ACH FAA AAS CHAM FMF CHA BA",
+  "options": [
+   "2",
+   "5",
+   "6",
+   "4"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2625
+  ],
+  "option_objs": [
+   1962,
+   1537,
+   1539,
+   1535
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 16.8,
+  "stem": "fafa grat aafSo forget amiacsa Wats, anand Dora aaa ifs St fa?",
+  "options": [
+   "faces Tifa Bra Pa",
+   "PIP DS ACEH AGA BMT SA AAS HPO ASS AMT Sal",
+   "विठिसिएनत जाएथ शगा वानिय्या",
+   "नापषिऊा) के भविालता कनना"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "PIP DS ACEH AGA BMT SA AAS HPO ASS AMT Sal",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2647
+  ],
+  "option_objs": [
+   2649,
+   2651,
+   2653,
+   2655
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 21.0,
+  "stem": "fafoxrat setae Ba Ola At Gorsrar Alaiwo IA *AHG Ala Pa?",
+  "options": [
+   "wisi orat",
+   "Y J",
+   "QPUICIT",
+   "ऊासाविन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "wisi orat",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2657
+  ],
+  "option_objs": [
+   2659,
+   2661,
+   2663,
+   2665
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 8,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 41.3,
+  "stem": "I. Thos ASS IL. Fathosr Mat AES",
+  "options": [
+   "Byte |",
+   "खधूमांज हा",
+   "1 442 I] GwasR",
+   "Lat Il tates aa"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Byte |",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   2669,
+   2671,
+   2673,
+   2675
+  ],
+  "diagram_objs": [
+   2667
+  ]
+ }
+]

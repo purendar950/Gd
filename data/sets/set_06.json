@@ -1,0 +1,602 @@
+[
+ {
+  "set": 6,
+  "qno": 21,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "संविधान की कौन सी अनुसूची संघ और राज्यों के बीच शक्तियों के विभाजन को निर्दिष्ट करती है?",
+  "options": [
+   "5वीं अनुसूची",
+   "7वीं अनुसूची",
+   "9वीं अनुसूची",
+   "|0वीं अनुसूची"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "7वीं अनुसूची",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1720
+  ],
+  "option_objs": [
+   1722,
+   1724,
+   1726,
+   1728
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 22,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "राज्यपाल को उनके पद की शपथ किसके द्वारा दिलाई जाती है?",
+  "options": [
+   "राष्ट्रपति",
+   "प्रधानमंत्री",
+   "उच्च न्यायालय के मुख्य न्यायाधीश",
+   "मुख्यमंत्री"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "उच्च न्यायालय के मुख्य न्यायाधीश",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1756
+  ],
+  "option_objs": [
+   781,
+   749,
+   1758,
+   745
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 23,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.8,
+  "stem": "टिप्पणी नृत्य की प्राथमिक विशेषता क्या है?",
+  "options": [
+   "लयबद्ध नृत्य करते समय नर्तकों द्वारा “टिप्पणी” नामक छड़ियों का प्रयोग",
+   "तलवारों और ढालों से तलवारबाजी",
+   "धीमी और सुंदर गति के साथ एकल नृत्य",
+   "रूमाल का गोलाकार गति में उपयोग"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "लयबद्ध नृत्य करते समय नर्तकों द्वारा “टिप्पणी” नामक छड़ियों का प्रयोग",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1760
+  ],
+  "option_objs": [
+   1762,
+   1764,
+   1766,
+   1768
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 24,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 86.0,
+  "stem": "कालबेलिया नृत्य किस भारतीय राज्य का पारंपरिक लोक नृत्य है?",
+  "options": [
+   "गुजरात",
+   "राजस्थान",
+   "पंजाब",
+   "महाराष्ट्र"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "राजस्थान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1770
+  ],
+  "option_objs": [
+   846,
+   1772,
+   1774,
+   1776
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 25,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.5,
+  "stem": "निम्नलिखित में से कौन सा पर्वतीय दर्रा सिक्किम के माध्यम से भारत को तिब्बत से जोड़ता है?",
+  "options": [
+   "नाथू ला",
+   "रोहतांग दर्रा",
+   "शिपकी ला",
+   "ज़ोजी ला"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "नाथू ला",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1778
+  ],
+  "option_objs": [
+   1796,
+   1798,
+   1800,
+   1802
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 26,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "भारत के किस भाग में मानसून के कारण सर्वाधिक वर्षा होती है?",
+  "options": [
+   "केरल तट",
+   "मावसिनराम, मेघालय",
+   "कोंकण तट",
+   "पश्चिमी राजस्थान"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "मावसिनराम, मेघालय",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1804
+  ],
+  "option_objs": [
+   1806,
+   1808,
+   1810,
+   1812
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 27,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 75.3,
+  "stem": "स्वदेशी आंदोलन की आलोचना करने वाली पुस्तक \"घरे-बाईरे\" (घर और दुनिया) किस बंगाली साहित्यकार द्वारा लिखी गई थी?",
+  "options": [
+   "बंकिम चंद्र चट्टोपाध्याय",
+   "शरत चंद्र चट्टोपाध्याय",
+   "रवीन्द्रनाथ टैगोर",
+   "भबानी भट्टाचार्य"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "रवीन्द्रनाथ टैगोर",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1814
+  ],
+  "option_objs": [
+   1816,
+   1818,
+   1820,
+   1822
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 28,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 89.5,
+  "stem": "भारत के स्वतंत्रता संग्राम के दौरान किस युवा क्रांतिकारी ने 4 वर्ष की आयु में एक ब्रिटिश मजिस्ट्रेट की हत्या कर दी थी?",
+  "options": [
+   "सुनीति चौधरी",
+   "तारा रानी श्रीवास्तव",
+   "मातंगिनी हाजरा",
+   "अरुणा आसफ अली"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "सुनीति चौधरी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1824
+  ],
+  "option_objs": [
+   1826,
+   1828,
+   1849,
+   1378
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 29,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "कौन-सा शहर अपने फ्रेंच क्वार्टर के लिए प्रसिद्ध है, जो फ्रांसीसी और भारतीय स्थापत्य शैली का मिश्रण प्रदर्शित करता है?",
+  "options": [
+   "मुंबई",
+   "कोलकाता",
+   "पांडिचेरी",
+   "चेन्नई"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "पांडिचेरी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1851
+  ],
+  "option_objs": [
+   656,
+   1853,
+   1855,
+   1857
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 30,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 74.8,
+  "stem": "यूरेनस का अक्षीय झुकाव (8:09 (॥) लगभग 98\" है, यानी यह लगभग अपने पार्श्र (30६6) पर घूर्णन करता है। इसका यूरेनस के मौसमों पर क्या प्रभाव पड़ता है?",
+  "options": [
+   "अत्यधिक मौसमी परिवर्तन",
+   "कोई मौसमी परिवर्तन नहीं होता है",
+   "मृदु मौसम",
+   "एक पार्श्श पर स्थायी दिन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "अत्यधिक मौसमी परिवर्तन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1859
+  ],
+  "option_objs": [
+   1861,
+   1863,
+   1865,
+   1867
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 31,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 62.3,
+  "stem": "00 प्रकाश वर्ष दूर स्थित किसी तारे से प्रकाश को पृथ्वी तक पहुँचने में लगभग 00 वर्ष लगते हैं। विस्फोट के बाद (यदि वह अभी विस्फोट करता है) तारा हमें कितने समय तक दिखाई देगा?",
+  "options": [
+   "तुरंत",
+   "00 वर्ष में",
+   "| वर्ष में",
+   "कभी नहीं"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "00 वर्ष में",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1869
+  ],
+  "option_objs": [
+   1871,
+   1873,
+   1875,
+   1897
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 68.0,
+  "stem": "मैरी कॉम ने किस वर्ष और किस ओलंपिक स्थल पर मुक्‍्केबाजी में कांस्य पदक जीता था?",
+  "options": [
+   "2008, बीजिंग",
+   "2012, aaa",
+   "2016, Rat St set",
+   "2020, creat"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "2012, aaa",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1899
+  ],
+  "option_objs": [
+   1901,
+   1903,
+   1905,
+   1907
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 87.3,
+  "stem": "टोक्यो 2020 ओलंपिक में भारत ने कितने पदक जीते?",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "7",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1909
+  ],
+  "option_objs": [
+   1537,
+   1539,
+   1541,
+   1911
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 34,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "अस्थि, प्राणि-ऊतकों की किस श्रेणी से संबंधित है?",
+  "options": [
+   "पेशीय ऊतक",
+   "संयोजी ऊतक",
+   "तंत्रिका ऊतक",
+   "उपकला ऊतक"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "संयोजी ऊतक",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1913
+  ],
+  "option_objs": [
+   1915,
+   1917,
+   1919,
+   1921
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 35,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 78.5,
+  "stem": "हरितलवक का प्राथमिक कार्य क्या है?",
+  "options": [
+   "स्टार्च का भंडारण",
+   "प्रोटीन संश्लेषण",
+   "माइटोकॉन्ड्रिया जैसा ऊर्जा उत्पादन",
+   "प्रकाश संश्लेषण"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "प्रकाश संश्लेषण",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1942
+  ],
+  "option_objs": [
+   1944,
+   1316,
+   1946,
+   1948
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 36,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 86.5,
+  "stem": "के कारण पश्चिमी घाट यूनेस्को विश्व धरोहर स्थल है।",
+  "options": [
+   "खनिज संसाधनों",
+   "समृद्ध जैव विविधता",
+   "प्राचीन स्मारकों",
+   "सांस्कृतिक महत्व"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "समृद्ध जैव विविधता",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1950
+  ],
+  "option_objs": [
+   1952,
+   1954,
+   1956,
+   1958
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.2,
+  "stem": "जून 2024 में, केंद्रीय मंत्रिमंडल ने 2024-25 से 2028-29 की अवधि के लिए पी.एम.ए.वाई.-जी के तहत अतिरिक्त करोड़ घरों के निर्माण को स्वीकृति दी।",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1960
+  ],
+  "option_objs": [
+   1962,
+   1964,
+   1535,
+   1537
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 38,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 89.3,
+  "stem": "लखनऊ में अंग्रेजों के ख़िलाफ़ 857 के विद्रोह को बढ़ावा देने में किसने बढ़ चढ़कर हिस्सा लिया था?",
+  "options": [
+   "नाना साहब",
+   "बेगम हज़रत महल",
+   "रानी लक्ष्मीबाई",
+   "बहादुर शाह ज़फ़र"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "बेगम हज़रत महल",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1983
+  ],
+  "option_objs": [
+   1985,
+   1987,
+   1989,
+   1991
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 50.0,
+  "stem": "857 के विद्रोह के दौरान अंग्रेजों ने विद्रोहियों से दिल्‍ली का नियंत्रण कब वापस लिया था?",
+  "options": [
+   "GA 1857",
+   "fadax 1857",
+   "Wat 1858",
+   "ard 1858"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "fadax 1857",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1993
+  ],
+  "option_objs": [
+   1995,
+   1997,
+   1999,
+   2001
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 6,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 76.1,
+  "stem": "एग रा का 2 आई.पी.आर.आई. (57रा) रिपोर्ट के अनुसार, 2020-24 में सभी हथियारों के आयात में एशिया और ओशिनिया के देशों की दा",
+  "options": [
+   "33%",
+   "50%",
+   "74%",
+   "81%"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "33%",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2003
+  ],
+  "option_objs": [
+   2005,
+   2007,
+   2009,
+   2011
+  ],
+  "diagram_objs": []
+ }
+]

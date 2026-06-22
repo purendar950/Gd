@@ -1,0 +1,602 @@
+[
+ {
+  "set": 35,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 47.5,
+  "stem": "निम्नलिखित में कौन से संवैधानिक संशोधन ने सहकारी समितियों को संवैधानिक दर्जा दिया?",
+  "options": [
+   "73वां संशोधन",
+   "86वां संशोधन",
+   "9१वां संशोधन",
+   "97वां संशोधन"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "97वां संशोधन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1410
+  ],
+  "option_objs": [
+   1412,
+   1414,
+   1416,
+   1418
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "गिह्दा प्रदर्शन के दौरान प्राय: किस संगीत वाद्यायंत्र का उपयोग किया जाता है?",
+  "options": [
+   "तबला",
+   "ढोल",
+   "हारमोनियम",
+   "सारंगी"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "ढोल",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1444
+  ],
+  "option_objs": [
+   1446,
+   1448,
+   1450,
+   1452
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 53.5,
+  "stem": "कौन सा भौगोलिक प्रभाग अपनी समृद्ध जलोढ़ मिट्टी और उच्च जनसंख्या घनत्व के लिए प्रसिद्ध है?",
+  "options": [
+   "प्रायद्वीपीय पठार",
+   "उत्तरी मैदान",
+   "तटीय मैदान",
+   "हिमालय"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "उत्तरी मैदान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1454
+  ],
+  "option_objs": [
+   1456,
+   1458,
+   1460,
+   1462
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 69.0,
+  "stem": "897 में कैथोड किरण प्रयोगों के माध्यम से इलेक्ट्रॉन की खोज किसने की थी?",
+  "options": [
+   "अर्नेस्ट रदरफोर्ड",
+   "जे.जे. थॉमसन",
+   "नील्स बोहर",
+   "जेम्स चैडविक"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "जे.जे. थॉमसन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1464
+  ],
+  "option_objs": [
+   1466,
+   1468,
+   1470,
+   1472
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.3,
+  "stem": "निम्नलिखित में से कौन भारत में इंडो-गोथिक वास्तुकला का एक प्रमुख उदाहरण है?",
+  "options": [
+   "छत्रपति शिवाजी महाराज वास्तु संग्रहालय (पूर्व में प्रिंस ऑफ वेल्स संग्रहालय), मुंबई",
+   "ताजमहल, आगरा",
+   "कुतुब मीनार, दिल्‍ली",
+   "लाल किला, दिल्‍ली"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "छत्रपति शिवाजी महाराज वास्तु संग्रहालय (पूर्व में प्रिंस ऑफ वेल्स संग्रहालय), मुंबई",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1474
+  ],
+  "option_objs": [
+   1476,
+   1500,
+   1502,
+   1504
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 26,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.9,
+  "stem": "खो-खो में एक डिफेंस पारी के आरंभ में कितने डिफेंडर प्रवेश करते हैं?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "3",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1506
+  ],
+  "option_objs": [
+   1508,
+   1510,
+   1512,
+   1514
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 71.3,
+  "stem": "भारत में कौन सी फसल भोजन और चारे दोनों के रूप में उपयोग की जाती है?",
+  "options": [
+   "जौ (होर्डियम वल्गेरे)",
+   "गन्ना (सैकरम ऑफ़िसिनारम)",
+   "मक्का (ज़िया मेस)",
+   "ज्वार (सोरघम बाइकलर)"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "मक्का (ज़िया मेस)",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1516
+  ],
+  "option_objs": [
+   1518,
+   1520,
+   1522,
+   1524
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "गुर्जर-प्रतिहार हरिचंद्र को किस क्षेत्र में राजशाही कायम करने के लिए जाना जाता हैं? [. तमिलनाडु . राजस्थान",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "at 1 aden aT a I"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "केवल पा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   642,
+   644
+  ],
+  "diagram_objs": [
+   1526
+  ]
+ },
+ {
+  "set": 35,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "अप्रैल 2025 में राष्ट्रीय सुरक्षा सलाहकार बोर्ड (एन.एस.ए.बी.) का प्रमुख किसे नियुक्त किया गया है?",
+  "options": [
+   "अजीत डोभाल",
+   "आलोक जोशी",
+   "शिवशंकर मेनन",
+   "ब्रजेश मिश्रा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "आलोक जोशी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1547
+  ],
+  "option_objs": [
+   1549,
+   1551,
+   1553,
+   1555
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "प्रेम सिंह तमांग (पी.एस. गोले) ने 2024 में किस पूर्वोत्तर राज्य के मुख्यमंत्री के रूप में दूसरे कार्यकाल के लिए शपथ ली?",
+  "options": [
+   "सिक्किम",
+   "मिजोरम",
+   "अरुणाचल प्रदेश",
+   "मेघालय"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "सिक्किम",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1557
+  ],
+  "option_objs": [
+   1559,
+   985,
+   981,
+   1561
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 31,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.1,
+  "stem": "भारत में, वन नेशन वन सब्सक्रिप्शन 30 प्रमुख अंतरराष्ट्रीय प्रकाशकों के से अधिक विद्वानों की पत्रिकाओं तक पहुंच प्रदान करता है।",
+  "options": [
+   "13000",
+   "24000",
+   "21000",
+   "30000"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "13000",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1563
+  ],
+  "option_objs": [
+   1565,
+   1567,
+   1569,
+   1571
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 59.0,
+  "stem": "निम्नलिखित में से कौन सा प्रश्न भारतीय संसद में नहीं पूछा जाता है?",
+  "options": [
+   "स्टारड प्रश्न",
+   "अनस्टारड प्रश्न",
+   "अजेंट प्रश्र",
+   "शोर्ट नोटिस"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "अजेंट प्रश्र",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1592
+  ],
+  "option_objs": [
+   1594,
+   1596,
+   1598,
+   1600
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 33,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 89.1,
+  "stem": "भारत ने वर्ष 2024 में अपने प्राणिजात में नई प्रजातियां जोड़ी है।",
+  "options": [
+   "786",
+   "683",
+   "888",
+   "1200"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "683",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1602
+  ],
+  "option_objs": [
+   1604,
+   1606,
+   1608,
+   1610
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 34,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 41.0,
+  "stem": "गगनयान मिशन मानव अंतरिक्ष उड़ान क्षमता का एक दिवसीय मिशन है, जिसमें चालक दल को कक्षा में प्रक्षेपित करके उन्हें सुरक्षित रूप से पृथ्वी पर वापस लाया जाएगा।",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "3",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1612
+  ],
+  "option_objs": [
+   1614,
+   1616,
+   1618,
+   1620
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 81.0,
+  "stem": "कॉम्बैट एयर टीमिंग सिस्टम (सी.ए.टी.एस.) वॉरियर, एक उन्नत मानव रहित हवाई यान अवधारणा, मई 2025 में किस संगठन द्वारा विकसित की गई है?",
+  "options": [
+   "एच.ए.एल.",
+   "डी.आर.डी.ओ.",
+   "इसरो",
+   "बी.ए.आर.सी."
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "एच.ए.एल.",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1642
+  ],
+  "option_objs": [
+   1644,
+   1646,
+   1648,
+   1650
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "2025 में विश्व पैरा एथलेटिक्स चैंपियनशिप की मेजबानी किस भारतीय शहर नें की थी?",
+  "options": [
+   "नई दिल्ली",
+   "चेन्नई",
+   "मुंबई",
+   "हैदराबाद"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "नई दिल्ली",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1652
+  ],
+  "option_objs": [
+   963,
+   317,
+   315,
+   1654
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 37,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.5,
+  "stem": "संयुक्त राष्ट्र के महासचिव की नियुक्ति कितने वर्षों के लिए की जाती है?",
+  "options": [
+   "2",
+   "3",
+   "5",
+   "6"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "5",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1656
+  ],
+  "option_objs": [
+   1508,
+   1510,
+   1514,
+   1658
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "असम में प्रयुक्त सुषिर वाद्य 'काली' किस वाद्य का अधिक विकसित संस्करण माना जाता है?",
+  "options": [
+   "झांझ",
+   "शहनाई",
+   "ड्म",
+   "गिटार"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "शहनाई",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1660
+  ],
+  "option_objs": [
+   1678,
+   1680,
+   1682,
+   1684
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 41.0,
+  "stem": "भारत में स्वच्छ सर्वेक्षण सर्वे का डिज़ाइन कितने प्रमुख स्तंभों पर आधारित है?",
+  "options": [
+   "3",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "3",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1686
+  ],
+  "option_objs": [
+   1614,
+   1616,
+   361,
+   1618
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 35,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "मार्च 2025 में प्रकाशित एस.आई.पी.आर.आई. (5702) रिपोर्ट के अनुसार 2020-24 में दुनिया का सबसे बड़ा हथियार आयातक देश कौन सा था?",
+  "options": [
+   "यूक्रेन",
+   "ब्राज़िल",
+   "जापान",
+   "उत्तर कोरिया"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "यूक्रेन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1688
+  ],
+  "option_objs": [
+   1690,
+   1692,
+   1694,
+   1696
+  ],
+  "diagram_objs": []
+ }
+]

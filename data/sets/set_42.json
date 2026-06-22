@@ -1,0 +1,602 @@
+[
+ {
+  "set": 42,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "छठी शताब्दी ईसा पूर्व में बौद्ध धर्म और जैन धर्म का उदय निम्नलिखित में से किससे जुड़ा हो सकता है?",
+  "options": [
+   "राजशाही का उदय",
+   "वैदिक अनुष्ठानों की आलोचना",
+   "कृषि का पतन",
+   "फ़ारसी प्रभाव"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "वैदिक अनुष्ठानों की आलोचना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3516
+  ],
+  "option_objs": [
+   3518,
+   3520,
+   3522,
+   3524
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 84.3,
+  "stem": "कौन सा कारक उत्तर-पश्चिमी भारत में देखे गए निम्न लिंगानुपात को सबसे अच्छी तरह से समझाता है?",
+  "options": [
+   "पुरुष-प्रधान प्रवास",
+   "कन्या भ्रूण हत्या और सामाजिक-सांस्कृतिक पूर्वाग्रह",
+   "धार्मिक विविधता",
+   "कम प्रजनन दर"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "कन्या भ्रूण हत्या और सामाजिक-सांस्कृतिक पूर्वाग्रह",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3547
+  ],
+  "option_objs": [
+   3549,
+   3551,
+   3553,
+   3555
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 59.0,
+  "stem": "निम्नलिखित में से किस अधिनियम द्वारा पहली बार भारतीय विधानमंडल में बजट चर्चा की अनुमति दी गई?",
+  "options": [
+   "भारतीय परिषद अधिनियम, 892",
+   "भारतीय परिषद अधिनियम, 86",
+   "Hici-fAct are, 1909",
+   "भारत सरकार अधिनियम, 99"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "भारतीय परिषद अधिनियम, 892",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3557
+  ],
+  "option_objs": [
+   3559,
+   2993,
+   3561,
+   3563
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 70.5,
+  "stem": "अगस्त 2025 में समाचारों में रही फास्टैग वार्षिक पास का लाभ उठाने के लिए एकमुश्त कितना शुल्क देना होगा?",
+  "options": [
+   "1000 wat",
+   "1500 wae",
+   "2500 रुपये",
+   "3000 रुपये"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "3000 रुपये",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3565
+  ],
+  "option_objs": [
+   3567,
+   3569,
+   3571,
+   3573
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "भारत की दसवीं पंचवर्षीय योजना का लक्ष्य निम्नलिखित में से क्या था? [. साक्षरता में सुधार। मी 7. शिशु एवं मातृ मृत्यु दर में कमी ।",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "at 1 aden aT a I"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "[ तथा पर दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   642,
+   644
+  ],
+  "diagram_objs": [
+   3575
+  ]
+ },
+ {
+  "set": 42,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.0,
+  "stem": "कर्क रेखा भारत के किस निम्नलिखित में से पड़ोसी देश से होकर गुजरती है?",
+  "options": [
+   "बांग्लादेश",
+   "पाकिस्तान",
+   "भूटान",
+   "नेपाल"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "बांग्लादेश",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3596
+  ],
+  "option_objs": [
+   3598,
+   2928,
+   3600,
+   3602
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.5,
+  "stem": "फरवरी 2025 में, ने बच्चों और युवाओं में बढ़ती इंटरनेट और प्रौद्योगिकी की लत से निपटने के लिए भारत का पहला सेंटर फॉर एडवांस्ड रिसर्च ऑन एडिक्टिव बिहेवियर (सी.ए.आर.-ए.बी.) शुरू करने की घोषणा की है।",
+  "options": [
+   "एम्स गुवाहाटी",
+   "एम्स राजकोट",
+   "एम्स, दिल्‍ली",
+   "एम्स, पटना"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "एम्स, दिल्‍ली",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3604
+  ],
+  "option_objs": [
+   3606,
+   3608,
+   3610,
+   3612
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 56.0,
+  "stem": "कौन सी नृत्य शैली केंद्र शासित प्रदेश लद्दाख से उत्पन्न हुई है?",
+  "options": [
+   "जाबरो",
+   "काठी",
+   "सत्रीय",
+   "कच्ची घोड़ी"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "जाबरो",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3614
+  ],
+  "option_objs": [
+   3616,
+   3639,
+   3641,
+   3643
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.5,
+  "stem": "भारत के पहले पशु स्टेम सेल (मूल कोशिका) बायोबैंक का उद्घाटन में किया गया।",
+  "options": [
+   "राष्ट्रीय पशु जैव प्रौद्योगिकी संस्थान",
+   "आई.आई.टी. मद्रास",
+   "भारतीय विष विज्ञान अनुसंधान संस्थान",
+   "भारतीय विज्ञान संस्थान"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "राष्ट्रीय पशु जैव प्रौद्योगिकी संस्थान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3645
+  ],
+  "option_objs": [
+   3647,
+   3649,
+   3651,
+   3653
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.0,
+  "stem": "तमिलनाडु के किस पारंपरिक खेल में पोंगल उत्सव के भाग के रूप में बैल को काबू में करना शामिल है?",
+  "options": [
+   "थांग-टा",
+   "वल्लम काली",
+   "जल्लीकट्टू",
+   "बिहू नास"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "जल्लीकट्टू",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3655
+  ],
+  "option_objs": [
+   3657,
+   3659,
+   3661,
+   3663
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 31,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "मनुष्य के लिए ध्वनि की श्रव्य सीमा क्या हैं?",
+  "options": [
+   "2 Hz to 2000 kHz",
+   "20 Hz to 200 kHz",
+   "20 Hz to 20000 Hz",
+   "20 Hz to 2000 Hz"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "20 Hz to 20000 Hz",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3665
+  ],
+  "option_objs": [
+   3667,
+   3669,
+   3690,
+   3692
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "बजट के संदर्भ में, निम्नलिखित में से किसमें सरकार की संपत्तियां तथा देनदारियां शामिल हैं?",
+  "options": [
+   "राजस्व खाता",
+   "पूँजी खाता",
+   "निलंब खाता",
+   "विदेशी मुद्रा खाता"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "पूँजी खाता",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3694
+  ],
+  "option_objs": [
+   3696,
+   3698,
+   3700,
+   3702
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 66.0,
+  "stem": "के.ए.बी.आई.एल. वर्तमान में कुछ देशों में लिथियम (।4) और कोबाल्ट (00) जैसी महत्वपूर्ण खनिज परिसंपत्तियों के अधिग्रहण के अवसर तलाश रहा है। निम्नलिखित में से कौन सा उनमें से एक नहीं है?",
+  "options": [
+   "ऑस्ट्रेलिया",
+   "अर्जेटीना",
+   "चिली",
+   "कनाडा"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "कनाडा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3704
+  ],
+  "option_objs": [
+   2625,
+   3706,
+   3708,
+   3710
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 86.9,
+  "stem": "उसैन बोल्ट ने 2009 में अपना 00 मीटर विश्व रिकॉर्ड कहाँ बनाया था?",
+  "options": [
+   "बर्लिन",
+   "न्यूयॉर्क शहर",
+   "बीजिंग",
+   "सोल"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "बर्लिन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3712
+  ],
+  "option_objs": [
+   3714,
+   3716,
+   3718,
+   3739
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 75.5,
+  "stem": "अनिमेष कुजूर ने 2025 में पुरुषों की 200 मीटर दौड़ का राष्ट्रीय रिकॉर्ड किस स्पर्धा में तोड़ा था?",
+  "options": [
+   "एशियाई एथलेटिक्स चैंपियनशिप",
+   "डायमंड लीग",
+   "एशियाई खेल",
+   "राष्ट्रंडल खेल"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "एशियाई एथलेटिक्स चैंपियनशिप",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3741
+  ],
+  "option_objs": [
+   3743,
+   3745,
+   3747,
+   3749
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.0,
+  "stem": "सार्वजनिक क्षेत्र के बैंकों में मेगा विलय के संदर्भ में, आंध्रा बैंक को में समामेलित किया गया था।",
+  "options": [
+   "यूनियन बैंक ऑफ इंडिया",
+   "इंडियन बैंक",
+   "पंजाब नेशनल बैंक",
+   "केनरा बैंक"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "यूनियन बैंक ऑफ इंडिया",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3751
+  ],
+  "option_objs": [
+   3753,
+   3755,
+   3757,
+   3759
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 37,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.9,
+  "stem": "फुटबॉल में, ऑफेंस की प्रकृति के आधार पर, प्रकार के फ्री किक दिए जाते हैं।",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3761
+  ],
+  "option_objs": [
+   2005,
+   1614,
+   359,
+   1616
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 63.0,
+  "stem": "जी-20 के संदर्भ में निम्नलिखित में से कौन सा कथन सही है? ।. इसका शिखर सम्मेलन प्रतिवर्ष आयोजित होता है। |. भारत ने इसकी स्थापना के बाद किसी भी शिखर सम्मेलन की मेजबानी नहीं की है।",
+  "options": [
+   "chad |",
+   "केवल ॥।",
+   "। तथा ॥ दोनों",
+   "नातो। तथा ना ही ॥"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "chad |",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   969,
+   971,
+   973,
+   975
+  ],
+  "diagram_objs": [
+   3779
+  ]
+ },
+ {
+  "set": 42,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 78.0,
+  "stem": "एनर्जी ट्रांजीशन इंडेक्स 2025 में चीन का स्थान क्या है?",
+  "options": [
+   "12",
+   "22",
+   "33",
+   "41"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "12",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3781
+  ],
+  "option_objs": [
+   3783,
+   2876,
+   1029,
+   3785
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 42,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 82.0,
+  "stem": "राष्ट्रीय बहुआयामी गरीबी सूचकांक (एम.पी.आई.) निम्नलिखित में से किसके द्वारा जारी किया जाता है?",
+  "options": [
+   "नीति आयोग",
+   "आई.डी.एस.ए.",
+   "एन.एच.आर.सी.",
+   "आई.आई.बी."
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "नीति आयोग",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3787
+  ],
+  "option_objs": [
+   2286,
+   3789,
+   3791,
+   3793
+  ],
+  "diagram_objs": []
+ }
+]

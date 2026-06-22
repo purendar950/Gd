@@ -1,0 +1,602 @@
+[
+ {
+  "set": 39,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.5,
+  "stem": "कौन-सा प्राचीन संस्कृत ग्रंथ ओडिसी सहित शास्त्रीय नृत्य रूपों का आधार बनता है?",
+  "options": [
+   "रामायण",
+   "महाभारत",
+   "नात्य शास्त्र",
+   "अर्थशास्त्र"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "नात्य शास्त्र",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2650
+  ],
+  "option_objs": [
+   2652,
+   2654,
+   2656,
+   2658
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 53.5,
+  "stem": "भारत का कौन सा भौतिक विभाग भूवैज्ञानिक दृष्टि से सबसे पुराना है?",
+  "options": [
+   "हिमालय",
+   "सिंधु-गंगा के मैदान",
+   "तटीय मैदान",
+   "प्रायद्वीपीय पठार"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "प्रायद्वीपीय पठार",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2686
+  ],
+  "option_objs": [
+   1462,
+   2688,
+   1460,
+   1456
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 85.0,
+  "stem": "कौन-सा मंदिर कलिंग वास्तुकला शैली का उदाहरण है?",
+  "options": [
+   "जगन्नाथ मंदिर, पुरी",
+   "बृहदेश्व॒र मंदिर",
+   "मीनाक्षी मंदिर, मदुरै",
+   "शोर मंदिर, मामल्लपुरम"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "जगन्नाथ मंदिर, पुरी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2690
+  ],
+  "option_objs": [
+   2692,
+   2694,
+   2696,
+   2698
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 24,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 92.9,
+  "stem": "एक गोल्फ खिलाड़ी एक राउंड के दौरान अधिकतम कितने क्लब ले जा सकता है?",
+  "options": [
+   "12",
+   "14",
+   "16",
+   "18"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "14",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2700
+  ],
+  "option_objs": [
+   2702,
+   2704,
+   2706,
+   2708
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.8,
+  "stem": "निम्नलिखित में से कौन सी अलौह खनिजों की विशेषता है?",
+  "options": [
+   "इनमें लोहा होता हैं",
+   "इनमें लौह तत्व की कमी होती हैं",
+   "वे निर्माण तक ही सीमित हैं",
+   "वे केवल धात्विक हैं"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "इनमें लौह तत्व की कमी होती हैं",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2710
+  ],
+  "option_objs": [
+   2712,
+   2733,
+   2735,
+   2737
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 31.0,
+  "stem": "अकबरनामा की तीसरी जिल्द को निम्नलिखित में से किस नाम से जाना जाता है?",
+  "options": [
+   "तुज़ुक-ए-बाबुरी",
+   "रज़्मनामा",
+   "फ़तवा-ए-जहाँदारी",
+   "आइने-अकबरी"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "आइने-अकबरी",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2739
+  ],
+  "option_objs": [
+   2741,
+   2743,
+   2745,
+   2747
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.0,
+  "stem": "मई 2025 तक, बार काउंसिल ऑफ इंडिया के अध्यक्ष का पद कौन संभाल रहे हैं?",
+  "options": [
+   "मनन कुमार मिश्रा",
+   "दुष्यंत दवे",
+   "विकास सिंह",
+   "पी.एस. पटवालिया"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "मनन कुमार मिश्रा",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2749
+  ],
+  "option_objs": [
+   2751,
+   2753,
+   2755,
+   2757
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "नवंबर 2024 में इंडियन ऑयल कॉर्पोरेशन के अध्यक्ष के रूप में किसे नियुक्त किया गया है?",
+  "options": [
+   "के.के. पाठक",
+   "आलोक जोशी",
+   "अरविंदर सिंह साहनी",
+   "अरविंद श्रीवास्तव"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "अरविंदर सिंह साहनी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2759
+  ],
+  "option_objs": [
+   2761,
+   1551,
+   2782,
+   2784
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 29,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.4,
+  "stem": "जुलाई 2025 तक, से अधिक आंगनवाड़ी केंद्रों को सक्षम आंगनवाड़ी केंद्रों में उन्नत किया गया है।",
+  "options": [
+   "57897",
+   "67600",
+   "77554",
+   "87661"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "57897",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2786
+  ],
+  "option_objs": [
+   2788,
+   2790,
+   2792,
+   2794
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 95.0,
+  "stem": "भारत के राष्ट्रीय मानवाधिकार आयोग के अध्यक्ष का कार्यकाल होता है।",
+  "options": [
+   "3 वर्ष या 65 वर्ष की आयु तक",
+   "3 वर्ष या 70 वर्ष की आयु तक",
+   "6 वर्ष या 75 वर्ष की आयु तक",
+   "4 वर्ष या 68 वर्ष की आयु तक"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "3 वर्ष या 70 वर्ष की आयु तक",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2796
+  ],
+  "option_objs": [
+   2798,
+   2800,
+   2802,
+   2804
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "भारत में क्षेत्रीय परिषदों के अध्यक्ष कौन है?",
+  "options": [
+   "राष्ट्रपति",
+   "प्रधान मंत्री",
+   "नीति आयोग के उपाध्यक्ष",
+   "केंद्रीय गृह मंत्री"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "केंद्रीय गृह मंत्री",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2806
+  ],
+  "option_objs": [
+   21,
+   2808,
+   2829,
+   2831
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.0,
+  "stem": "कौन सा भारतीय राज्य विश्व का पहला ब्लैक टाइगर सफारी स्थापित कर रहा है?",
+  "options": [
+   "राजस्थान",
+   "ओडिशा",
+   "कर्नाटक",
+   "आंध्र प्रदेश"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "ओडिशा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2833
+  ],
+  "option_objs": [
+   2208,
+   2835,
+   349,
+   2837
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 46.8,
+  "stem": "न्यू स्पेस इंडिया लिमिटेड के संबंध में निम्नलिखित में से कौन सा कथन सही है? [. यह एक निजी क्षेत्र का उद्यम है। [. यह विभिन्न प्रकार और श्रेणियों के उपग्रहों के निर्माण तथा इन-ऑर्बिट डिलीवरी के कार्य में शामिल है।",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ और पा दोनों",
+   "नतोए औरन ही पा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "केवल पा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   2841,
+   2843
+  ],
+  "diagram_objs": [
+   2839
+  ]
+ },
+ {
+  "set": 39,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 64.5,
+  "stem": "दिसंबर 2024 में, किस संस्थान ने मोबाइल समाधान के साथ कम लागत वाली 'टिनिटस डिवाइस' विकसित की?",
+  "options": [
+   "आई.आई.एस.सी. बेंगलुरु",
+   "आई.आई.टी. कानपुर",
+   "जे.आई.पी.एम.ई.आर. पुडुचेरी",
+   "आई.आई.टी. बॉम्बे"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "आई.आई.टी. बॉम्बे",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2845
+  ],
+  "option_objs": [
+   2847,
+   2849,
+   2851,
+   2872
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 35,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 87.9,
+  "stem": "___वींराष्ट्रीय महासंघ वरिष्ठ एथलेटिक्स प्रतियोगिता 2025 में आयोजित की गई थी।",
+  "options": [
+   "22",
+   "23",
+   "28",
+   "30"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "28",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2874
+  ],
+  "option_objs": [
+   2876,
+   2878,
+   2880,
+   2882
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 79.0,
+  "stem": "|7वां ब्रिक्स शिखर सम्मेलन में आयोजित किया गया था।",
+  "options": [
+   "व्लादिवोस्तोक",
+   "काइज़ेन",
+   "रियो डी जेनेरियो",
+   "शंघाई"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "रियो डी जेनेरियो",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2884
+  ],
+  "option_objs": [
+   2886,
+   2888,
+   2890,
+   329
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "पारंपरिक मिज़ो वाद्य यंत्र 'टिंगटांग' (00090) को किस वाद्य यंत्र के मिज़ो संस्करण के रूप में जाना जाता है?",
+  "options": [
+   "बांसुरी",
+   "ड्म",
+   "गिटार",
+   "झांझ"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "गिटार",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2892
+  ],
+  "option_objs": [
+   2894,
+   1682,
+   1684,
+   1678
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 38,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 23.0,
+  "stem": "प्रतिभा देवीसिंह पाटिल ने 25 जुलाई, 2007 को भारत के राष्ट्रपति के रूप में पदभार ग्रहण किया।",
+  "options": [
+   "8d",
+   "10¢",
+   "124",
+   "144"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "124",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2912
+  ],
+  "option_objs": [
+   2914,
+   2916,
+   2918,
+   2920
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.5,
+  "stem": "प्रदर्शन ग्रेडिंग सूचकांक (पी.जी.आई.) 2.0 (शिक्षा मंत्रालय द्वारा) में मूल्यांकन के लिए कुल कितनी श्रेणियों का उपयोग किया जाता है?",
+  "options": [
+   "2",
+   "4",
+   "6",
+   "11"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2922
+  ],
+  "option_objs": [
+   2005,
+   359,
+   361,
+   1031
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 39,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "मार्च में प्रकाशित एस.आई.पी.आर.आई. (570श) रिपोर्ट के अनुसार, निम्नलिखित में से कौन सा देश 2020-24 के बीच शीर्ष 5 हथियार आयातकों में से एक नहीं है:",
+  "options": [
+   "भारत",
+   "उत्तर कोरिया",
+   "यूक्रेन",
+   "पाकिस्तान"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "उत्तर कोरिया",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2924
+  ],
+  "option_objs": [
+   2926,
+   1696,
+   1690,
+   2928
+  ],
+  "diagram_objs": []
+ }
+]

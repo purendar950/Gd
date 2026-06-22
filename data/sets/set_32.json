@@ -1,0 +1,602 @@
+[
+ {
+  "set": 32,
+  "qno": 21,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 75.0,
+  "stem": "ध्वनि का अनुभव हमारे मस्तिष्क में लगभग कितने समय तक बना रहता है?",
+  "options": [
+   "0.015",
+   "0.15",
+   "1s",
+   "10s"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "0.15",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   401
+  ],
+  "option_objs": [
+   403,
+   405,
+   407,
+   409
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 61.0,
+  "stem": "पूर्वी घाट को निम्नलिखित में से किस नाम से भी जाना जाता है?",
+  "options": [
+   "नीलगिरि पहाड़ियाँ",
+   "राजमहल पहाड़ियाँ",
+   "मैकाल पहाड़ियाँ",
+   "नल्लामलाई पहाड़ियाँ"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "नल्लामलाई पहाड़ियाँ",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   432
+  ],
+  "option_objs": [
+   434,
+   436,
+   438,
+   440
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.4,
+  "stem": "ब्रिक्स (805) 2025 के लिए ब्राजील की प्रमुख प्राथमिकताओं में निम्नलिखित में से कौन सा क्षेत्र शामिल है?",
+  "options": [
+   "व्यापार, निवेश और वित्त",
+   "खेल, पर्यटन और युवा मामले",
+   "अंतरिक्ष अन्वेषण, खगोल विज्ञान और उपग्रह सहयोग",
+   "सांस्कृतिक विरासत, भाषा संवर्धन और पारंपरिक कलाएँ"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "व्यापार, निवेश और वित्त",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   442
+  ],
+  "option_objs": [
+   444,
+   446,
+   448,
+   450
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 84.4,
+  "stem": "950 और 990 के बीच भारतीय कृषि के सामने निम्नलिखित में से कौन सी चुनौती नहीं थी?",
+  "options": [
+   "खंडित भूमि जोत",
+   "मानसून वर्षा पर निर्भरता",
+   "उर्वरकों और सिंचाई का कम उपयोग",
+   "उच्च ग्रामीण साक्षरता दर से श्रम आपूर्ति में कमी"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "उच्च ग्रामीण साक्षरता दर से श्रम आपूर्ति में कमी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   452
+  ],
+  "option_objs": [
+   454,
+   456,
+   458,
+   460
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 95.0,
+  "stem": "भारत-चीन युद्ध के कारण कौन-सी योजना पूरी होने से एक वर्ष पहले ही समाप्त कर दी गई थी?",
+  "options": [
+   "पहली योजना",
+   "दूसरी योजना",
+   "तीसरी योजना",
+   "चौथी योजना"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "तीसरी योजना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   462
+  ],
+  "option_objs": [
+   483,
+   485,
+   487,
+   489
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "बादामी के चालुक्य , भारतीय कला में किस योगदान के लिए जाने जाते हैं?",
+  "options": [
+   "नटराज की कांस्य मूर्ति के लिए",
+   "बादामी में चट्टानों को काटकर बनाए गए गुफा मंदिर के लिए",
+   "नागर शैली के मंदिरों का विकास करने के लिए",
+   "एलोरा गुफाओं में चित्रकारी के लिए"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "बादामी में चट्टानों को काटकर बनाए गए गुफा मंदिर के लिए",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   491
+  ],
+  "option_objs": [
+   493,
+   495,
+   497,
+   499
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "स्थिर मूल्यों पर मापी गई राष्ट्रीय आय को क्या कहते हैं?",
+  "options": [
+   "वास्तविक आय",
+   "नाममात्र की आय",
+   "व्यय योग्य आय",
+   "शुद्ध कारक आय"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "वास्तविक आय",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   501
+  ],
+  "option_objs": [
+   503,
+   505,
+   507,
+   509
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 69.2,
+  "stem": "निम्नलिखित में से किस अधिनियम द्वारा पहली बार भारतीयों को लंदन में खुली प्रतियोगिता के माध्यम से भारतीय सिविल सेवा में भर्ती करने की अनुमति दी गई?",
+  "options": [
+   "83 का चार्टर अधिनियम",
+   "833 का चार्टर अधिनियम",
+   "853 का चार्टर अधिनियम",
+   "86 का भारतीय परिषद अधिनियम"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "853 का चार्टर अधिनियम",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   511
+  ],
+  "option_objs": [
+   513,
+   515,
+   536,
+   538
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "जून 2025 में शुरू किए गए नव्या कार्यक्रम का प्राथमिक उद्देश्य कया है?",
+  "options": [
+   "किशोरियों को उच्च शिक्षा प्रदान करना",
+   "6-8 वर्ष की किशोरियों को व्यावसायिक प्रशिक्षण प्रदान करना",
+   "किशोरियों के बीच खेलों को बढ़ावा देना",
+   "किशोरियों को वित्तीय सहायता प्रदान करना"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "6-8 वर्ष की किशोरियों को व्यावसायिक प्रशिक्षण प्रदान करना",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   540
+  ],
+  "option_objs": [
+   542,
+   544,
+   546,
+   548
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 30,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 91.6,
+  "stem": "अगस्त 2025 तक, नमस्ते योजना के तहत कितने सीवर और सेप्टिक टैंक श्रमिकों (एस.एस.डब्ल्यू.) को मान्य किया गया है?",
+  "options": [
+   "84902",
+   "74900",
+   "64900",
+   "44900"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "84902",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   550
+  ],
+  "option_objs": [
+   552,
+   554,
+   556,
+   558
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 63.5,
+  "stem": "निम्नलिखित में से कौन सा नृत्य असम राज्य से संबंधित है?",
+  "options": [
+   "गेंडी",
+   "कायांग",
+   "UII HY",
+   "भोरताल नृत्य"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "भोरताल नृत्य",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   560
+  ],
+  "option_objs": [
+   562,
+   564,
+   566,
+   590
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 82.0,
+  "stem": "भारत में तटीय, वेडर पक्षियों की पहली जनगणना जनवरी 2025 में में शुरू हुई थी।",
+  "options": [
+   "रायपुर",
+   "जम्मू",
+   "चेन्नई",
+   "जामनगर"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "जामनगर",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   592
+  ],
+  "option_objs": [
+   594,
+   596,
+   317,
+   598
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "भारत के किस राज्य में 'गोदाची मेला' पारंपरिक रूप से मनाया जाता है?",
+  "options": [
+   "गुजरात",
+   "कर्नाटक",
+   "असम",
+   "हरियाणा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "कर्नाटक",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   600
+  ],
+  "option_objs": [
+   602,
+   349,
+   604,
+   606
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 34,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.6,
+  "stem": "20 की जनगणना के अनुसार केरल की साक्षरता दर क्या है?",
+  "options": [
+   "94.00%",
+   "88.70%",
+   "87.10%",
+   "99.00%"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "94.00%",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   608
+  ],
+  "option_objs": [
+   610,
+   612,
+   614,
+   616
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "दर भारतीय राज्यों में चावल की खेती निम्नलिखित में से किस ऋतु में की जाती है? [.र . खरीफ",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "at 1 aden aT a I"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "[ तथा पर दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   642,
+   644
+  ],
+  "diagram_objs": [
+   636
+  ]
+ },
+ {
+  "set": 32,
+  "qno": 36,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.6,
+  "stem": "आई.पी.एल. (इंडियन प्रीमियर लीग) का पहला सीज़न किस वर्ष में खेला गया था?",
+  "options": [
+   "2008",
+   "2009",
+   "2010",
+   "2011"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2008",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   646
+  ],
+  "option_objs": [
+   648,
+   650,
+   652,
+   654
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 37,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.9,
+  "stem": "भारतीय वॉलीबॉल महासंघ का गठन किस वर्ष में हुआ था?",
+  "options": [
+   "1951",
+   "1980",
+   "1958",
+   "1976"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "1951",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   656
+  ],
+  "option_objs": [
+   658,
+   660,
+   662,
+   664
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.0,
+  "stem": "नीचे दिए गए कौशल को \"टो टच\" कहा जाता है जो निम्नलिखित में से किस खेल से संबंधित है? ्",
+  "options": [
+   "बास्केटबाल",
+   "कबड्डी",
+   "फुटबॉल",
+   "बैडमिंटन"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "कबड्डी",
+  "highlight_tag": "G",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   684,
+   686,
+   688,
+   690
+  ],
+  "diagram_objs": [
+   682
+  ]
+ },
+ {
+  "set": 32,
+  "qno": 39,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.0,
+  "stem": "ग्लोबल बिजनेस कॉम्प्लेक्सिटी इंडेक्स 2025 निम्नलिखित में से किसके द्वारा प्रकाशित किया गया था?",
+  "options": [
+   "टी.एम.एफ. ग्रुप",
+   "अंतर्राष्ट्रीय मुद्रा कोष",
+   "विश्व व्यापार संगठन",
+   "इकोनॉमिस्ट इंटेलिजेंस यूनिट"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "टी.एम.एफ. ग्रुप",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   692
+  ],
+  "option_objs": [
+   694,
+   696,
+   698,
+   700
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 32,
+  "qno": 40,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 84.9,
+  "stem": "सरकार ने में ।2 प्रदूषकों के लिए राष्ट्रीय परिवेशी वायु गुणवत्ता मानक (एन.ए.ए.क्यू.एस.) अधिसूचित किए हैं।",
+  "options": [
+   "1999",
+   "2001",
+   "2009",
+   "2015"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "2009",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   702
+  ],
+  "option_objs": [
+   704,
+   706,
+   650,
+   708
+  ],
+  "diagram_objs": []
+ }
+]

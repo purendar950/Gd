@@ -1,0 +1,602 @@
+[
+ {
+  "set": 55,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "भारत के संविधान का संरक्षक कौन है?",
+  "options": [
+   "राष्ट्रपति",
+   "सर्वोच्च न्यायालय",
+   "प्रधानमंत्री",
+   "संसद"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "सर्वोच्च न्यायालय",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7478
+  ],
+  "option_objs": [
+   21,
+   7480,
+   25,
+   7482
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.2,
+  "stem": "मुख्य चुनाव आयुक्त का कार्यकाल है:",
+  "options": [
+   "3 वर्ष",
+   "5 वर्ष",
+   "6 वर्ष या 65 वर्ष की आयु तक",
+   "6 वर्ष या 62 वर्ष की आयु तक"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "6 वर्ष या 65 वर्ष की आयु तक",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7509
+  ],
+  "option_objs": [
+   7511,
+   7513,
+   7515,
+   7517
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 58.0,
+  "stem": "भार की 5। इकाई क्या है?",
+  "options": [
+   "किलोग्राम (४९५)",
+   "न्यूटन (0)",
+   "जूल ()",
+   "पास्कल (९3)"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "न्यूटन (0)",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7519
+  ],
+  "option_objs": [
+   7521,
+   7523,
+   7525,
+   7527
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 58.4,
+  "stem": "रस्किन बॉन्ड का पहला उपन्यास क्या था, जिसके लिए उन्हें 957 में जॉन लेवेलिन राइस पुरस्कार मिला था?",
+  "options": [
+   "द ब्लू अम्ब्रेला",
+   "ए फ्लाइट ऑफ पिजन्स",
+   "द रूम ऑन द रूफ",
+   "आवर ट्रीज़ स्टिल ग्रो इन देहरा"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "द रूम ऑन द रूफ",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7529
+  ],
+  "option_objs": [
+   7531,
+   7533,
+   7535,
+   7537
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 79.0,
+  "stem": "ऐतिहासिक 983 क्रिकेट विश्व कप फ़ाइनल, जिसमें भारत ने वेस्ट इंडीज़ को हराया था, किस प्रतिष्ठित स्थल पर आयोजित किया गया था?",
+  "options": [
+   "लॉर्ड्स, लंदन",
+   "द ओवल, लंदन",
+   "हेडिंग्ली, लीड्स",
+   "ओल्ड ट्रैफ़र्ड, मैनचेस्टर"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "लॉर्ड्स, लंदन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7559
+  ],
+  "option_objs": [
+   7561,
+   7563,
+   7565,
+   7567
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.4,
+  "stem": "योजना काल के दौरान, भारत में आयात प्रतिस्थापन औद्योगीकरण (आई एसआई) का उद्देश्य क्या था?",
+  "options": [
+   "विदेशी मुद्रा अर्जन के लिए निर्मित वस्तुओं के निर्यात को प्रोत्साहित करना",
+   "उपभोक्ता वस्तु उद्योगों में विदेशी निवेश आकर्षित करना",
+   "संरक्षणवादी नीतियों के माध्यम से निर्मित उत्पादों के आयात को घरेलू उत्पादन से प्रतिस्थापित करना",
+   "मशीनरी और पूंजीगत वस्तुओं के आयात को बिना किसी प्रतिबंध के उदार बनाया जाए"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "संरक्षणवादी नीतियों के माध्यम से निर्मित उत्पादों के आयात को घरेलू उत्पादन से प्रतिस्थापित करना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7569
+  ],
+  "option_objs": [
+   7571,
+   7573,
+   7575,
+   7577
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.3,
+  "stem": "टेस्ट क्रिकेट में तिहरा शतक बनाने वाले पहले भारतीय बल्लेबाज कौन थे?",
+  "options": [
+   "सचिन तेंदुलकर",
+   "वीरेंद्र सहवाग",
+   "राहुल द्रविड़",
+   "करुण नायर"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "वीरेंद्र सहवाग",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7579
+  ],
+  "option_objs": [
+   7581,
+   7583,
+   7585,
+   7587
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 28,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 74.0,
+  "stem": "भारत में एफडीआई (प्रत्यक्ष विदेशी निवेश) की सीमा को कब उदार बनाया गया?",
+  "options": [
+   "1991 av",
+   "1995 ag",
+   "2000 वर्ष",
+   "2010 av"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "1991 av",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7589
+  ],
+  "option_objs": [
+   7610,
+   7612,
+   7614,
+   7616
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 82.2,
+  "stem": "सूक्ष्म,लघु और मध्यम उद्यमों (5+4६5) और स्टार्टअप्स के लिए क्रेडिट गारंटी फंड का उद्देश्य कया है?",
+  "options": [
+   "संपार्श्चिक-मुक्त गारंटी समर्थन प्रदान करना",
+   "अनुसंधान के लिए अनुदान देना",
+   "पेंशन कोष",
+   "गृह ऋण सुरक्षा"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "संपार्श्चिक-मुक्त गारंटी समर्थन प्रदान करना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7618
+  ],
+  "option_objs": [
+   7620,
+   7622,
+   7624,
+   7626
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 62.0,
+  "stem": "कौन सा अंतर्देशीय जलमार्ग भारत के राष्ट्रीय जलमार्ग नेटवर्क का हिस्सा है?",
+  "options": [
+   "गंगा-भागीरथी-हुगली",
+   "सिन्धु",
+   "महानदी",
+   "गोदावरी"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "गंगा-भागीरथी-हुगली",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7628
+  ],
+  "option_objs": [
+   7630,
+   7632,
+   7634,
+   7636
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 46.8,
+  "stem": "धसन के संबंध में निम्नलिखित में से कौन-सा युग्म सही है? [. अवायवीय - ऑक्सीजन की उपस्थिति . वायवीय - ऑक्सीजन की अनुपस्थिति",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ और पा दोनों",
+   "नतोए औरन ही पा"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "नतोए औरन ही पा",
+  "highlight_tag": "G",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   2841,
+   2843
+  ],
+  "diagram_objs": [
+   7638
+  ]
+ },
+ {
+  "set": 55,
+  "qno": 32,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 90.1,
+  "stem": "स्वभाव स्वच्छता संस्कार स्वच्छता अभियान 2024, प्रमुख स्तंभों के आसपास बनाया गया है।",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "8"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "3",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7659
+  ],
+  "option_objs": [
+   1510,
+   1514,
+   5644,
+   3045
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 86.0,
+  "stem": "चन्द्रगुप्त प्रथम के बाद गुप्त साम्राज्य का शासक कौन बना था?",
+  "options": [
+   "कुमारगुप्त द्वितीय",
+   "बुधगुप्त",
+   "समुद्रगुप्त",
+   "चंद्रगुप्त द्वितीय"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "समुद्रगुप्त",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7661
+  ],
+  "option_objs": [
+   7663,
+   7665,
+   2951,
+   7667
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 34,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 87.6,
+  "stem": "2 मार्च 2025 तक, संकटग्रस्त महिलाओं की सहायता के लिए भारत भर में कितने वन-स्टॉप सेंटर (ओ.एस.सी.) संचालित हैं?",
+  "options": [
+   "802",
+   "1102",
+   "102",
+   "402"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "802",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7669
+  ],
+  "option_objs": [
+   7671,
+   7692,
+   7694,
+   7696
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.0,
+  "stem": "'देवधनी' नृत्य निम्नलिखित में से किस भारतीय राज्य से संबंधित है?",
+  "options": [
+   "बिहार",
+   "तमिलनाडु",
+   "हिमाचल प्रदेश",
+   "असम"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "असम",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7698
+  ],
+  "option_objs": [
+   1256,
+   735,
+   2469,
+   983
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 36,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 86.7,
+  "stem": "भारत के प्रक्षेपण यान के संदर्भ में, जी.एस.एल.वी. एम.के-ए] भू-तुल्यकाली स्थानांतरण कक्षाओं में कि.ग्रा. तक का वजन ले जा सकता हैं।",
+  "options": [
+   "4000",
+   "8500",
+   "9000",
+   "10000"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "4000",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7700
+  ],
+  "option_objs": [
+   7702,
+   7704,
+   7706,
+   1813
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 76.0,
+  "stem": "निम्नलिखित में से किस अधिनियम ने प्रांतीय स्वायत्तता का प्रावधान किया था?",
+  "options": [
+   "935 का भारत सरकार अधिनियम",
+   "99 का भारत सरकार अधिनियम",
+   "909 का भारत सरकार अधिनियम",
+   "86 का भारत सरकार अधिनियम"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "935 का भारत सरकार अधिनियम",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7708
+  ],
+  "option_objs": [
+   7710,
+   7712,
+   7733,
+   7735
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 38,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 89.7,
+  "stem": "भारत में, एन.एफ.एच.एस.-4 तथा एन.एफ.एच.एस.-5 (॥/#५5) के बीच, स्वच्छ खाना पकाने के ईंधन का उपयोग 44% से बढ़कर हो गया है।",
+  "options": [
+   "59%",
+   "65%",
+   "71%",
+   "75%"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "59%",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7737
+  ],
+  "option_objs": [
+   7739,
+   7741,
+   7743,
+   7745
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.4,
+  "stem": "टेनिस में एक खिलाड़ी/टीम को गेम जीतने के लिए ड्यूस के बाद लगातार अंक जीतने की आवश्यकता होती हैं।",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "2",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7747
+  ],
+  "option_objs": [
+   2003,
+   2005,
+   1614,
+   359
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 55,
+  "qno": 40,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 87.0,
+  "stem": "पूर्वोत्तर क्षेत्र जिला एस.डी.जी. (500) सूचकांक 2023-24 में पूर्वात्तर के कितने जिले शामिल किए गए थे?",
+  "options": [
+   "121",
+   "100",
+   "101",
+   "141"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "121",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7749
+  ],
+  "option_objs": [
+   7751,
+   1289,
+   7753,
+   7765
+  ],
+  "diagram_objs": []
+ }
+]

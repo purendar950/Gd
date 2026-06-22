@@ -1,0 +1,602 @@
+[
+ {
+  "set": 4,
+  "qno": 21,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 73.3,
+  "stem": "संविधान सभा के संवैधानिक सलाहकार कौन थे?",
+  "options": [
+   "बी.एन. राउ",
+   "अल्‍्लादी कृष्णस्वामी अय्यर",
+   "टी.टी. कृष्णमाचारी",
+   "के.एम. मुंशी"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "बी.एन. राउ",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1075
+  ],
+  "option_objs": [
+   1077,
+   1079,
+   1081,
+   1083
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 22,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 83.8,
+  "stem": "केंद्र शासित प्रदेशों का प्रशासन निम्नलिखित द्वारा किया जाता है:",
+  "options": [
+   "संसद",
+   "मुख्यमंत्री",
+   "राज्यपाल",
+   "राष्ट्रपति द्वारा नियुक्त प्रशासक"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "राष्ट्रपति द्वारा नियुक्त प्रशासक",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1111
+  ],
+  "option_objs": [
+   1113,
+   745,
+   747,
+   1115
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 23,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 86.0,
+  "stem": "संथाल नृत्य मुख्यतः: किस अवसर पर किया जाता है?",
+  "options": [
+   "फसल उत्सव और धार्मिक समारोह",
+   "राजनीतिक रैलियां",
+   "केवल शादियों के लिए",
+   "अंत्येष्टि"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "फसल उत्सव और धार्मिक समारोह",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1117
+  ],
+  "option_objs": [
+   1119,
+   1121,
+   1123,
+   1125
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 24,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 94.0,
+  "stem": "टिप्पाणी नृत्य पारंपरिक रूप से किस अवसर पर किया जाता है?",
+  "options": [
+   "शादियाँ और त्यौहार",
+   "केवल धार्मिक अनुष्ठान",
+   "केवल फसल के मौसम में",
+   "राजनीतिक रैलियों में"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "शादियाँ और त्यौहार",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1127
+  ],
+  "option_objs": [
+   1129,
+   1131,
+   1133,
+   1135
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 25,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 94.5,
+  "stem": "सतपुड़ा पर्वतमाला भारत के किस भाग में स्थित है?",
+  "options": [
+   "उत्तरी भारत",
+   "दक्षिणी भारत",
+   "मध्य भारत",
+   "पूर्वी भारत"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "मध्य भारत",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1137
+  ],
+  "option_objs": [
+   1139,
+   1160,
+   1162,
+   1164
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 26,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 82.8,
+  "stem": "गंगा-ब्रह्मपुत्र डेल्टा मुख्यतः: किस राज्य में स्थित है?",
+  "options": [
+   "पश्चिम बंगाल",
+   "उत्तर प्रदेश",
+   "बिहार",
+   "असाम"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "पश्चिम बंगाल",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1166
+  ],
+  "option_objs": [
+   638,
+   1168,
+   1170,
+   1172
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 27,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 81.5,
+  "stem": "किस भारतीय नेता ने 992 से 997 तक भारत के राष्ट्रपति के रूप में कार्य किया और संवैधानिक कानून में उनकी विशिष्ट शैक्षणिक पृष्ठभूमि थी?",
+  "options": [
+   "रामास्वामी वेंकटरमन",
+   "शंकर दयाल शर्मा",
+   "के. आर. नारायणन",
+   "ज्ञानी जैल सिंह"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "शंकर दयाल शर्मा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1174
+  ],
+  "option_objs": [
+   1176,
+   1178,
+   1180,
+   1182
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 28,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 84.1,
+  "stem": "__मानव विकास सूचकांक (५०) एक समग्र सूचकांक है।",
+  "options": [
+   "शिक्षा, आय, जीवन प्रत्याशा",
+   "सकल घरेलू उत्पाद, सकल राष्ट्रीय आय, साक्षरता",
+   "रोजगार, सामाजिक सुरक्षा, लैंगिक समानता",
+   "आय, स्वास्थ्य, पर्यावरण"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "शिक्षा, आय, जीवन प्रत्याशा",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1184
+  ],
+  "option_objs": [
+   1186,
+   1188,
+   1190,
+   1213
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 29,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 86.3,
+  "stem": "4,000 वर्ष (मिलेनकोविच चक्र) में पृथ्वी के अक्ष का झुकाव 22.* से 24.5\" के बीच बदलता रहता है। यह परिवर्तन पृथ्वी को किस प्रकार प्रभावित करता है?",
+  "options": [
+   "अधिक झुकाव से मौसमी विपर्यास में वृद्धि होती है",
+   "झुकाव परिवर्तन से कक्षीय चाल बदलता है",
+   "झुकाव परिवर्तन चुंबकीय क्षेत्र को प्रभावित करता है",
+   "कोई प्रभाव नहीं होता है"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "अधिक झुकाव से मौसमी विपर्यास में वृद्धि होती है",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1215
+  ],
+  "option_objs": [
+   1217,
+   1219,
+   1221,
+   515
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 30,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 85.5,
+  "stem": "पांडिचेरी में फ्रेंच क्वार्टर की प्राथमिक स्थापत्य शैली क्या है?",
+  "options": [
+   "इंडो-फ्रेंच औपनिवेशिक",
+   "गोथिक पुनरुद्धार",
+   "आर्ट डेको",
+   "नवशास्त्रीय"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "इंडो-फ्रेंच औपनिवेशिक",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1223
+  ],
+  "option_objs": [
+   1225,
+   1227,
+   1229,
+   1231
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 31,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 74.0,
+  "stem": "ओरायन (000), एक है।",
+  "options": [
+   "तारामंडल",
+   "तारा",
+   "We",
+   "उपग्रह"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "तारामंडल",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1233
+  ],
+  "option_objs": [
+   1235,
+   1237,
+   1239,
+   1241
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 88.2,
+  "stem": "क्रिकेट विश्व कप की मेजबानी भारत ने पहली बार किस वर्ष की थी?",
+  "options": [
+   "1975",
+   "1983",
+   "1987",
+   "1996"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "1987",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1262
+  ],
+  "option_objs": [
+   1264,
+   1266,
+   1268,
+   1057
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 36.8,
+  "stem": "प्रथम आधिकारिक विश्व शतरंज चैंपियन किसे माना जाता है?",
+  "options": [
+   "Stat fthare (Bobby Fischer)",
+   "faceu <ighaw (Wilhelm Steinitz)",
+   "et reat (Garry Kasparov)",
+   "Ulet Arch (Paul Morphy)"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "faceu <ighaw (Wilhelm Steinitz)",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1270
+  ],
+  "option_objs": [
+   1272,
+   1274,
+   1276,
+   1278
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 34,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 76.0,
+  "stem": "हृदय स्पंद, किस प्रकार की क्रिया है?",
+  "options": [
+   "प्रतिवर्ती क्रिया",
+   "अनैच्छिक क्रिया",
+   "ऐच्छिक क्रिया",
+   "समन्वित क्रिया"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अनैच्छिक क्रिया",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1280
+  ],
+  "option_objs": [
+   1282,
+   1284,
+   1286,
+   1288
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 35,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 89.5,
+  "stem": "निम्नलिखित में से कौन-सा, कोशिका में लाइसोसोम का प्राथमिक कार्य है?",
+  "options": [
+   "ऊर्जा उत्पादन",
+   "अपशिष्ट निपटान",
+   "प्रोटीन संश्लेषण",
+   "लिपिड का भंडारण"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अपशिष्ट निपटान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1310
+  ],
+  "option_objs": [
+   1312,
+   1314,
+   1316,
+   1318
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 36,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 64.5,
+  "stem": "भारत में खारे पानी की सबसे बड़ी झील कौन-सी है?",
+  "options": [
+   "वेम्बनाड झील",
+   "पुलिकट झील",
+   "चिल्‍का झील",
+   "सांभर झील"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "चिल्‍का झील",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1320
+  ],
+  "option_objs": [
+   1322,
+   1324,
+   1326,
+   1328
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 37,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 81.0,
+  "stem": "नवंबर 2024 में, कौन सा देश 6 वर्ष से कम उम्र के बच्चों के लिए सोशल मीडिया के उपयोग पर प्रतिबंध लगाने वाला कानून पारित करने वाला पहला देश बन गया है?",
+  "options": [
+   "भारत",
+   "यूएसए",
+   "जापान",
+   "ऑस्ट्रेलिया"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "ऑस्ट्रेलिया",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1330
+  ],
+  "option_objs": [
+   1332,
+   1334,
+   1336,
+   1338
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "प्रथम अंग्रेज़-मैसूर युद्ध किस वर्ष में हुआ था?",
+  "options": [
+   "1767-69",
+   "1780-84",
+   "1790-92",
+   "1799"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "1767-69",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1340
+  ],
+  "option_objs": [
+   1358,
+   1360,
+   1362,
+   1364
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 39,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 86.0,
+  "stem": "946 के प्रांतीय चुनावों के दौरान किस राजनीतिक दल ने \"सामान्य\" निर्वाचन क्षेत्रों में अच्छा प्रदर्शन किया था?",
+  "options": [
+   "भारतीय राष्ट्रीय कांग्रेस",
+   "जस्टिस पार्टी",
+   "भारतीय कम्युनिस्ट पार्टी",
+   "स्वराज पार्टी"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "भारतीय राष्ट्रीय कांग्रेस",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1366
+  ],
+  "option_objs": [
+   1368,
+   1370,
+   1372,
+   1374
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 4,
+  "qno": 40,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "भारत रत्न पुरस्कार प्राप्त करने वाली पहली महिला कौन थी?",
+  "options": [
+   "अरुणा आसफ अली",
+   "लता दीनानाथ मंगेशकर",
+   "इंदिरा गांधी",
+   "मदर मैरी टेरेसा"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "इंदिरा गांधी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1376
+  ],
+  "option_objs": [
+   1378,
+   1380,
+   1382,
+   1384
+  ],
+  "diagram_objs": []
+ }
+]

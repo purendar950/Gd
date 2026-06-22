@@ -1,0 +1,222 @@
+{
+  "21": {
+    "topic": "Polity & Constitution",
+    "answer": "B",
+    "correct": "The Finance Commission, a constitutional body under Article 280, is constituted every five years by the President to recommend how the net proceeds of taxes should be divided (vertical devolution) between the Union and the States, and how funds should be distributed among the States (horizontal devolution).",
+    "wrong": {
+      "A": "The Planning Commission (1950-2014) prepared Five-Year Plans and allocated plan assistance, but it had no role in dividing tax revenue and is now defunct.",
+      "C": "Parliament enacts tax laws and passes the Budget, but it does not recommend the formula for sharing tax proceeds with the States.",
+      "D": "NITI Aayog is only an advisory think-tank that replaced the Planning Commission; it has no constitutional power over tax devolution."
+    },
+    "fact": "The 15th Finance Commission (chaired by N.K. Singh) recommended a 41% share of the divisible pool for the States."
+  },
+  "22": {
+    "topic": "Polity & Constitution",
+    "answer": "C",
+    "correct": "Under Article 280, the President of India constitutes the Finance Commission and appoints its Chairman and the other members, along with deciding their qualifications and manner of selection.",
+    "wrong": {
+      "A": "Parliament only enacts the law laying down qualifications of members; it does not appoint them.",
+      "B": "The Union Cabinet may advise the President, but the formal appointing authority is the President.",
+      "D": "The Prime Minister heads the Council of Ministers but does not appoint the Finance Commission."
+    },
+    "fact": "A Finance Commission has a Chairman and four other members."
+  },
+  "23": {
+    "topic": "Art & Culture",
+    "answer": "B",
+    "correct": "The Gaur (bison-horn) dance is a tribal dance of the Maria Gonds of the Bastar region (Chhattisgarh/Madhya Pradesh) and is performed prominently during festive/spring celebrations associated with Holi.",
+    "wrong": {
+      "A": "Diwali is the festival of lights celebrated with lamps and fireworks, not specifically with the Gaur dance.",
+      "C": "Navratri is associated with Garba and Dandiya of Gujarat, not the Gaur dance.",
+      "D": "Baisakhi is a Punjabi harvest festival celebrated with the Bhangra and Gidda dances."
+    },
+    "fact": "Dancers wear headdresses made of bison (gaur) horns, which gives the dance its name."
+  },
+  "24": {
+    "topic": "Art & Culture",
+    "answer": "A",
+    "correct": "Hola Mohalla is a Sikh festival started by Guru Gobind Singh; the Guru Granth Sahib, the holy scripture of the Sikhs, is recited during its religious observances.",
+    "wrong": {
+      "B": "The Bhagavad Gita is a Hindu scripture, part of the Mahabharata, not recited at Hola Mohalla.",
+      "C": "The Quran is the holy book of Islam.",
+      "D": "The Bible is the holy book of Christianity."
+    },
+    "fact": "Hola Mohalla is celebrated at Anandpur Sahib a day after Holi and features mock battles and martial-arts (Gatka) displays by the Nihangs."
+  },
+  "25": {
+    "topic": "Science & Technology",
+    "answer": "C",
+    "correct": "Acceleration is taken as positive when it acts in the same direction as the velocity, because the body then speeds up in its direction of motion.",
+    "wrong": {
+      "A": "When acceleration is opposite to velocity it is negative acceleration (retardation/deceleration).",
+      "B": "Decreasing velocity means the acceleration opposes motion, i.e. it is negative.",
+      "D": "An object at rest with no change in velocity has zero acceleration."
+    },
+    "fact": "Acceleration is a vector quantity, so its sign depends on the chosen positive direction relative to the velocity."
+  },
+  "26": {
+    "topic": "Books & Authors",
+    "answer": "A",
+    "correct": "Frankenstein; or, The Modern Prometheus (1818) was written by the English author Mary Shelley.",
+    "wrong": {
+      "B": "Bram Stoker wrote Dracula (1897).",
+      "C": "H.G. Wells wrote science-fiction classics such as The Time Machine and The War of the Worlds.",
+      "D": "Robert Louis Stevenson wrote Treasure Island and Strange Case of Dr Jekyll and Mr Hyde."
+    },
+    "fact": "Mary Shelley wrote Frankenstein at the age of 18-19; it is often considered the first true science-fiction novel."
+  },
+  "27": {
+    "topic": "Economy",
+    "answer": "C",
+    "correct": "In the World Bank's Ease of Doing Business framework, the 'Enforcing Contracts' indicator measures the time, cost and procedural quality of the judicial system in resolving a standardised commercial dispute.",
+    "wrong": {
+      "A": "Labour-regulation implementation is captured by separate labour-market indicators, not Enforcing Contracts.",
+      "B": "Ease of paying and managing taxes is measured by the 'Paying Taxes' indicator.",
+      "D": "Effectiveness of law-enforcement (police) agencies is a governance/security measure, not part of this EODB indicator."
+    },
+    "fact": "The World Bank discontinued the Doing Business report in 2021 and is replacing it with the Business Ready (B-READY) project."
+  },
+  "28": {
+    "topic": "Sports",
+    "answer": "A",
+    "correct": "The first World Athletics Championships were held in Helsinki, Finland, in 1983.",
+    "wrong": {
+      "B": "Tokyo hosted the 1991 edition (and again in 2007).",
+      "C": "Rome hosted the 1987 World Championships.",
+      "D": "The 1993 Championships were held in Stuttgart, not Berlin (Berlin hosted in 2009)."
+    },
+    "fact": "Helsinki's Olympic Stadium, which hosted the 1952 Olympics, was the venue for the inaugural 1983 Championships."
+  },
+  "29": {
+    "topic": "Science & Technology",
+    "answer": "B",
+    "correct": "Time = distance / speed = 150,000,000 km / 30 km/s = 5,000,000 seconds, which is about 57.9 days, i.e. roughly 58 days.",
+    "wrong": {
+      "A": "15 days would require a speed of about 116 km/s.",
+      "C": "100 days corresponds to roughly 17 km/s.",
+      "D": "365 days (one year) corresponds to a speed of under 5 km/s."
+    },
+    "fact": "1 AU is the average Earth-Sun distance; light covers it in about 8 minutes 20 seconds."
+  },
+  "30": {
+    "topic": "Current Affairs",
+    "answer": "B",
+    "correct": "India assumed the BRICS Chairship in 2021, hosting the 13th BRICS Summit virtually that year.",
+    "wrong": {
+      "A": "In 2020 Russia held the BRICS Chair.",
+      "C": "China chaired BRICS in 2022.",
+      "D": "South Africa chaired BRICS in 2023."
+    },
+    "fact": "BRICS originally stood for Brazil, Russia, India, China and South Africa; it expanded with new members from 2024."
+  },
+  "31": {
+    "topic": "Economy",
+    "answer": "D",
+    "correct": "Reserving products exclusively for small-scale industries kept firms artificially small, which restricted economies of scale and discouraged investment in modern technology, hurting productivity and competitiveness.",
+    "wrong": {
+      "A": "The policy was meant to prevent monopoly by protecting small firms, not to encourage monopoly power.",
+      "B": "It did not specifically eliminate export opportunities; the core problem was scale and technology.",
+      "C": "Reservation did not exclude rural entrepreneurs; in fact small units were widely spread."
+    },
+    "fact": "India progressively 'de-reserved' SSI products after 1997, and the reservation list was abolished entirely by 2015."
+  },
+  "32": {
+    "topic": "Economy",
+    "answer": "B",
+    "correct": "India's First Five-Year Plan (1951-56) was based on the Harrod-Domar model, which links growth to the rate of saving and investment and the capital-output ratio.",
+    "wrong": {
+      "A": "The Solow growth model came later and was not the basis of the First Plan.",
+      "C": "The Keynesian model focuses on demand management, not the planning framework used here.",
+      "D": "The Mahalanobis model was the basis of the Second Five-Year Plan (1956-61), not the First."
+    },
+    "fact": "The First Plan prioritised agriculture and irrigation following the disruptions of Partition."
+  },
+  "33": {
+    "topic": "Sports",
+    "answer": "B",
+    "correct": "A standard field-hockey pitch is 91.4 metres long (100 yards) and 55 metres wide.",
+    "wrong": {
+      "A": "80 m is shorter than the regulation length.",
+      "C": "100 m is the length of a standard football pitch's playing area, not a hockey pitch.",
+      "D": "105 m is the typical length of a full-size football (soccer) field."
+    },
+    "fact": "The dimensions come from the old imperial measure of 100 yards by 60 yards."
+  },
+  "34": {
+    "topic": "Schemes & Government",
+    "answer": "D",
+    "correct": "AMRUT, launched in 2015, aims to provide basic urban infrastructure - especially assured water supply, sewerage, drainage and green spaces - in selected cities and towns.",
+    "wrong": {
+      "A": "Promoting digital services is the focus of Digital India, not AMRUT.",
+      "B": "Expanding rural employment is the goal of MGNREGA.",
+      "C": "Agricultural marketing is addressed by schemes like e-NAM, not AMRUT."
+    },
+    "fact": "AMRUT 2.0 was launched in 2021 with the goal of universal water-supply coverage in all statutory towns."
+  },
+  "35": {
+    "topic": "Economy",
+    "answer": "B",
+    "correct": "The Export-Import (EXIM) Bank of India is the apex financial institution set up in 1982 specifically to finance and promote India's foreign trade.",
+    "wrong": {
+      "A": "NABARD is the apex bank for agriculture and rural development.",
+      "C": "The World Bank is an international multilateral lender, not India's export-import bank.",
+      "D": "SIDBI is the principal institution for financing small and medium enterprises."
+    },
+    "fact": "EXIM Bank also extends Lines of Credit on behalf of the Government of India to other developing countries."
+  },
+  "36": {
+    "topic": "History",
+    "answer": "D",
+    "correct": "Emperor Jahangir, in his memoirs (the Tuzuk-i-Jahangiri / Jahangirnama), described the Banjaras as itinerant traders who transported grain on bullocks across the country.",
+    "wrong": {
+      "A": "Babur's memoirs (Baburnama) focus on his conquests and observations of India, not the Banjaras' grain trade.",
+      "B": "Humayun did not leave such memoirs; his life was recorded by others (e.g. the Humayun-nama by Gulbadan Begum).",
+      "C": "Sher Shah Suri is known for administrative reforms and the Grand Trunk Road, not for memoirs on the Banjaras."
+    },
+    "fact": "The Banjaras were a mobile trading community who moved goods in large caravans called 'tandas'."
+  },
+  "37": {
+    "topic": "History",
+    "answer": "B",
+    "correct": "In the ancient Hindu ashrama system, 'Brahmacharya' was the first stage of life - the celibate student stage devoted to learning under a guru. A student was called a Brahmachari.",
+    "wrong": {
+      "A": "Vanaprastha is the third stage - gradual retirement and withdrawal from worldly life.",
+      "C": "Sannyasin refers to the fourth stage - renunciation of all worldly attachments.",
+      "D": "Grihastha is the second stage - the householder/family life."
+    },
+    "fact": "The four ashramas are Brahmacharya, Grihastha, Vanaprastha and Sannyasa."
+  },
+  "38": {
+    "topic": "Economy",
+    "answer": "A",
+    "correct": "According to the EAC-PM (Economic Advisory Council to the Prime Minister) analysis, domestic migration fell by nearly 12% between 2011 and 2023, indicating greater local economic opportunity.",
+    "wrong": {
+      "B": "9% understates the decline reported.",
+      "C": "15% is higher than the figure cited in the report.",
+      "D": "21% overstates the reported fall in migration."
+    },
+    "fact": "The EAC-PM is a non-constitutional advisory body that gives the Prime Minister independent economic advice."
+  },
+  "39": {
+    "topic": "Polity & Constitution",
+    "answer": "B",
+    "correct": "The Pre-Conception and Pre-Natal Diagnostic Techniques (PCPNDT) Act was enacted in 1994 to prohibit sex selection and the misuse of diagnostic techniques for determining the sex of a foetus.",
+    "wrong": {
+      "A": "1991 is incorrect; the Act came three years later.",
+      "C": "2011 was the year of a Census that highlighted the skewed child sex ratio, not the year of the Act.",
+      "D": "2015 is much later; major amendments to the Act were made in 2003, not 2015."
+    },
+    "fact": "The Act was significantly amended in 2003 to also regulate pre-conception sex-selection techniques."
+  },
+  "40": {
+    "topic": "History",
+    "answer": "A",
+    "correct": "The rebel sepoys of the Meerut regiment marched to Delhi in May 1857 and proclaimed the aged Mughal emperor Bahadur Shah Zafar II as the symbolic ruler of Hindustan.",
+    "wrong": {
+      "B": "Peshwa Baji Rao II had died in 1851; it was his adopted heir Nana Saheb who led the revolt at Kanpur.",
+      "C": "Nana Saheb led the rebellion in Kanpur, but the Meerut sepoys went to Delhi to the Mughal emperor.",
+      "D": "Rani Lakshmibai led the revolt at Jhansi, not the figure the Meerut soldiers turned to."
+    },
+    "fact": "After the revolt was crushed, Bahadur Shah Zafar was exiled to Rangoon, where he died in 1862."
+  }
+}

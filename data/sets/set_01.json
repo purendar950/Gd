@@ -1,0 +1,602 @@
+[
+ {
+  "set": 1,
+  "qno": 21,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 90.0,
+  "stem": "Which body recommends the distribution of taxes between Center and States?",
+  "options": [
+   "Planning Commission",
+   "Finance Commission",
+   "Parliament",
+   "NITI Aayog"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Finance Commission",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   17
+  ],
+  "option_objs": [
+   19,
+   21,
+   23,
+   25
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 22,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.8,
+  "stem": "Who appoints the chairman and members of the Finance Commission?",
+  "options": [
+   "Parliament",
+   "Union Cabinet",
+   "President",
+   "Prime Minister"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "President",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   95
+  ],
+  "option_objs": [
+   97,
+   99,
+   101,
+   103
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 23,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 73.0,
+  "stem": "During which festival is Gaur dance predominantly performed?",
+  "options": [
+   "Diwali",
+   "Holi",
+   "Navratri",
+   "Baisakhi"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Holi",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   105
+  ],
+  "option_objs": [
+   107,
+   109,
+   111,
+   113
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 24,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.9,
+  "stem": "Which Sikh scripture is recited during Hola Mohalla?",
+  "options": [
+   "Guru Granth Sahib",
+   "Bhagavad Gita",
+   "Quran",
+   "Bible"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Guru Granth Sahib",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   115
+  ],
+  "option_objs": [
+   117,
+   119,
+   121,
+   123
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 25,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.2,
+  "stem": "When is acceleration considered positive?",
+  "options": [
+   "When it is opposite to velocity",
+   "When velocity is decreasing",
+   "When it is in the direction of velocity",
+   "When the object is at rest"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "When it is in the direction of velocity",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   125
+  ],
+  "option_objs": [
+   127,
+   148,
+   150,
+   152
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 26,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 85.8,
+  "stem": "Frankenstein is written by :",
+  "options": [
+   "Mary Shelley",
+   "Bram Stoker",
+   "H.G. Wells",
+   "Robert Louis Stevenson"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Mary Shelley",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   154
+  ],
+  "option_objs": [
+   156,
+   158,
+   160,
+   162
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 27,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.8,
+  "stem": "The Ease of Doing Business (EODB) indicator “Enforcing Contracts” measures:",
+  "options": [
+   "implementation of labor regulations",
+   "Ease of paying and managing taxes",
+   "Efficiency of the judicial system in resolving commercial disputes",
+   "Effectiveness of law enforcement agencies"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Efficiency of the judicial system in resolving commercial disputes",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   164
+  ],
+  "option_objs": [
+   166,
+   168,
+   170,
+   172
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 28,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "In which city and year were the first World Athletics Championships held?",
+  "options": [
+   "Helsinki, 1983",
+   "Tokyo, 1991",
+   "Rome, 1987",
+   "Berlin, 1993"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Helsinki, 1983",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   174
+  ],
+  "option_objs": [
+   176,
+   178,
+   199,
+   201
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 29,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "if a spacecraft travels at 30 km/s, how long will it take to cover 1 AU (150 million km)?",
+  "options": [
+   "15 days",
+   "58 days",
+   "100 days",
+   "365 days"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "58 days",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   203
+  ],
+  "option_objs": [
+   205,
+   207,
+   209,
+   211
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 30,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.5,
+  "stem": "in which year did India take over the BRICS Chairship from Russia?",
+  "options": [
+   "2020",
+   "2021",
+   "2022",
+   "2023"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "2021",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   213
+  ],
+  "option_objs": [
+   215,
+   217,
+   219,
+   221
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 31,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.5,
+  "stem": "What was the main drawback of small-scale industry reservation policies?",
+  "options": [
+   "They encouraged monopoly power",
+   "They eliminated export opportunities",
+   "They excluded rural entrepreneurs",
+   "They restricted economies of scale and technological upgrading"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "They restricted economies of scale and technological upgrading",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   223
+  ],
+  "option_objs": [
+   225,
+   227,
+   229,
+   253
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.5,
+  "stem": "Which was the model for the First Five-Year Plan (1951-1956)?",
+  "options": [
+   "Solow model",
+   "Harrod-Domar model",
+   "Keynesian model",
+   "Mahalanobis model"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Harrod-Domar model",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   255
+  ],
+  "option_objs": [
+   257,
+   259,
+   261,
+   263
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 0.0,
+  "stem": "What is the length of a standard field hockey pitch?",
+  "options": [
+   "80 m",
+   "91.4 m",
+   "100 m",
+   "105m"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "91.4 m",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   265
+  ],
+  "option_objs": [
+   267,
+   269,
+   271,
+   273
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 34,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.7,
+  "stem": "What is the goal of the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) scheme launched in 2015?",
+  "options": [
+   "Promote digital services",
+   "Expand rural employment",
+   "Enhance agricultural marketing",
+   "Urban infrastructure and water supply"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Urban infrastructure and water supply",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   275
+  ],
+  "option_objs": [
+   277,
+   279,
+   281,
+   283
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 56.0,
+  "stem": "Which financial institution plays the lead role in supporting India’s export and import activities?",
+  "options": [
+   "NABARD",
+   "EXIM Bank",
+   "World Bank",
+   "SIDBI"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "EXIM Bank",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   304
+  ],
+  "option_objs": [
+   306,
+   308,
+   310,
+   312
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "Who mentioned the role of the Banjaras in transporting grain in his memoirs?",
+  "options": [
+   "Babur",
+   "Humayun",
+   "Sher Shah Suri",
+   "Jahangir"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Jahangir",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   314
+  ],
+  "option_objs": [
+   316,
+   318,
+   320,
+   322
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "What term was used to describe the student stage of life in early Hindu philosophy?",
+  "options": [
+   "Vanaprastha",
+   "Brahmachari",
+   "Sannyasin",
+   "Grihastha"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Brahmachari",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   324
+  ],
+  "option_objs": [
+   326,
+   328,
+   330,
+   332
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "As per a report by Prime Minister’s Economic Advisory Panel EAC-PM, the number of domestic migrants have lowered by nearly between 2011 and 2023.",
+  "options": [
+   "12%",
+   "9%",
+   "15%",
+   "21%"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "12%",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   351
+  ],
+  "option_objs": [
+   353,
+   355,
+   357,
+   359
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.3,
+  "stem": "The PCPNDT Act was enacted by the Government of India in for prohibition of sex selection.",
+  "options": [
+   "1991",
+   "1994",
+   "2011",
+   "2015"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1994",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   361
+  ],
+  "option_objs": [
+   363,
+   365,
+   367,
+   369
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 1,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.5,
+  "stem": "To whom did the rebel soldiers of the Meerut Regiment want to hand over the rule of the country?",
+  "options": [
+   "Bahadur Shah Zafar",
+   "Peshwa Baji Rao Il",
+   "Nana Saheb",
+   "Rani Lakshmibai"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Bahadur Shah Zafar",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   371
+  ],
+  "option_objs": [
+   373,
+   375,
+   377,
+   379
+  ],
+  "diagram_objs": []
+ }
+]

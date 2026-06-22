@@ -1,0 +1,602 @@
+[
+ {
+  "set": 59,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.6,
+  "stem": "भारत के महान्यायवादी का कार्यकाल कितना होता है?",
+  "options": [
+   "3 वर्ष",
+   "5 वर्ष",
+   "65 वर्ष की आयु तक",
+   "संविधान द्वारा निर्धारित नहीं"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "संविधान द्वारा निर्धारित नहीं",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8655
+  ],
+  "option_objs": [
+   7511,
+   7513,
+   8657,
+   8659
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 77.5,
+  "stem": "रोंगाली बिहू के किस त्यौहार के दिन लोग पारंपरिक रूप से रिश्तेदारों से मिलने जाते हैं और उपहारों का आदान-प्रदान करते हैं?",
+  "options": [
+   "गोरू बिहू",
+   "मनुह बिहू",
+   "कुटुम बिहू",
+   "बोहागी बिहू"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "कुटुम बिहू",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8680
+  ],
+  "option_objs": [
+   8682,
+   8684,
+   8686,
+   8688
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "कौन-सा भारतीय राज्य, लोक संगीत और नृत्य शैलियों घूमर और कालबेलिया के लिए जाना जाता है?",
+  "options": [
+   "गुजरात",
+   "राजस्थान",
+   "हिमाचल प्रदेश",
+   "सिक्किम"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "राजस्थान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8690
+  ],
+  "option_objs": [
+   733,
+   1752,
+   2469,
+   1559
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 67.5,
+  "stem": "द अलकेमिस्ट के लेखक कौन हैं?",
+  "options": [
+   "पाउलो कोएल्हो",
+   "डैन ब्राउन",
+   "गेब्रियल गार्सिया मार्केज़",
+   "खालिद हुसैनी"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "पाउलो कोएल्हो",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8692
+  ],
+  "option_objs": [
+   8694,
+   8696,
+   8698,
+   8700
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 79.0,
+  "stem": "छोटी आंत को किन दो अंगों से पाचक स्राव प्राप्त होता है?",
+  "options": [
+   "आमाशय और वृक्क",
+   "यकृत और अग्न्याशय",
+   "अग्न्याशय और प्लीहा",
+   "पित्ताशय और फेफड़ा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "यकृत और अग्न्याशय",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8720
+  ],
+  "option_objs": [
+   8722,
+   8724,
+   8726,
+   8728
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.5,
+  "stem": "कौन सा प्रधानमंत्री एकमात्र ऐसा व्यक्ति है जिसे भारत का भारत रत्न और पाकिस्तान का निशान-ए-पाकिस्तान दोनों पुरस्कार प्राप्त हुए हैं?",
+  "options": [
+   "अटल बिहारी वाजपेयी",
+   "मोरारजी देसाई",
+   "पी. वी. नरसिम्हा राव",
+   "लाल बहादुर शास्त्री"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "मोरारजी देसाई",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8730
+  ],
+  "option_objs": [
+   8732,
+   4382,
+   8734,
+   4386
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "टिहरी बांध किस नदी पर स्थित है?",
+  "options": [
+   "भागीरथी",
+   "यमुना",
+   "गंगा",
+   "गोदावरी"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "भागीरथी",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8736
+  ],
+  "option_objs": [
+   8738,
+   4929,
+   4903,
+   7636
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 28,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 92.9,
+  "stem": "ग्रैंड स्लैम खिताब जीतने वाले पहले भारतीय महेश भूपति थे। उन्होंने यह उपलब्धि किस वर्ष हासिल की?",
+  "options": [
+   "1995",
+   "1997",
+   "1998",
+   "1999"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1997",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8758
+  ],
+  "option_objs": [
+   8760,
+   8762,
+   8764,
+   7276
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.0,
+  "stem": "निम्नलिखित में से कौन-सा, पादपों में जाइलम ऊतक का घटक नहीं है?",
+  "options": [
+   "=",
+   "वाहिका",
+   "जाइलम मृदूतक",
+   "सहकोशिका"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "सहकोशिका",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8766
+  ],
+  "option_objs": [
+   8768,
+   8770,
+   8772,
+   8774
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.2,
+  "stem": "किस बिम्सटेक शिखर सम्मेलन में सचिवालय की स्थापना का निर्णय लिया गया?",
+  "options": [
+   "पहला शिखर सम्मेलन",
+   "दूसरा शिखर सम्मेलन",
+   "तीसरा शिखर सम्मेलन",
+   "चौथा शिखर सम्मेलन"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "तीसरा शिखर सम्मेलन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8776
+  ],
+  "option_objs": [
+   8778,
+   8780,
+   8782,
+   8784
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 31,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "भारत की महिला कबड्डी टीम ने अपना पहला एशियाई खेलों का स्वर्ण पदक कब जीता?",
+  "options": [
+   "2010",
+   "2006",
+   "2014",
+   "2002"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2010",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8804
+  ],
+  "option_objs": [
+   8806,
+   8808,
+   5169,
+   8810
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "अष्टक का नियम निम्नलिखित में से किस तत्व तक ही लागू होता है?",
+  "options": [
+   "कैल्शियम",
+   "पोटेशियम",
+   "थोरियम",
+   "हाइड्रोजन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "कैल्शियम",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8812
+  ],
+  "option_objs": [
+   8814,
+   8816,
+   8818,
+   8820
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.5,
+  "stem": "भारत की हरित क्रांति के निर्माता के रूप में किसे जाना जाता है और 2024 में भारत रत्न से सम्मानित किया गया?",
+  "options": [
+   "वर्गीस कुरियन",
+   "एम. एस. स्वामीनाथन",
+   "नॉर्मन बोरलॉग",
+   "सी. सुब्रमण्यम"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "एम. एस. स्वामीनाथन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8822
+  ],
+  "option_objs": [
+   8824,
+   8826,
+   8828,
+   8830
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.4,
+  "stem": "सुभद्रा योजना का प्राथमिक उद्देश्य कया है?",
+  "options": [
+   "वरिष्ठ नागरिकों के लिए पेंशन",
+   "आर्थिक रूप से कमजोर महिलाओं को वित्तीय सहायता",
+   "घरों के लिए नवीकरणीय ऊर्जा",
+   "युवाओं के लिए रोजगार"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "आर्थिक रूप से कमजोर महिलाओं को वित्तीय सहायता",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8849
+  ],
+  "option_objs": [
+   8851,
+   8853,
+   8855,
+   8857
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.4,
+  "stem": "सल्तनत के तहत गन्ने जैसी नई फसलों और बेहतर सिंचाई की शुरूआत के परिणामस्वरूप कया हुआ?",
+  "options": [
+   "गुज़ारा करने वाली खेती में गिरावट",
+   "खेती में विविधता और ज़्यादा सरप्लस",
+   "आयात पर ज़्यादा निर्भरता",
+   "पारंपरिक फसलों को छोड़ देना"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "खेती में विविधता और ज़्यादा सरप्लस",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8859
+  ],
+  "option_objs": [
+   8861,
+   8863,
+   8865,
+   8867
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 36,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 46.5,
+  "stem": "4 (? प्रतिरोध वाले एक तार को उसकी लंबाई दोगुनी करने तक खींचा जाता है। इसका नया प्रतिरोध कितना होगा?",
+  "options": [
+   "4Q",
+   "8Q",
+   "12Q",
+   "6 (2"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "6 (2",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8869
+  ],
+  "option_objs": [
+   8871,
+   8873,
+   8875,
+   8877
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 73.0,
+  "stem": "पृथ्वी की संरचना के संदर्भ में, निम्नलिखित में से कौन सी असांतत्य भूपर्पटी तथा मैंटल को विभाजित करती है?",
+  "options": [
+   "मोहो",
+   "रेपेटी",
+   "कोनार्ड",
+   "गुटेनबर्ग"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "मोहो",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8897
+  ],
+  "option_objs": [
+   8899,
+   8901,
+   8903,
+   8905
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "खान अब्दुल गफ्फार खान को निम्नलिखित में से अन्य किस नाम से भी जाना जाता था?",
+  "options": [
+   "बाबा-ए-कौम",
+   "राजा जी",
+   "सरदार",
+   "बादशाह खान"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "बादशाह खान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8907
+  ],
+  "option_objs": [
+   8909,
+   8911,
+   8913,
+   8915
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 39,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 75.0,
+  "stem": "फसल की पाले और गर्म हवा दोनों से रक्षा करता हैं।",
+  "options": [
+   "जल",
+   "खाद",
+   "स्टार्च",
+   "उर्वरक"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "जल",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8917
+  ],
+  "option_objs": [
+   8919,
+   8921,
+   8923,
+   8925
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 59,
+  "qno": 40,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 87.9,
+  "stem": "वैश्विक प्रेषण अंतर्वाह रिपोर्ट के अनुसार, भारत को 2024 में वैश्विक प्रेषणों का प्राप्त हुआ था।",
+  "options": [
+   "8.2%",
+   "14.3%",
+   "18.1%",
+   "25.3%"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "14.3%",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8937
+  ],
+  "option_objs": [
+   8939,
+   8941,
+   8943,
+   8945
+  ],
+  "diagram_objs": []
+ }
+]

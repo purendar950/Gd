@@ -1,0 +1,602 @@
+[
+ {
+  "set": 33,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.0,
+  "stem": "कौन-सा भारतीय क्षेत्र अपनी बाउल गायन परंपरा के लिए जाना जाता है?",
+  "options": [
+   "गुजरात",
+   "तमिलनाडु",
+   "बंगाल",
+   "पंजाब"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "बंगाल",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   731
+  ],
+  "option_objs": [
+   733,
+   735,
+   737,
+   739
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 77.0,
+  "stem": "हिंदुस्तानी संगीत में राग यमन से कौन-सा थाट जुड़ा हुआ है?",
+  "options": [
+   "काफ़ी",
+   "बिलावल",
+   "कल्याण",
+   "भैरव"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "कल्याण",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   765
+  ],
+  "option_objs": [
+   767,
+   769,
+   771,
+   773
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 76.0,
+  "stem": "पादप के संवहनी तंत्र के कौन से घटक, जल चालन के लिए उत्तरदायी होते हैं?",
+  "options": [
+   "चालनी नलिका और सहकोशिका",
+   "वाहिका और ट्रेकीड",
+   "द्वार-कोशिका और रंध्र",
+   "फ्लोएम फाइबर"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "वाहिका और ट्रेकीड",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   775
+  ],
+  "option_objs": [
+   777,
+   779,
+   781,
+   783
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "पादप और जंतुओं के मृत अवशेषों को विघटित करने के लिए मुख्यतः: कौन से जीव उत्तरदायी होते हैं?",
+  "options": [
+   "शाकाहारी",
+   "उत्पादक",
+   "अपघटक",
+   "मांसाहारी"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "अपघटक",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   785
+  ],
+  "option_objs": [
+   787,
+   789,
+   791,
+   793
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 75.0,
+  "stem": "इनमें से किसे जैव-निम्नीकरणीय अपशिष्ट माना जाता है?",
+  "options": [
+   "कांच के जार",
+   "मृत जंतु",
+   "एल्युमिनियम के डिब्बे",
+   "स्टाइरोफ़ोम"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "मृत जंतु",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   813
+  ],
+  "option_objs": [
+   815,
+   817,
+   819,
+   821
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.5,
+  "stem": "बैंगलोर में सेक्रे-कूर चर्च के डिजाइन में निम्नलिखित में से कौन-सी विशेषता प्रमुख है?",
+  "options": [
+   "गुंबददार छत",
+   "रंगीन कांच की खिड़कियाँ",
+   "कोरिंथियन स्तंभ",
+   "सपाट छत"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "रंगीन कांच की खिड़कियाँ",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   823
+  ],
+  "option_objs": [
+   825,
+   827,
+   829,
+   831
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 46.5,
+  "stem": "पत्तियों का हरा रंग किसके कारण होता है?",
+  "options": [
+   "द्वार कोशिकाएँ (6८०७0 ८€॥5)",
+   "GIScs (xylem)",
+   "फ्लोएम (006)",
+   "uvteftd (Chlorophyll)"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "uvteftd (Chlorophyll)",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   833
+  ],
+  "option_objs": [
+   835,
+   837,
+   839,
+   841
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 34.0,
+  "stem": "पादप के किस भाग को \"खाद्य कारखाना (५४00 ५८0४)\" कहा जाता है?",
+  "options": [
+   "फूल",
+   "तना",
+   "जड़",
+   "पत्ता"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "पत्ता",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   861
+  ],
+  "option_objs": [
+   863,
+   865,
+   867,
+   869
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "मस्तिष्क और मेरुरज्जु मुख्य रूप से से बने होते हैं।",
+  "options": [
+   "पेशी ऊतक",
+   "संयोजी ऊतक",
+   "तंत्रिका ऊतक",
+   "उपकला ऊतक"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "तंत्रिका ऊतक",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   871
+  ],
+  "option_objs": [
+   873,
+   875,
+   877,
+   879
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.0,
+  "stem": "जुलाई 2025 में, ब्राज़ील के सर्वोच्च नागरिक सम्मान, ग्रैंड कॉलर ऑफ़ द नेशनल ऑर्डर ऑफ़ द सदर्न क्रॉस से किसे सम्मानित किया गया है?",
+  "options": [
+   "द्रौपदी मुर्मू",
+   "राहुल गांधी",
+   "नरेंद्र मोदी",
+   "जयशंकर"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "नरेंद्र मोदी",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   881
+  ],
+  "option_objs": [
+   883,
+   885,
+   887,
+   889
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 71.0,
+  "stem": "दिसंबर 2024 में केरल का राज्यपाल किसे नियुक्त किया गया था?",
+  "options": [
+   "विजय कुमार सिंह",
+   "अनुसुड़या उड़के",
+   "हरि बाबू कंभमपति",
+   "राजेंद्र विश्वनाथ आर्लेकर"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "राजेंद्र विश्वनाथ आर्लेकर",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   909
+  ],
+  "option_objs": [
+   911,
+   913,
+   915,
+   917
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 58.0,
+  "stem": "पुरुषों में निम्नलिखित में से कौन-सी अंतःस्रावी ग्रंथि यौवनारंभ से संबंधित हार्मोन का स्त्राव करती हैं?",
+  "options": [
+   "पीनियल ग्रंथि",
+   "वृषण",
+   "अग्न्याशय",
+   "थाइमस ग्रंथि"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "वृषण",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   919
+  ],
+  "option_objs": [
+   921,
+   923,
+   925,
+   927
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 69.0,
+  "stem": "विश्व पर्यावरण दिवस 2025 पर सबसे प्रभावशाली पर्यावरणविद्‌ पुरस्कार से किसे सम्मानित किया गया?",
+  "options": [
+   "आचार्य प्रशांत",
+   "ग्जेंद्र शेखावत",
+   "नरेंद्र मोदी",
+   "सोनू सूद"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "आचार्य प्रशांत",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   929
+  ],
+  "option_objs": [
+   931,
+   933,
+   935,
+   937
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 85.0,
+  "stem": "भारतीय अंतरिक्ष विज्ञान एवं प्रौद्योगिकी संस्थान में स्थित है।",
+  "options": [
+   "कोचि",
+   "नागपुर",
+   "नई दिल्ली",
+   "तिरुवनंतपुरम"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "तिरुवनंतपुरम",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   957
+  ],
+  "option_objs": [
+   959,
+   961,
+   963,
+   965
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 63.0,
+  "stem": "खेलों में दवाओं के दुरुपयोग के संबंध में निम्नलिखित में से कौन सा एक एनाबोलिक एजेंट है? ।. ऑक्सेंड्रोलोन |. ऑक्साबोलोन",
+  "options": [
+   "chad |",
+   "केवल ॥।",
+   "। तथा ॥ दोनों",
+   "नातो। तथा ना ही ॥"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "। तथा ॥ दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   969,
+   971,
+   973,
+   975
+  ],
+  "diagram_objs": [
+   967
+  ]
+ },
+ {
+  "set": 33,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "निम्नलिखित में से किस पूर्वोत्तर राज्य ने राष्ट्रीय खेल 2025 में सबसे अधिक पदक जीते हैं?",
+  "options": [
+   "मणिपुर",
+   "अरुणाचल प्रदेश",
+   "असम",
+   "मिजोरम"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "मणिपुर",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   977
+  ],
+  "option_objs": [
+   979,
+   981,
+   983,
+   985
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.8,
+  "stem": "949 में थल सेनाध्यक्ष तथा बाद में फील्ड मार्शल बनने वाले पहले भारतीय कौन थे?",
+  "options": [
+   "जनरल पी. एन. थापर",
+   "जनरल के. एम. करिअप्पा",
+   "जनरल के. एस. थिमय्या",
+   "जनरल एस. एम. श्रीनागेश"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "जनरल के. एम. करिअप्पा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1005
+  ],
+  "option_objs": [
+   1007,
+   1009,
+   1011,
+   1013
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 38,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 40.0,
+  "stem": "क्यु.एस. एशिया यूनिवर्सिटी रैंकिंग 2025 में दिल्ली विश्वविद्यालय का रैंक क्या है?",
+  "options": [
+   "81",
+   "67",
+   "91",
+   "v7"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "81",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1015
+  ],
+  "option_objs": [
+   1017,
+   1019,
+   1021,
+   1023
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 88.0,
+  "stem": "ग्लोबल बिजनेस कॉम्प्लेक्सिटी इंडेक्स 2025 में भारत की रैंकिंग कया है?",
+  "options": [
+   "71",
+   "33",
+   "11",
+   "18"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "18",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1025
+  ],
+  "option_objs": [
+   1027,
+   1029,
+   1031,
+   1033
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 33,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 81.0,
+  "stem": "सचिन तेंदुलकर ने अंतर्राष्ट्रीय क्रिकेट में अपना पहला टेस्ट मैच किस टीम के खिलाफ खेला था?",
+  "options": [
+   "श्रीलंका",
+   "ऑस्ट्रेलिया",
+   "पाकिस्तान",
+   "इंगलैंड"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "पाकिस्तान",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1045
+  ],
+  "option_objs": [
+   1047,
+   1049,
+   1051,
+   1053
+  ],
+  "diagram_objs": []
+ }
+]

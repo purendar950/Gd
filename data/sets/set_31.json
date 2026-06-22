@@ -1,0 +1,602 @@
+[
+ {
+  "set": 31,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "उपराष्ट्रपति की अनुपस्थिति में राज्यसभा की अध्यक्षता कौन करता है?",
+  "options": [
+   "लोकसभा अध्यक्ष",
+   "राष्ट्रपति",
+   "राज्यसभा के उपसभापति",
+   "प्रधानमंत्री"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "राज्यसभा के उपसभापति",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   17
+  ],
+  "option_objs": [
+   19,
+   21,
+   23,
+   25
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.5,
+  "stem": "गिहा नृत्य के संदर्भ में बोलियां क्या हैं?",
+  "options": [
+   "नर्तकों द्वारा पहने जाने वाले परिधानों के प्रकार",
+   "नृत्य के दौरान गाए जाने वाले पारंपरिक गीत",
+   "विशिष्ट नृत्य चरण",
+   "प्रदर्शन के दौरान बजाए जाने वाले वाद्यायंत्र"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "नृत्य के दौरान गाए जाने वाले पारंपरिक गीत",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   95
+  ],
+  "option_objs": [
+   97,
+   99,
+   101,
+   103
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 64.5,
+  "stem": "कौन सी भारतीय झील ज्वालामुखीय उत्पत्ति की है?",
+  "options": [
+   "सांभर झील",
+   "लोकतक झील",
+   "लोनार झील",
+   "चिल्‍का झील"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "लोनार झील",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   105
+  ],
+  "option_objs": [
+   107,
+   109,
+   111,
+   113
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 64.3,
+  "stem": "स्वतंत्र उम्मीदवार के रूप में भारत के राष्ट्रपति चुने जाने वाले एकमात्र व्यक्ति कौन थे?",
+  "options": [
+   "जैल सिंह",
+   "नीलम संजीव रेड्डी",
+   "वी. वी. गिरि",
+   "फखरुद्दीन अली अहमद"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "वी. वी. गिरि",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   115
+  ],
+  "option_objs": [
+   117,
+   119,
+   121,
+   123
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.3,
+  "stem": "किस मुगलकालीन स्मारक को अक्सर \"बेबी ताज\" कहा जाता है और यह सफेद संगमरमर वास्तुकला की ओर एक शैलीगत बदलाव का प्रतीक है?",
+  "options": [
+   "एत्मादुद्दौला का मकबरा",
+   "बीबी का मकबरा",
+   "मोती मस्जिद",
+   "हुमायूँ का मकबरा"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "एत्मादुद्दौला का मकबरा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   125
+  ],
+  "option_objs": [
+   146,
+   148,
+   150,
+   152
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 26,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 71.8,
+  "stem": "कबड्डी में महिलाओं के लिए मानक कोर्ट का आकार क्या है?",
+  "options": [
+   "10 Hlex x 8 Alex",
+   "12 Hlex x 8 Alex",
+   "11 Alex x 8 Alex",
+   "13 Flex x 11 Alex"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "12 Hlex x 8 Alex",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   154
+  ],
+  "option_objs": [
+   156,
+   158,
+   160,
+   162
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.1,
+  "stem": "निम्नलिखित में से कौन सा नीति आयोग का मुख्य कार्य है?",
+  "options": [
+   "राज्यों को योजना निधि का आवंटन",
+   "नीति विषयक चिंतनशील संस्था और सहकारी संघवाद",
+   "मौद्रिक नीति को नियंत्रित करना",
+   "चुनाव कराना"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "नीति विषयक चिंतनशील संस्था और सहकारी संघवाद",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   164
+  ],
+  "option_objs": [
+   166,
+   168,
+   170,
+   172
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.4,
+  "stem": "चोल काल की कृषि में कावेरी नदी की नहरों की मुख्य भूमिका कया थी?",
+  "options": [
+   "वे फसलों के लिए उपजाऊ मिट्टी तथा आर््रता प्रदान करती थीं।",
+   "वे आक्रमणों से सुरक्षा प्रदान करती थीं।",
+   "वे व्यापार के लिए माल का परिवहन करती थीं।",
+   "उनका उपयोग मछली पकड़ने तथा नाव परिवहन के लिए किया जाता था।"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "वे फसलों के लिए उपजाऊ मिट्टी तथा आर््रता प्रदान करती थीं।",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   174
+  ],
+  "option_objs": [
+   176,
+   197,
+   199,
+   201
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 78.5,
+  "stem": "लगातार स्थानांतरण के लिए जाने जाने वाले कौन से आई.ए.एस. अधिकारी अप्रैल 2025 में सेवानिवृत्त हुए हैं?",
+  "options": [
+   "सुजाता सौनिक",
+   "अशोक खेमका",
+   "राजीव टोपनो",
+   "दुर्गा शक्ति नागपाल"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अशोक खेमका",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   203
+  ],
+  "option_objs": [
+   205,
+   207,
+   209,
+   211
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.7,
+  "stem": "मई 2025 तक, भारत के मुख्य सूचना आयुक्त (सी.आई.सी.) कौन हैं?",
+  "options": [
+   "यशवर्धन कुमार सिन्हा",
+   "हीरालाल सामरिया",
+   "सुधीर भार्गव",
+   "सुरेश चंद्र"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "हीरालाल सामरिया",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   213
+  ],
+  "option_objs": [
+   215,
+   217,
+   219,
+   221
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 31,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "भारतीय नागरिक सुरक्षा संहिता (बी.एन.एस.एस.), 2023 की धारा 290 के तहत आरोप तय होने की तिथि से कितने दिनों के भीतर प्ली बार्गेनिंग के लिए आवेदन किया जा सकता है?",
+  "options": [
+   "70",
+   "30",
+   "80",
+   "100"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "30",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   223
+  ],
+  "option_objs": [
+   225,
+   227,
+   248,
+   250
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 32,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 0.0,
+  "stem": "भारतीय संविधान के भाग '/ का कौन सा अध्याय कार्यपालिका से संबंधित है?",
+  "options": [
+   "|",
+   "",
+   "",
+   "IV"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "|",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   252
+  ],
+  "option_objs": [
+   254,
+   256,
+   258,
+   260
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "को प्राय: प्रकृति के सफाई कर्मचारी के रूप में संदर्भित किया जाता है।",
+  "options": [
+   "गिद्धों",
+   "हाथियों",
+   "शेर",
+   "बाघ"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "गिद्धों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   262
+  ],
+  "option_objs": [
+   264,
+   266,
+   268,
+   270
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 34,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.6,
+  "stem": "निम्नलिखित में से किस वर्ष भारतीय राष्ट्रीय अंतरिक्ष अनुसंधान समिति का इसरो में विकास हुआ था?",
+  "options": [
+   "1962",
+   "1969",
+   "1972",
+   "1974"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1969",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   272
+  ],
+  "option_objs": [
+   274,
+   276,
+   278,
+   299
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 82.5,
+  "stem": "मसाला उद्योग के लिए भारतीय मसाला अनुसंधान संस्थान (आई.आई.एस.आर.), कोझ्ञिकोड द्वारा विकसित नई हल्के रंग की 'हल्दी' किस्म का नाम क्या हैं?",
+  "options": [
+   "आई.आई.एस.आर. ज्योति",
+   "आई.आई.एस.आर. वर्ना",
+   "आई.आई.एस.आर. सूर्या",
+   "आई.आई.एस.आर. शक्ति"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "आई.आई.एस.आर. सूर्या",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   301
+  ],
+  "option_objs": [
+   303,
+   305,
+   307,
+   309
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.9,
+  "stem": "सचिन तेंदुलकर ने अपना 00वां अंतर्राष्ट्रीय शतक कहाँ बनाया था?",
+  "options": [
+   "ढाका",
+   "मुंबई",
+   "चेन्नई",
+   "पर्थ"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "ढाका",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   311
+  ],
+  "option_objs": [
+   313,
+   315,
+   317,
+   319
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 79.0,
+  "stem": "विश्व बैंक भूमि सम्मेलन-2025 में आयोजित किया गया था।",
+  "options": [
+   "न्यूयॉर्क",
+   "ब्रासीलिया",
+   "वाशिंगटन डी.सी.",
+   "शंघाई"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "वाशिंगटन डी.सी.",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   321
+  ],
+  "option_objs": [
+   323,
+   325,
+   327,
+   329
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 79.9,
+  "stem": "'चकरी' पारंपरिक संगीत ___ से संबंधित है।",
+  "options": [
+   "कर्नाटक",
+   "तेलंगाना",
+   "मध्य प्रदेश",
+   "जम्मू और कश्मीर"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "जम्मू और कश्मीर",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   347
+  ],
+  "option_objs": [
+   349,
+   351,
+   353,
+   355
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 89.0,
+  "stem": "नेटवर्क तत्परता सूचकांक 2024 ने कितने प्रमुख स्तंभों के आधार पर 33 अर्थव्यवस्थाओं की नेटवर्क तत्परता का मूल्यांकन किया था?",
+  "options": [
+   "4",
+   "6",
+   "8",
+   "10"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "4",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   357
+  ],
+  "option_objs": [
+   359,
+   361,
+   363,
+   365
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 31,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 79.5,
+  "stem": "दर रिपोर्ट ऑन चाइल्ड राइट्स इन इंडिया: एन ओवरव्यू ऑफ़ द पास्ट डिकेड' शीर्षक से अध्ययन, द्वारा डेस्क समीक्षा अध्ययन के रूप में शुरू [गया था।",
+  "options": [
+   "चाइल्ड राइट्स एंड यू",
+   "ऑक्सफैम इंडिया",
+   "प्रथम",
+   "सेवलाइफ फाउंडेशन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "चाइल्ड राइट्स एंड यू",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   367
+  ],
+  "option_objs": [
+   369,
+   371,
+   373,
+   375
+  ],
+  "diagram_objs": []
+ }
+]
