@@ -1,0 +1,602 @@
+[
+ {
+  "set": 34,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.6,
+  "stem": "कौन सा पर्वतीय दर्रा लद्ाख को कश्मीर घाटी से जोड़ता है?",
+  "options": [
+   "नाथू ला",
+   "रोहतांग दर्रा",
+   "ज़ोजी ला",
+   "शिपकी ला"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "ज़ोजी ला",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1067
+  ],
+  "option_objs": [
+   1069,
+   1071,
+   1073,
+   1075
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.2,
+  "stem": "जीएसटी से पहले भारतीय राज्यों द्वारा मूल्य वर्धित कर (वैट) लागू करने का मुख्य उद्देश्य क्या था?",
+  "options": [
+   "सभी प्रत्यक्ष करों को एकल कर से प्रतिस्थापित करना",
+   "अप्रत्यक्ष कराधान के व्यापक प्रभाव को न्यूनतम करना",
+   "अधिक कर व्यय के माध्यम से राजकोषीय घाटे में वृद्धि",
+   "टैरिफ बढ़ाकर घरेलू उत्पादकों की रक्षा करना"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अप्रत्यक्ष कराधान के व्यापक प्रभाव को न्यूनतम करना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1112
+  ],
+  "option_objs": [
+   1114,
+   1116,
+   1118,
+   1120
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 81.9,
+  "stem": "ह्लेन त्सांग (५08280) का विवरण विशेष रूप से के अध्ययन के लिए मूल्यवान है।",
+  "options": [
+   "हड़प्पा नगर",
+   "हर्षवर्धन के दरबार",
+   "मौर्यकालीन राजनीति",
+   "चोल नौसैनिक खोजयात्राओं"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "हर्षवर्धन के दरबार",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1122
+  ],
+  "option_objs": [
+   1124,
+   1126,
+   1128,
+   1130
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 86.0,
+  "stem": "पांचवीं पंचवर्षीय योजना (974-79) में किस पर जोर दिया गया?",
+  "options": [
+   "निर्यात-आधारित विकास",
+   "गरीबी उन्मूलन (\"गरीबी हटाओ\")",
+   "बैंकिंग सुधार",
+   "भारी उद्योग"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "गरीबी उन्मूलन (\"गरीबी हटाओ\")",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1132
+  ],
+  "option_objs": [
+   1134,
+   1136,
+   1157,
+   1159
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 85.2,
+  "stem": "प्रच्छन्न बेरोजगारी या छिपी बेरोजगारी सामान्यतः: कहाँ पाई जाती है?",
+  "options": [
+   "कृषि क्षेत्र",
+   "आईटी क्षेत्र",
+   "औद्योगिक क्षेत्र",
+   "सेवा क्षेत्र"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "कृषि क्षेत्र",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1161
+  ],
+  "option_objs": [
+   1163,
+   1165,
+   1167,
+   1169
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.6,
+  "stem": "वर्ष 83 के चार्टर अधिनियम ने पर ईस्ट इंडिया कंपनी के एकाधिकार को समाप्त कर दिया।",
+  "options": [
+   "अफीम व्यापार",
+   "चीन के साथ व्यापार",
+   "यूरोप के साथ व्यापार",
+   "चाय और चीन के व्यापार को छोड़कर भारत के साथ होने वाले व्यापार"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "चाय और चीन के व्यापार को छोड़कर भारत के साथ होने वाले व्यापार",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1171
+  ],
+  "option_objs": [
+   1173,
+   1175,
+   1177,
+   1179
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.0,
+  "stem": "2025 में किस भारतीय राज्य सरकार ने 'मुख्यमंत्री बालिका समृद्धि योजना' योजना शुरू की थी?",
+  "options": [
+   "मिजोरम",
+   "त्रिपुरा",
+   "असम",
+   "मणिपुर"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "त्रिपुरा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1181
+  ],
+  "option_objs": [
+   1199,
+   1201,
+   604,
+   1203
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 63.0,
+  "stem": "अगस्त 2025 में लोकसभा द्वारा पारित ऑनलाइन गेमिंग के संवर्धन और विनियमन विधेयक के संदर्भ में निम्नलिखित में से कौन सा कथन सही है? ।. यह विधेयक ई-स्पोर्ट्स और ऑनलाइन सोशल गेम्स को प्रोत्साहित करता है। |. यह विधेयक ऑनलाइन मनी गेमिंग सेवाओं को भी प्रोत्साहित करता है।",
+  "options": [
+   "chad |",
+   "केवल ॥।",
+   "। तथा ॥ दोनों",
+   "नातो। तथा ना ही ॥"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "chad |",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   969,
+   971,
+   973,
+   975
+  ],
+  "diagram_objs": [
+   1205
+  ]
+ },
+ {
+  "set": 34,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 95.0,
+  "stem": "'मटकी' निम्नलिखित में से किस भारतीय राज्य में किया जाने वाला एक लोकप्रिय लोक नृत्य है?",
+  "options": [
+   "आंध्र प्रदेश",
+   "लक्षद्वीप",
+   "पश्चिम बंगाल",
+   "मध्य प्रदेश"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "मध्य प्रदेश",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1207
+  ],
+  "option_objs": [
+   1209,
+   1211,
+   1213,
+   1215
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 66.0,
+  "stem": "दिसंबर 2024 में किस गांव को भारत का पहला बॉर्डर सोलर विलेज घोषित किया गया?",
+  "options": [
+   "मन (माणा)",
+   "मसाली",
+   "मावल्यान्नॉग",
+   "खोनोमा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "मसाली",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1232
+  ],
+  "option_objs": [
+   1234,
+   1236,
+   1238,
+   1240
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 55.0,
+  "stem": "तमिलनाडु में 'पोंगल' त्यौहार कितने दिनों तक मनाया जाता है?",
+  "options": [
+   "2 दिन",
+   "4 दिन",
+   "7 दिन",
+   "10 fea"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "4 दिन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1242
+  ],
+  "option_objs": [
+   1244,
+   1246,
+   1248,
+   1250
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 81.8,
+  "stem": "भारत की जनगणना 207 के अनुसार, का जनसंख्या घनत्व 02 व्यक्ति प्रति वर्ग कि.मी. था।",
+  "options": [
+   "केरल",
+   "बिहार",
+   "नागालैंड",
+   "हरियाणा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "बिहार",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1252
+  ],
+  "option_objs": [
+   1254,
+   1256,
+   1277,
+   1279
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 33,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 22.0,
+  "stem": "बर्फ का गलनांक ।( होता हैं।",
+  "options": [
+   "373:15",
+   "0",
+   "27315",
+   "100"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "27315",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1281
+  ],
+  "option_objs": [
+   1283,
+   1285,
+   1287,
+   1289
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "गोवा निम्नलिखित में से किस खनिज संसाधन के लिए प्रसिद्ध है? [. मैंगनीज अयस्क [. लौह अयस्क",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "at 1 aden aT a I"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "[ तथा पर दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   642,
+   644
+  ],
+  "diagram_objs": [
+   1291
+  ]
+ },
+ {
+  "set": 34,
+  "qno": 35,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.8,
+  "stem": "प्रो कबड्डी लीग कब शुरू की गई थी?",
+  "options": [
+   "2014",
+   "2017",
+   "2012",
+   "2011"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2014",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1309
+  ],
+  "option_objs": [
+   1311,
+   1313,
+   1315,
+   654
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 36,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.9,
+  "stem": "ढाका में दक्षिण एशियाई महासंघ खेलों का मेजबान था।",
+  "options": [
+   "2004",
+   "2006",
+   "2010",
+   "2016"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "2010",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1317
+  ],
+  "option_objs": [
+   1319,
+   1321,
+   1323,
+   1325
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 82.3,
+  "stem": "यह तस्वीर क्रिकेट के खेल में अंपायर द्वारा दिए गए संकेतों में से एक को दर्शाती है। इसे क्या कहा जाता है? श छल 3 न 5.2",
+  "options": [
+   "लेग बाई",
+   "शर्ट रन",
+   "चौका",
+   "डेड बॉल"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "डेड बॉल",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   1347,
+   1349,
+   1351,
+   1353
+  ],
+  "diagram_objs": [
+   1345
+  ]
+ },
+ {
+  "set": 34,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 70.0,
+  "stem": "राष्ट्रीय क्षेत्राधिकार से अलग जैव विविधता समझौता के तहत एक अंतरराष्ट्रीय संधि है।",
+  "options": [
+   "यू.एन.सी.एल.ओ.एस.",
+   "डब्ल्यू.टी.ओ.",
+   "डब्ल्यू.ई.ओ.",
+   "यूनेस्को"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "यू.एन.सी.एल.ओ.एस.",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1355
+  ],
+  "option_objs": [
+   1357,
+   1359,
+   1361,
+   1363
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.5,
+  "stem": "अंतर्रष्ट्रीय आई.पी. सूचकांक 2025 इस सूचकांक का कौन सा संस्करण है?",
+  "options": [
+   "13",
+   "18",
+   "21",
+   "25"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "13",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1377
+  ],
+  "option_objs": [
+   1379,
+   1033,
+   1381,
+   1383
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 34,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 0.0,
+  "stem": "विश्व बैंक के लॉजिस्टिक्स प्रदर्शन सूचकांक 2023 के अनुसार, भारत अंतर्राष्ट्रीय शिपमेंट श्रेणी में वैश्विक रैंकिंग में रैंक पर पहुंच गया है।",
+  "options": [
+   "22वीं",
+   "12at",
+   "44वीं",
+   "31a"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "22वीं",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1385
+  ],
+  "option_objs": [
+   1387,
+   1389,
+   1391,
+   1393
+  ],
+  "diagram_objs": []
+ }
+]

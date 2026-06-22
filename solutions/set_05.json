@@ -1,0 +1,223 @@
+{
+  "21": {
+    "topic": "Polity & Constitution",
+    "answer": "C",
+    "correct": "The Finance Commission (Article 280) recommends the distribution of the net proceeds of taxes between the Union and the States and the principles governing grants-in-aid to the States.",
+    "wrong": {
+      "A": "NITI Aayog is an advisory think-tank with no role in tax devolution.",
+      "B": "Parliament legislates on taxes but does not recommend the sharing formula.",
+      "D": "The Planning Commission, now abolished, dealt with development planning, not tax devolution."
+    },
+    "fact": "The Finance Commission is constituted by the President every five years (or earlier if needed)."
+  },
+  "22": {
+    "topic": "Polity & Constitution",
+    "answer": "A",
+    "correct": "During a Financial Emergency under Article 360, the President can direct the reduction of salaries and allowances of government employees, including judges of the Supreme Court and High Courts, to maintain financial stability.",
+    "wrong": {
+      "B": "Dismissing state governments is a feature of President's Rule under Article 356, not a Financial Emergency.",
+      "C": "Dissolving Parliament is not a power granted under Article 360.",
+      "D": "Suspension of Fundamental Rights is linked to a National Emergency under Article 352, not a Financial Emergency."
+    },
+    "fact": "A Financial Emergency under Article 360 has never been declared in India."
+  },
+  "23": {
+    "topic": "Art & Culture",
+    "answer": "C",
+    "correct": "The Raga Tarangini is considered historically important because it records and uses many raga names that are still in use in Hindustani music today, providing continuity with earlier tradition.",
+    "wrong": {
+      "A": "It does not deal only with southern (Carnatic) ragas; it is a Hindustani-music text.",
+      "B": "It is a treatise on ragas, not a work introducing the tabla and harmonium.",
+      "D": "It builds on, rather than rejects, traditional Indian musical theory."
+    },
+    "fact": "Raga Tarangini was authored by Locana (Lochana Kavi), an early text valuable for the history of ragas."
+  },
+  "24": {
+    "topic": "Science & Technology",
+    "answer": "C",
+    "correct": "Archimedes' principle states that a body immersed (fully or partly) in a fluid experiences an upward buoyant force equal to the weight of the fluid it displaces.",
+    "wrong": {
+      "A": "The buoyant force equals the displaced fluid's weight, not the body's own weight (these are equal only when the body floats).",
+      "B": "The volume of the body is a quantity, not a force.",
+      "D": "Density of the fluid alone is not a force; the upthrust depends on weight of fluid displaced."
+    },
+    "fact": "This principle explains why ships float and why objects feel lighter in water."
+  },
+  "25": {
+    "topic": "Books & Authors",
+    "answer": "C",
+    "correct": "The poetic collection 'Chidambara' won Sumitranandan Pant the Jnanpith Award (for 1968), making him one of the early recipients of the honour.",
+    "wrong": {
+      "A": "'Pallav' is an earlier important collection by Pant but did not win him the Jnanpith.",
+      "B": "'Kala Aur Budhdha Chand' is another of his works, not the Jnanpith-winning one.",
+      "D": "'Veena' was one of his early collections, not the award-winning book."
+    },
+    "fact": "Sumitranandan Pant was a leading poet of the Chhayavaad (Romantic) movement in Hindi literature."
+  },
+  "26": {
+    "topic": "Geography",
+    "answer": "B",
+    "correct": "The Sundarbans delta is formed by the confluence of the Ganga, Brahmaputra and Meghana rivers; among the options, the Ganga and Brahmaputra are the principal rivers.",
+    "wrong": {
+      "A": "The Yamuna is a tributary of the Ganga and does not directly form the Sundarbans delta.",
+      "C": "The Godavari and Krishna form deltas on the eastern (Andhra) coast.",
+      "D": "The Mahanadi and Godavari form separate deltas, not the Sundarbans."
+    },
+    "fact": "The Sundarbans is the world's largest mangrove forest and home to the Royal Bengal Tiger."
+  },
+  "27": {
+    "topic": "Geography",
+    "answer": "A",
+    "correct": "The Himalayas are widest in the Western (Kashmir) sector and progressively narrow towards the east; the western Himalayas span the greatest north-south width.",
+    "wrong": {
+      "B": "The Central Himalayas (Nepal region) are narrower than the western sector.",
+      "C": "The Eastern Himalayas are the narrowest but rise very steeply.",
+      "D": "The Shiwaliks are only the outermost, lowest range, not a 'wider' sector of the whole system."
+    },
+    "fact": "The Himalayas are divided into the Western, Central and Eastern sectors, and the highest peak, Mount Everest, lies in the Central (Nepal) Himalayas."
+  },
+  "28": {
+    "topic": "Sports",
+    "answer": "D",
+    "correct": "Virat Kohli won the ICC Men's ODI Cricketer of the Year award for 2023, a year in which he was the leading run-scorer at the 2023 World Cup.",
+    "wrong": {
+      "A": "Pat Cummins won the ICC Men's Cricketer of the Year (Sir Garfield Sobers Trophy) but not the ODI award for 2023.",
+      "B": "Suryakumar Yadav won the ICC Men's T20I Cricketer of the Year for 2023.",
+      "C": "Usman Khawaja was honoured as the Test Cricketer of the Year for 2023."
+    },
+    "fact": "Kohli scored a record 765 runs in the 2023 ODI World Cup, including his 50th ODI century."
+  },
+  "29": {
+    "topic": "Economy",
+    "answer": "C",
+    "correct": "The World Happiness Report uses six key variables to rank countries: GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity and perceptions of corruption.",
+    "wrong": {
+      "A": "Four is fewer than the six factors used.",
+      "B": "Five omits one of the standard factors.",
+      "D": "Seven is one more than the six key variables."
+    },
+    "fact": "Finland has topped the World Happiness Report for several consecutive years."
+  },
+  "30": {
+    "topic": "Sports",
+    "answer": "B",
+    "correct": "India's men's national football team last qualified for the Olympic Games in 1960 (Rome Olympics).",
+    "wrong": {
+      "A": "1956 (Melbourne) was India's best Olympic football performance (4th place), but they qualified again afterwards.",
+      "C": "India did not qualify for the 1964 Olympics football event.",
+      "D": "1972 is later than India's last Olympic football appearance."
+    },
+    "fact": "At the 1956 Melbourne Olympics, India finished fourth - the best-ever finish by an Asian football team at that time."
+  },
+  "31": {
+    "topic": "Science & Technology",
+    "answer": "B",
+    "correct": "The Event Horizon Telescope (EHT) produced the first-ever direct image of a black hole - the supermassive black hole at the centre of galaxy M87 - released in April 2019.",
+    "wrong": {
+      "A": "The Hubble Space Telescope is an optical/UV observatory and did not capture the first black-hole image.",
+      "C": "The Spitzer Space Telescope was an infrared observatory, not the source of this image.",
+      "D": "The Kepler telescope was designed to detect exoplanets, not image black holes."
+    },
+    "fact": "The EHT is a global network of radio telescopes that works together as an Earth-sized virtual telescope."
+  },
+  "32": {
+    "topic": "Science & Technology",
+    "answer": "B",
+    "opts": ["700 N", "117 N", "420 N", "686 N"],
+    "correct": "Weight on the Moon = mass x lunar gravity = 70 kg x (9.8/6) m/s^2 ≈ 70 x 1.63 ≈ 114-117 N.",
+    "wrong": {
+      "A": "700 N (using g = 10) would be the approximate weight on Earth, not the Moon.",
+      "C": "420 N would imply gravity far higher than one-sixth of Earth's.",
+      "D": "686 N (70 x 9.8) is the weight on Earth, not on the Moon."
+    },
+    "fact": "Mass stays constant everywhere; only weight (= mass x local gravity) changes between the Earth and the Moon."
+  },
+  "33": {
+    "topic": "Economy",
+    "answer": "B",
+    "correct": "The Minimum Support Price (MSP) system was introduced in the 1960s (around 1966-67) during the Green Revolution to assure farmers a guaranteed price and encourage food-grain production.",
+    "wrong": {
+      "A": "The 1950s pre-dates the MSP mechanism.",
+      "C": "The 1970s is after MSP had already been introduced.",
+      "D": "The 1980s is much later than the actual introduction."
+    },
+    "fact": "MSP is announced by the government on the recommendation of the Commission for Agricultural Costs and Prices (CACP)."
+  },
+  "34": {
+    "topic": "Schemes & Government",
+    "answer": "C",
+    "correct": "The 'Make in India' initiative was launched in September 2014 to encourage companies to manufacture in India and to boost the manufacturing sector's share of the economy.",
+    "wrong": {
+      "A": "2010 pre-dates the initiative.",
+      "B": "2012 is incorrect; the launch was in 2014.",
+      "D": "2015 is the launch year of Digital India and several other schemes, not Make in India."
+    },
+    "fact": "The Make in India lion logo, made of gear wheels, symbolises manufacturing and national progress."
+  },
+  "35": {
+    "topic": "Current Affairs",
+    "answer": "C",
+    "correct": "Bhargavastra is a low-cost micro-missile counter-drone system that India tested in 2025, designed to neutralise swarms of small drones.",
+    "wrong": {
+      "A": "Astra is a beyond-visual-range air-to-air missile, not the 2025 micro-missile counter-drone system.",
+      "B": "Vibhavasu is not the system tested for this purpose.",
+      "D": "Pralay is a short-range ballistic missile, not a micro counter-drone system."
+    },
+    "fact": "Counter-drone systems like Bhargavastra are increasingly important against the growing threat of low-cost drone swarms."
+  },
+  "36": {
+    "topic": "Economy",
+    "answer": "D",
+    "correct": "The Wholesale Price Index (WPI) measures the average change in prices of goods at the wholesale level (bulk transactions between businesses).",
+    "wrong": {
+      "A": "The GDP deflator measures economy-wide price change, not specifically wholesale prices.",
+      "B": "The Consumer Price Index (CPI) measures prices at the retail (consumer) level.",
+      "C": "The Index of Industrial Production (IIP) measures output/production volume, not prices."
+    },
+    "fact": "In India, WPI is released by the Office of the Economic Adviser, while CPI is released by the National Statistical Office."
+  },
+  "37": {
+    "topic": "Economy",
+    "answer": "B",
+    "correct": "High dependence on the monsoon (rainfall variability) is the most critical structural constraint on Indian agricultural productivity, since a large share of farmland is rain-fed and vulnerable to erratic rains.",
+    "wrong": {
+      "A": "India has substantial fertile soil; inadequacy of fertile soil is not the principal constraint.",
+      "C": "India generally has surplus agricultural labour, not a chronic shortage.",
+      "D": "Weak market linkages are a problem but not the most critical productivity constraint."
+    },
+    "fact": "About half of India's net sown area is still rain-fed, which is why irrigation expansion is a policy priority."
+  },
+  "38": {
+    "topic": "Current Affairs",
+    "answer": "B",
+    "correct": "In December 2024, the Centre officially scrapped the 'No-Detention Policy' for Classes 5 and 8 in central-government-run schools, allowing students who fail year-end exams to be held back (after a re-test).",
+    "wrong": {
+      "A": "November 2024 is not when the official announcement was made.",
+      "C": "January 2025 is after the December 2024 announcement.",
+      "D": "October 2024 is incorrect."
+    },
+    "fact": "The No-Detention Policy had been part of the Right to Education Act; it was diluted by a 2019 amendment empowering governments to decide on detention."
+  },
+  "39": {
+    "topic": "History",
+    "answer": "B",
+    "correct": "Saadat Ali Khan was the Nawab of Awadh (Oudh), not of Bengal, so he was never the Nawab of Bengal.",
+    "wrong": {
+      "A": "Alivardi Khan was Nawab of Bengal (1740-1756).",
+      "C": "Mir Qasim was Nawab of Bengal after Mir Jafar.",
+      "D": "Sirajuddaulah was the Nawab of Bengal defeated at the Battle of Plassey (1757)."
+    },
+    "fact": "The Nawabs of Bengal in this era included Alivardi Khan, Sirajuddaulah, Mir Jafar and Mir Qasim."
+  },
+  "40": {
+    "topic": "History",
+    "answer": "A",
+    "correct": "Sir Henry Lawrence was the Chief Commissioner of Awadh (Oudh) during the Revolt of 1857 and died defending the Residency at Lucknow.",
+    "wrong": {
+      "B": "Odisha was not the region of Henry Lawrence's command.",
+      "C": "Maharashtra was not under his charge during the revolt.",
+      "D": "Punjab was administered by his brother John Lawrence; Henry was posted to Awadh."
+    },
+    "fact": "The Siege of the Lucknow Residency was one of the most famous episodes of the 1857 Revolt."
+  }
+}

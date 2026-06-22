@@ -1,0 +1,602 @@
+[
+ {
+  "set": 40,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 72.0,
+  "stem": "मान्यताओं के अनुसार, प्रसिद्ध संस्कृत कवि कालिदास के दरबार में फले-फूले थे।",
+  "options": [
+   "स्कंदगुप्त",
+   "समुद्रगुप्त",
+   "चन्द्रगुप्त द्वितीय",
+   "कुमारगुप्त"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "चन्द्रगुप्त द्वितीय",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2947
+  ],
+  "option_objs": [
+   2949,
+   2951,
+   2953,
+   2955
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 82.0,
+  "stem": "जनगणना 20 के अनुसार जनसंख्या की दृष्टि से सबसे बड़ा महानगरीय शहर कौन सा है?",
+  "options": [
+   "कोलकाता",
+   "दिल्ली",
+   "मुंबई",
+   "चेन्नई"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "मुंबई",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2977
+  ],
+  "option_objs": [
+   2979,
+   2981,
+   2983,
+   2985
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 59.0,
+  "stem": "किस अधिनियम ने भारत में ईस्ट इंडिया कंपनी के शासन का आधिकारिक अंत चिह्नित किया?",
+  "options": [
+   "विनियमन अधिनियम, 773",
+   "भारत सरकार अधिनियम, 858",
+   "भारतीय परिषद अधिनियम, 86",
+   "चार्टर अधिनियम, 833"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "भारत सरकार अधिनियम, 858",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2987
+  ],
+  "option_objs": [
+   2989,
+   2991,
+   2993,
+   2995
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.6,
+  "stem": "जुलाई 2025 में स्वीकृत पीएम धन-धान्य कृषि योजना के तहत वार्षिक आवंटन क्या है?",
+  "options": [
+   "20000 करोड़ रुपये",
+   "22000 करोड़ रुपये",
+   "24000 करोड़ रुपये",
+   "30000 करोड़ रुपये"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "24000 करोड़ रुपये",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2997
+  ],
+  "option_objs": [
+   2999,
+   3001,
+   3003,
+   3005
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 25,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.8,
+  "stem": "मझगांव डॉक को भारत सरकार ने किस वर्ष में अपने अधीन ले लिया था?",
+  "options": [
+   "1972",
+   "1968",
+   "1960",
+   "1964"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "1960",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3027
+  ],
+  "option_objs": [
+   278,
+   3029,
+   2543,
+   3031
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 76.3,
+  "stem": "नीचे दी गई जानकारी में किस दाब पेटी की बात की जा रही है? हि “यह दाब पेटी 30%उ. से 35*उ. अक्षांश के बीच पाई जाती है और इसे हॉर्स अक्षांश के रूप में भी जाना जाता है।”",
+  "options": [
+   "भूमध्यरेखीय निम्न दाब पेटी",
+   "उपोष्ण उच्च दाब पेटी",
+   "अधोध्ुवीय निम्नदाब पेटी",
+   "ध्रुवीय उच्च दाब पेटी"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "उपोष्ण उच्च दाब पेटी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3033
+  ],
+  "option_objs": [
+   3035,
+   3037,
+   3039,
+   3041
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 27,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.2,
+  "stem": "पी.एम.-दक्ष योजना के तहत, कोई भी अन्य पिछड़ी जाति (ओ.बी.सी.) और आर्थिक रूप से कमजोर वर्ग (ई.डब्ल्यू.एस.) के उम्मीदवार जिनकी वार्षिक पारिवारिक आय लाख रुपये से कम है, प्रशिक्षण हासिल करने के पात्र हैं।",
+  "options": [
+   "3",
+   "5",
+   "8",
+   "10"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "3",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3043
+  ],
+  "option_objs": [
+   1510,
+   1514,
+   3045,
+   3047
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.0,
+  "stem": "पारंपरिक नृत्य शैली 'गौड़ीय नृत्य' निम्नलिखित में से किस भारतीय राज्य/केंद्र शासित प्रदेश में प्रचलित है?",
+  "options": [
+   "हरियाणा",
+   "जम्मू और कश्मीर",
+   "पश्चिम बंगाल",
+   "आंध्र प्रदेश"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "पश्चिम बंगाल",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3068
+  ],
+  "option_objs": [
+   1279,
+   3070,
+   1213,
+   1209
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 95.0,
+  "stem": "\"पन्ना हीरा खदान\" निम्नलिखित में से किस राज्य में है?",
+  "options": [
+   "मध्य प्रदेश",
+   "झारखंड",
+   "कर्नाटक",
+   "गुजरात"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "मध्य प्रदेश",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3072
+  ],
+  "option_objs": [
+   353,
+   3074,
+   349,
+   602
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.0,
+  "stem": "पश्चिम बंगाल में होली के त्यौहार को किस अन्य नाम से जाना जाता है?",
+  "options": [
+   "डोल पूर्णिमा",
+   "भाई फोंटा",
+   "जगतधात्री पूजा",
+   "कल्पतरु उत्सव"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "डोल पूर्णिमा",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3076
+  ],
+  "option_objs": [
+   3078,
+   3080,
+   3082,
+   3084
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "वायुमंडलीय दाब पर द्रव से गैस में अवस्था परिवर्तन को क्या कहते हैं?",
+  "options": [
+   "पिंडीकरण",
+   "निक्षेप",
+   "हिमीकरण",
+   "वाष्पीकरण"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "वाष्पीकरण",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3105
+  ],
+  "option_objs": [
+   3107,
+   3109,
+   3111,
+   3113
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 32,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.1,
+  "stem": "भारत में लिंगगत बजट कब शुरू किया गया था?",
+  "options": [
+   "1991-1992",
+   "1997-1998",
+   "2005-2006",
+   "2020-2021"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "2005-2006",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3115
+  ],
+  "option_objs": [
+   3117,
+   3119,
+   3121,
+   3123
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 33,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "भारत ने अपना पहला पुरुष क्रिकेट विश्व कप किस वर्ष में जीता था?",
+  "options": [
+   "1983",
+   "1975",
+   "1999",
+   "1996"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "1983",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3125
+  ],
+  "option_objs": [
+   2434,
+   3127,
+   704,
+   3129
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "क्रिटिकल मिनरलों के सदर्भ में निम्नलिखित में से कौन सा कथन सही है? [. क्रिटिकल मिनरल आधुनिक अर्थव्यवस्था के निर्माण खंड हैं। [[. क्रिटिकल मिनरल तेजी से 2वीं सदी का तेल बनते जा रहे हैं।",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "at 1 aden aT a I"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "[ तथा पर दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   642,
+   644
+  ],
+  "diagram_objs": [
+   3150
+  ]
+ },
+ {
+  "set": 40,
+  "qno": 35,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 81.0,
+  "stem": "वें एशियाई खेल 2026 में आइची-नागोया में आयोजित होने वाले हैं।",
+  "options": [
+   "20",
+   "19",
+   "18",
+   "1?"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "20",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3152
+  ],
+  "option_objs": [
+   3154,
+   3156,
+   1033,
+   1989
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 36,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.3,
+  "stem": "शंघाई सहयोग संगठन के महासचिव की नियुक्ति कितने वर्षों के लिए की जाती है?",
+  "options": [
+   "2",
+   "3",
+   "5",
+   "6"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "3",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3158
+  ],
+  "option_objs": [
+   1508,
+   1510,
+   1514,
+   1658
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 26.0,
+  "stem": "निम्नलिखित में से कौन पीएम गति शक्ति पहल का प्रेरक वाहक है? [. जन परिवहन [. लॉजिस्टिक्स इन्फ्रास्ट्रक्चर",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "aAdlanaail"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "[ तथा पर दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   642,
+   3181
+  ],
+  "diagram_objs": [
+   3179
+  ]
+ },
+ {
+  "set": 40,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "तैराकी में निम्नलिखित में से कौन सा स्ट्रोक प्रयोग किया जाता है? [. ब्रेस्ट का 7. बैक",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "at 1 aden aT a I"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "[ तथा पर दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   642,
+   644
+  ],
+  "diagram_objs": [
+   3183
+  ]
+ },
+ {
+  "set": 40,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 40.0,
+  "stem": "एनवायरनमेंट परफॉर्मेंस इंडेक्स 2024 कितने प्रदर्शन संकेतक उपयोग करता है?",
+  "options": [
+   "11",
+   "58",
+   "15",
+   "v7"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "58",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3185
+  ],
+  "option_objs": [
+   1031,
+   3187,
+   1983,
+   1023
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 40,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 43.0,
+  "stem": "भारत में व्यापक पर्यावरण प्रदूषण सूचकांक निम्नलिखित में से किसके द्वारा प्रकाशित किया गया था?",
+  "options": [
+   "सी.पी.सी.बी.",
+   "एन.जी.टी.",
+   "सी.जी.डब्ल्यू.बी.",
+   "नीति आयोग"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "सी.पी.सी.बी.",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3198
+  ],
+  "option_objs": [
+   2300,
+   3200,
+   3202,
+   2286
+  ],
+  "diagram_objs": []
+ }
+]

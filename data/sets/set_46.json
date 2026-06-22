@@ -1,0 +1,602 @@
+[
+ {
+  "set": 46,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 61.5,
+  "stem": "सर्वोच्च न्यायालय के न्यायाधीश को हटाने की प्रक्रिया को किस नाम से जाना जाता है?",
+  "options": [
+   "प्रत्याह्ला (रिकॉल)",
+   "न्यायिक समीक्षा",
+   "महाभियोग",
+   "राष्ट्रपति द्वारा बर्खास्तगी"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "महाभियोग",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4709
+  ],
+  "option_objs": [
+   4711,
+   4713,
+   4715,
+   4717
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.5,
+  "stem": "किस समिति ने मौलिक कर्तव्यों की सिफारिश की थी?",
+  "options": [
+   "स्वर्ण सिंह समिति",
+   "राजमन्नार समिति",
+   "सरकारिया समिति",
+   "बलवंत राय मेहता समिति"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "स्वर्ण सिंह समिति",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4739
+  ],
+  "option_objs": [
+   4741,
+   4743,
+   4745,
+   4747
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 54.0,
+  "stem": "राष्ट्रपति और उपराष्ट्रपति दोनों पदों पर रिक्ति की स्थिति में, राष्ट्रपति के रूप में कौन कार्य करता है?",
+  "options": [
+   "किसी राज्य के राज्यपाल",
+   "भारत के मुख्य न्यायाधीश",
+   "महान्यायवादी",
+   "प्रधानमंत्री"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "भारत के मुख्य न्यायाधीश",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4749
+  ],
+  "option_objs": [
+   4751,
+   4753,
+   4755,
+   25
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 43.0,
+  "stem": "राग तरंगिनी ग्रंथ के लेखक कौन हैं?",
+  "options": [
+   "पं. अहोबल",
+   "पं. शाइ देव",
+   "पं. लोचन",
+   "पं. भातखंडे"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "पं. लोचन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4757
+  ],
+  "option_objs": [
+   4759,
+   4761,
+   4763,
+   4765
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.8,
+  "stem": "निम्नलिखित में से कौन सी घटना गुरुत्वाकर्षण के सार्वभौमिक नियम द्वारा समझाई गई है?",
+  "options": [
+   "सूर्य में नाभिकीय संलयन",
+   "चंद्रमा और सूर्य के कारण ज्वार-भाटा",
+   "ध्रुवों के बीच चुंबकीय आकर्षण",
+   "नाभिक के चारों ओर इलेक्ट्रॉनों की गति"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "चंद्रमा और सूर्य के कारण ज्वार-भाटा",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4787
+  ],
+  "option_objs": [
+   4789,
+   4791,
+   4793,
+   4795
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.3,
+  "stem": "किसी वस्तु का द्रव्यमान क्या मापता है?",
+  "options": [
+   "इसका वजन",
+   "इसकी जड़ता",
+   "इसका आयतन",
+   "इसका घनत्व"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "इसकी जड़ता",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4797
+  ],
+  "option_objs": [
+   4799,
+   4801,
+   4803,
+   4805
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "उत्तरी गोलार्ध में सबसे बड़ा दिन कब होता है?",
+  "options": [
+   "वसंत विषुव",
+   "शरद विषुव",
+   "दक्षिण अयनांत",
+   "उत्तर अयनांत"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "उत्तर अयनांत",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4807
+  ],
+  "option_objs": [
+   4809,
+   4811,
+   4813,
+   4815
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.3,
+  "stem": "किस देश ने चांद के दूसरे हिस्से पर पहला रोवर उतारा?",
+  "options": [
+   "यू एस ए",
+   "चीन",
+   "भारत",
+   "रूस"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "चीन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4817
+  ],
+  "option_objs": [
+   4838,
+   4840,
+   2611,
+   4842
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 70.5,
+  "stem": "भारत का पहला व्यक्तिगत ओलंपिक स्वर्ण पदक विजेता कौन है?",
+  "options": [
+   "fara fae",
+   "अभिनव बिंद्रा",
+   "ली एंडर पेस",
+   "सुशील कुमार"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अभिनव बिंद्रा",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4844
+  ],
+  "option_objs": [
+   2257,
+   4846,
+   4848,
+   4850
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 85.2,
+  "stem": "99 से पहले किस क्षेत्र को लाइसेंसिंग, कोटा और मूल्य नियंत्रण के माध्यम से भारी विनियमन का सामना करना पड़ा था?",
+  "options": [
+   "कृषि",
+   "उपभोक्ता और लघु उद्योग",
+   "भारी उद्योग",
+   "केवल बैंकिंग"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "भारी उद्योग",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4852
+  ],
+  "option_objs": [
+   4854,
+   4856,
+   4858,
+   4860
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 31,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 89.3,
+  "stem": "720 क्रिकेट में पावरप्ले के बाद 30 गज के घेरे के बाहर कितने फील्डर को अनुमति दी जाती है?",
+  "options": [
+   "4",
+   "5",
+   "3",
+   "6"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "5",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4862
+  ],
+  "option_objs": [
+   1512,
+   1514,
+   1510,
+   1658
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.8,
+  "stem": "पर्यावरण अध्ययन हेतु सेटेलाइट रिमोट सेंसिंग के प्रबंधन के लिए निम्न में से कौन-सी भारतीय एजेंसी उत्तरदायी है?",
+  "options": [
+   "एफएसआई - भारतीय वन सर्वेक्षण",
+   "सीपीसीबी - केंद्रीय प्रदूषण नियंत्रण बोर्ड",
+   "इसरो - भारतीय अंतरिक्ष अनुसंधान संगठन",
+   "एमओईएफसीसी - पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "इसरो - भारतीय अंतरिक्ष अनुसंधान संगठन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4883
+  ],
+  "option_objs": [
+   4885,
+   4887,
+   4889,
+   4891
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 33,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 92.5,
+  "stem": "डेक्नन एयरवेज का राष्ट्रीयकरण किस वर्ष में किया गया था?",
+  "options": [
+   "1949",
+   "1951",
+   "1955",
+   "1953"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "1953",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4893
+  ],
+  "option_objs": [
+   4895,
+   658,
+   4897,
+   4899
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.0,
+  "stem": "करतारपुर किस नदी के पास स्थित है?",
+  "options": [
+   "गंगा",
+   "रावी",
+   "यमुना",
+   "सतलज"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "रावी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4901
+  ],
+  "option_objs": [
+   4903,
+   4905,
+   4929,
+   4931
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 85.0,
+  "stem": "दिसंबर 2024 में आईसीएआर-सेंट्रल इंस्टीट्यूट ऑफ फ्रेशवाटर एक्वाकल्चर (सी.आई.एफ.ए.) द्वारा कौन सा ऐप विकसित किया गया है?",
+  "options": [
+   "मत्स्य मित्र",
+   "जल संवर्धन",
+   "रंगीन मछली",
+   "एक्वा सुरक्षा"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "रंगीन मछली",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4933
+  ],
+  "option_objs": [
+   4935,
+   4937,
+   4939,
+   4941
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "निम्नलिखित में से कौन सा दी गई जानकारी के अनुसार सही है? की “यह एक दिन में दो बार नियम से महासागरीय जल का उठना एवं गिरना है। इसका कारण सूर्य एवं चंद्रमा द्वारा पृथ्वी की सतह पर लगाया गया शक्तिशाली गुरुत्वाकर्षण बल है।\"",
+  "options": [
+   "सुनामी",
+   "चक्रवात",
+   "ज्वार-भाटा",
+   "पश्चिमी विक्षोभ"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "ज्वार-भाटा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   4945,
+   4947,
+   4949,
+   4951
+  ],
+  "diagram_objs": [
+   4943
+  ]
+ },
+ {
+  "set": 46,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 63.0,
+  "stem": "जनगणना के संदर्भ में निम्नलिखित में से कौन सा कथन सही है? ।. भारत में पहली आधुनिक जनसंख्या जनगणना 865 और 872 के बीच आयोजित की गई थी। |. भारत में अगली जनगणना 2028 तक की जाएगी।",
+  "options": [
+   "chad |",
+   "केवल ॥।",
+   "। तथा ॥ दोनों",
+   "नातो। तथा ना ही ॥"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "chad |",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   969,
+   971,
+   973,
+   975
+  ],
+  "diagram_objs": [
+   4953
+  ]
+ },
+ {
+  "set": 46,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.0,
+  "stem": "'बयालता' निम्नलिखित में से किस भारतीय राज्य का लोक नृत्य है?",
+  "options": [
+   "बिहार",
+   "छत्तीसगढ़",
+   "कर्नाटक",
+   "हरियाणा"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "कर्नाटक",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4974
+  ],
+  "option_objs": [
+   1256,
+   2446,
+   4976,
+   1279
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 39,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 62.0,
+  "stem": "निम्नलिखित में से कौन सा ओडिशा के कालाहांडी जिले की जनजातियों का सबसे लोकप्रिय पारंपरिक नृत्य है?",
+  "options": [
+   "घुमुरा",
+   "किकली",
+   "é",
+   "सिंघी चाम"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "घुमुरा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4978
+  ],
+  "option_objs": [
+   4980,
+   4982,
+   4984,
+   4986
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 46,
+  "qno": 40,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 91.9,
+  "stem": "निम्नलिखित में से किस वर्ष में मिल्खा सिंह ने एशियाई खेलों में स्वर्ण पदक जीता था?",
+  "options": [
+   "1951",
+   "1954",
+   "1958",
+   "1970"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "1958",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   4988
+  ],
+  "option_objs": [
+   4990,
+   4992,
+   5004,
+   5006
+  ],
+  "diagram_objs": []
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "set": 18,
+  "qno": 21,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "भारतीय संविधान का कौन सा अनुच्छेद वित्तीय आपातकाल से संबंधित है?",
+  "options": [
+   "352",
+   "356",
+   "360",
+   "365"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "360",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5522
+  ],
+  "option_objs": [
+   5524,
+   5526,
+   5528,
+   5530
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 22,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 92.5,
+  "stem": "कौन से संशोधन द्वारा शिक्षा को राज्य सूची से समवर्ती सूची में स्थानांतरित कर दिया गया?",
+  "options": [
+   "42वां संशोधन",
+   "44वां संशोधन",
+   "52वां संशोधन",
+   "86वां संशोधन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "42वां संशोधन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5550
+  ],
+  "option_objs": [
+   5552,
+   5554,
+   5556,
+   5558
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 23,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 63.0,
+  "stem": "राज्यों को वस्तु एवं सेवा कर क्षतिपूर्ति की सिफारिश सबसे पहले किस वित्त आयोग ने की थी?",
+  "options": [
+   "2वां वित्त आयोग",
+   "3वां वित्त आयोग",
+   "4वां वित्त आयोग",
+   "5वां वित्त आयोग"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "3वां वित्त आयोग",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5560
+  ],
+  "option_objs": [
+   5562,
+   5564,
+   5566,
+   5568
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 24,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 54.0,
+  "stem": "मुल्क राज आनंद का उपन्यास 'टू लीव्स एंड ए बड' किन मजदूरों के शोषण पर आधारित है?",
+  "options": [
+   "कपड़ा मिल",
+   "चाय बागान",
+   "कोयले की खान",
+   "gc HE"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "चाय बागान",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5570
+  ],
+  "option_objs": [
+   5572,
+   5574,
+   5576,
+   5578
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 25,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.7,
+  "stem": "निम्नलिखित में से कौन सी रिपोर्ट मानव विकास से संबंधित है?",
+  "options": [
+   "वैश्विक जोखिम रिपोर्ट",
+   "मानव विकास रिपोर्ट",
+   "विश्व आर्थिक परिदृश्य",
+   "वैश्विक प्रतिस्पर्धात्मकता रिपोर्ट"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "मानव विकास रिपोर्ट",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5602
+  ],
+  "option_objs": [
+   5604,
+   5606,
+   5608,
+   5610
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 26,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 70.7,
+  "stem": "वैश्विक ऊर्जा संक्रमण सूचकांक किसके द्वारा प्रकाशित किया जाता है?",
+  "options": [
+   "अंतर्राष्ट्रीय ऊर्जा एजेंसी",
+   "विश्व बैंक",
+   "विश्व आर्थिक मंच",
+   "पेट्रोलियम निर्यातक देशों का संगठन"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "विश्व आर्थिक मंच",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5612
+  ],
+  "option_objs": [
+   5614,
+   862,
+   885,
+   5616
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 27,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 70.0,
+  "stem": "एक मानक +#॥#/# फुटबॉल मैच की आधिकारिक समय अवधि (अतिरिक्त/चोट समय को छोड़कर) कितनी है?",
+  "options": [
+   "80 मिनट",
+   "90 मिनट",
+   "100 fAae",
+   "120 fAae"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "90 मिनट",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5618
+  ],
+  "option_objs": [
+   5620,
+   5622,
+   5624,
+   5626
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 28,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 75.2,
+  "stem": "अस्थि की कठोरता मुख्यतः: किसकी उपस्थिति के कारण होती है?",
+  "options": [
+   "आयरन और मैग्नीशियम यौगिक",
+   "कैल्शियम और फास्फोरस यौगिक",
+   "सोडियम और पोटेशियम यौगिक",
+   "सल्फर और क्लोराइड यौगिक"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "कैल्शियम और फास्फोरस यौगिक",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5646
+  ],
+  "option_objs": [
+   5648,
+   5650,
+   5652,
+   5654
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 29,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 75.0,
+  "stem": "भारतीय राष्ट्रीय खेलों के किस संस्करण में 20 से अधिक एथलीट डोपिंग परीक्षण में असफल रहे, जो देश में सबसे बड़ी संख्या में से एक है?",
+  "options": [
+   "गुजरात 2022",
+   "cheet 2015",
+   "गोवा 2023",
+   "उत्तराखंड 2025"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "गोवा 2023",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5656
+  ],
+  "option_objs": [
+   5658,
+   5660,
+   5662,
+   5664
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 30,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.9,
+  "stem": "भारतीय जीवन बीमा निगम के राष्ट्रीयकरण का क्या उद्देश्य था?",
+  "options": [
+   "ग्रामीण रोज़गार को बढ़ावा देना",
+   "कृषि का विकास करना",
+   "विदेशी व्यापार को विनियमित करना",
+   "नियोजित विकास के लिए बचत जुटाना"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "नियोजित विकास के लिए बचत जुटाना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5666
+  ],
+  "option_objs": [
+   5668,
+   5670,
+   5672,
+   5674
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 31,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 63.0,
+  "stem": "शंकरदेव की शिक्षाएँ मुख्य रूप से किस पवित्र ग्रंथ पर आधारित हैं? ।. भगवद गीता |. भागवत पुराण",
+  "options": [
+   "chad |",
+   "केवल ॥।",
+   "। तथा ॥ दोनों",
+   "ना ही। तथा ना ही ॥।"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "। तथा ॥ दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   4249,
+   4251,
+   4253,
+   5699
+  ],
+  "diagram_objs": [
+   5697
+  ]
+ },
+ {
+  "set": 18,
+  "qno": 32,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "निम्नलिखित में से कौन सी योजना छात्रों के लिए आवासीय शिक्षा से संबंधित है?",
+  "options": [
+   "श्रेष्ठ योजना",
+   "उड़ान योजना",
+   "पी.एम.-कुसुम",
+   "फेम इंडिया योजना"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "श्रेष्ठ योजना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5701
+  ],
+  "option_objs": [
+   5703,
+   5705,
+   5707,
+   5709
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 33,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "'उपनिषद' शब्द का शाब्दिक अर्थ है |",
+  "options": [
+   "ऊँची आवाज़ में बोलना",
+   "अच्छी लिखावट में लिखना",
+   "चुपचाप ध्यान करना",
+   "पास में ही नीचे बैठना"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "पास में ही नीचे बैठना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5711
+  ],
+  "option_objs": [
+   5713,
+   5715,
+   5717,
+   5719
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 34,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "'माजुली उत्सव' निम्नलिखित में से किस भारतीय राज्य में मनाया जाता है?",
+  "options": [
+   "गोवा",
+   "केरल",
+   "कर्नाटक",
+   "असम"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "असम",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5737
+  ],
+  "option_objs": [
+   5739,
+   5741,
+   5743,
+   5485
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.7,
+  "stem": "जूलॉजिकल सर्वे ऑफ इंडिया (जेड.एस.आई.) ने 30 जून, 2025 को अपना वां स्थापना दिवस मनाया।",
+  "options": [
+   "110",
+   "90",
+   "99",
+   "115"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "110",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5745
+  ],
+  "option_objs": [
+   5747,
+   5749,
+   5751,
+   5753
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 36,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "निम्नलिखित में से कौन दहन का एक प्रकार है? [. तीव्र दहन [. स्वतः ज्वलन",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "at 1 aden aT a I"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "[ तथा पर दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   5757,
+   5759,
+   5761,
+   5763
+  ],
+  "diagram_objs": [
+   5755
+  ]
+ },
+ {
+  "set": 18,
+  "qno": 37,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 88.2,
+  "stem": "निम्नलिखित में से किस स्थान पर हुई बैठक में हिंदुस्तान सोशलिस्ट रिपब्लिकन आर्मी (एच.एस.आर.ए.) की स्थापना की गई थी?",
+  "options": [
+   "बॉम्बे के गोकुलदास तेजपाल संस्कृत महाविद्यालय में",
+   "दिल्‍ली के फिरोजशाह कोटला मैदान में",
+   "इलाहाबाद के अल्फ्रेड पार्क में",
+   "अमृतसर के जलियांवाला बाग में"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "दिल्‍ली के फिरोजशाह कोटला मैदान में",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5782
+  ],
+  "option_objs": [
+   5784,
+   5786,
+   5788,
+   5790
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 48.0,
+  "stem": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय के 202] के आंकड़ों के अनुसार, भारत में प्रजनन दर 202 में पर स्थिर रही है।",
+  "options": [
+   "2.0",
+   "3.0",
+   "1.5",
+   "Lf"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2.0",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5792
+  ],
+  "option_objs": [
+   5794,
+   5796,
+   5798,
+   5800
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 39,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.0,
+  "stem": "भारतीय बजट के संदर्भ में, निम्नलिखित में से किसे राजस्व व्यय में शामिल किया जाता है?",
+  "options": [
+   "उपदान",
+   "लड़ाकू विमानों के अधिग्रहण पर व्यय",
+   "नौसैनिक जहाज के अधिग्रहण पर व्यय",
+   "एक्सप्रेसवे निर्माण पर व्यय"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "उपदान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5802
+  ],
+  "option_objs": [
+   5804,
+   5806,
+   5808,
+   5810
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 18,
+  "qno": 40,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 81.0,
+  "stem": "क्वाड (क्यु.यु.ए.डी.) नेता शिखर सम्मेलन-2025 में आयोजित किया जाएगा।",
+  "options": [
+   "यू.एस.ए.",
+   "ऑस्ट्रेलिया",
+   "भारत",
+   "जापान"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "भारत",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5822
+  ],
+  "option_objs": [
+   5824,
+   1338,
+   1332,
+   1336
+  ],
+  "diagram_objs": []
+ }
+]

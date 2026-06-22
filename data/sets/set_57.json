@@ -1,0 +1,602 @@
+[
+ {
+  "set": 57,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.8,
+  "stem": "संविधान से कौन सा मौलिक अधिकार हटा दिया गया?",
+  "options": [
+   "शिक्षा का अधिकार",
+   "संपत्ति का अधिकार",
+   "धार्मिक स्वतंत्रता का अधिकार",
+   "समानता का अधिकार"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "संपत्ति का अधिकार",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8076
+  ],
+  "option_objs": [
+   8078,
+   8080,
+   8082,
+   8084
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.3,
+  "stem": "कौन सा मौलिक अधिकार अल्पसंख्यकों के शैक्षणिक संस्थान स्थापित करने के अधिकार की रक्षा करता है?",
+  "options": [
+   "अनुच्छेद 25",
+   "अनुच्छेद 28",
+   "अनुच्छेद 29",
+   "अनुच्छेद 30"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "अनुच्छेद 30",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8107
+  ],
+  "option_objs": [
+   8109,
+   8111,
+   8113,
+   8115
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "भांगड़ा संगीत में किस वाद्य यंत्र का सबसे अधिक प्रयोग किया जाता है?",
+  "options": [
+   "तबला",
+   "ढोल",
+   "सितार",
+   "वायलिन"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "ढोल",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8117
+  ],
+  "option_objs": [
+   1446,
+   1448,
+   8119,
+   8121
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.2,
+  "stem": "हार्पर ली द्वारा लिखित कौन-सा पुलित्जर पुरस्कार विजेता उपन्यास अमेरिका के दक्षिण में नस्लीय अन्याय से संबंधित है?",
+  "options": [
+   "गो सेट ए वॉचमैन",
+   "टू किल अ मॉकिंगबर्ड",
+   "द कलर पर्पल",
+   "इनविजिबल मैन"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "टू किल अ मॉकिंगबर्ड",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8123
+  ],
+  "option_objs": [
+   8125,
+   8127,
+   8129,
+   8131
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.0,
+  "stem": "मानव आँख में मोतियाबिंद को ठीक करने के लिए आमतौर पर किस विधि का उपयोग किया जाता है?",
+  "options": [
+   "आंखों में डालने की बूंदें",
+   "आँखों के व्यायाम",
+   "शल्य चिकित्सा",
+   "चश्मा"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "शल्य चिकित्सा",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8133
+  ],
+  "option_objs": [
+   8135,
+   8155,
+   8157,
+   8159
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.0,
+  "stem": "आधिकारिक दिशानिर्देशों के तहत लक्ष्य तीरंदाजी में एक तीरंदाज को तीन तीर चलाने के लिए अधिकतम कितना समय दिया जाता है?",
+  "options": [
+   "1 fae",
+   "2 मिनट",
+   "3 मिनट",
+   "4 मिनट"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "2 मिनट",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8161
+  ],
+  "option_objs": [
+   8163,
+   8165,
+   8167,
+   8169
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.0,
+  "stem": "किस पंचवर्षीय योजना को “गाडगिल योजना” कहा जाता है?",
+  "options": [
+   "पहली योजना",
+   "दूसरी योजना",
+   "तीसरी योजना",
+   "चौथी योजना"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "तीसरी योजना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8171
+  ],
+  "option_objs": [
+   8173,
+   8175,
+   8177,
+   8179
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 28,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 54.5,
+  "stem": "कोशिकाओं में, मुख्य ऊर्जा मुद्रा (800 6060४ ८00४) के रूप में कार्य करने वाले अणु को संक्षेप में एटीपी (07?) कहा जाता है। 2? का पूर्ण रूप क्या है?",
+  "options": [
+   "Adenosine triphosphate (USalfaa etgthiathc)",
+   "Adenine thymine phosphate (Uefa urgha thiethc)",
+   "Adenosine tetraphosphate (USalfaa temthiathc)",
+   "Adenine triphosphate (USf4 eisthiathe)"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Adenosine triphosphate (USalfaa etgthiathc)",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8181
+  ],
+  "option_objs": [
+   8183,
+   8185,
+   8187,
+   8209
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.5,
+  "stem": "किसी भारतीय गेंदबाज द्वारा लिए गए सर्वाधिक टेस्ट मैच विकेटों का रिकॉर्ड किसके नाम है?",
+  "options": [
+   "अनिल कुंबले",
+   "हरभजन सिंह",
+   "कपिल देव",
+   "आर. अश्विन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "अनिल कुंबले",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8211
+  ],
+  "option_objs": [
+   8213,
+   8215,
+   8217,
+   8219
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.6,
+  "stem": "भाखड़ा-नांगल परियोजना कहाँ स्थित है?",
+  "options": [
+   "गुजरात और महाराष्ट्र",
+   "हिमाचल प्रदेश और पंजाब",
+   "असम और पश्चिम बंगाल",
+   "ओडिशा और बिहार"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "हिमाचल प्रदेश और पंजाब",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8221
+  ],
+  "option_objs": [
+   8223,
+   8225,
+   8227,
+   8229
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "ओडिशा में सुभद्रा योजना क्या है?",
+  "options": [
+   "बाल छात्रवृत्तियाँ",
+   "छात्र ऋण",
+   "पुरुषों के लिए पेंशन",
+   "5 वर्षों में 50,000 रुपये की महिला-केंद्रित वित्तीय सहायता"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "5 वर्षों में 50,000 रुपये की महिला-केंद्रित वित्तीय सहायता",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8231
+  ],
+  "option_objs": [
+   8233,
+   8235,
+   8237,
+   8239
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.8,
+  "stem": "निति आयोग की कौन-सी नीति पहल नवाचार और उद्यमिता को बढ़ावा देने पर केंद्रित है?",
+  "options": [
+   "अटल नवाचार मिशन (एआईएम)",
+   "डिजिटल इंडिया पहल",
+   "राष्ट्रीय कौशल विकास मिशन",
+   "स्टार्टअप इंडिया योजना"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "अटल नवाचार मिशन (एआईएम)",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8260
+  ],
+  "option_objs": [
+   8262,
+   8264,
+   8266,
+   8268
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "जुलाई 2025 तक, 72.22 लाख से अधिक गर्भवती महिलाएं के तहत लाभार्थियों के रूप में पंजीकृत हैं।",
+  "options": [
+   "मिशन पोषण 2.0",
+   "खाद्य सुदृढ़ीकरण पहल (फूड फोर्टिफिकेशन इनिशिएटिव)",
+   "ईट राइट इंडिया मूवमेंट",
+   "पी.एम. गति शक्ति"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "मिशन पोषण 2.0",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8270
+  ],
+  "option_objs": [
+   8272,
+   8274,
+   8276,
+   8278
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.5,
+  "stem": "मगध में शिशुनाग वंश के बाद कौन सा राजवंश आया था?",
+  "options": [
+   "गुप्त वंश",
+   "नंद वंश",
+   "मौर्य वंश",
+   "हर्यक राजवंश"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "नंद वंश",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8280
+  ],
+  "option_objs": [
+   8282,
+   8284,
+   8286,
+   8288
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 80.8,
+  "stem": "दिसंबर 2024 में, प्रह्लाद जोशी द्वारा स्कैन लॉन्च किया गया था। 'स्कैन' पोर्टल का संक्षिप्त नाम क्या है?",
+  "options": [
+   "सिस्टम फॉर क्रेडिट अलोकेशन नेटवर्क",
+   "सब्सिडी क्लेम एप्लीकेशन फॉर एन.एफ.एस.ए.",
+   "स्टेटवाइड सेंट्रलाइज्ड ऑडिट नेटवर्क",
+   "स्मार्ट क्लेम्स एंड अलोकेशन नेटवर्क"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "सब्सिडी क्लेम एप्लीकेशन फॉर एन.एफ.एस.ए.",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8310
+  ],
+  "option_objs": [
+   8312,
+   8314,
+   8316,
+   8318
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 36,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 87.2,
+  "stem": "पहला सफल भारतीय ध्रुवीय उपग्रह प्रक्षेपण यान पी.एस.एल.वी.-02 एक चरण रॉकेट था।",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "6"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "4",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8320
+  ],
+  "option_objs": [
+   2005,
+   1614,
+   359,
+   361
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 71.7,
+  "stem": "यंग बंगाल मूवमेंट किसने शुरू किया था?",
+  "options": [
+   "हेनरी लुई विवियन डेरोज़ियो",
+   "केशब चंद्र सेन",
+   "राजा राममोहन राय",
+   "एलेन ओक्टेवियन ह्यूम"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "हेनरी लुई विवियन डेरोज़ियो",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8322
+  ],
+  "option_objs": [
+   8324,
+   8326,
+   8328,
+   8330
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 38,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 88.0,
+  "stem": "95 में, भारतीय जनसंख्या का लगभग कितना प्रतिशत शहरी क्षेत्रों में रहता था?",
+  "options": [
+   "17.3%",
+   "41.3%",
+   "37.3%",
+   "27.3%"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "17.3%",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8332
+  ],
+  "option_objs": [
+   8347,
+   8349,
+   8351,
+   8353
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.1,
+  "stem": "कबड्डी में, बोनस लाइन पार करने पर, जब कैचर टीम में न्यूनतम खिलाड़ी होते हैं, तो रेडर को बोनस अंक दिया जाता है।",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "3"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "6",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8355
+  ],
+  "option_objs": [
+   359,
+   1616,
+   361,
+   1614
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 57,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "वर्ल्ड हैप्पीनेस रिपोर्ट 2024 में, दुनिया का सबसे कम खुशहाल देश था।",
+  "options": [
+   "पाकिस्तान",
+   "अफ़गानिस्तान",
+   "उत्तर कोरिया",
+   "चीन"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अफ़गानिस्तान",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8357
+  ],
+  "option_objs": [
+   2928,
+   8359,
+   1696,
+   6497
+  ],
+  "diagram_objs": []
+ }
+]

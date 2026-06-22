@@ -1,0 +1,602 @@
+[
+ {
+  "set": 29,
+  "qno": 21,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 64.0,
+  "stem": "Water has maximum density at:",
+  "options": [
+   "O°c",
+   "4°c",
+   "25°C",
+   "100°C"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "4°c",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8956
+  ],
+  "option_objs": [
+   8958,
+   8960,
+   8962,
+   8964
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 22,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.5,
+  "stem": "Who became the private secretary to Prime Minister Modi in March 2025?",
+  "options": [
+   "Nidhi Tewari",
+   "Sunita Williams",
+   "Danish Mahajan",
+   "Anju Rathi Rana"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Nidhi Tewari",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8987
+  ],
+  "option_objs": [
+   8989,
+   8991,
+   8993,
+   8995
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 23,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "Who was appointed Union Law Secretary in March 2025?",
+  "options": [
+   "Anju Rathi Rana",
+   "Shubhanshu Shukla",
+   "K. Vinod Chandran",
+   "Danish Mahajan"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Anju Rathi Rana",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8997
+  ],
+  "option_objs": [
+   8999,
+   9001,
+   9003,
+   9005
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 24,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.9,
+  "stem": "in which year Rajaraja | became the king of the Chola Empire?",
+  "options": [
+   "985",
+   "1008",
+   "1028",
+   "1045"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "985",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9007
+  ],
+  "option_objs": [
+   9009,
+   9011,
+   9013,
+   9015
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 25,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.0,
+  "stem": "In August 2025, launched ‘Pratibha Setu' to connect top talent with employers including private sector.",
+  "options": [
+   "UPSC",
+   "CBSE",
+   "AICTE",
+   "UGC"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "UPSC",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9036
+  ],
+  "option_objs": [
+   9038,
+   9040,
+   9042,
+   9044
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 26,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.7,
+  "stem": "In February 2025, the Government of India celebrated 6 years of the SWAYATT initiative. What does SWAYATT stand for?",
+  "options": [
+   "Strengthening Women and Youth Against Trade Threats",
+   "Startups, Women and Youth Advantage Through e-Transactions",
+   "Supporting Workers and Young Adults Through Training",
+   "Sustainable Work and Youth Alliance for Technological Trade"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Startups, Women and Youth Advantage Through e-Transactions",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9046
+  ],
+  "option_objs": [
+   9048,
+   9050,
+   9052,
+   9054
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 27,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 88.0,
+  "stem": "In Tamil Nadu, is performed by dancers wearing peacock feathers in temples dedicated to Lord Murugan to obtain his blessings.",
+  "options": [
+   "Gambhira",
+   "Pung Cholom",
+   "Theru Koothu",
+   "Mayil Aattam"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Mayil Aattam",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9056
+  ],
+  "option_objs": [
+   9058,
+   9060,
+   9062,
+   9064
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 28,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.9,
+  "stem": "‘Hareli festival’ is celebrated in which of the following Indian state?",
+  "options": [
+   "Assam",
+   "Himachal Pradesh",
+   "Chhattisgarh",
+   "Gujarat"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Chhattisgarh",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9085
+  ],
+  "option_objs": [
+   5143,
+   9087,
+   9089,
+   5141
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 29,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.6,
+  "stem": "Which state government has planned to develop Asia's largest jungle safari in the Aravalli hills?",
+  "options": [
+   "Haryana",
+   "Rajasthan",
+   "Gujarat",
+   "Delhi"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Haryana",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9091
+  ],
+  "option_objs": [
+   9093,
+   9095,
+   5141,
+   9097
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 30,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "The Kosi Mechi Intra state river link project is associated with which of the following state?",
+  "options": [
+   "Bihar",
+   "Madhya Pradesh",
+   "Kerala",
+   "Tamil Nadu"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Bihar",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9099
+  ],
+  "option_objs": [
+   9101,
+   9103,
+   9105,
+   9107
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 31,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.0,
+  "stem": "What is the gross weight of ISRO’s PSLV-XL Configuration?",
+  "options": [
+   "120 tonnes",
+   "1040 tonnes",
+   "320 tonnes",
+   "560 tonnes"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "320 tonnes",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9128
+  ],
+  "option_objs": [
+   9130,
+   9132,
+   9134,
+   9136
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 74.0,
+  "stem": "Which of the following discovery has been made with AstroSat? I. The detection of ultraviolet emissions emanating from remote galaxies. II. The polarisation of X-rays in proximate supernova remnants.",
+  "options": [
+   "Only I",
+   "Only II",
+   "Both I and II",
+   "Neither I nor II"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Both I and II",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   5193,
+   5195,
+   5197,
+   5199
+  ],
+  "diagram_objs": [
+   9138
+  ]
+ },
+ {
+  "set": 29,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 86.0,
+  "stem": "Which IIT is leading the development of the ‘Shakti’ microprocessor?",
+  "options": [
+   "IIT Bombay",
+   "IIT Delhi",
+   "IIT Madras",
+   "IIT Kanpur"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "IIT Madras",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9140
+  ],
+  "option_objs": [
+   9142,
+   9144,
+   9146,
+   9148
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 34,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 86.0,
+  "stem": "In December 2024, which institute unveiled a cost-effective Bluetooth Low Energy Gateway with advanced data security to enhance IoT applications?",
+  "options": [
+   "IIT Delhi",
+   "IIT Ropar",
+   "IIT Madras",
+   "IIT Bombay"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "IIT Ropar",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9168
+  ],
+  "option_objs": [
+   9170,
+   9172,
+   9174,
+   9176
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.8,
+  "stem": "The BIMSTEC Youth Summit-2025 was held in from 7-11 February 2025.",
+  "options": [
+   "Chennai",
+   "Gandhinagar",
+   "Dhaka",
+   "Colombo"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Gandhinagar",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9178
+  ],
+  "option_objs": [
+   9180,
+   9182,
+   9184,
+   9186
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 89.3,
+  "stem": "Dev Meena holds the national record in pole vault with 5.40 metres set in :",
+  "options": [
+   "2019",
+   "2023",
+   "2014",
+   "2025"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "2025",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9188
+  ],
+  "option_objs": [
+   9190,
+   8883,
+   7896,
+   9192
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 74.0,
+  "stem": "In athletics, all running events come under : I. Track events II. Ground events",
+  "options": [
+   "Only I",
+   "Only II",
+   "Both I and II",
+   "Neither I nor II"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Only I",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   5193,
+   5195,
+   5197,
+   5199
+  ],
+  "diagram_objs": [
+   9210
+  ]
+ },
+ {
+  "set": 29,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.7,
+  "stem": "What is the shape of the magnetic field lines around a current-carrying solenoid?",
+  "options": [
+   "Random and irregular.",
+   "Parallel straight lines inside the solenoid and concentric circles outside.",
+   "Concentric circles centered on the solenoid.",
+   "Radial lines extending outward from the solenoid."
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Parallel straight lines inside the solenoid and concentric circles outside.",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9212
+  ],
+  "option_objs": [
+   9214,
+   9216,
+   9218,
+   9220
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 29,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 90.0,
+  "stem": "Which musical instrument is shown in the figure given below?",
+  "options": [
+   "Jantar",
+   "Trumpet",
+   "Nadaswaram",
+   "Mridangam"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Jantar",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   9224,
+   9239,
+   9241,
+   9243
+  ],
+  "diagram_objs": [
+   9222
+  ]
+ },
+ {
+  "set": 29,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.5,
+  "stem": "Which of the following is the use of petroleum gas in liquid form (LPG), a constituent of petroleum?",
+  "options": [
+   "Ointments, candles, vaseline etc.",
+   "Fuel for heavy motor vehicles, electric generators",
+   "Paints, road surfacing",
+   "Fuel for home and industry"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Fuel for home and industry",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9245
+  ],
+  "option_objs": [
+   9247,
+   9249,
+   9251,
+   9253
+  ],
+  "diagram_objs": []
+ }
+]

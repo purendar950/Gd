@@ -1,0 +1,602 @@
+[
+ {
+  "set": 58,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.0,
+  "stem": "इनमें से किसके तहत प्रधानमंत्री वास्तविक कार्यकारी होता है?",
+  "options": [
+   "राष्ट्रपति प्रणाली",
+   "संसदीय प्रणाली",
+   "एकात्मक प्रणाली",
+   "संघीय प्रणाली"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "संसदीय प्रणाली",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8377
+  ],
+  "option_objs": [
+   8379,
+   8381,
+   8383,
+   8385
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.5,
+  "stem": "निम्नलिखित में से कौन-सा चक्र गैसीय चरण से युक्त नहीं होता है?",
+  "options": [
+   "जल चक्र",
+   "कार्बन चक्र",
+   "नाइट्रोजन चक्र",
+   "फास्फोरस चक्र"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "फास्फोरस चक्र",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8407
+  ],
+  "option_objs": [
+   8409,
+   8411,
+   8413,
+   8415
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.6,
+  "stem": "संथाल नृत्य की विशिष्ट संरचना क्या है?",
+  "options": [
+   "महिलाओं द्वारा एकल नृत्य",
+   "पुरुषों और महिलाओं दोनों को शामिल करते हुए गोलाकार या पंक्तिबद्ध समूह नृत्य",
+   "तलवारों के साथ मार्शल नृत्य",
+   "बैठकर किया जाने वाला नृत्य"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "पुरुषों और महिलाओं दोनों को शामिल करते हुए गोलाकार या पंक्तिबद्ध समूह नृत्य",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8417
+  ],
+  "option_objs": [
+   8419,
+   8421,
+   8423,
+   8425
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 74.0,
+  "stem": "नेत्रगोलक का व्यास लगभग कितना होता है?",
+  "options": [
+   "1.3 St",
+   "2.3 सेमी",
+   "3.3 सेमी",
+   "4.3 सेमी"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "2.3 सेमी",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8427
+  ],
+  "option_objs": [
+   8429,
+   8431,
+   8433,
+   8435
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "निम्नलिखित में से कौन-सा, मांसाहारी का उत्कृष्ट उदाहरण है?",
+  "options": [
+   "गाय",
+   "शेर",
+   "कौआ",
+   "केंचुआ"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "शेर",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8437
+  ],
+  "option_objs": [
+   8439,
+   8460,
+   8462,
+   8464
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "आगरा किले में कौन-सी संरचना अपने सफेद संगमरमर के मेहराबों के लिए जानी जाती है और इसका उपयोग शाहजहाँ ने ताजमहल देखने के लिए किया था?",
+  "options": [
+   "मुसम्मन बुर्ज",
+   "मोती मस्जिद",
+   "नगीना मस्जिद",
+   "दीवान-ए-खास"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "मुसम्मन बुर्ज",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8466
+  ],
+  "option_objs": [
+   8468,
+   150,
+   8470,
+   8472
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 62.0,
+  "stem": "शत प्रकाश का रंगों में विभाजन सर्वप्रथम किसने समझाया था:",
+  "options": [
+   "आइजैक न्यूटन",
+   "थॉमस यंग",
+   "हुय्गेंस",
+   "मैक्सवेल"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "आइजैक न्यूटन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8474
+  ],
+  "option_objs": [
+   8476,
+   8478,
+   8480,
+   8482
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 28,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 89.0,
+  "stem": "भुगतान संतुलन संकट से निपटने के लिए जुलाई 99 में भारतीय रुपये का कितना अवमूल्यन किया गया था?",
+  "options": [
+   "5-7%",
+   "18-20%",
+   "30-35%",
+   "50%"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "18-20%",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8484
+  ],
+  "option_objs": [
+   8486,
+   8488,
+   8490,
+   8512
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 29,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 85.8,
+  "stem": "भारतीय एक्सज़िम बैंक की स्थापना कब हुई थी?",
+  "options": [
+   "1972",
+   "1982",
+   "1985",
+   "1990"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1982",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8514
+  ],
+  "option_objs": [
+   5209,
+   5211,
+   8516,
+   5213
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 78.0,
+  "stem": "भारत में सबसे बड़ा नमक उत्पादक राज्य कौन-सा है?",
+  "options": [
+   "महाराष्ट्र",
+   "तमिलनाडु",
+   "गुजरात",
+   "राजस्थान"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "गुजरात",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8518
+  ],
+  "option_objs": [
+   1754,
+   735,
+   733,
+   1752
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.1,
+  "stem": "तांबा हवा में मौजूद नम कार्बन डाइऑक्साइड के साथ प्रतिक्रिया करता है, जिससे धीरे-धीरे इसकी चमकदार भूरी सतह खत्म हो जाती है और एक विकसित हो जाती है।",
+  "options": [
+   "हरे रंग की परत",
+   "काले रंग की परत",
+   "लाल रंग की परत",
+   "पीले रंग की परत"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "हरे रंग की परत",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8520
+  ],
+  "option_objs": [
+   8522,
+   8524,
+   8526,
+   8528
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.0,
+  "stem": "निम्नलिखित में से कौन सा प्रवाह चर है?",
+  "options": [
+   "राष्ट्रीय आय",
+   "पैसे की आपूर्ति",
+   "शेयर पूंजी",
+   "विदेशी मुद्रा भंडार"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "राष्ट्रीय आय",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8549
+  ],
+  "option_objs": [
+   8551,
+   8553,
+   8555,
+   8557
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "कोयले की उपलब्धता के कारण कौन सा उद्योग मुख्य रूप से दामोदर घाटी के आसपास केंद्रित है?",
+  "options": [
+   "कपड़ा",
+   "इस्पात",
+   "रासायनिक",
+   "चमड़ा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "इस्पात",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8559
+  ],
+  "option_objs": [
+   8561,
+   8563,
+   8565,
+   8567
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "मई 2025 में, किस भारतीय राज्य को उल्लास कार्यक्रम के तहत आधिकारिक तौर पर पूर्ण साक्षर घोषित किया गया था?",
+  "options": [
+   "हरियाणा",
+   "राजस्थान",
+   "मिजोरम",
+   "उत्तर प्रदेश"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "मिजोरम",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8569
+  ],
+  "option_objs": [
+   1279,
+   1752,
+   985,
+   8571
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 60.0,
+  "stem": "चन्द्रगुप्त द्वितीय के दरबार में नौ दिग्गजों (नवरत्नों) में से सबसे उल्लेखनीय किसे माना जाता था?",
+  "options": [
+   "तुलसीदास",
+   "कालिदास",
+   "सूरदास",
+   "बाणभट्ट"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "कालिदास",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8592
+  ],
+  "option_objs": [
+   8594,
+   8596,
+   8598,
+   8600
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 54.0,
+  "stem": "निम्नलिखित में से कौन सा अधिनियम उन समाचार पत्रों को चुप कराने के प्रयास में लागू किया गया जो सरकार की आलोचना करते थे?",
+  "options": [
+   "वर्नाक्यूलर प्रेस अधिनियम, 878",
+   "वर्नाक्युलर प्रेस अधिनियम, 858",
+   "चार्टर अधिनियम, 833",
+   "चार्टर अधिनियम, 83"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "वर्नाक्यूलर प्रेस अधिनियम, 878",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8602
+  ],
+  "option_objs": [
+   8604,
+   8606,
+   2995,
+   8608
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 79.0,
+  "stem": "जनवरी 2025 में, मंत्रालय की सुरक्षा को फेशियल रिकग्रिशन, आर.एफ.आई.डी. कार्ड तथा समय खांचा-आधारित आगंतुक प्रवेश के साथ उन्नत किया गया। यह मंत्रालय किस राज्य में स्थित है?",
+  "options": [
+   "सिक्किम",
+   "बिहार",
+   "महाराष्ट्र",
+   "मध्य प्रदेश"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "महाराष्ट्र",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8610
+  ],
+  "option_objs": [
+   8612,
+   1856,
+   2210,
+   353
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 38,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.2,
+  "stem": "भारत में में एक महिला द्वारा अपने जीवनकाल में जन्म दिए जाने वाले बच्चों की औसत संख्या 3.8 थी।",
+  "options": [
+   "1990",
+   "2011",
+   "2015",
+   "1960"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "1990",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8614
+  ],
+  "option_objs": [
+   5213,
+   1819,
+   5171,
+   8631
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 39,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 86.0,
+  "stem": "ताची-वाजा, कोशी-वाजा निम्नलिखित में से किस खेल से संबंधित शब्द हैं?",
+  "options": [
+   "बैडमिंटन",
+   "कबड्डी",
+   "जूडो",
+   "स्विमिंग"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "जूडो",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   8633
+  ],
+  "option_objs": [
+   690,
+   686,
+   8635,
+   8637
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 58,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 46.8,
+  "stem": "जल चक्र के संबंध में घटक-प्रक्रिया का निम्नलिखित में से कौन-सा युग्म सही है? [. बर्फ और हिम में जल का संग्रहण - वाष्योत्सर्जन [[. भौम जल संग्रहण - भौम जल का विसर्जन झरनें",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ और पा दोनों",
+   "नतोए औरन ही पा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "केवल पा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   2841,
+   2843
+  ],
+  "diagram_objs": [
+   8639
+  ]
+ }
+]

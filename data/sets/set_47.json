@@ -1,0 +1,602 @@
+[
+ {
+  "set": 47,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 95.0,
+  "stem": "संविधान की कौन सी अनुसूची में राज्यों और केंद्र शासित प्रदेशों के नाम शामिल हैं?",
+  "options": [
+   "पहली",
+   "दूसरी",
+   "तीसरी",
+   "चौथी"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "पहली",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5022
+  ],
+  "option_objs": [
+   5024,
+   5026,
+   5028,
+   5030
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 22,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 50.0,
+  "stem": "संविधान का कौन सा भाग राजभाषा से संबंधित है?",
+  "options": [
+   "BMT XV",
+   "AMT XVI",
+   "AMT XVII",
+   "AMT XVIII"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "AMT XVII",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5053
+  ],
+  "option_objs": [
+   5055,
+   5057,
+   5059,
+   5061
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 78.0,
+  "stem": "नाटी नृत्य किस भारतीय राज्य का पारंपरिक लोक नृत्य है?",
+  "options": [
+   "महाराष्ट्र",
+   "हिमाचल प्रदेश",
+   "पश्चिम बंगाल",
+   "राजस्थान"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "हिमाचल प्रदेश",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5063
+  ],
+  "option_objs": [
+   1754,
+   2469,
+   1213,
+   1752
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 78.0,
+  "stem": "पृथ्वी और चंद्रमा दोनों पर कौन सा भौतिक गुण समान रहता है?",
+  "options": [
+   "वज़न",
+   "द्रव्यमान",
+   "गुरुत्वीय त्वरण",
+   "दबाव"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "द्रव्यमान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5065
+  ],
+  "option_objs": [
+   5067,
+   5069,
+   5071,
+   5073
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "“लिरिकल बैलाड्स” के प्रकाशन में विलियम वर्ड्सवर्थ के सहयोगी कौन थे?",
+  "options": [
+   "पर्सी बिशे शेली",
+   "सैमुअल टेलर कोलरिज",
+   "लॉर्ड बायरन",
+   "रॉबर्ट साउथी"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "सैमुअल टेलर कोलरिज",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5075
+  ],
+  "option_objs": [
+   5077,
+   5098,
+   5100,
+   5102
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.7,
+  "stem": "जब पृथ्वी, सूर्य के प्रकाश को चंद्रमा तक पहुंचने से रोकती है, तब चंद्र ग्रहण होता है। यदि पृथ्वी अपने वर्तमान आकार से दोगुनी होती, तो चंद्र ग्रहण में क्या बदलाव होता?",
+  "options": [
+   "ग्रहण अधिक समय तक रहेगा",
+   "ग्रहण छोटा हो जाएगा",
+   "ग्रहण की अवधि में कोई परिवर्तन नहीं होगा",
+   "ग्रहण की आवृत्ति कम हो जाएगी"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "ग्रहण अधिक समय तक रहेगा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5104
+  ],
+  "option_objs": [
+   5106,
+   5108,
+   5110,
+   5112
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 60.3,
+  "stem": "वर्तमान ओलंपिक ध्वज पहली बार किस ओलंपिक खेलों में फहराया गया था?",
+  "options": [
+   "920 ग्रीष्मकालीन ओलंपिक",
+   "924 ग्रीष्मकालीन ओलंपिक",
+   "920 शीतकालीन ओलंपिक",
+   "924 शीतकालीन ओलंपिक"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "920 ग्रीष्मकालीन ओलंपिक",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5114
+  ],
+  "option_objs": [
+   5116,
+   5118,
+   5120,
+   5122
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 85.1,
+  "stem": "कौन सी प्रवृत्ति दर्शाती है कि 99 के सुधारों से भारत के बाह्य क्षेत्र की स्थिरता में सुधार हुआ?",
+  "options": [
+   "99 के बाद विदेशी मुद्रा भंडार में लगातार गिरावट",
+   "990 के दशक में विदेशी ऋण दोगुना हो गया",
+   "समय के साथ विदेशी मुद्रा भंडार में मजबूत वृद्धि",
+   "विदेशी निवेश प्रवाह में गिरावट"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "समय के साथ विदेशी मुद्रा भंडार में मजबूत वृद्धि",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5124
+  ],
+  "option_objs": [
+   5126,
+   5128,
+   5149,
+   5151
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.0,
+  "stem": "कौन-सा हार्मोन पादप वृद्धि को रोकता है और जो पत्तियों के मुरझाने का कारण बन सकता है?",
+  "options": [
+   "साइटोकाइनिन",
+   "जिबरेलिन",
+   "एब्सिसिक अम्ल",
+   "ऑक्सिन"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "एब्सिसिक अम्ल",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5153
+  ],
+  "option_objs": [
+   5155,
+   5157,
+   5159,
+   5161
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 30,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 83.7,
+  "stem": "अंतर्राष्ट्रीय हॉकी में \"फोर-क्वार्टर\" फॉर्मेट कब शुरू किया गया था?",
+  "options": [
+   "2012",
+   "2013",
+   "2014",
+   "2015"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "2014",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5163
+  ],
+  "option_objs": [
+   5165,
+   5167,
+   5169,
+   5171
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "कौन-सा अनुक्रम ट्रायथलॉन स्पर्धाओं को सही ढंग से दर्शाता है?",
+  "options": [
+   "स्विम, साइकिल, रन",
+   "रन, स्विम, साइकिल",
+   "साइकिल, स्विम, रन",
+   "स्विम, रन, साइकिल"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "स्विम, साइकिल, रन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5173
+  ],
+  "option_objs": [
+   5175,
+   5177,
+   5179,
+   5181
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 32,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 87.6,
+  "stem": "!५88/२0 (राष्ट्रीय कृषि और ग्रामीण विकास बैंक) की स्थापना कब हुई थी?",
+  "options": [
+   "1969",
+   "1972",
+   "1982",
+   "1990"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "1982",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5205
+  ],
+  "option_objs": [
+   5207,
+   5209,
+   5211,
+   5213
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.5,
+  "stem": "'जीवन प्रमाण' पहल निम्न में किससे संबंधित है?",
+  "options": [
+   "ग्रामीण विद्युतीकरण का विस्तार",
+   "युवाओं के लिए कौशल विकास प्रशिक्षण प्रदान करना",
+   "किसानों को बीमा प्रदान करना",
+   "पेंशनधारकों के लिए डिजिटल जीवन प्रमाणपत्र जारी करना"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "पेंशनधारकों के लिए डिजिटल जीवन प्रमाणपत्र जारी करना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5215
+  ],
+  "option_objs": [
+   5217,
+   5219,
+   5221,
+   5223
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.7,
+  "stem": "हाल ही में कौन सा देश भारत का सबसे बड़ा व्यापारिक साझेदार रहा है?",
+  "options": [
+   "संयुक्त राज्य अमेरिका",
+   "जनवादी गणराज्य चीन",
+   "संयुक्त अरब अमीरात",
+   "जापान"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "जनवादी गणराज्य चीन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5225
+  ],
+  "option_objs": [
+   5227,
+   5229,
+   5231,
+   5233
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "जुलाई 2025 में समाचारों में देखा गया डी.ए.जे.जी.यू.ए.अभियान निम्नलिखित में से किससे संबंधित है?",
+  "options": [
+   "जनजातीय कल्याण",
+   "स्वच्छ भारत",
+   "ओ.बी.सी. छात्रवृत्ति",
+   "खाद्य सुदृढ़ीकरण (फूड फोर्टिफिकेशन)"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "जनजातीय कल्याण",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5255
+  ],
+  "option_objs": [
+   5257,
+   5259,
+   5261,
+   5263
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 86.0,
+  "stem": "चन्द्रगुप्त प्रथम से विवाहित लिच्छवि राजकुमारी का नाम क्या था?",
+  "options": [
+   "कदम्बदेवी",
+   "नयनिका",
+   "कुमारदेवी",
+   "प्रभावती"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "कुमारदेवी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5265
+  ],
+  "option_objs": [
+   5267,
+   5269,
+   5271,
+   5273
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 37,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.2,
+  "stem": "भारतीय नागरिक सुरक्षा संहिता, 2023 (बी.एन.एस.एस.) की किस धारा में प्ली बार्गेनिंग को समयबद्ध कर दिया गया है?",
+  "options": [
+   "290",
+   "558",
+   "258",
+   "330"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "290",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5275
+  ],
+  "option_objs": [
+   5277,
+   5279,
+   5281,
+   5283
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 86.3,
+  "stem": "स्वाभिमान आंदोलन किसने शुरू किया था?",
+  "options": [
+   "ई.वी. रामास्वामी नायकर",
+   "घसीदास",
+   "श्री नारायण गुरु",
+   "ज्योतिराव फुले"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "ई.वी. रामास्वामी नायकर",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5285
+  ],
+  "option_objs": [
+   5303,
+   5305,
+   5307,
+   5309
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "\"कृषि व्यवसाय के अवसर एवं चुनौतियों में महिलाएं\" रिपोर्ट के अनुसार, 2025 में भारत के कृषि कार्यबल का कितना प्रतिशत महिलाओं द्वारा गठित किया जाएगा?",
+  "options": [
+   "64.4%",
+   "51.4%",
+   "45.4%",
+   "54.4%"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "64.4%",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5311
+  ],
+  "option_objs": [
+   5313,
+   5315,
+   5317,
+   5319
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 47,
+  "qno": 40,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 40.0,
+  "stem": "टाइम्स हायर एजुकेशन (टी.एच.ई.) एशिया रैंकिंग 2025 में अन्ना विधविद्यालय का रैंक क्या है?",
+  "options": [
+   "111",
+   "91",
+   "v7",
+   "124"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "111",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   5321
+  ],
+  "option_objs": [
+   5323,
+   1021,
+   1023,
+   5325
+  ],
+  "diagram_objs": []
+ }
+]

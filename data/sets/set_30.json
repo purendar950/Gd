@@ -1,0 +1,602 @@
+[
+ {
+  "set": 30,
+  "qno": 21,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 41.1,
+  "stem": "0१८ 6७ ५छू69 69७ 6५७ 696७ 2",
+  "options": [
+   "344 m/s",
+   "331 m/s",
+   "316 m/s",
+   "346 m/s"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "331 m/s",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9268
+  ],
+  "option_objs": [
+   9270,
+   9272,
+   9274,
+   9276
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 22,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 0.0,
+  "stem": "AACA 6AQ AME \"QT AT O GQ\" SIAN?",
+  "options": [
+   "NAG AMRQA",
+   "6७५४ 67%",
+   "GAISAITIJA ASA",
+   "UME MAQA"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "NAG AMRQA",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9306
+  ],
+  "option_objs": [
+   9308,
+   9310,
+   9312,
+   9314
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 23,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 24.5,
+  "stem": "20166Q 6RA AGACR 8A BRICS AGA AGE! AEHe ainda?",
+  "options": [
+   "6५, छा'9७",
+   "QI, AGI",
+   "ERILIGRA, CGE AUF!",
+   "GOR\", O19"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "6५, छा'9७",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9316
+  ],
+  "option_objs": [
+   9318,
+   9320,
+   9322,
+   9324
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 24,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 32.5,
+  "stem": "AIQG1A AT QACAQ ANPIAIVAE NIG? SCISIAAEA @'4] AMIAIAG GAIS AGAiM?",
+  "options": [
+   "Qeealdie! saig eae 21a",
+   "AAS AJR NS? Y2E SRIACA YESS",
+   "AIANCIA TIAJSa OSS NAIC!",
+   "AIGIE AGATA AY Aousia eae!"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "AAS AJR NS? Y2E SRIACA YESS",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9326
+  ],
+  "option_objs": [
+   9328,
+   9330,
+   9332,
+   9334
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 25,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 35.0,
+  "stem": "1950-1980 ANIEA 6AA ASE AAMSA \"@MA’ SIA” AISEA SEQER! EAIDIQAMI?",
+  "options": [
+   "POE",
+   "LOOM",
+   "ed",
+   "AIQI GE, NAGS, 1G"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "AIQI GE, NAGS, 1G",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9336
+  ],
+  "option_objs": [
+   9359,
+   9361,
+   9363,
+   9365
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 26,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 0.0,
+  "stem": "UII Jas cag] saa Jaina seaiat QU gr?",
+  "options": [
+   "AGAIGIA",
+   "RES",
+   "AIAG",
+   "GIOREHE"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "GIOREHE",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9367
+  ],
+  "option_objs": [
+   9369,
+   9371,
+   9373,
+   9375
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 27,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 43.3,
+  "stem": "CAG SESS 2025 CQ CAIDAS! CAIDA AEAICA SWAMIH Ag -2 aia Alege ac dA 6R6E?",
+  "options": [
+   "10000 6@I¢' Sarl",
+   "15000 6@I¢' Sarl",
+   "20000 696 ७६",
+   "25000 696 ७६"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "15000 6@I¢' Sarl",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9377
+  ],
+  "option_objs": [
+   9379,
+   9381,
+   9383,
+   9385
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 28,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 37.1,
+  "stem": "GRA CIAGUER CAG GUSESS PMGKAY AIEER CAIDAS IAS 6AISTIAGE SEAAA 2028 ADS SIO AIIM ASEAES SAAMI?",
+  "options": [
+   "15 AGS 2024",
+   "1 AMIR 2024",
+   "9 AGQIOR 2024",
+   "1 GIGZIG1 2025"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "9 AGQIOR 2024",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9387
+  ],
+  "option_objs": [
+   9389,
+   9413,
+   9415,
+   9417
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 29,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 0.0,
+  "stem": "GIFIM AEG AILSA’ 6Sae Agana RADQAMI |",
+  "options": [
+   "6AIl1",
+   "ध५७9",
+   "POAEIO",
+   "C12"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "ध५७9",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9419
+  ],
+  "option_objs": [
+   9421,
+   9423,
+   9425,
+   9427
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 30,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 0.0,
+  "stem": "GAAS 6AA AIACIA AIGY ASE ‘EMA!’ SCY ARGS?",
+  "options": [
+   "aga",
+   "adaecer",
+   "CCEMOIT!",
+   "éqol"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "aga",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9429
+  ],
+  "option_objs": [
+   9431,
+   9433,
+   9435,
+   9437
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 31,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 8.0,
+  "stem": "GRA CAGAIAS ALE SIA AISSa USE [add eae AID NE ACEANA| AIVER SAlQ ALA SG-SulTiar AINA QS?",
+  "options": [
+   "98 0 6769",
+   "OR",
+   "addceat",
+   "ZIBIFIP N@? SEQIOR"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "98 0 6769",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9439
+  ],
+  "option_objs": [
+   9441,
+   9443,
+   9466,
+   9468
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 53.4,
+  "stem": "AIQSEA YS JAS 6@ASG SE OIG ON PACA AS QCA GP GIA GQ |",
+  "options": [
+   "83",
+   "90",
+   "100",
+   "183"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "183",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9470
+  ],
+  "option_objs": [
+   9472,
+   9474,
+   9476,
+   9478
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 4.0,
+  "stem": "RAMI ACIEQ QASIA AA 'AAIG'A CAT SF QAMEA 6A AS AES GAIA?",
+  "options": [
+   "६५५४",
+   "NO-AM-TFEQ",
+   "q2aa",
+   "AEN-GIAlG"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "NO-AM-TFEQ",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9480
+  ],
+  "option_objs": [
+   9482,
+   9484,
+   9486,
+   9488
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 34,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 9.0,
+  "stem": "QAI NIG JA! AAGIACA SGTLA GAACA, IE ZISEIAT 6GS1 Ale! GQ AAEM |",
+  "options": [
+   "US",
+   "aIgell",
+   "WIMAIG",
+   "eaisaisiga"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "eaisaisiga",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9490
+  ],
+  "option_objs": [
+   9492,
+   9494,
+   9496,
+   9519
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 35.5,
+  "stem": "AAAGS AYE JF ANNA GYMS CU 6aAC O@ ese? 1. AERTS TINEA AIAAGS AGS IEA NG AIAG AEG 1 a I]. AAS, ANTA NS? AGIA ACHHITSES AU JIVE GIS AAA S4ESlQ SQANG |",
+  "options": [
+   "Cag I",
+   "CaO IT",
+   "ING? IT RAD",
+   "1 GA I AQ EMIAAG SES"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "ING? IT RAD",
+  "highlight_tag": "G",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   9523,
+   9525,
+   9527,
+   9529
+  ],
+  "diagram_objs": [
+   9521
+  ]
+ },
+ {
+  "set": 30,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 41.0,
+  "stem": "AGS] CGQMEA EES GIGA 1006A AVSHICIA JOS VIAN EQAGCM?",
+  "options": [
+   "2009",
+   "2012",
+   "2014",
+   "2011"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "2012",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9531
+  ],
+  "option_objs": [
+   7890,
+   7638,
+   7896,
+   9533
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 42.0,
+  "stem": "GYMAS CRA OD AEM EAA AMAA ACE SAM? I. 2008 II. 2012",
+  "options": [
+   "Cag I",
+   "CaO IT",
+   "AMA IG II",
+   "[696४ है पा ६७६४"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "AMA IG II",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   9537,
+   9539,
+   9541,
+   9564
+  ],
+  "diagram_objs": [
+   9535
+  ]
+ },
+ {
+  "set": 30,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 24.0,
+  "stem": "CAIUS AQ, AM ESOM GRA GIGI ACAD ATE NSE 4197",
+  "options": [
+   "SAA",
+   "के",
+   "जो” नेक",
+   "CAIN AQ"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "SAA",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9566
+  ],
+  "option_objs": [
+   9568,
+   9570,
+   9572,
+   9574
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 42.0,
+  "stem": "2024 Q EIOM LIA NEVER AINE 6AIQ ESCO Ami?",
+  "options": [
+   "27.3",
+   "31.1",
+   "21.8",
+   "|"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "27.3",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9576
+  ],
+  "option_objs": [
+   9578,
+   9580,
+   9582,
+   9584
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 30,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 23.0,
+  "stem": "2024 MEMINAECHS AAaTAg MEBHUTEQ Ole AS AME |",
+  "options": [
+   "156¢'¢1",
+   "124¢¢]",
+   "101¢¢1",
+   "111641"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "156¢'¢1",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   9586
+  ],
+  "option_objs": [
+   9588,
+   9590,
+   9592,
+   9594
+  ],
+  "diagram_objs": []
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "set": 36,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.7,
+  "stem": "विंध्य पर्वतमाला किन दो नदी प्रणालियों को अलग करती है?",
+  "options": [
+   "गंगा और गोदावरी",
+   "गंगा और नर्मदा",
+   "नर्मदा और तापी",
+   "गोदावरी और कृष्णा"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "गंगा और नर्मदा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1714
+  ],
+  "option_objs": [
+   1716,
+   1718,
+   1720,
+   1722
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 78.0,
+  "stem": "वल्लभी साम्राज्य, जिसने गुप्तों के बाद पश्चिमी भारत पर शासन किया, वर्तमान के में स्थित था।",
+  "options": [
+   "राजस्थान",
+   "गुजरात",
+   "महाराष्ट्र",
+   "मध्य प्रदेश"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "गुजरात",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1750
+  ],
+  "option_objs": [
+   1752,
+   733,
+   1754,
+   1215
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.5,
+  "stem": "जनसांख्यिकीय संक्रमण सिद्धांत के अनुसार, भारत वर्तमान में जनसंख्या वृद्धि के किस चरण में है?",
+  "options": [
+   "उच्च स्थिर",
+   "प्रारंभिक विस्तार",
+   "देर से विस्तार",
+   "निम्न स्थिर"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "देर से विस्तार",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1756
+  ],
+  "option_objs": [
+   1758,
+   1760,
+   1762,
+   1764
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 61.3,
+  "stem": "किस सुधार को अक्सर भारतीय संविधान का खाका कहा जाता है?",
+  "options": [
+   "Hici-fAct qe (1909)",
+   "मोंटेग्यू-चेम्सफोर्ड सुधार (99)",
+   "भारत सरकार अधिनियम, 935",
+   "भारतीय स्वतंत्रता अधिनियम, 947"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "भारत सरकार अधिनियम, 935",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1766
+  ],
+  "option_objs": [
+   1768,
+   1770,
+   1772,
+   1774
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 63.3,
+  "stem": "युवाओं के लिए प्रधानमंत्री विकसित भारत रोज़गार योजना, को घोषित की गई थी।",
+  "options": [
+   "79वां स्वतंत्रता दिवस",
+   "78वां स्वतंत्रता दिवस",
+   "76वां गणतंत्र दिवस",
+   "55वां गांधी जयंती"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "79वां स्वतंत्रता दिवस",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1795
+  ],
+  "option_objs": [
+   1797,
+   1799,
+   1801,
+   1803
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 26,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 84.5,
+  "stem": "निम्नलिखित में से कौन सा 978 में विमुद्रीकृत नोटों के एक मूल्यवर्ग नहीं है?",
+  "options": [
+   "500",
+   "1000",
+   "5000",
+   "10000"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "500",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1805
+  ],
+  "option_objs": [
+   1807,
+   1809,
+   1811,
+   1813
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 27,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 94.4,
+  "stem": "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय ने 3 जनवरी, 2025 को डिजिटल व्यक्तिगत डेटा संरक्षण (डी.पी.डी.पी.) अधिनियम, को लागू करने के लिए मसौदा नियमों का अनावरण किया है।",
+  "options": [
+   "2001",
+   "2011",
+   "2024",
+   "2023"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "2023",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1815
+  ],
+  "option_objs": [
+   1817,
+   1819,
+   1821,
+   1823
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.0,
+  "stem": "केरल के निम्नलिखित कला रूपों में से कौन सा मानवता की अमूर्त सांस्कृतिक विरासत की यूनेस्को प्रतिनिधि सूची में अंकित है?",
+  "options": [
+   "कुम्मी",
+   "बागुरुम्बा",
+   "कुटियाट्रम",
+   "पेरिनि शिवतांडवम्‌"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "कुटियाट्रम",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1844
+  ],
+  "option_objs": [
+   1846,
+   1848,
+   1850,
+   1852
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "निम्नलिखित में से किस राज्य में भारत का पहला जैवबहुलक विनिर्माण संयंत्र स्थापित किया जाएगा?",
+  "options": [
+   "बिहार",
+   "मध्य प्रदेश",
+   "छत्तीसगढ़",
+   "उत्तर प्रदेश"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "उत्तर प्रदेश",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1854
+  ],
+  "option_objs": [
+   1856,
+   353,
+   1858,
+   1860
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.2,
+  "stem": "'अट्टोलू ईदु' किस भारतीय राज्य/केंद्र शासित प्रदेश का सांस्कृतिक त्योहार है?",
+  "options": [
+   "मेघालय",
+   "तेलंगाना",
+   "गोवा",
+   "लक्षद्वीप"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "लक्षद्वीप",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1862
+  ],
+  "option_objs": [
+   1864,
+   351,
+   1866,
+   1868
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 31,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 50.0,
+  "stem": "गुरुत्वाकर्षण के सार्वभौमिक नियम के अनुसार, आनुपातिकता के स्थिरांक को द्शनि के लिए क्या प्रयोग किया जाता हैं?",
+  "options": [
+   "U",
+   "K",
+   "G",
+   "p"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "G",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1889
+  ],
+  "option_objs": [
+   1891,
+   1893,
+   1895,
+   1897
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 73.0,
+  "stem": "निम्नलिखित में से किसे वैधानिक पत्र माना जाता है?",
+  "options": [
+   "डेबिट कार्ड",
+   "fae",
+   "चेक",
+   "क्रेडिट कार्ड"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "fae",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1899
+  ],
+  "option_objs": [
+   1901,
+   1903,
+   1905,
+   1907
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 47.0,
+  "stem": "निम्नलिखित में से किसे आमतौर पर अफ्रीका में संघर्ष क्षेत्रों में सशस्त्र समूहों को वित्तपोषण करने में इसकी भूमिका के कारण “संघर्ष” या “रक्त” खनिज के रूप में संदर्भित किया जाता हैं?",
+  "options": [
+   "डायमंड",
+   "जिप्सम",
+   "कोबाल्ट",
+   "निकल"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "डायमंड",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1909
+  ],
+  "option_objs": [
+   1911,
+   1913,
+   1915,
+   1917
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "2025 में रग्बी प्रीमियर लीग का फाइनल कहाँ आयोजित किया गया था?",
+  "options": [
+   "जयपुर",
+   "इंदौर",
+   "चेन्नई",
+   "मुंबई"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "मुंबई",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1938
+  ],
+  "option_objs": [
+   1940,
+   1942,
+   317,
+   315
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 35,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 84.1,
+  "stem": "|3वें दक्षिण एशियाई खेल में आयोजित किए गए थे।",
+  "options": [
+   "2019",
+   "2013",
+   "2023",
+   "2015"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2019",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1944
+  ],
+  "option_objs": [
+   1946,
+   1948,
+   1950,
+   708
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.0,
+  "stem": "2020 में सार्वजनिक क्षेत्र के बैंकों में मेगा विलय में, निम्नलिखित में से किन बैंकों का भारतीय बैंक में विलय कर दिया गया था?",
+  "options": [
+   "ओरिएंटल बैंक ऑफ कॉमर्स और यूनाइटेड बैंक ऑफ इंडिया",
+   "सिंडिकेट बैंक",
+   "आंध्रा बैंक और कॉर्पोरेशन बैंक",
+   "इलाहाबाद बैंक"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "इलाहाबाद बैंक",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1952
+  ],
+  "option_objs": [
+   1954,
+   1956,
+   1958,
+   1960
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 37,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 81.0,
+  "stem": "टेबल टेनिस में, खेलने का स्थान आयताकार होता है और मीटर से कम लंबा नहीं होगा।",
+  "options": [
+   "15",
+   "16",
+   "14",
+   "1?"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "14",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1981
+  ],
+  "option_objs": [
+   1983,
+   1985,
+   1987,
+   1989
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 50.0,
+  "stem": "मत्स्य पालन सब्सिडी पर समझौते को औपचारिक रूप से स्वीकार करने वाला 07वां विश्व व्यापार संगठन सदस्य बन गया है।",
+  "options": [
+   "निकारागुआ",
+   "घाना",
+   "केन्या",
+   "होंडुरस"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "निकारागुआ",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   1991
+  ],
+  "option_objs": [
+   1993,
+   1995,
+   1997,
+   1999
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 91.9,
+  "stem": "वैश्विक आतंकवाद सूचकांक 2025 में पाकिस्तान का स्थान क्या है?",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "2",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2001
+  ],
+  "option_objs": [
+   2003,
+   2005,
+   1614,
+   359
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 36,
+  "qno": 40,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 41.0,
+  "stem": "विश्व वायु गुणवत्ता रिपोर्ट 2024 में सबसे प्रदूषित देशों में पाकिस्तान की रैंकिंग क्या है?",
+  "options": [
+   "3",
+   "5",
+   "1",
+   "7"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "3",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2017
+  ],
+  "option_objs": [
+   1614,
+   1616,
+   2019,
+   1618
+  ],
+  "diagram_objs": []
+ }
+]

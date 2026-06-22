@@ -1,0 +1,602 @@
+[
+ {
+  "set": 23,
+  "qno": 21,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 78.0,
+  "stem": "भरतनात्यम की उत्पत्ति किस राज्य में हुई?",
+  "options": [
+   "कर्नाटक",
+   "तमिलनाडु",
+   "गुजरात",
+   "महाराष्ट्र"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "तमिलनाडु",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7077
+  ],
+  "option_objs": [
+   3367,
+   3369,
+   846,
+   842
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 22,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 95.0,
+  "stem": "छठ पूजा का त्यौहार कितने दिन तक चलता है?",
+  "options": [
+   "दो दिन",
+   "तीन दिन",
+   "चार दिन",
+   "सात दिन"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "चार दिन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7097
+  ],
+  "option_objs": [
+   7099,
+   7101,
+   7103,
+   7105
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 23,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 85.0,
+  "stem": "2025 में हरियाणा का राज्यपाल किसे नियुक्त किया गया?",
+  "options": [
+   "कविन्द्र गुप्ता",
+   "मनोज कुमार सिंह",
+   "पुसापति अशोक गजपति राजू",
+   "अशीम कुमार घोष"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "अशीम कुमार घोष",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7107
+  ],
+  "option_objs": [
+   7109,
+   7111,
+   7113,
+   7115
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 24,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 85.0,
+  "stem": "2025 में, किस भारतीय ब्यूरोक्रेट को रिसर्च एंड एनालिसिस विंग (९४५४) का प्रमुख नियुक्त किया गया?",
+  "options": [
+   "रवि सिन्हा",
+   "प्रवीण सूद",
+   "अजय कुमार",
+   "पराग जैन"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "पराग जैन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7117
+  ],
+  "option_objs": [
+   7119,
+   7121,
+   7123,
+   5999
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 25,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 51.0,
+  "stem": "वायु में जल को के रूप में मापा जाता है।",
+  "options": [
+   "आर्द्रता",
+   "घनत्व",
+   "ताप",
+   "दाब"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "आर्द्रता",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7125
+  ],
+  "option_objs": [
+   7146,
+   7148,
+   7150,
+   7152
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 26,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "भारत का सबसे ऊँचा बाँध कौन-सा है?",
+  "options": [
+   "भाखड़ा नांगल",
+   "हीराकुंड बांध",
+   "टेहरी बांध",
+   "सरदार सरोवर"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "टेहरी बांध",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7154
+  ],
+  "option_objs": [
+   7156,
+   6038,
+   7158,
+   7160
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 27,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "निम्नलिखित में से कौन सल्तनत काल का एक प्रसिद्ध इतिहासकार था?",
+  "options": [
+   "अमीर खुसरो",
+   "अबुल फ़ज़ल",
+   "अल-बिरूनी",
+   "ज़ियाउद्दीन बरनी"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "ज़ियाउद्दीन बरनी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7162
+  ],
+  "option_objs": [
+   7164,
+   7166,
+   7168,
+   7170
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 28,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "2025 में शुरू की गई आयुष औषधि गुणवत्ता एवं उत्त्पादन संवर्धन योजना का मुख्य उद्देश्य क्या है?",
+  "options": [
+   "आयुष ऑषधालयों को बढ़ावा देना",
+   "भारत में खाद्य सुरक्षा को विनियमित करना",
+   "आयुष फार्मेसियों का समर्थन करना",
+   "केवल शहरी क्षेत्रों में आयुष अस्पताल स्थापित करना"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "आयुष फार्मेसियों का समर्थन करना",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7172
+  ],
+  "option_objs": [
+   7174,
+   7176,
+   7196,
+   7198
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 29,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 76.5,
+  "stem": "सितंबर 2024 में महाराष्ट्र में शुरुआती चरण की महिला-नेतृत्व वाली स्टार्टअप्स को समर्थन देने के लिए कौन सी योजना शुरू की गई है?",
+  "options": [
+   "पुण्यश्नोक अहिल्यादेवी होल्कर महिला स्टार्टअप योजना",
+   "आचार्य चाणक्य कौशल विकास योजना",
+   "महाराष्ट्र नवाचार स्टार्टअप पहल",
+   "महा-फंड स्टार्टअप सहायता योजना"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "पुण्यश्नोक अहिल्यादेवी होल्कर महिला स्टार्टअप योजना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7200
+  ],
+  "option_objs": [
+   7202,
+   7204,
+   7206,
+   7208
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 30,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 46.8,
+  "stem": "निम्नलिखित में से कौन सा राष्ट्रीय उद्यान गुजरात में स्थित है? [. गिर राष्ट्रीय उद्यान 7. बांदीपुर राष्ट्रीय उद्यान",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ और पा दोनों",
+   "नतोए औरन ही पा"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "act I",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   5757,
+   5759,
+   7212,
+   7214
+  ],
+  "diagram_objs": [
+   7210
+  ]
+ },
+ {
+  "set": 23,
+  "qno": 31,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 87.7,
+  "stem": "भू-आभ (जीऑयड) का क्या अर्थ है?",
+  "options": [
+   "इसका अर्थ है सूर्य जैसा विशाल आकार।",
+   "इसका अर्थ है बिना चंद्रमा वाला ग्रह।",
+   "इसका अर्थ है पृथ्वी जैसी आकृति।",
+   "इसका अर्थ है एक विशाल आकार का ब्लैक होल।"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "इसका अर्थ है पृथ्वी जैसी आकृति।",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7216
+  ],
+  "option_objs": [
+   7218,
+   7239,
+   7241,
+   7243
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 32,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 85.5,
+  "stem": "कक्षा पर वह बिंदु है जहां पृथ्वी की सतह से उपग्रह की ऊर्ध्वधिर दूरी लघुतम होती है।",
+  "options": [
+   "अपभू",
+   "उपभू",
+   "आनति",
+   "लैग्रेंज बिंदु"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "उपभू",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7245
+  ],
+  "option_objs": [
+   7247,
+   7249,
+   7251,
+   7253
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.6,
+  "stem": "भारतीय अंतरिक्ष स्टेशन में कितने मॉड्यूल होंगे?",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "5",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7255
+  ],
+  "option_objs": [
+   6074,
+   7257,
+   6076,
+   6078
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 34,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 91.6,
+  "stem": "जुलाई 2025 में, किस संस्थान ने भारतीय जनसंख्या में वृद्धावस्था को प्रेरित करने वाले संकेतकों का मानचित्रण करने के लिए भारत अध्ययन का संचालन किया?",
+  "options": [
+   "केंद्रीय औषधि अनुसंधान संस्थान (सी.डी.आर.आई.), लखनऊ",
+   "राष्ट्रीय पोषण संस्थान (एन.आई.एन.), हैदराबाद",
+   "भारतीय विज्ञान संस्थान (आई.आई.एस.सी.), बेंगलुरु",
+   "टाटा इंस्टीट्यूट ऑफ फंडामेंटल रिसर्च (टी.आई.एफ.आर.), मुंबई"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "भारतीय विज्ञान संस्थान (आई.आई.एस.सी.), बेंगलुरु",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7259
+  ],
+  "option_objs": [
+   7261,
+   7263,
+   7284,
+   7286
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.6,
+  "stem": "संयुक्त राष्ट्र सुरक्षा परिषद में कितने अस्थायी सदस्य हैं?",
+  "options": [
+   "5",
+   "7",
+   "10",
+   "15"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "10",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7288
+  ],
+  "option_objs": [
+   1537,
+   1541,
+   6823,
+   7290
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.1,
+  "stem": "भारत, में बैडमिंटन विश्व महासंघ से जुड़ गया था।",
+  "options": [
+   "1932",
+   "1934",
+   "1936",
+   "1938"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "1936",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7292
+  ],
+  "option_objs": [
+   7294,
+   7296,
+   7298,
+   7300
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 65.0,
+  "stem": "34 जुलाई 2025 तक, पुरुषों का 200 मीटर स्प्रिंट विध रिकॉर्ड सेकंड है।",
+  "options": [
+   "18.19",
+   "19:19",
+   "20.19",
+   "21:19"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "19:19",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7302
+  ],
+  "option_objs": [
+   7304,
+   7306,
+   7308,
+   7328
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 38,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.4,
+  "stem": "नाइट्रोजन और आर्गन जैसी रासायनिक रूप से निष्क्रिय गैसों को विद्युत बल्ब में भरने का प्राथमिक कारण क्या है?",
+  "options": [
+   "बल्ब को भारी बनाने के लिए",
+   "प्रकाश की द्युति बढ़ाने के लिए",
+   "तंतु की आयु में वृद्धि करने के लिए",
+   "उत्पादन लागत कम करने के लिए"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "तंतु की आयु में वृद्धि करने के लिए",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7330
+  ],
+  "option_objs": [
+   7332,
+   7334,
+   7336,
+   7338
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 39,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 85.0,
+  "stem": "निम्नलिखित में से कौन सा ठोस संगीत वाद्य यंत्र है, जो चिकनी मिट्टी से बने घड़े के आकार का होता है और कश्मीर में पाया जाता है?",
+  "options": [
+   "नूट",
+   "कासाले",
+   "एसराज",
+   "पेपा"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "नूट",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7340
+  ],
+  "option_objs": [
+   7342,
+   7344,
+   7346,
+   7348
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 23,
+  "qno": 40,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 85.0,
+  "stem": "निम्नलिखित में से कौन-सा, कोक का उपयोग है?",
+  "options": [
+   "आवासीय शीतलन के लिए ईधन के रूप में",
+   "खाद्य परिरक्षक के रूप में",
+   "फामस्यूटिकल्स के उत्पादन में",
+   "इस्पात के निर्माण में"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "इस्पात के निर्माण में",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7350
+  ],
+  "option_objs": [
+   7352,
+   7354,
+   7356,
+   7358
+  ],
+  "diagram_objs": []
+ }
+]

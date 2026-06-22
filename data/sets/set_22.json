@@ -1,0 +1,602 @@
+[
+ {
+  "set": 22,
+  "qno": 21,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 90.0,
+  "stem": "The 73rd constitutional anendment deals with:",
+  "options": [
+   "Anti-defection",
+   "Panchayati Raj",
+   "Tribunals",
+   "Cooperative Societies"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Panchayati Raj",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6777
+  ],
+  "option_objs": [
+   6779,
+   6781,
+   6783,
+   6785
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 22,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 82.0,
+  "stem": "The first woman governor of an Indian state was:",
+  "options": [
+   "Sarojini Naidu",
+   "Indira Gandhi",
+   "Sucheta Kripalani",
+   "Vijayalakshmi Pandit"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Sarojini Naidu",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6811
+  ],
+  "option_objs": [
+   6813,
+   6815,
+   6817,
+   6819
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 23,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 91.2,
+  "stem": "How many pollutants are measured under India’s Air Quality Index (AQI)?",
+  "options": [
+   "4",
+   "6",
+   "8",
+   "10"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "8",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6821
+  ],
+  "option_objs": [
+   1535,
+   1539,
+   1911,
+   6823
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 24,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.0,
+  "stem": "Freedom to make life choices in the Happiness Index refers to:",
+  "options": [
+   "Freedom of media",
+   "People’s perception of having control over life decisions",
+   "Economic liberalization",
+   "Political democracy"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "People’s perception of having control over life decisions",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6825
+  ],
+  "option_objs": [
+   6827,
+   6829,
+   6831,
+   6833
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 25,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.0,
+  "stem": "Which state hosted the 37th National Games of India in 2023?",
+  "options": [
+   "Maharashtra",
+   "Gujarat",
+   "Kerala",
+   "Goa"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Goa",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6835
+  ],
+  "option_objs": [
+   1700,
+   2787,
+   2807,
+   6855
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 26,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.1,
+  "stem": "By 1990, India’s external debt had become:",
+  "options": [
+   "Zero",
+   "Negligible",
+   "Manageable",
+   "Very high, leading to crisis"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Very high, leading to crisis",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6857
+  ],
+  "option_objs": [
+   6859,
+   6861,
+   6863,
+   6865
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 27,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.2,
+  "stem": "The Salt Law under the British administration was criticized because it",
+  "options": [
+   "Monopolized salt production and imposed heavy taxes",
+   "Encouraged private salt industries",
+   "Allowed Indians free access to salt pans",
+   "Abolished traditional salt-making methods"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Monopolized salt production and imposed heavy taxes",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6867
+  ],
+  "option_objs": [
+   6869,
+   6871,
+   6873,
+   6875
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 28,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 56.0,
+  "stem": "Alvars saints were devoted to which of the following?",
+  "options": [
+   "Durga",
+   "Vishnu",
+   "Agni",
+   "Indra"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Vishnu",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6877
+  ],
+  "option_objs": [
+   3056,
+   6879,
+   6881,
+   6901
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 29,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.8,
+  "stem": "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan targets how many tribal villages?",
+  "options": [
+   "63843",
+   "78569",
+   "58475",
+   "85654"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "63843",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6903
+  ],
+  "option_objs": [
+   6905,
+   6907,
+   6909,
+   6911
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 30,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.0,
+  "stem": "Which of the following objectives emphasizes ethical living in the Vedic framework?",
+  "options": [
+   "Artha",
+   "Kama",
+   "Dharma",
+   "Moksha"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Dharma",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6913
+  ],
+  "option_objs": [
+   6915,
+   6917,
+   6919,
+   6921
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 31,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 90.0,
+  "stem": "Which of the following is an example of voluntary action seen in humans?",
+  "options": [
+   "Vomiting",
+   "Salivation",
+   "Writing",
+   "Breathing"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Writing",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6923
+  ],
+  "option_objs": [
+   6925,
+   6927,
+   6929,
+   6931
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.6,
+  "stem": "In Indian constitution, may by law provide for the adjudication of any dispute or complaint with respect to the use, distribution or control of the waters of, or in, any inter-State River or river valley.",
+  "options": [
+   "Parliament",
+   "President",
+   "Council of Minister",
+   "Union Home minister"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Parliament",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6951
+  ],
+  "option_objs": [
+   23,
+   101,
+   6953,
+   6955
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 33,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "The ‘Losar’ festival is celebrated to mark which New Year?",
+  "options": [
+   "Hindu New Year",
+   "Tamil New Year",
+   "Tibetan New Year",
+   "Paris New Year"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Tibetan New Year",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6957
+  ],
+  "option_objs": [
+   6959,
+   6961,
+   6963,
+   6965
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 34,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 93.2,
+  "stem": "Where has the Government of India launched the Sth Marine Census in the \"Coastal state fisheries conference 2025\"?",
+  "options": [
+   "Kolkata",
+   "Cuttack",
+   "Chennai",
+   "Mumbai"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Mumbai",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6967
+  ],
+  "option_objs": [
+   6969,
+   6971,
+   6973,
+   6975
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 35,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.4,
+  "stem": "Office of the Registrar General and Census Commissioner come under which union ministry of India?",
+  "options": [
+   "Ministry of Home Affairs",
+   "Ministry of Statistics and Programme Implementation",
+   "Ministry of Social Justice and Empowerment",
+   "Ministry of Human Resource Development"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Ministry of Home Affairs",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6996
+  ],
+  "option_objs": [
+   6998,
+   7000,
+   7002,
+   7004
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.6,
+  "stem": "What is the primary function of a fire extinguisher?",
+  "options": [
+   "To add more fuel to the fire",
+   "To increase the temperature of the fuel",
+   "To increase the supply of air",
+   "To cut off the supply of air, reduce the temperature of the fuel, or both"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "To cut off the supply of air, reduce the temperature of the fuel, or both",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7006
+  ],
+  "option_objs": [
+   7008,
+   7010,
+   7012,
+   7014
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 37,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.0,
+  "stem": "In the context of money supply in India, which of the following is NOT the Quantitative tool of Reserve bank of India?",
+  "options": [
+   "Cash Reserve Ratio",
+   "Bank rate",
+   "Open Market Operations",
+   "Moral suasion"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "Moral suasion",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7016
+  ],
+  "option_objs": [
+   7018,
+   7020,
+   7022,
+   7024
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 11.0,
+  "stem": "The 11th BRICS parliamentary forum was held in in June 2025.",
+  "options": [
+   "Beijing",
+   "Brasilia",
+   "Shanghai",
+   "Vladivostok"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "Brasilia",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7026
+  ],
+  "option_objs": [
+   7043,
+   7045,
+   7047,
+   7049
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 89.9,
+  "stem": "‘A Shot at History: My Obsessive Journey to Olympic Gold’ is the autobiography of :",
+  "options": [
+   "Neeraj Chopra",
+   "Gagan Narang",
+   "Abhinav Bindra",
+   "Rajyavardhan Singh Rathore"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "Abhinav Bindra",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7051
+  ],
+  "option_objs": [
+   7053,
+   7055,
+   7057,
+   7059
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 22,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.9,
+  "stem": "Till Paris Olympics 2024, in which year India has the highest medal tally in any single Olympics?",
+  "options": [
+   "2020",
+   "1932",
+   "2008",
+   "2012"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "2020",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7061
+  ],
+  "option_objs": [
+   215,
+   889,
+   3097,
+   1604
+  ],
+  "diagram_objs": []
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "set": 53,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 85.6,
+  "stem": "अनीता देसाई के किस बाल उपन्यास को गार्जियन चिल्ड्रन फिक्शन पुरस्कार मिला?",
+  "options": [
+   "द विलेज वाइ द सी",
+   "गेम्स एट ट्वाइलाइट",
+   "डायमंड डस्ट एंड अदर स्टोरीज",
+   "व्हेयर शैल वी गो दिस समर?"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "द विलेज वाइ द सी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6881
+  ],
+  "option_objs": [
+   6883,
+   6885,
+   6887,
+   6889
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 70.5,
+  "stem": "निम्नलिखित में से कौन-सी विलियम वर्ड्सवर्थ की आत्मकथात्मक कविता है?",
+  "options": [
+   "द एक्सकर्शन",
+   "द रिक्लूज़",
+   "द प्रील्यूड",
+   "माइकल"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "द प्रील्यूड",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6912
+  ],
+  "option_objs": [
+   6914,
+   6916,
+   6918,
+   6920
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 79.5,
+  "stem": "निम्नलिखित में से कौन सी मिट्टी लौह से समृद्ध है लेकिन नाइट्रोजन में कम है?",
+  "options": [
+   "जलोढ़ मिट्टी",
+   "लैटेराइट मिट्टी",
+   "रेगिस्तानी मिट्टी",
+   "काली मिट्टी"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "लैटेराइट मिट्टी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6922
+  ],
+  "option_objs": [
+   6924,
+   6926,
+   6928,
+   6930
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.5,
+  "stem": "हाल की रिपोर्टों में, कौन सा क्षेत्र आमतौर पर खुशी सूचकांक पर सबसे अधिक अंक प्राप्त करता है?",
+  "options": [
+   "उप-सहारा अफ्रीका",
+   "मध्य पूर्व",
+   "नॉर्डिक देश (उत्तरी यूरोप)",
+   "दक्षिण एशिया"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "नॉर्डिक देश (उत्तरी यूरोप)",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6932
+  ],
+  "option_objs": [
+   6934,
+   6936,
+   6938,
+   6940
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 25,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 72.3,
+  "stem": "किस वर्ष ।#.&# ने अपना नाम बदलकर विश्व एथलेटिक्स (४/०0 /##06005) कर लिया?",
+  "options": [
+   "2008",
+   "2012",
+   "2015",
+   "2019"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "2019",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6942
+  ],
+  "option_objs": [
+   6963,
+   5165,
+   5171,
+   6965
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 26,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "किस घोषणा के माध्यम से 997 में पहली बार उप-क्षेत्रीय समूह की स्थापना की गई थी, जो बाद में बिम्सटेक के रूप में विकसित हुआ?",
+  "options": [
+   "काठमांडू घोषणा",
+   "कोलंबो घोषणा",
+   "बैंकॉक घोषणा",
+   "ढाका घोषणा"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "बैंकॉक घोषणा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6967
+  ],
+  "option_objs": [
+   6969,
+   6971,
+   6973,
+   6975
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 67.0,
+  "stem": "एड्रिनिलिन जैसे हार्मोन शरीर में किस तंत्र से संबंधित हैं?",
+  "options": [
+   "तंत्रिका तंत्र",
+   "अंतः:स्रावी तंत्र",
+   "पाचन तंत्र",
+   "परिसंचारी तंत्र"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अंतः:स्रावी तंत्र",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6977
+  ],
+  "option_objs": [
+   6979,
+   6981,
+   6983,
+   6985
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.5,
+  "stem": "अशोक के धम्म का मुख्य उद्देश्य क्या था?",
+  "options": [
+   "बौद्ध धर्म को राज्य धर्म के रूप में फैलाना",
+   "प्रशासनिक केंद्रीकरण को बढ़ावा देना",
+   "नैतिक जीवन और सामाजिक सद्धाव को प्रोत्साहित करना",
+   "विदेशी शासकों के साथ गठबंधन स्थापित करना"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "नैतिक जीवन और सामाजिक सद्धाव को प्रोत्साहित करना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6987
+  ],
+  "option_objs": [
+   6989,
+   6991,
+   7011,
+   7013
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.7,
+  "stem": "प्रसिद्ध \"हिंदू विकास दर\" वाक्यांश किसके द्वारा गढ़ा गया था?",
+  "options": [
+   "मोंटेक सिंह अहलूवालिया",
+   "राज कृष्ण",
+   "जगदीश भगवती",
+   "अमर्त्य सेन"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "राज कृष्ण",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7015
+  ],
+  "option_objs": [
+   7017,
+   7019,
+   7021,
+   7023
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.2,
+  "stem": "भारत में मुख्य मुद्रास्फीति को मापने के लिए किस सूचकांक का उपयोग किया जाता है?",
+  "options": [
+   "संयुक्त उपभोक्ता मूल्य सूचकांक",
+   "सकल घरेलू उत्पाद अपस्फीतक",
+   "औद्योगिक उत्पादन सूचकांक",
+   "थोक मूल्य सूचकांक"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "संयुक्त उपभोक्ता मूल्य सूचकांक",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7025
+  ],
+  "option_objs": [
+   7027,
+   7029,
+   7031,
+   7033
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 81.0,
+  "stem": "किस यात्री के विवरण में मुहम्मद बिन तुगलक और उसके शासनकाल का साफ़-साफ़ वर्णन मिलता है?",
+  "options": [
+   "इब्न बतूता",
+   "मार्कों पोलो",
+   "अल-बिरूनी",
+   "डोमिंगो पेस"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "इब्न बतूता",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7035
+  ],
+  "option_objs": [
+   7037,
+   7039,
+   7041,
+   7043
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "भारतीय संविधान के राज्य की नीति के निदेशक तत्व के संदर्भ में निम्नलिखित में से कौन सा कथन सही है? [. अनुच्छेद 47 कार्यपालिका से न्यायपालिका का पृथक्करण से संबंधित है। [[. अनुच्छेद 50 अंतरराष्ट्रीय शांति और सुरक्षा की अभिवृद्धि से संबंधित है।",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "at 1 aden aT a I"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "at 1 aden aT a I",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   642,
+   644
+  ],
+  "diagram_objs": [
+   7066
+  ]
+ },
+ {
+  "set": 53,
+  "qno": 33,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 91.4,
+  "stem": "209 में जल जीवन मिशन के शुभारंभ के बाद से, जुलाई 2024 तक करोड़ से अधिक ग्रामीण परिवारों को नल का जल कनेक्शन प्रदान किया गया है।",
+  "options": [
+   "15",
+   "21",
+   "25",
+   "35"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "15",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7068
+  ],
+  "option_objs": [
+   7070,
+   7072,
+   7074,
+   7076
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 63.0,
+  "stem": "निम्नलिखित में से कौन सा डी.ए.जे.जी.यू.ए. अभियान का एक घटक है? ।. स्वास्थ्य सेवा |. शिक्षा",
+  "options": [
+   "chad |",
+   "केवल ॥।",
+   "। तथा ॥ दोनों",
+   "नातो। तथा ना ही ॥"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "। तथा ॥ दोनों",
+  "highlight_tag": "G",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   969,
+   971,
+   973,
+   975
+  ],
+  "diagram_objs": [
+   7078
+  ]
+ },
+ {
+  "set": 53,
+  "qno": 35,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.9,
+  "stem": "भारत के राष्ट्रपति की मृत्यु, पदत्याग या पद से हटाए जाने या अन्य कारण से हुई उसके पद में रिक्ति को भरने के लिए निर्वाचन, रिक्ति होने की तारीख के पश्चात्‌ यथाशीघ्र और प्रत्येक दशा में मास बीतने से पहले किया जाएगा।",
+  "options": [
+   "2",
+   "6",
+   "4",
+   "8"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "6",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7099
+  ],
+  "option_objs": [
+   1508,
+   1658,
+   1512,
+   3045
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.5,
+  "stem": "राजस्थान का 'गणगौर' त्यौहार किस देवी के सम्मान में मनाया जाता है?",
+  "options": [
+   "देवी लक्ष्मी",
+   "देवी काली",
+   "देवी पार्वती",
+   "देवी सरस्वती"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "देवी पार्वती",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7101
+  ],
+  "option_objs": [
+   7103,
+   7105,
+   7107,
+   7109
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 0.0,
+  "stem": "पहला सफल भारतीय ध्रुवीय उपग्रह प्रक्षेपण यान था।",
+  "options": [
+   "पी.एस.एल.वी.-डी2",
+   "पी.एस.एल.वी.-सी5",
+   "पी.एस.एल.वी.-सी7",
+   "Of.0e.Ver.dt. 4115"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "पी.एस.एल.वी.-डी2",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7111
+  ],
+  "option_objs": [
+   7113,
+   7115,
+   7117,
+   7119
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.5,
+  "stem": "निम्नलिखित में से कौन सा कथन सही नहीं है?",
+  "options": [
+   "वाष्पीकरण से तापन होता है।",
+   "पदार्थ की अवस्थाएँ अंतः-परिवर्तित होती हैं।",
+   "उबलना एक समष्टि गुण है।",
+   "वाष्पीकरण एक सतह की परिघटना है।"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "वाष्पीकरण से तापन होता है।",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7137
+  ],
+  "option_objs": [
+   7139,
+   7141,
+   7143,
+   7145
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 39,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 83.0,
+  "stem": "भूमध्यसागरीय कृषि अत्यधिक विशिष्ट कृषि है।",
+  "options": [
+   "वाणिज्य",
+   "निर्वाह",
+   "स्थानांतरी",
+   "पशुचारण"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "वाणिज्य",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7147
+  ],
+  "option_objs": [
+   7149,
+   7151,
+   7153,
+   7155
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 53,
+  "qno": 40,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 93.9,
+  "stem": "यह माना जाता है कि वर्ष में भारत में बास्केटबॉल का खेल वाई.एम.सी.ए. कलकत्ता में शुरू हुआ था।",
+  "options": [
+   "1905",
+   "1915",
+   "1925",
+   "1935"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "1905",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   7157
+  ],
+  "option_objs": [
+   7159,
+   7161,
+   7163,
+   7165
+  ],
+  "diagram_objs": []
+ }
+]

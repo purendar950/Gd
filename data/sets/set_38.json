@@ -1,0 +1,602 @@
+[
+ {
+  "set": 38,
+  "qno": 21,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.5,
+  "stem": "__अरब सागर में गिरने वाली प्रायद्वीपीय नदियाँ हैं।",
+  "options": [
+   "कृष्णा, गोदावरी",
+   "नर्मदा, तापी",
+   "महानदी, सुवर्णरेखा",
+   "कावेरी, पेरियार"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "नर्मदा, तापी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2346
+  ],
+  "option_objs": [
+   2348,
+   2350,
+   2352,
+   2354
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 87.0,
+  "stem": "गुप्त साम्राज्य के पतन के बाद उत्तर भारत में कौन-सी क्षेत्रीय शक्ति प्रमुखता से उभरी?",
+  "options": [
+   "चोल",
+   "वाकाटक",
+   "पुष्यभूति",
+   "चेर"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "पुष्यभूति",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2377
+  ],
+  "option_objs": [
+   2379,
+   2381,
+   2383,
+   2385
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.3,
+  "stem": "भारत में शिशु मृत्यु दर (आईएमआर) में गिरावट मुख्य रूप से निम्नलिखित में से किस कारक के कारण हुई है?",
+  "options": [
+   "बेहतर नवजात देखभाल",
+   "टीकाकरण कार्यक्रमों का विस्तार",
+   "बेहतर मातृ स्वास्थ्य",
+   "ये सभी"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "ये सभी",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2387
+  ],
+  "option_objs": [
+   2389,
+   2391,
+   2393,
+   2395
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 70.0,
+  "stem": "किस अधिनियम ने पाकिस्तान के निर्माण के लिए कानूनी आधार प्रदान किया ?",
+  "options": [
+   "कैबिनेट मिशन योजना",
+   "भारतीय स्वतंत्रता अधिनियम, 947",
+   "भारत सरकार अधिनियम, 935",
+   "माउंटबेटन योजना"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "भारतीय स्वतंत्रता अधिनियम, 947",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2397
+  ],
+  "option_objs": [
+   2399,
+   1774,
+   1772,
+   2401
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 92.5,
+  "stem": "स्वतंत्रता दिवस 2025 पर अवैध आप्रवासन से निपटने के लिए किस मिशन की घोषणा की गई थी?",
+  "options": [
+   "जनसांख्यिकी मिशन",
+   "भारत सुरक्षा अभियान",
+   "राष्ट्रीय एकता और अखंडता मिशन",
+   "जनसंख्या स्थिरता मिशन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "जनसांख्यिकी मिशन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2403
+  ],
+  "option_objs": [
+   2405,
+   2426,
+   2428,
+   2430
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 26,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 89.9,
+  "stem": "न ही सरकार ने बीमा क्षेत्र में सुधारों के लिए सिफारिशें प्रस्तावित करने हेतु आर.बी.आई. के पूर्व गवर्नर आर.एन. मल्होत्रा की अध्यक्षता में एक समिति गठित की थी।",
+  "options": [
+   "1983",
+   "1963",
+   "1993",
+   "1999"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "1993",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2432
+  ],
+  "option_objs": [
+   2434,
+   2436,
+   2438,
+   704
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 63.0,
+  "stem": "निम्नलिखित में से कौन सा डी.ए.जे.ए. अभियान का स्तंभ नहीं है? ।. नौकरी की सुरक्षा ||. सांस्कृतिक समावेशन",
+  "options": [
+   "chad |",
+   "केवल ॥।",
+   "। तथा ॥ दोनों",
+   "नातो। तथा ना ही ॥"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "chad |",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   969,
+   971,
+   973,
+   975
+  ],
+  "diagram_objs": [
+   2440
+  ]
+ },
+ {
+  "set": 38,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 85.0,
+  "stem": "'दशावतार' निम्नलिखित में से किस भारतीय राज्य का लोक नृत्य है?",
+  "options": [
+   "गोवा",
+   "छत्तीसगढ़",
+   "हरयाणा",
+   "हिमाचल प्रदेश"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "गोवा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2442
+  ],
+  "option_objs": [
+   2444,
+   2446,
+   2467,
+   2469
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "अक्टूबर 2024 में किस चक्रवात ने ओडिशा और पश्चिम बंगाल को प्रभावित किया था?",
+  "options": [
+   "यास",
+   "गुलाब",
+   "दाना",
+   "शाहीन"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "दाना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2471
+  ],
+  "option_objs": [
+   2473,
+   2475,
+   2477,
+   2479
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 30,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.6,
+  "stem": "'हरबल्लभ संगीत मेला' किस भारतीय शहर में मनाया जाता है?",
+  "options": [
+   "ग्वालियर",
+   "भोपाल",
+   "जालंधर",
+   "वाराणसी"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "जालंधर",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2481
+  ],
+  "option_objs": [
+   2483,
+   2485,
+   2487,
+   2489
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.5,
+  "stem": "पदार्थ का तापमान बढ़ने पर कणों की गतिज ऊर्जा का क्या होता हैं?",
+  "options": [
+   "कमी",
+   "वृद्धि",
+   "स्थिर रहता है",
+   "यह स्थितिज ऊर्जा में परिवर्तित हो जाता है"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "वृद्धि",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2491
+  ],
+  "option_objs": [
+   2493,
+   2495,
+   2497,
+   2517
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 76.0,
+  "stem": "जब कर संग्रह आवश्यक व्यय से अधिक हो जाता हैं, तो बजट को कहा जाता हैं।",
+  "options": [
+   "घाटे का बजट",
+   "अधिक्य बजट",
+   "संतुलित बजट",
+   "शून्य बजट"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अधिक्य बजट",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2519
+  ],
+  "option_objs": [
+   2521,
+   2523,
+   2525,
+   2527
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 33,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 77.7,
+  "stem": "भारत में खनिज संसाधनों के संदर्भ में, “सी.बी.एम.” मुख्य अर्थ कया है?",
+  "options": [
+   "कोल बेड मीथेन",
+   "कॉपर बेअरिंग मिनरल",
+   "क्रूड बायोफ्यूल मिक्सचर",
+   "कंप्रेस्ड बॉक्साइट मेटीरिअल"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "कोल बेड मीथेन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2529
+  ],
+  "option_objs": [
+   2531,
+   2533,
+   2535,
+   2537
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 34,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.2,
+  "stem": "पहली विश्व कुश्ती चैंपियनशिप में आयोजित की गई थी।",
+  "options": [
+   "1904",
+   "1960",
+   "1920",
+   "1919"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "1904",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2539
+  ],
+  "option_objs": [
+   2541,
+   2543,
+   2545,
+   2547
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 35,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "न में से कौन सा शहर 994 के राष्ट्रीय खेलों का एक मेजबान शहर था? [. बम्ब 7. पुणे",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "at 1 aden aT a I"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "[ तथा पर दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   638,
+   640,
+   642,
+   644
+  ],
+  "diagram_objs": [
+   2567
+  ]
+ },
+ {
+  "set": 38,
+  "qno": 36,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 88.0,
+  "stem": "|993 में विश्व सेवा निर्यात में भारत के सेवा निर्यात का हिस्सा कितना था?",
+  "options": [
+   "0.5%",
+   "5%",
+   "8%",
+   "12%"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "0.5%",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2569
+  ],
+  "option_objs": [
+   2571,
+   2573,
+   2575,
+   2577
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 37,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 52.0,
+  "stem": "टेनिस में, यदि दोनों खिलाड़ी एक खेल में तीन-तीन अंक जीतते हैं (अर्थात स्कोर 40-40 है), तो इसे कहा जाता है।",
+  "options": [
+   "Sou",
+   "लव",
+   "स्लाइस",
+   "स्मैश"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "Sou",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2579
+  ],
+  "option_objs": [
+   2581,
+   2583,
+   2585,
+   2587
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 90.0,
+  "stem": "निम्नलिखित में से कौन सा हिमालयी राष्ट्र अपनी अर्थव्यवस्था को बढ़ावा देने के लिए जलविद्युत का उपयोग करके हरित क्रिप्टोकरेंसी के खनन और लाभ उठाने के तरीकों की खोज कर रहा है?",
+  "options": [
+   "भूटान",
+   "नेपाल",
+   "पाकिस्तान",
+   "भारत"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "भूटान",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2605
+  ],
+  "option_objs": [
+   2607,
+   2609,
+   1051,
+   2611
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 39,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.5,
+  "stem": "निम्नलिखित में से कौन भारत में \"रेजिडेक्स\" सूचकांक से संबंधित है?",
+  "options": [
+   "शेयर बाजार का प्रदर्शन",
+   "औद्योगिक उत्पादन",
+   "कृषि वस्तु",
+   "आवास मूल्य"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "आवास मूल्य",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2613
+  ],
+  "option_objs": [
+   2615,
+   2617,
+   2619,
+   2621
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 38,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "ग्लोबल टेररिज्म इंडेक्स, में स्थित इंस्टीट्यूट फॉर इकोनॉमिक्स एंड पीस द्वारा जारी किया जाता है।",
+  "options": [
+   "ऑस्ट्रेलिया",
+   "यु.एस.ए.",
+   "जर्मनी",
+   "स्वीडन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "ऑस्ट्रेलिया",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2623
+  ],
+  "option_objs": [
+   2625,
+   2627,
+   2629,
+   2631
+  ],
+  "diagram_objs": []
+ }
+]

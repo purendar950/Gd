@@ -1,0 +1,602 @@
+[
+ {
+  "set": 7,
+  "qno": 21,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "राज्य विधानमंडल को बुलाने या स्थगित करने की शक्ति किसके पास है?",
+  "options": [
+   "राज्यपाल",
+   "विधानसभा का अध्यक्ष",
+   "मुख्यमंत्री",
+   "राष्ट्रपति"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "राज्यपाल",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2029
+  ],
+  "option_objs": [
+   747,
+   783,
+   745,
+   781
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 22,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "भारत के उपरा्ट्रपति के चुनाव से संबंधित विवादों का निर्णय कौन करता है?",
+  "options": [
+   "राष्ट्रपति",
+   "सर्वोच्च न्यायालय",
+   "निर्वाचन आयोग",
+   "संसद"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "सर्वोच्च न्यायालय",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2056
+  ],
+  "option_objs": [
+   781,
+   751,
+   2058,
+   1113
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 23,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 93.4,
+  "stem": "मांड, एक अर्ध-शास्त्रीय लोक शैली, किस राज्य से उत्पन्न हुई है?",
+  "options": [
+   "गुजरात",
+   "राजस्थान",
+   "हरियाणा",
+   "मध्य प्रदेश"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "राजस्थान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2060
+  ],
+  "option_objs": [
+   846,
+   844,
+   2062,
+   840
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 24,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 46.5,
+  "stem": "प्रतिध्वनि को स्पष्ट रूप से सुनने के लिए ध्वनि के स्रोत से बाधा की न्यूनतम दूरी होती है",
+  "options": [
+   "34.4 पा",
+   "22.5m",
+   "17.2m",
+   "10.6 m"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "17.2m",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2064
+  ],
+  "option_objs": [
+   2066,
+   2068,
+   2070,
+   2072
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 25,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 88.2,
+  "stem": "सिडनी शेल्डन का कौन-सा उपन्यास द्वितीय विश्व युद्ध और एक दुखद प्रेम कहानी पर आधारित है?",
+  "options": [
+   "टेल मी योर ड्रीम्स",
+   "इफ टुमारो कम्स",
+   "द अदर साइड ऑफ मिडनाइट",
+   "विंडमिल ऑफ द गॉड"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "द अदर साइड ऑफ मिडनाइट",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2097
+  ],
+  "option_objs": [
+   2099,
+   2101,
+   2103,
+   2105
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 26,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 87.0,
+  "stem": "भारत के उत्तरी मैदान मुख्यतः किस प्रकार की मिट्टी के जमाव से निर्मित हैं?",
+  "options": [
+   "काली मिट्टी",
+   "जलोढ़ मिट्टी",
+   "लैटेराइट मिट्टी",
+   "लाल मिट्टी"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "जलोढ़ मिट्टी",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2107
+  ],
+  "option_objs": [
+   2109,
+   2111,
+   2113,
+   2115
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 27,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 80.0,
+  "stem": "कौन सी नदी विश्व का सबसे बड़ा नदी द्वीप, माजुली बनाती है?",
+  "options": [
+   "गंगा",
+   "ब्रह्मपुत्र",
+   "यमुना",
+   "गोदावरी"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "ब्रह्मपुत्र",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2117
+  ],
+  "option_objs": [
+   2119,
+   2121,
+   2123,
+   2125
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 28,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "किस भारतीय युवा एथलीट ने 5000 मीटर रेस वॉक को 20 मिनट से कम समय (9:24.48) में पूरा करके राष्ट्रीय रिकॉर्ड तोड़ा?",
+  "options": [
+   "तुषार पंवार",
+   "योगिता",
+   "नितिन गुप्ता",
+   "प्रशांत कुमार"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "नितिन गुप्ता",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2146
+  ],
+  "option_objs": [
+   2148,
+   2150,
+   2152,
+   2154
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 29,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.0,
+  "stem": "दिवालियापन समाधान सूचक __मूल्यांकन करता है।",
+  "options": [
+   "सरकारी ऋण स्तर",
+   "व्यवसायों के लिए बीमा कवर",
+   "दिवालियापन के मामलों में समय, लागत और वसूली दर",
+   "ऋण ब्याज दरें"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "दिवालियापन के मामलों में समय, लागत और वसूली दर",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2156
+  ],
+  "option_objs": [
+   2158,
+   2160,
+   2162,
+   2164
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 30,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 86.8,
+  "stem": "इसरो (।5९0) द्वारा 2025 में अनावरण किये जाने वाले भारतीय अंतरिक्ष स्टेशन (8/5) का नियोजित उद्देश्य कया है?",
+  "options": [
+   "मंगल ग्रह अन्वेषण",
+   "चंद्र मानचित्रण",
+   "अंतरिक्ष पर्यटन और स्टेशन समर्थन",
+   "गहरे अंतरिक्ष संचार"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "अंतरिक्ष पर्यटन और स्टेशन समर्थन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2166
+  ],
+  "option_objs": [
+   2168,
+   2170,
+   2172,
+   2174
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 31,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.2,
+  "stem": "फरवरी 2025 में इसरो की इंजन सुविधाओं में किसका सफलतापूर्वक परीक्षण किया गया?",
+  "options": [
+   "क्रायोजेनिक इंजन कक्षा में पुन: आरंभ",
+   "निर्वात में (६20 इंजन प्रज्वलन",
+   "मानव-रेटेड जीवन समर्थन",
+   "सौर पाल की तैनाती"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "निर्वात में (६20 इंजन प्रज्वलन",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2198
+  ],
+  "option_objs": [
+   2200,
+   2202,
+   2204,
+   2206
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 32,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.2,
+  "stem": "भारतीय महिला क्रिकेट टीम ने अपना पहला टेस्ट मैच किस वर्ष खेला था?",
+  "options": [
+   "1973",
+   "1976",
+   "1983",
+   "1986"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1976",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2208
+  ],
+  "option_objs": [
+   2210,
+   2212,
+   1266,
+   2214
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 33,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 87.5,
+  "stem": "भारत में “श्वेत क्रांति के जनक” के रूप में किसे जाना जाता है?",
+  "options": [
+   "वर्गीस कुरियन",
+   "विक्रम साराभाई",
+   "नॉर्मन बोरलॉग",
+   "एम.एस. स्वामीनाथन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "वर्गीस कुरियन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2216
+  ],
+  "option_objs": [
+   2218,
+   2220,
+   2222,
+   2224
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 34,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 87.7,
+  "stem": "956 के औद्योगिक नीति प्रस्ताव ने उद्योगों को कितनी श्रेणियों में वर्गीकृत किया?",
+  "options": [
+   "दो",
+   "तीन",
+   "चार",
+   "पाँच"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "तीन",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2245
+  ],
+  "option_objs": [
+   2247,
+   2249,
+   2251,
+   2253
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 35,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 92.0,
+  "stem": "2025 में, भारत-डेनमार्क संबंधों को मजबूत करने के लिए नाइट क्रॉस ऑफ द ऑर्डर ऑफ डैनब्रोग से किसे सम्मानित किया गया?",
+  "options": [
+   "विजय शंकर",
+   "राजनाथ सिंह",
+   "आशिम कुमार घोष",
+   "नटराजन चंद्रशेखरन"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "विजय शंकर",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2255
+  ],
+  "option_objs": [
+   2257,
+   2259,
+   2261,
+   2263
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 36,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 85.5,
+  "stem": "यदि सरकार संकुचनकारी राजकोषीय नीति अपनाती है, तो____",
+  "options": [
+   "सार्वजनिक व्यय को कम करता है या करों को बढ़ाता है।",
+   "अधिक पैसा छापता है।",
+   "करों को कम करता है।",
+   "सार्वजनिक व्यय बढ़ाता है।"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "सार्वजनिक व्यय को कम करता है या करों को बढ़ाता है।",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2265
+  ],
+  "option_objs": [
+   2267,
+   2269,
+   2271,
+   2273
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 37,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 92.8,
+  "stem": "भारतीय अर्थव्यवस्था का कौन सा क्षेत्र कृषि के बाद रोजगार का दूसरा सबसे बड़ा स्रोत है?",
+  "options": [
+   "बड़े पैमाने पर पूंजी-गहन औद्योगिक उद्यम",
+   "सूक्ष्म, लघु और मध्यम उद्यम (एमएसएमई)",
+   "सूचना प्रौद्योगिकी और सॉफ्टवेयर सेवाएँ",
+   "परिवहन और रसद बुनियादी ढांचे"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "सूक्ष्म, लघु और मध्यम उद्यम (एमएसएमई)",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2294
+  ],
+  "option_objs": [
+   2296,
+   2298,
+   2300,
+   2302
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 83.5,
+  "stem": "| मार्च 2025 तक, भारत में करोड़ सक्रिय घरेलू एल.पी.जी. उपभोक्ता हैं, जिनमें 0.33 करोड़ पी.एम.यू.वाई. लाभार्थी शामिल हैं।",
+  "options": [
+   "32.94",
+   "38.94",
+   "42.94",
+   "22.94"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "32.94",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2304
+  ],
+  "option_objs": [
+   2306,
+   2308,
+   2310,
+   2312
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 39,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "निम्नलिखित में से किस वर्ष के आस पास संथालों ने विद्रोह किया था?",
+  "options": [
+   "1821",
+   "1855",
+   "1885",
+   "1903"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1855",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2314
+  ],
+  "option_objs": [
+   2316,
+   2318,
+   2320,
+   2322
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 7,
+  "qno": 40,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "ईसाई मिशनरियों द्वारा स्थापित सेरामपुर कॉलेज किस नदी के तट पर स्थित था?",
+  "options": [
+   "हुगली",
+   "यमुना",
+   "दामोदर",
+   "महानंदा"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "हुगली",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   2334
+  ],
+  "option_objs": [
+   1035,
+   2336,
+   2338,
+   2340
+  ],
+  "diagram_objs": []
+ }
+]

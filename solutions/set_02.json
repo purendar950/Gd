@@ -1,0 +1,225 @@
+{
+  "21": {
+    "topic": "Polity & Constitution",
+    "answer": "C",
+    "opts": ["10% of the Lok Sabha", "12% of the Lok Sabha", "15% of the Lok Sabha", "20% of the Lok Sabha"],
+    "correct": "The 91st Constitutional Amendment (2003) inserted Article 75(1A), capping the total number of ministers in the Union Council of Ministers, including the Prime Minister, at 15% of the total strength of the Lok Sabha.",
+    "wrong": {
+      "A": "10% is below the constitutional ceiling.",
+      "B": "12% is not the figure fixed by the 91st Amendment.",
+      "D": "20% exceeds the limit; the cap is 15%."
+    },
+    "fact": "The same 91st Amendment also set a minimum of 12 ministers for smaller states and strengthened anti-defection rules."
+  },
+  "22": {
+    "topic": "Art & Culture",
+    "answer": "A",
+    "correct": "The Tippani folk dance of the Chorwad region of Gujarat is performed by women and is accompanied by percussion instruments such as the dhol and manjira (small cymbals), which set its rhythmic beat.",
+    "wrong": {
+      "B": "Tabla and harmonium are associated with Hindustani classical/semi-classical music, not the Tippani dance.",
+      "C": "Flute and veena are melodic instruments not central to this rhythmic folk dance.",
+      "D": "Sitar and sarangi belong to classical music traditions, not Tippani."
+    },
+    "fact": "The Tippani dance imitates the labour of women beating the floor with long sticks (tippani) to harden it."
+  },
+  "23": {
+    "topic": "Art & Culture",
+    "answer": "B",
+    "correct": "The Samaveda is the Veda of melodies and chants; its verses (saman) were meant to be sung, making it the principal source of early Indian music.",
+    "wrong": {
+      "A": "The Rigveda is the oldest Veda and contains hymns of praise, but it is not primarily musical.",
+      "C": "The Yajurveda deals with sacrificial formulae and rituals.",
+      "D": "The Atharvaveda contains spells, charms and everyday-life hymns."
+    },
+    "fact": "Indian classical music traces its origin to the chanting of the Samaveda."
+  },
+  "24": {
+    "topic": "Science & Technology",
+    "answer": "B",
+    "correct": "The Moon exerts less gravitational pull than the Earth mainly because it has much less mass (about 1/81 of Earth's mass); gravity depends on mass, so surface gravity on the Moon is about one-sixth of Earth's.",
+    "wrong": {
+      "A": "Smaller size alone does not determine gravity; it is the mass that matters, though the Moon is indeed smaller.",
+      "C": "The Moon actually rotates slowly (tidally locked), and rotation speed does not reduce gravity.",
+      "D": "Distance from the Sun is irrelevant to the Moon's own surface gravity."
+    },
+    "fact": "Surface gravity g = GM/R^2; the Moon's lower mass M is the dominant reason its g is about 1.62 m/s^2."
+  },
+  "25": {
+    "topic": "Books & Authors",
+    "answer": "A",
+    "correct": "'The Palace of Illusions' (2008), a retelling of the Mahabharata from Draupadi's perspective, was written by Indian-American author Chitra Banerjee Divakaruni.",
+    "wrong": {
+      "B": "Sudha Murty is known for works like 'Wise and Otherwise' and many children's books.",
+      "C": "Devdutt Pattanaik writes on mythology (e.g. 'Jaya', 'Sita') but did not write this book.",
+      "D": "Kavita Kane writes mythological fiction (e.g. 'Karna's Wife') but is not the author of this title."
+    },
+    "fact": "Draupadi narrates the epic in the novel, giving a strong female viewpoint of the Mahabharata."
+  },
+  "26": {
+    "topic": "Economy",
+    "answer": "D",
+    "correct": "In the World Happiness Report, 'Generosity' is measured by people's willingness to donate money or help others, reflecting prosocial behaviour in a society.",
+    "wrong": {
+      "A": "National tax rates are a fiscal-policy variable, not a measure of generosity.",
+      "B": "Foreign aid is given between governments and is not the generosity factor of the index.",
+      "C": "Government subsidies are state transfers, not the voluntary giving that generosity captures."
+    },
+    "fact": "The World Happiness Report ranks countries using six key factors, including GDP per capita, social support and generosity."
+  },
+  "27": {
+    "topic": "Science & Technology",
+    "answer": "A",
+    "correct": "Earth's magnetic field deflects charged solar particles. When it weakens temporarily, more particles reach the upper atmosphere, increasing auroral activity (polar lights) and the radiation exposure for satellites and astronauts.",
+    "wrong": {
+      "B": "A temporary weakening does not strip away the entire atmosphere.",
+      "C": "The magnetic field has nothing to do with the strength of gravity.",
+      "D": "There is a clear effect - increased auroras and radiation - so 'no effect' is wrong."
+    },
+    "fact": "The region of space dominated by Earth's magnetic field is called the magnetosphere."
+  },
+  "28": {
+    "topic": "Sports",
+    "answer": "C",
+    "correct": "Kidambi Srikanth became the first Indian male shuttler to reach the final of the BWF World Championships in 2021 at Huelva, Spain, winning the silver medal.",
+    "wrong": {
+      "A": "2017 was a strong Super Series year for Srikanth but not when he reached the Worlds final.",
+      "B": "2018 was not the year of this milestone.",
+      "D": "2022 is after the achievement, which took place in 2021."
+    },
+    "fact": "At the same 2021 Worlds, Lakshya Sen won bronze, making it a landmark event for Indian men's badminton."
+  },
+  "29": {
+    "topic": "Economy",
+    "answer": "A",
+    "opts": ["Industrial Licensing Policy", "Agricultural Subsidy Policy", "Foreign Trade Policy", "Public Distribution System"],
+    "correct": "Before the 1991 reforms, the Industrial Licensing Policy (the 'Licence Raj', based on the Industries (Development and Regulation) Act, 1951) restricted private-sector entry by requiring government licences and reserving many industries for the public sector.",
+    "wrong": {
+      "B": "Agricultural subsidy policy supports farmers and does not restrict private industry.",
+      "C": "Foreign trade policy governs exports and imports, not domestic industrial entry.",
+      "D": "The Public Distribution System distributes subsidised food grains, unrelated to industrial licensing."
+    },
+    "fact": "The 1991 New Industrial Policy abolished licensing for most industries, opening the economy to private and foreign investment."
+  },
+  "30": {
+    "topic": "Current Affairs",
+    "answer": "B",
+    "correct": "In 2017, India shipped its first consignment of wheat to Afghanistan through Iran's Chabahar Port, demonstrating the port's value as a route bypassing Pakistan.",
+    "wrong": {
+      "A": "Rice was not the commodity of this landmark first shipment.",
+      "C": "Oil was not the cargo; Chabahar gives India access to Afghanistan/Central Asia.",
+      "D": "Machinery was not the first consignment sent."
+    },
+    "fact": "Chabahar Port lies on Iran's south-eastern coast and is developed with Indian assistance to reach Afghanistan and Central Asia."
+  },
+  "31": {
+    "topic": "Science & Technology",
+    "answer": "C",
+    "correct": "Testosterone is the primary male sex hormone responsible for the physical changes of puberty in boys, such as deepening of the voice, facial hair and muscle growth.",
+    "wrong": {
+      "A": "Estrogen is the primary female sex hormone driving female pubertal changes.",
+      "B": "Thyroxine, from the thyroid gland, regulates metabolism, not male puberty specifically.",
+      "D": "Adrenaline is the 'fight-or-flight' hormone from the adrenal medulla, not a puberty hormone."
+    },
+    "fact": "Testosterone is produced mainly in the testes; the onset of puberty is triggered by the hypothalamus releasing GnRH."
+  },
+  "32": {
+    "topic": "Current Affairs",
+    "answer": "B",
+    "correct": "Historian Dr. Meenakshi Jain was nominated to the Rajya Sabha in July 2025 in recognition of her contribution to history and scholarship.",
+    "wrong": {
+      "A": "Ujjwal Nikam is a well-known public prosecutor nominated for legal/public service, not for history scholarship.",
+      "C": "Harikishan is not the person nominated for contributions to history.",
+      "D": "C. Sadanandan Master was nominated for social/public service, not for history scholarship."
+    },
+    "fact": "The President nominates 12 members to the Rajya Sabha for distinction in literature, science, art and social service."
+  },
+  "33": {
+    "topic": "Economy",
+    "answer": "D",
+    "correct": "The National Sample Survey Organisation (NSSO) was set up to collect statistical data on socio-economic conditions through large-scale sample surveys, providing inputs for policy and the national accounts.",
+    "wrong": {
+      "A": "Promoting agriculture is the work of bodies like ICAR/NABARD, not the NSSO.",
+      "B": "Monitoring industry through production indices is the Annual Survey of Industries / industrial statistics work, distinct from NSSO's socio-economic surveys.",
+      "C": "Promoting exports is the role of bodies like the DGFT and EXIM Bank."
+    },
+    "fact": "The NSSO is now part of the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation."
+  },
+  "34": {
+    "topic": "Geography",
+    "answer": "B",
+    "correct": "Odisha does not share a border with Bangladesh. Bangladesh borders the Indian states of West Bengal, Assam, Meghalaya, Tripura and Mizoram.",
+    "wrong": {
+      "A": "Assam shares a border with Bangladesh in the north-east.",
+      "C": "Tripura is almost surrounded by Bangladesh on three sides.",
+      "D": "West Bengal shares the longest stretch of the India-Bangladesh border."
+    },
+    "fact": "India and Bangladesh share a land border of about 4,096 km, the fifth-longest land border in the world."
+  },
+  "35": {
+    "topic": "Economy",
+    "answer": "C",
+    "correct": "A major structural problem of Indian agriculture is the continuous fragmentation of landholdings due to inheritance, which steadily reduces the size of operational holdings and lowers efficiency.",
+    "wrong": {
+      "A": "Indian agriculture suffers from surplus, under-employed labour, not a shortage caused by low rural population density.",
+      "B": "Rising mechanisation is a positive trend, not a core challenge.",
+      "D": "Domestic demand for staple food grains is not falling; the problem is on the supply/structure side."
+    },
+    "fact": "Average operational holding size in India has fallen to roughly 1.08 hectares, making most farmers small or marginal."
+  },
+  "36": {
+    "topic": "Economy",
+    "answer": "B",
+    "correct": "India's first Export Processing Zone (EPZ) was set up at Kandla, Gujarat, in 1965 - it was also Asia's first EPZ.",
+    "wrong": {
+      "A": "Surat is a major textile/diamond hub but was not the site of the first EPZ.",
+      "C": "Mumbai's SEEPZ came later (1973), after Kandla.",
+      "D": "Cochin had an EPZ established later, not the first."
+    },
+    "fact": "Export Processing Zones were the forerunners of today's Special Economic Zones (SEZs)."
+  },
+  "37": {
+    "topic": "Science & Technology",
+    "answer": "A",
+    "opts": ["Charak", "Vagbhata", "Sushruta", "Nagarjuna"],
+    "correct": "Charak (Charaka) is regarded as the father of Ayurveda (Indian medicine); his treatise, the Charaka Samhita, is the foundational text of Ayurvedic internal medicine.",
+    "wrong": {
+      "B": "Vagbhata was a later Ayurvedic scholar who compiled the Ashtanga Hridayam.",
+      "C": "Sushruta is honoured as the father of surgery (Sushruta Samhita), not of Ayurveda as a whole.",
+      "D": "Nagarjuna was a scholar associated with alchemy/rasashastra, not the founding of Ayurveda."
+    },
+    "fact": "Charaka served in the court of the Kushan emperor Kanishka and emphasised prevention and a balanced lifestyle."
+  },
+  "38": {
+    "topic": "History",
+    "answer": "C",
+    "correct": "According to tradition, Ajatashatru succeeded his father Bimbisara as ruler of Magadha after imprisoning and reportedly causing his death.",
+    "wrong": {
+      "A": "Ashoka was a much later Mauryan emperor, not Bimbisara's successor.",
+      "B": "Bindusara was a Mauryan king (Ashoka's father), unrelated to Bimbisara's succession.",
+      "D": "Chandragupta Maurya founded the Mauryan empire long after Bimbisara's Haryanka dynasty."
+    },
+    "fact": "Bimbisara and Ajatashatru belonged to the Haryanka dynasty of Magadha and were contemporaries of the Buddha and Mahavira."
+  },
+  "39": {
+    "topic": "History",
+    "answer": "A",
+    "correct": "The Mughal emperor Aurangzeb died in 1707 (at Ahmednagar), an event that is often taken to mark the beginning of the decline of the Mughal Empire.",
+    "wrong": {
+      "B": "1717 is incorrect; by then Farrukhsiyar was on the throne.",
+      "C": "1747 is unrelated to Aurangzeb's death.",
+      "D": "1757 is the year of the Battle of Plassey, not Aurangzeb's death."
+    },
+    "fact": "Aurangzeb ruled for about 49 years (1658-1707), the longest reign of any Mughal emperor."
+  },
+  "40": {
+    "topic": "Polity & Constitution",
+    "answer": "A",
+    "correct": "As of July 2025, about 21 states/UTs had provided for 50% reservation for women in Panchayati Raj Institutions, going beyond the constitutional minimum of one-third.",
+    "wrong": {
+      "B": "11 understates the number of states that have adopted 50% reservation.",
+      "C": "14 is lower than the figure reported.",
+      "D": "25 overstates the number of states with the 50% provision."
+    },
+    "fact": "The 73rd Constitutional Amendment (1992) mandates at least one-third reservation for women in panchayats; many states have raised it to 50%."
+  }
+}

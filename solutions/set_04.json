@@ -1,0 +1,224 @@
+{
+  "21": {
+    "topic": "Polity & Constitution",
+    "answer": "A",
+    "correct": "B.N. Rau was the Constitutional Adviser to the Constituent Assembly; he prepared the initial draft of the Constitution on which the Drafting Committee worked.",
+    "wrong": {
+      "B": "Alladi Krishnaswami Ayyar was a distinguished member of the Drafting Committee, not the Constitutional Adviser.",
+      "C": "T.T. Krishnamachari was a member of the Drafting Committee.",
+      "D": "K.M. Munshi was also a member of the Drafting Committee, not the Adviser."
+    },
+    "fact": "The Drafting Committee was chaired by Dr B.R. Ambedkar; B.N. Rau later became a judge of the International Court of Justice."
+  },
+  "22": {
+    "topic": "Polity & Constitution",
+    "answer": "D",
+    "correct": "Union Territories are administered by the President of India acting through an Administrator (such as a Lieutenant Governor) appointed by him, under Article 239.",
+    "wrong": {
+      "A": "Parliament can legislate for UTs but does not administer them day to day.",
+      "B": "Only some UTs with legislatures have a Chief Minister; administration is ultimately through the President's appointee.",
+      "C": "A Governor heads a State, not a Union Territory."
+    },
+    "fact": "Delhi and Puducherry are UTs with their own legislatures and Chief Ministers, but still have a Lieutenant Governor."
+  },
+  "23": {
+    "topic": "Art & Culture",
+    "answer": "A",
+    "correct": "The Santhal dance is performed by the Santhal tribe (eastern India) mainly during harvest festivals and religious/community ceremonies, celebrating nature and community life.",
+    "wrong": {
+      "B": "It is a tribal cultural dance, not performed for political rallies.",
+      "C": "It is not restricted only to weddings.",
+      "D": "It is a celebratory dance, not a funeral performance."
+    },
+    "fact": "The Santhals are one of India's largest tribal communities, spread across Jharkhand, West Bengal and Odisha."
+  },
+  "24": {
+    "topic": "Art & Culture",
+    "answer": "A",
+    "correct": "The Tippani dance of Gujarat is traditionally performed by women on festive and celebratory occasions such as weddings and festivals.",
+    "wrong": {
+      "B": "It is not limited to religious rituals only.",
+      "C": "It is not performed only during the harvest season.",
+      "D": "It is a folk celebration, not a political-rally performance."
+    },
+    "fact": "The dance originated from women labourers who beat the floor with long sticks (tippani) while working."
+  },
+  "25": {
+    "topic": "Geography",
+    "answer": "C",
+    "correct": "The Satpura Range runs east-west through central India (Madhya Pradesh and adjoining areas), lying between the Narmada and Tapti rivers.",
+    "wrong": {
+      "A": "Northern India is dominated by the Himalayas and the Gangetic plain, not the Satpura.",
+      "B": "Southern India has the Deccan Plateau and the Western/Eastern Ghats.",
+      "D": "Eastern India has the Chotanagpur Plateau and eastern hills, not the Satpura."
+    },
+    "fact": "The Satpura Range separates the Narmada valley to its north from the Tapti valley to its south."
+  },
+  "26": {
+    "topic": "Geography",
+    "answer": "A",
+    "correct": "The Ganga-Brahmaputra delta lies mainly in West Bengal (and Bangladesh); within India it is located in West Bengal and forms the Sundarbans.",
+    "wrong": {
+      "B": "Uttar Pradesh lies in the upper Ganga plain, not the delta.",
+      "C": "Bihar is in the middle Ganga plain, upstream of the delta.",
+      "D": "Assam lies along the Brahmaputra valley, not the combined delta."
+    },
+    "fact": "The Ganga-Brahmaputra delta is the world's largest delta and hosts the Sundarbans mangrove forest."
+  },
+  "27": {
+    "topic": "Polity & Constitution",
+    "answer": "B",
+    "correct": "Dr Shankar Dayal Sharma served as President of India from 1992 to 1997 and had a distinguished academic background in constitutional law.",
+    "wrong": {
+      "A": "R. Venkataraman was President from 1987 to 1992, just before Sharma.",
+      "C": "K.R. Narayanan was President from 1997 to 2002, after Sharma.",
+      "D": "Giani Zail Singh was President from 1982 to 1987."
+    },
+    "fact": "Shankar Dayal Sharma had been a law teacher and earlier served as Vice-President of India (1987-92)."
+  },
+  "28": {
+    "topic": "Economy",
+    "answer": "A",
+    "correct": "The Human Development Index (HDI) is a composite index based on three dimensions: education (knowledge), income (standard of living) and life expectancy (a long, healthy life).",
+    "wrong": {
+      "B": "HDI does not combine GDP, GNI and literacy in that specific set; income is captured by GNI per capita while knowledge uses schooling, not just literacy.",
+      "C": "Employment, social security and gender equality are not the three HDI components.",
+      "D": "Environment is not a component of the standard HDI."
+    },
+    "fact": "The HDI was introduced by the UNDP in 1990, conceptualised by economists Mahbub ul Haq and Amartya Sen."
+  },
+  "29": {
+    "topic": "Science & Technology",
+    "answer": "A",
+    "correct": "Over the roughly 41,000-year Milankovitch cycle, Earth's axial tilt (obliquity) varies between about 22.1 and 24.5 degrees; a greater tilt increases the contrast between seasons (hotter summers, colder winters).",
+    "wrong": {
+      "B": "A change in axial tilt does not change the Earth's orbital speed.",
+      "C": "Obliquity affects climate/seasons, not the planet's magnetic field.",
+      "D": "There is a clear climatic effect, so 'no effect' is wrong."
+    },
+    "fact": "Milankovitch cycles - changes in eccentricity, obliquity and precession - drive long-term ice-age cycles."
+  },
+  "30": {
+    "topic": "Art & Culture",
+    "answer": "A",
+    "correct": "The French Quarter (White Town) of Puducherry is built primarily in the Indo-French colonial style, with grid streets, pastel villas, verandahs and tree-lined boulevards.",
+    "wrong": {
+      "B": "Gothic Revival is a European church-architecture style, seen in some churches but not the quarter's overall character.",
+      "C": "Art Deco is a 20th-century style, not the defining style of the French Quarter.",
+      "D": "Neoclassical elements appear in some buildings, but the quarter is characterised as Indo-French colonial."
+    },
+    "fact": "Puducherry (Pondicherry) was a French colony until 1954, which shaped its distinctive urban layout."
+  },
+  "31": {
+    "topic": "Science & Technology",
+    "answer": "A",
+    "opts": ["Constellation", "Star", "Galaxy", "Satellite"],
+    "correct": "Orion is a constellation - a recognisable pattern of stars in the night sky, prominent in winter and known for the three stars of 'Orion's Belt'.",
+    "wrong": {
+      "B": "Orion is not a single star; it contains many stars such as Betelgeuse and Rigel.",
+      "C": "Orion is not a galaxy; it is a group of stars within our own Milky Way galaxy.",
+      "D": "Orion is not a satellite."
+    },
+    "fact": "The Orion Nebula, a stellar nursery, lies in this constellation and is visible to the naked eye."
+  },
+  "32": {
+    "topic": "Sports",
+    "answer": "C",
+    "correct": "India first hosted (co-hosted) the Cricket World Cup in 1987 (the Reliance Cup), shared with Pakistan - the first World Cup held outside England.",
+    "wrong": {
+      "A": "1975 was the first-ever World Cup, held in England.",
+      "B": "1983 was the year India won the World Cup, but it was played in England.",
+      "D": "1996 was the next subcontinent World Cup (India, Pakistan, Sri Lanka), not the first time India hosted."
+    },
+    "fact": "India later co-hosted the 2011 World Cup and won it, and hosted the 2023 World Cup solo."
+  },
+  "33": {
+    "topic": "Sports",
+    "answer": "B",
+    "opts": ["Bobby Fischer", "Wilhelm Steinitz", "Garry Kasparov", "Paul Morphy"],
+    "correct": "Wilhelm Steinitz is regarded as the first official World Chess Champion, holding the title from 1886 to 1894.",
+    "wrong": {
+      "A": "Bobby Fischer became World Champion in 1972, nearly a century later.",
+      "C": "Garry Kasparov was World Champion from 1985, in the modern era.",
+      "D": "Paul Morphy was a dominant unofficial player of the 1850s but was never the official world champion."
+    },
+    "fact": "Steinitz is also credited with developing the principles of positional (strategic) chess."
+  },
+  "34": {
+    "topic": "Science & Technology",
+    "answer": "B",
+    "correct": "The heartbeat is an involuntary action - it occurs automatically and continuously without conscious control, driven by the heart's own pacemaker.",
+    "wrong": {
+      "A": "A reflex action is a sudden, automatic response to a stimulus (e.g. a knee-jerk), not the continuous heartbeat.",
+      "C": "A voluntary action is one we consciously control, such as walking.",
+      "D": "'Coordinated action' is not the standard classification for the heartbeat."
+    },
+    "fact": "The heartbeat is initiated by the sino-atrial (SA) node, the heart's natural pacemaker, and regulated by the autonomic nervous system."
+  },
+  "35": {
+    "topic": "Science & Technology",
+    "answer": "B",
+    "correct": "The primary function of the lysosome is intracellular waste disposal - it contains digestive enzymes that break down worn-out cell parts, food particles and foreign material.",
+    "wrong": {
+      "A": "Energy production is the function of the mitochondria.",
+      "C": "Protein synthesis is carried out by ribosomes.",
+      "D": "Lipid storage is not the lysosome's primary role."
+    },
+    "fact": "Because they digest cellular debris and can break down the cell itself, lysosomes are nicknamed the cell's 'suicide bags'."
+  },
+  "36": {
+    "topic": "Geography",
+    "answer": "C",
+    "correct": "Chilika Lake in Odisha is India's largest brackish (saltwater) lake and the largest coastal lagoon in the country.",
+    "wrong": {
+      "A": "Vembanad Lake (Kerala) is the longest lake in India but Chilika is the largest brackish-water lake.",
+      "B": "Pulicat Lake is the second-largest brackish lagoon, smaller than Chilika.",
+      "D": "Sambhar Lake (Rajasthan) is the largest inland salt (saline) lake, but Chilika is the largest brackish coastal lake."
+    },
+    "fact": "Chilika is a Ramsar wetland famous for migratory birds and the Irrawaddy dolphin."
+  },
+  "37": {
+    "topic": "Current Affairs",
+    "answer": "D",
+    "correct": "In November 2024, Australia became the first country to pass a law banning social-media use for children under 16.",
+    "wrong": {
+      "A": "India has discussed age regulation but did not pass such a first-of-its-kind law.",
+      "B": "The USA has state-level debates but no such national ban.",
+      "C": "Japan did not pass this pioneering law."
+    },
+    "fact": "Australia's law puts the responsibility on social-media platforms to keep under-16 users off their services."
+  },
+  "38": {
+    "topic": "History",
+    "answer": "A",
+    "correct": "The First Anglo-Mysore War was fought in 1767-1769 between the British East India Company and Haidar Ali of Mysore, ending with the Treaty of Madras.",
+    "wrong": {
+      "B": "1780-84 was the Second Anglo-Mysore War.",
+      "C": "1790-92 was the Third Anglo-Mysore War.",
+      "D": "1799 was the Fourth (final) Anglo-Mysore War, in which Tipu Sultan died."
+    },
+    "fact": "Haidar Ali nearly captured Madras in the First War, forcing the British into the humiliating Treaty of Madras (1769)."
+  },
+  "39": {
+    "topic": "History",
+    "answer": "A",
+    "correct": "In the 1946 provincial elections, the Indian National Congress performed very well in the 'general' (non-Muslim) constituencies, winning a large majority of those seats.",
+    "wrong": {
+      "B": "The Justice Party had declined by 1946 and was not a major winner.",
+      "C": "The Communist Party of India won only a handful of seats.",
+      "D": "The Swaraj Party was a 1920s formation and no longer a separate force in 1946."
+    },
+    "fact": "The Muslim League won most of the Muslim-reserved seats in 1946, strengthening its demand for Pakistan."
+  },
+  "40": {
+    "topic": "Awards & Honours",
+    "answer": "C",
+    "correct": "Indira Gandhi was the first woman to receive the Bharat Ratna, India's highest civilian award, in 1971.",
+    "wrong": {
+      "A": "Aruna Asaf Ali received the Bharat Ratna in 1997, much later.",
+      "B": "Lata Mangeshkar received the Bharat Ratna in 2001.",
+      "D": "Mother Teresa received the Nobel Peace Prize (1979) but not the Bharat Ratna."
+    },
+    "fact": "The Bharat Ratna was instituted in 1954; Indira Gandhi received it while serving as Prime Minister."
+  }
+}

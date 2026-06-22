@@ -1,0 +1,602 @@
+[
+ {
+  "set": 51,
+  "qno": 21,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.2,
+  "stem": "पहला संवैधानिक संशोधन अधिनियम निम्नलिखित में से कौन सा था?",
+  "options": [
+   "1951",
+   "1952",
+   "1961",
+   "1969"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "1951",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6263
+  ],
+  "option_objs": [
+   4990,
+   6265,
+   6267,
+   5207
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 22,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "लोकसभा अध्यक्ष को निम्नलिखित द्वारा हटाया जा सकता है?",
+  "options": [
+   "राष्ट्रपति",
+   "प्रधानमंत्री",
+   "संसद का संयुक्त सत्र",
+   "लोकसभा में बहुमत से पारित प्रस्ताव"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "लोकसभा में बहुमत से पारित प्रस्ताव",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6295
+  ],
+  "option_objs": [
+   21,
+   25,
+   6297,
+   6299
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 23,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 93.0,
+  "stem": "कुचिपुड़ी नृत्य की उत्पत्ति किस भारतीय राज्य में हुई?",
+  "options": [
+   "तमिलनाडु",
+   "आंध्र प्रदेश",
+   "कर्नाटक",
+   "केरल"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "आंध्र प्रदेश",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6301
+  ],
+  "option_objs": [
+   735,
+   1209,
+   4976,
+   1254
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 24,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 88.0,
+  "stem": "निम्नलिखित में से कौन सा उपकरण आर्किमिडीज के सिद्धांत पर काम करता है?",
+  "options": [
+   "थर्मामीटर",
+   "लाकटोमिटेर",
+   "बैरोमीटर",
+   "एम्मिटर"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "लाकटोमिटेर",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6303
+  ],
+  "option_objs": [
+   6305,
+   6307,
+   6309,
+   6311
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 25,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 91.9,
+  "stem": "मुल्क राज आनंद द्वारा लिखित उपन्यास 'अक्रॉस द ब्लैक वाटर्स' की मुख्य थीम क्या है?",
+  "options": [
+   "भारत का विभाजन",
+   "प्रथम विश्व युद्ध में भारतीय सैनिक",
+   "भारत में जनजातीय जीवन",
+   "स्वतंत्रता के बाद के भारत में शहरी गरीबी"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "प्रथम विश्व युद्ध में भारतीय सैनिक",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6313
+  ],
+  "option_objs": [
+   5704,
+   6333,
+   6335,
+   6337
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 26,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 72.2,
+  "stem": "भारत ने पहला ।00८ 720 विश्व कप किस वर्ष जीता था?",
+  "options": [
+   "2005",
+   "2007",
+   "2009",
+   "2011"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "2007",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6339
+  ],
+  "option_objs": [
+   6341,
+   6343,
+   6345,
+   1819
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 27,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 54.5,
+  "stem": "किस प्रकार की उपकला ऊतक, ग्रासनली और मुख की आंतरिक सतह पर अस्तर (006) लगाती है, जो घर्षण से सुरक्षा प्रदान करता है?",
+  "options": [
+   "स्तंभाकार उपकला",
+   "शल्की उपकला",
+   "घनाकार उपकला",
+   "ग्रंथिल उपकला"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "शल्की उपकला",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6347
+  ],
+  "option_objs": [
+   6349,
+   6351,
+   6353,
+   6355
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 28,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 89.9,
+  "stem": "भारत के 99 के बाह्म क्षेत्र सुधारों में व्यापार उदारीकरण की दिशा में एक कदम शामिल था। कौन सा उपाय इस नीतिगत बदलाव का सबसे अच्छा उदाहरण है?",
+  "options": [
+   "घरेलू उद्योगों की सुरक्षा के लिए उच्च टैरिफ लगाना",
+   "अधिकांश वस्तुओं के लिए आयात लाइसेंस प्रणाली को समाप्त करना",
+   "आयात पर मात्रात्मक प्रतिबंध बढ़ाना",
+   "फॉरेन एक्सचेंज रिज़र्व को कंट्रोल करने के लिए एक्सपोर्ट कोटा तय करना"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अधिकांश वस्तुओं के लिए आयात लाइसेंस प्रणाली को समाप्त करना",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6357
+  ],
+  "option_objs": [
+   6359,
+   6361,
+   6363,
+   6384
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 29,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 59.0,
+  "stem": "अमेरिकी फुटबॉल में \"फील्ड गोल\" के कितने पॉइंट होते है?",
+  "options": [
+   "1 Use",
+   "2 पॉइंट",
+   "3 पॉइंट",
+   "6 पॉइंट"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "3 पॉइंट",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6386
+  ],
+  "option_objs": [
+   6388,
+   6390,
+   6392,
+   6394
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 30,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 92.0,
+  "stem": "भारत का पहला आर्थिक सर्वेक्षण में प्रस्तुत किया गया था।",
+  "options": [
+   "1947-48",
+   "1950-51",
+   "1951-52",
+   "1952-53"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1950-51",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6396
+  ],
+  "option_objs": [
+   6398,
+   6400,
+   6402,
+   6404
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 31,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 56.5,
+  "stem": "भारत डाक ग्रामीण अर्थव्यवस्था के लिए उत्प्रेरक के रूप में कैसे कार्य करता है?",
+  "options": [
+   "डिजिटल सेवाएँ और माइक्रोक्रेडिट विस्तार",
+   "जल आपूर्ति",
+   "स्वास्थ्य बीमा",
+   "दूरसंचार सेवाएं"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "डिजिटल सेवाएँ और माइक्रोक्रेडिट विस्तार",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6406
+  ],
+  "option_objs": [
+   6408,
+   6410,
+   6412,
+   6414
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 32,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.0,
+  "stem": "निम्नलिखित में से किसे भारत में गैर-परंपरागत ऊर्जा संसाधन के रूप में वर्गीकृत किया गया है?",
+  "options": [
+   "पेट्रोलियम",
+   "प्राकृतिक गैस",
+   "कोयला",
+   "सौर ऊर्जा"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "सौर ऊर्जा",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6435
+  ],
+  "option_objs": [
+   6437,
+   6439,
+   6441,
+   6443
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 33,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.0,
+  "stem": "भारत में, जन धन खातों की संख्या जून 2025 तक बढ़कर करोड़ हो गई है।",
+  "options": [
+   "42.94",
+   "22.94",
+   "25.22",
+   "55.22"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "55.22",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6445
+  ],
+  "option_objs": [
+   6447,
+   6449,
+   6451,
+   6453
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 34,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 94.0,
+  "stem": "कनिष्क इतिहास में के महान संरक्षक के रूप में प्रसिद्ध है।",
+  "options": [
+   "जैन धर्म",
+   "बुद्ध धर्म",
+   "ईसाई धर्म",
+   "पारसी धर्म"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "बुद्ध धर्म",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6455
+  ],
+  "option_objs": [
+   6457,
+   6459,
+   6461,
+   6463
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 35,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 92.5,
+  "stem": "मई 2025 तक, भारत में किलोमीटर मेट्रो लाइ़नें परिचालन में होंगी, जो दूरी कम करने और समाज में सामाजिक संपर्क बढ़ाने में मदद करती हैं।",
+  "options": [
+   "2013",
+   "3013",
+   "4013",
+   "1013"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "1013",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6485
+  ],
+  "option_objs": [
+   5167,
+   6487,
+   6489,
+   6491
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 36,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 80.0,
+  "stem": "अपोलो-20 मिशन निम्नलिखित में से किस देश से संबंधित है?",
+  "options": [
+   "फ़ांस",
+   "चीन",
+   "भारत",
+   "यू.एस.ए."
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "यू.एस.ए.",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6493
+  ],
+  "option_objs": [
+   6495,
+   6497,
+   2926,
+   6499
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 37,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 95.9,
+  "stem": "निम्नलिखित में से किस वर्ष ब्रिटिश अधिकारियों ने विधवा विवाह के पक्ष में कानून पारित कर दिया था?",
+  "options": [
+   "1833",
+   "1856",
+   "1861",
+   "1885"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "1856",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6501
+  ],
+  "option_objs": [
+   6503,
+   6505,
+   6507,
+   6509
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 38,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 63.0,
+  "stem": "जनसांख्यिकीय संक्रमण सिद्धांत के अंतिम चरण में निम्नलिखित में से कौन सा कम होता है? ।. प्रजनन क्षमता ॥|. मृत्यु दर",
+  "options": [
+   "chad |",
+   "केवल ॥।",
+   "। तथा ॥ दोनों",
+   "नातो। तथा ना ही ॥"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "। तथा ॥ दोनों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   969,
+   971,
+   973,
+   975
+  ],
+  "diagram_objs": [
+   6526
+  ]
+ },
+ {
+  "set": 51,
+  "qno": 39,
+  "file": "F2",
+  "lang": "eng",
+  "min_conf": 41.0,
+  "stem": "टेनिस में, यदि दोनों खिलाड़ी एक सेट में गेम जीतते हैं, तो सेट टाईब्रेकर में चला जाता है।",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "6",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6528
+  ],
+  "option_objs": [
+   359,
+   1616,
+   361,
+   1618
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 51,
+  "qno": 40,
+  "file": "F2",
+  "lang": "hin",
+  "min_conf": 95.0,
+  "stem": "किस भारतीय राज्य ने 2024 में शहरी शासन सूचकांक (यू.जी.आई.) में प्रथम रैंक हासिल की है?",
+  "options": [
+   "हरियाणा",
+   "केरल",
+   "तमिलनाडु",
+   "हिमाचल प्रदेश"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "केरल",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6530
+  ],
+  "option_objs": [
+   606,
+   3358,
+   5504,
+   6532
+  ],
+  "diagram_objs": []
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "set": 21,
+  "qno": 21,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 89.5,
+  "stem": "'कथक' शब्द का क्या अर्थ है?",
+  "options": [
+   "लय का नृत्य",
+   "कहानी कहने की क्रिया",
+   "दिव्य लय",
+   "लयबद्ध चक्र"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "कहानी कहने की क्रिया",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6461
+  ],
+  "option_objs": [
+   6463,
+   6465,
+   6467,
+   6469
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 22,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.2,
+  "stem": "किस महाकाव्य में उल्लेख है कि उत्तरायण के दौरान मरने से मोक्ष की प्राप्ति होती है?",
+  "options": [
+   "रामायण",
+   "महाभारत",
+   "भागवत पुराण",
+   "वेद"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "महाभारत",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6494
+  ],
+  "option_objs": [
+   6496,
+   6498,
+   6500,
+   6502
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 23,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 43.3,
+  "stem": "यदि किसी ग्रह को सूर्य की परिक्रमा करने में 88 पृथ्वी दिन लगते हैं, तो सेकंड में उसकी कक्षीय अवधि क्या होगी?",
+  "options": [
+   "7.6x 10° s",
+   "6.8 » 0 ८",
+   "7.1x 10° s",
+   "7.9x 10° s"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "7.6x 10° s",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6504
+  ],
+  "option_objs": [
+   6506,
+   6508,
+   6510,
+   6512
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 24,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 76.0,
+  "stem": "किस ग्रह को तूफानी ग्रह (5(00४ 0।806!) कहा जाता है?",
+  "options": [
+   "बुध",
+   "बृहस्पति",
+   "मंगल",
+   "शुक्र"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "बृहस्पति",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6514
+  ],
+  "option_objs": [
+   6516,
+   6518,
+   6520,
+   6522
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 25,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 88.1,
+  "stem": "वर्ष 200 में दूसरा ब्रिक शिखर सम्मेलन किस देश में आयोजित किया गया था?",
+  "options": [
+   "रूस",
+   "भारत",
+   "ब्राज़ील",
+   "चीन"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "ब्राज़ील",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6543
+  ],
+  "option_objs": [
+   6545,
+   1332,
+   6547,
+   5948
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 26,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 92.7,
+  "stem": "2025 में, लाल किले पर भारत के 79वें स्वतंत्रता दिवस समारोह की थीम क्या है?",
+  "options": [
+   "आज़ादी का अमृत",
+   "स्वर्णिम भारत",
+   "विकास की मंज़िल",
+   "नया भारत"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "नया भारत",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6549
+  ],
+  "option_objs": [
+   6551,
+   6553,
+   6555,
+   6557
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 27,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 73.0,
+  "stem": "निम्नलिखित में से कौन-सा, वायु में जल वाष्प का प्रमुख स्रोत है?",
+  "options": [
+   "महासागरों से वाष्पीकरण",
+   "दहन",
+   "प्रकाश संश्लेषण",
+   "औद्योगिक धूम (57006)"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "महासागरों से वाष्पीकरण",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6559
+  ],
+  "option_objs": [
+   6561,
+   5357,
+   1948,
+   6563
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 28,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.7,
+  "stem": "किस दूरदर्शी को 'फाइबर ऑप्टिक्स का जनक' कहा जाता है?",
+  "options": [
+   "कुणाल कपूर",
+   "विवेक सहगल",
+   "नरिंदर सिंह कपानी",
+   "जय चौधरी"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "नरिंदर सिंह कपानी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6585
+  ],
+  "option_objs": [
+   6587,
+   6589,
+   6591,
+   6593
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 29,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 89.0,
+  "stem": "निम्नलिखित में से कौन-सी नदी राजस्थान के मरुस्थल में प्रवाहित होने वाली मुख्य नदी है?",
+  "options": [
+   "चंबल",
+   "बनास",
+   "लूनी",
+   "साबरमती"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "लूनी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6595
+  ],
+  "option_objs": [
+   6597,
+   6599,
+   6601,
+   6603
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 30,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 93.0,
+  "stem": "लोकतक झील किस राज्य में स्थित है?",
+  "options": [
+   "त्रिपुरा",
+   "नागालैंड",
+   "असम",
+   "मणिपुर"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "मणिपुर",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6605
+  ],
+  "option_objs": [
+   636,
+   6607,
+   613,
+   5270
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 31,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 81.0,
+  "stem": "दिल्‍ली सल्तनत में, सभी मुसलमानों पर लागू धार्मिक करो में से एक था।",
+  "options": [
+   "ममलुक",
+   "जकात",
+   "किस्मत",
+   "उर"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "जकात",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6629
+  ],
+  "option_objs": [
+   6631,
+   6633,
+   6635,
+   6637
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 32,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 91.6,
+  "stem": "केन्द्रीय गृह एवं सहकारिता मंत्री ने 2025 में नई दिल्ली में राष्ट्रीय सहकारिता नीति 2025 का अनावरण किया था।",
+  "options": [
+   "जनवरी",
+   "जुलाई",
+   "अप्रैल",
+   "मई"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "जुलाई",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6639
+  ],
+  "option_objs": [
+   6641,
+   6643,
+   6645,
+   6647
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 33,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 79.0,
+  "stem": "पीएम-जनमन योजना में जुलाई 2025 के महीने के लिए किस राज्य को प्रथम स्थान दिया गया है?",
+  "options": [
+   "मध्य प्रदेश",
+   "महाराष्ट्र",
+   "उत्तर प्रदेश",
+   "गुजरात"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "गुजरात",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6649
+  ],
+  "option_objs": [
+   6651,
+   6653,
+   5479,
+   6655
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 34,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 64.5,
+  "stem": "नवंबर 2024 में भारतीय सेना द्वारा अधिग्रहित इलेक्ट्रिक मानवरहित हेलीकॉप्टर सबल 20 का विकास किस संस्थान ने किया था?",
+  "options": [
+   "आई.आई.टी. बॉम्बे",
+   "आई.आई.टी. दिल्ली",
+   "आई.आई.टी. कानपुर",
+   "आई.आई.टी. मद्रास"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "आई.आई.टी. कानपुर",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6672
+  ],
+  "option_objs": [
+   6674,
+   6676,
+   6678,
+   6680
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 35,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 92.2,
+  "stem": "जनवरी 2025 में हुए घोषणा के अनुसार, किस संगठन ने स्वदेशी रूप से उत्पादित 'पैरासिटामोल' विकसित किया है?",
+  "options": [
+   "वैज्ञानिक तथा औद्योगिक अनुसंधान परिषद",
+   "अखिल भारतीय आयुर्विज्ञान संस्थान",
+   "इंदिरा गांधी मेडिकल कॉलेज एवं अस्पताल",
+   "जुबली मिशन मेडिकल कॉलेज और अनुसंधान संस्थान"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "वैज्ञानिक तथा औद्योगिक अनुसंधान परिषद",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6682
+  ],
+  "option_objs": [
+   6684,
+   6136,
+   6686,
+   6688
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 87.8,
+  "stem": "टोक्यों किस वर्ष में ग्रीष्मकालीन ओलंपिक खेलों का मेजबान शहर था?",
+  "options": [
+   "2000",
+   "2004",
+   "2008",
+   "2020"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "2020",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6690
+  ],
+  "option_objs": [
+   6692,
+   6694,
+   6696,
+   6717
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 37,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 48.0,
+  "stem": "निम्नलिखित में से कौन सा खेलों में ट्रैक स्पर्धा में एक रिले स्पर्धा नहीं है? [. 4400 मीटर [[. 4९600 मीटर",
+  "options": [
+   "act I",
+   "केवल पा",
+   "[ तथा पर दोनों",
+   "at 1 aden aT a I"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "केवल पा",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 0,
+  "n_diagrams": 1,
+  "stem_objs": [],
+  "option_objs": [
+   5757,
+   5759,
+   5761,
+   5763
+  ],
+  "diagram_objs": [
+   6719
+  ]
+ },
+ {
+  "set": 21,
+  "qno": 38,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 87.8,
+  "stem": "फ़ेमिंग के वामहस्त नियम के अनुसार, निम्नलिखित में से किसे बाएं हाथ की दूसरी उंगली का उपयोग करके दर्शाया जाता है?",
+  "options": [
+   "विद्युत धारा की दिशा",
+   "चुंबकीय क्षेत्र की दिशा",
+   "चालक पर कार्य करने वाला बल",
+   "प्रतिरोध का माप"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "विद्युत धारा की दिशा",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6721
+  ],
+  "option_objs": [
+   6723,
+   6725,
+   6727,
+   6729
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 39,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 85.0,
+  "stem": "स्वरमेलकलानिधि के रचयिता कौन हैं?",
+  "options": [
+   "मतंगा",
+   "शारंगदेव",
+   "हरिपाल",
+   "राममात्य"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "राममात्य",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6731
+  ],
+  "option_objs": [
+   6733,
+   6735,
+   6750,
+   6752
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 21,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 89.0,
+  "stem": "मैग्रेटाइट सर्वोत्तम प्रकार का लौह अयस्क है, जिसमें प्रतिशत लोहांश पाया जाता है।",
+  "options": [
+   "25",
+   "45",
+   "55",
+   "70"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "70",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   6754
+  ],
+  "option_objs": [
+   6756,
+   6758,
+   6760,
+   6762
+  ],
+  "diagram_objs": []
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "set": 12,
+  "qno": 21,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 84.0,
+  "stem": "भारत के प्रधानमंत्री की नियुक्ति कौन करता है?",
+  "options": [
+   "संसद",
+   "मुख्य न्यायाधीश",
+   "राष्ट्रपति",
+   "उप राष्ट्रपति"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "राष्ट्रपति",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3636
+  ],
+  "option_objs": [
+   1113,
+   3638,
+   781,
+   3640
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 22,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 95.5,
+  "stem": "कौन सा अनुच्छेद संसद को संविधान में संशोधन करने की अनुमति देता है?",
+  "options": [
+   "अनुच्छेद 352",
+   "अनुच्छेद 356",
+   "अनुच्छेद 368",
+   "अनुच्छेद 370"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "अनुच्छेद 368",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3664
+  ],
+  "option_objs": [
+   3666,
+   3668,
+   3670,
+   3672
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 23,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.0,
+  "stem": "वल्लथोल नारायण मेनन ने कथकली को संरक्षित और बढ़ावा देने के लिए किस संस्था की स्थापना की थी?",
+  "options": [
+   "नात्य शास्त्र फाउंडेशन",
+   "केरल नृत्यम अकादमी",
+   "केरल कलामंडलम",
+   "संगीत कला केंद्र"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "केरल कलामंडलम",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3674
+  ],
+  "option_objs": [
+   3676,
+   3678,
+   3680,
+   3682
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 24,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 93.4,
+  "stem": "निम्नलिखित में से कौन-सा गिहदा नृत्य का सबसे अच्छा वर्णन करता है?",
+  "options": [
+   "एक पुरुष-प्रधान मार्शल आर्ट रूप",
+   "महिलाओं का एक लोक नृत्य जिसमें लयबद्ध ताली और गायन शामिल होता है",
+   "एक शास्त्रीय भारतीय नृत्य शैली",
+   "पुरुषों द्वारा किया जाने वाला एकल नृत्य"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "महिलाओं का एक लोक नृत्य जिसमें लयबद्ध ताली और गायन शामिल होता है",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3684
+  ],
+  "option_objs": [
+   3686,
+   3688,
+   3690,
+   3692
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 25,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 63.0,
+  "stem": "द गॉड ऑफ स्मॉल थिंग्स किस लेखक ने लिखी?",
+  "options": [
+   "विक्रम सेठ",
+   "अरुंधति रॉय",
+   "शेखर कपूर",
+   "किरण देसाई"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अरुंधति रॉय",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3712
+  ],
+  "option_objs": [
+   3714,
+   3716,
+   3718,
+   3720
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 26,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 91.0,
+  "stem": "भारत में सबसे पुरानी पर्वत श्रृंखला कौन सी मानी जाती है?",
+  "options": [
+   "हिमालय",
+   "अरावली",
+   "पश्चिमी घाट",
+   "पूर्वी घाट"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अरावली",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3722
+  ],
+  "option_objs": [
+   3724,
+   3726,
+   3728,
+   3730
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 27,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 80.0,
+  "stem": "निम्नलिखित में से कौन सी नदी सबसे बड़े नदी द्वीप माजुली का निर्माण करती है?",
+  "options": [
+   "गंगा",
+   "ब्रह्मपुत्र",
+   "गोदावरी",
+   "यमुना"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "ब्रह्मपुत्र",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3732
+  ],
+  "option_objs": [
+   2119,
+   2121,
+   2125,
+   2123
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 28,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 91.7,
+  "stem": "किसी विद्यार्थी को बारिश के ठीक बाद इंद्रधनुष दिखाई देता है। यदि वह इंद्रधनुष के निकट जाने की कोशिश करे, तो क्या होगा?",
+  "options": [
+   "वह इंद्रधनुष तक पहुंच जाएगा",
+   "इंद्रधनुष अदृश्य हो जाएगा",
+   "इंद्रधनुष समान दूरी पर दिखाई देगा",
+   "इंद्रधनुष रंग बदलेगा"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "इंद्रधनुष समान दूरी पर दिखाई देगा",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3752
+  ],
+  "option_objs": [
+   3754,
+   3756,
+   3758,
+   3760
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 29,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 74.0,
+  "stem": "सेंट पॉल कैथेड्रल के पश्चिमी भाग में रंगीन ग्लास खिड़कियों का डिज़ाइन किस कलाकार ने बनाया था?",
+  "options": [
+   "लियोनाडों दा विंची",
+   "सर एडवर्ड बर्न-जोन्स",
+   "माइकल एंजेलो",
+   "रेम्ब्रांट"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "सर एडवर्ड बर्न-जोन्स",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3762
+  ],
+  "option_objs": [
+   3764,
+   3766,
+   3768,
+   3770
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 30,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 59.5,
+  "stem": "पृथ्वी द्वारा सूर्य के प्रकाश को चंद्रमा तक पहुंचने से रोकने के परिणामस्वरूप कौन-सी खगोलीय घटना होती है?",
+  "options": [
+   "सूर्य ग्रहण",
+   "चंद्र ग्रहण",
+   "उल्का वृष्टि",
+   "उत्तर ध्रुवीय ज्योति"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "चंद्र ग्रहण",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3772
+  ],
+  "option_objs": [
+   3774,
+   3776,
+   3778,
+   3780
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 31,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 62.8,
+  "stem": "किस क्रिकेट विश्व कप को \"बेन्सन एंड हेजेस विश्व कप (8650 & ६०५६५ ४४०१५ 000)\" के नाम से जाना जाता था?",
+  "options": [
+   "987 क्रिकेट विश्व कप",
+   "992 क्रिकेट विश्व कप",
+   "996 क्रिकेट विश्व कप",
+   "999 क्रिकेट विश्व कप"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "992 क्रिकेट विश्व कप",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3800
+  ],
+  "option_objs": [
+   3802,
+   3804,
+   3806,
+   3808
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 32,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 90.5,
+  "stem": "2022 के राष्ट्रमंडल खेलों में भारत का पहला स्वर्ण किसने जीता?",
+  "options": [
+   "मीराबाई चानू",
+   "बजरंग पुनिया",
+   "जेरेमी लालरिनुंगा",
+   "पी.वी. सिंधु"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "मीराबाई चानू",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3810
+  ],
+  "option_objs": [
+   3812,
+   3814,
+   3816,
+   3818
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 33,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 89.5,
+  "stem": "हृदू पेशियों को के रूप में वर्गीकृत किया जाता है।",
+  "options": [
+   "ऐच्छिक पेशियों",
+   "अनैच्छिक पेशियों",
+   "रेखित कंकाल पेशियों",
+   "चिकनी पेशियों"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "अनैच्छिक पेशियों",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3820
+  ],
+  "option_objs": [
+   3822,
+   3824,
+   3826,
+   3828
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 34,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 77.0,
+  "stem": "कौन-सी ग्रंथि, वृद्धि हार्मोन स्रावित करती है?",
+  "options": [
+   "थाइरॉयड ग्रंथि",
+   "अधिवृक्क ग्रंथि",
+   "पीयूष ग्रंथि",
+   "अग्न्याशय"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "पीयूष ग्रंथि",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3848
+  ],
+  "option_objs": [
+   3850,
+   3852,
+   3854,
+   3856
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 35,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 39.0,
+  "stem": "भारतीय मुख्य भूमि का सबसे दक्षिणी बिंदु कौन-सा है?",
+  "options": [
+   "इंदिरा पॉइंट",
+   "रामेश्वुरम",
+   "कन्याकुमारी",
+   "कोवलम"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "कन्याकुमारी",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3858
+  ],
+  "option_objs": [
+   3860,
+   3862,
+   3864,
+   3866
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 36,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 95.2,
+  "stem": "प्रधानमंत्री मातृ वंदना योजना के तहत जुलाई 2025 तक करोड़ से अधिक लाभार्थियों को मातृत्व लाभ प्रदान किया गया है।",
+  "options": [
+   "4.05",
+   "5.05",
+   "6.05",
+   "6.55"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "4.05",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3868
+  ],
+  "option_objs": [
+   3870,
+   3872,
+   3874,
+   3876
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 37,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 85.5,
+  "stem": "निम्नलिखित में से किसे “शेर-ए-मैसूर” कहा जाता था?",
+  "options": [
+   "टीपू सुल्तान",
+   "हैदर अली",
+   "अलीवर्दी खान",
+   "महादजी शिंदे"
+  ],
+  "answer_index": 1,
+  "answer_letter": "A",
+  "answer_text": "टीपू सुल्तान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3896
+  ],
+  "option_objs": [
+   3898,
+   3900,
+   3902,
+   3904
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 38,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 94.4,
+  "stem": "कांग्रेस और मुस्लिम लीग के बीच ऐतिहासिक लखनऊ समझौते पर किस वर्ष में दस्तखत हुए थे?",
+  "options": [
+   "1929",
+   "1925",
+   "1919",
+   "1916"
+  ],
+  "answer_index": 4,
+  "answer_letter": "D",
+  "answer_text": "1916",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3906
+  ],
+  "option_objs": [
+   3481,
+   2451,
+   3908,
+   3910
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 39,
+  "file": "F1",
+  "lang": "hin",
+  "min_conf": 62.5,
+  "stem": "'स्लमडॉग मिलियनेयर' के संगीत की रचना के लिए 2009 में दो ऑस्कर पुरस्कार किसे मिले थे?",
+  "options": [
+   "प्रीतम",
+   "शंकर-एहसान-लॉय",
+   "ए.आर. रहमान",
+   "विशाल-शेखर"
+  ],
+  "answer_index": 3,
+  "answer_letter": "C",
+  "answer_text": "ए.आर. रहमान",
+  "highlight_tag": "G",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3912
+  ],
+  "option_objs": [
+   3914,
+   3916,
+   3918,
+   3920
+  ],
+  "diagram_objs": []
+ },
+ {
+  "set": 12,
+  "qno": 40,
+  "file": "F1",
+  "lang": "eng",
+  "min_conf": 92.1,
+  "stem": "2025 में, आई.एम.एफ. ने 2025 के लिए भारत की जी.डी.पी. वृद्धि दर लगभग रहने का अनुमान लगाया हैं।",
+  "options": [
+   "4.4%",
+   "6.4%",
+   "7.1%",
+   "8.5%"
+  ],
+  "answer_index": 2,
+  "answer_letter": "B",
+  "answer_text": "6.4%",
+  "highlight_tag": "Y",
+  "n_stem_imgs": 1,
+  "n_diagrams": 0,
+  "stem_objs": [
+   3932
+  ],
+  "option_objs": [
+   3934,
+   3936,
+   3938,
+   3940
+  ],
+  "diagram_objs": []
+ }
+]
